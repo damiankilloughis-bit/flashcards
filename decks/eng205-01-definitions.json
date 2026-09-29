@@ -4,7 +4,7 @@
  "topic": "ENG-205 Middle Ages Intro",
  "short": "1 Definitions",
  "order": 1,
- "count": 28,
+ "count": 26,
  "cards": [
   {
    "id": "c0",
@@ -84,7 +84,7 @@
   {
    "id": "c15",
    "term": "Danelaw",
-   "def": "The Danelaw was the area of permanent Viking, or Danish, settlement in eastern Britain. The Danes were the common enemy that united the Anglo-Saxon kingdoms under Alfred."
+   "def": "The Danelaw was the area of eastern Britain under permanent Viking, or Danish, settlement, where Danish law rather than Anglo-Saxon law applied."
   },
   {
    "id": "c16",
@@ -118,33 +118,23 @@
   },
   {
    "id": "c22",
-   "term": "Lollards",
-   "def": "The Lollards were followers of John Wycliffe who criticized Church corruption and produced the first complete English Bible around 1380. They were persecuted as heretics, and Lollards were first burned in 1401."
-  },
-  {
-   "id": "c23",
    "term": "Black Death",
    "def": "The Black Death was the bubonic plague of 1348, and it killed one quarter to one third of Europe's population. The labor shortage that followed led to social mobility."
   },
   {
-   "id": "c24",
+   "id": "c23",
    "term": "Great Vowel Shift",
    "def": "The Great Vowel Shift was a change in the 1400s in how long vowels were pronounced. It helped move Middle English toward Early Modern English."
   },
   {
-   "id": "c25",
+   "id": "c24",
    "term": "Exeter Book",
    "def": "The Exeter Book is an Old English manuscript collection that includes the riddles, which are full of double entendre. It shows the Anglo-Saxon love of riddles."
   },
   {
-   "id": "c26",
+   "id": "c25",
    "term": "Beowulf",
    "def": "Beowulf is an Old English heroic epic, composed perhaps around 750, that survives in only one manuscript from around 1000. It shows the heroic code, wergild and the elegiac tone."
-  },
-  {
-   "id": "c27",
-   "term": "Angles, Saxons and Jutes",
-   "def": "The Angles, Saxons and Jutes were Germanic tribes who came to Britain as mercenaries after Rome left and took it over from around 450, and the name Anglo-Saxon comes from the Angles and the Saxons. The Jutes held Kent, the Saxons held Essex, Wessex and Sussex, and the Angles held East Anglia, Mercia and Northumbria."
   }
  ]
 }

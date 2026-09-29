@@ -4,7 +4,7 @@
  "topic": "ENG-205 Middle Ages Intro",
  "short": "4 Main Ideas",
  "order": 4,
- "count": 5,
+ "count": 10,
  "cards": [
   {
    "id": "c0",
@@ -30,6 +30,31 @@
    "id": "c4",
    "term": "How the plague of 1348 led to social mobility",
    "def": "The Black Death of 1348 killed one quarter to one third of Europe's population, so labor was scarce and people could move up socially. This produced a rising merchant class, for whom Chaucer, a merchant's son, wrote in English, along with social and religious criticism in Langland's Piers Plowman and in Wycliffe and the Lollards' English Bible. It also led to the Peasants' Revolt of 1381."
+  },
+  {
+   "id": "c5",
+   "term": "How the Anglo-Saxons shaped Old English and its literature",
+   "def": "The Angles, Saxons and Jutes brought the Germanic speech that became Old English, the language of Caedmon's Hymn and Beowulf. Beowulf shows the heroic code, wergild and the elegiac tone, and Bede's Ecclesiastical History, which preserves Caedmon's Hymn, is partly hagiography."
+  },
+  {
+   "id": "c6",
+   "term": "Sound and word-play in Old English poetry and the later return of alliteration",
+   "def": "In Old English alliterative verse any vowel alliterates with any other vowel, and poets also used synecdoche and metonymy, such as 'keel' for a ship and 'crown' for the king. The riddles of the Exeter Book, full of double entendre, show the Anglo-Saxon love of riddles. Alliterative verse came back in the 1300s in the Alliterative Revival, in Sir Gawain and the Green Knight and Piers Plowman."
+  },
+  {
+   "id": "c7",
+   "term": "How Anglo-Saxon law and government shaped later English institutions",
+   "def": "Anglo-Saxon law replaced blood revenge with wergild, and failing to pay it brought dishonor, as Beowulf shows. Alfred the Great created the fyrd as the first national militia and was advised by the Witan, which later became William's Great Council and was a forerunner of Parliament. Each shire was run for the king by a shire-reeve, and that title is the origin of the word 'sheriff'."
+  },
+  {
+   "id": "c8",
+   "term": "How English changed from Old English to Early Modern English",
+   "def": "After Old English came Middle English, the language Chaucer wrote in, which was not yet standardized. In the 1400s a London and East Midlands standard emerged, the Great Vowel Shift changed how long vowels sounded, and print fixed spelling, and together these moved Middle English toward Early Modern English, the language of Shakespeare."
+  },
+  {
+   "id": "c9",
+   "term": "The mystery and morality plays of medieval English drama",
+   "def": "Medieval English drama included mystery plays, which were performed in cycles such as the York and Wakefield cycles, and morality plays, the best-known example being Everyman."
   }
  ]
 }

@@ -4,7 +4,7 @@
  "topic": "ENG-205 Middle Ages Intro",
  "short": "3 Numbers & Dates",
  "order": 3,
- "count": 26,
+ "count": 36,
  "cards": [
   {
    "id": "c0",
@@ -64,75 +64,125 @@
   {
    "id": "c11",
    "term": "1066",
-   "def": "In 1066 the Norman Conquest, won at the Battle of Hastings, made William I king. French became the language of power, and English absorbed about 10,000 French words."
+   "def": "In 1066 Edward the Confessor died childless, the Witan chose Harold Godwinson as king, and William of Normandy defeated Harold at the Battle of Hastings and became King William I. This Norman Conquest made French the language of power, and English absorbed about 10,000 French words."
   },
   {
    "id": "c12",
+   "term": "1066 to 1087",
+   "def": "William the Conqueror ruled England from 1066 to 1087."
+  },
+  {
+   "id": "c13",
    "term": "Four languages after 1066",
    "def": "After 1066 four languages were in use in England. Old French was the language of the court and law, Latin of the Church and scholarship, and Old English of the common people, and Celtic languages such as Welsh were spoken too."
   },
   {
-   "id": "c13",
+   "id": "c14",
+   "term": "When Old English and Middle English were spoken",
+   "def": "Old English was spoken until about 1066. Middle English re-emerged between the 1100s and the 1300s."
+  },
+  {
+   "id": "c15",
+   "term": "ca. 1135 to 1138",
+   "def": "Geoffrey of Monmouth wrote the History of the Kings of Britain around 1135 to 1138."
+  },
+  {
+   "id": "c16",
+   "term": "ca. 1165 to 1180",
+   "def": "Marie de France wrote the Lais around 1165 to 1180."
+  },
+  {
+   "id": "c17",
+   "term": "1300s (Alliterative Revival)",
+   "def": "The Alliterative Revival, a return to Old English-style alliterative verse, took place in the 1300s."
+  },
+  {
+   "id": "c18",
    "term": "1337 to 1453 (Hundred Years' War)",
    "def": "The Hundred Years' War with France lasted from 1337 to 1453. During it, English gained ground as the language of power, according to the History of English in 10 Minutes video."
   },
   {
-   "id": "c14",
+   "id": "c19",
    "term": "1348",
    "def": "The Black Death struck in 1348 and killed one quarter to one third of Europe's population. The labor shortage that followed led to social mobility."
   },
   {
-   "id": "c15",
+   "id": "c20",
    "term": "1362",
    "def": "In 1362 English was first used in the law courts and Parliament."
   },
   {
-   "id": "c16",
+   "id": "c21",
    "term": "When was English first used in the law courts and Parliament?",
    "def": "English was first used in the law courts and Parliament in 1362."
   },
   {
-   "id": "c17",
+   "id": "c22",
+   "term": "1373 to 1393",
+   "def": "Julian of Norwich wrote the Book of Showings between 1373 and 1393."
+  },
+  {
+   "id": "c23",
    "term": "ca. 1375 to 1400",
    "def": "Sir Gawain and the Green Knight was written around 1375 to 1400."
   },
   {
-   "id": "c18",
+   "id": "c24",
    "term": "1377 to 1379",
    "def": "Langland wrote the B-text of Piers Plowman between 1377 and 1379."
   },
   {
-   "id": "c19",
+   "id": "c25",
    "term": "ca. 1380 and 1381",
    "def": "Around 1380 Wycliffe's followers began the first complete English Bible. In 1381 the Peasants' Revolt briefly took control of London."
   },
   {
-   "id": "c20",
+   "id": "c26",
    "term": "ca. 1387 to 1399",
    "def": "Chaucer was writing The Canterbury Tales from around 1387 to 1399."
   },
   {
-   "id": "c21",
+   "id": "c27",
+   "term": "1400s",
+   "def": "In the 1400s a London and East Midlands standard form of English emerged, and the Great Vowel Shift changed how long vowels were pronounced."
+  },
+  {
+   "id": "c28",
+   "term": "1401",
+   "def": "In 1401 the first Lollards were burned as heretics."
+  },
+  {
+   "id": "c29",
+   "term": "ca. 1432 to 1438",
+   "def": "Margery Kempe wrote The Book of Margery Kempe around 1432 to 1438."
+  },
+  {
+   "id": "c30",
    "term": "1455 to 1485",
    "def": "The Wars of the Roses, fought between the houses of Lancaster and York, lasted from 1455 to 1485."
   },
   {
-   "id": "c22",
+   "id": "c31",
+   "term": "ca. 1470",
+   "def": "Sir Thomas Malory wrote Le Morte Darthur in prison around 1470."
+  },
+  {
+   "id": "c32",
    "term": "1476",
    "def": "In 1476 William Caxton set up the first printing press in England."
   },
   {
-   "id": "c23",
+   "id": "c33",
    "term": "1485",
    "def": "In 1485 Caxton printed Malory's Morte Darthur, and Henry VII won at Bosworth and began the Tudor dynasty. This year marks the end of the Middle Ages."
   },
   {
-   "id": "c24",
+   "id": "c34",
    "term": "1530s",
    "def": "In the 1530s Henry VIII dissolved the monasteries, which had been the main producers of books until then."
   },
   {
-   "id": "c25",
+   "id": "c35",
    "term": "One quarter to one third",
    "def": "One quarter to one third is the share of Europe's population killed by the Black Death in 1348."
   }

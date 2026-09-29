@@ -4,14 +4,40 @@
 # topic: Middle Ages Intro
 # short: 4 Main Ideas
 # order: 4
-# expect: 10
-When the Middle Ages began and ended, and its three sub-periods	The Middle Ages run from around 450, when Rome left Britain and the Anglo-Saxons arrived, to around 1485, when the Tudors, the Renaissance and printing arrived. The literature of the period falls into three sub-periods: Anglo-Saxon, Anglo-Norman and Middle English.
-How the Norman Conquest of 1066 changed language in England	The Norman Conquest of 1066 put a French-speaking elite on top, and four languages then circulated: French for the court and law, Latin for the Church and learning, English for the common people, and the Celtic languages. English sank for about 200 years, then came back as Middle English full of French words, and by 1362 it was used in the law courts and Parliament.
-The main features of Old English poetry	Old English poetry rests on the heroic code, in which a generous lord and his loyal retainers are bound together, the men owe him loyalty to the death and then revenge, and kinship makes the nation. It uses kennings such as 'life-house' for the body, and alliteration rather than rhyme organizes the line. Its elegiac tone blends pagan heroism with Christianity, as in Beowulf and Caedmon's Hymn.
-How romance developed from Breton lays to Sir Gawain to Malory	Celtic Breton lays, loved by Norman aristocrats, grew into chivalric romance, with its knightly quests, courtly love, courtesy and prowess. The Arthurian line runs from Geoffrey of Monmouth to Sir Gawain and the Green Knight, which survives in a single manuscript and belongs to the Alliterative Revival, and then to Malory's Morte Darthur, which Caxton printed in 1485.
-How the plague of 1348 led to social mobility	The Black Death of 1348 killed one quarter to one third of Europe's population, so labor was scarce and people could move up socially. This produced a rising merchant class, for whom Chaucer, a merchant's son, wrote in English, along with social and religious criticism in Langland's Piers Plowman and in Wycliffe and the Lollards' English Bible. It also led to the Peasants' Revolt of 1381.
-How the Anglo-Saxons shaped Old English and its literature	The Angles, Saxons and Jutes brought the Germanic speech that became Old English, the language of Caedmon's Hymn and Beowulf. Beowulf shows the heroic code, wergild and the elegiac tone, and Bede's Ecclesiastical History, which preserves Caedmon's Hymn, is partly hagiography.
-Sound and word-play in Old English poetry and the later return of alliteration	In Old English alliterative verse any vowel alliterates with any other vowel, and poets also used synecdoche and metonymy, such as 'keel' for a ship and 'crown' for the king. The riddles of the Exeter Book, full of double entendre, show the Anglo-Saxon love of riddles. Alliterative verse came back in the 1300s in the Alliterative Revival, in Sir Gawain and the Green Knight and Piers Plowman.
-How Anglo-Saxon law and government shaped later English institutions	Anglo-Saxon law replaced blood revenge with wergild, and failing to pay it brought dishonor, as Beowulf shows. Alfred the Great created the fyrd as the first national militia and was advised by the Witan, which later became William's Great Council and was a forerunner of Parliament. Each shire was run for the king by a shire-reeve, and that title is the origin of the word 'sheriff'.
-How English changed from Old English to Early Modern English	After Old English came Middle English, the language Chaucer wrote in, which was not yet standardized. In the 1400s a London and East Midlands standard emerged, the Great Vowel Shift changed how long vowels sounded, and print fixed spelling, and together these moved Middle English toward Early Modern English, the language of Shakespeare.
-The mystery and morality plays of medieval English drama	Medieval English drama included mystery plays, which were performed in cycles such as the York and Wakefield cycles, and morality plays, the best-known example being Everyman.
+# expect: 36
+The time span of the Middle Ages	The Middle Ages in England run from about 450, when the Anglo-Saxons arrived, to about 1485, when the Tudors came to power.
+The three periods of medieval English literature	Medieval English literature is divided into the Anglo-Saxon, Anglo-Norman, and Middle English periods.
+How the Norman Conquest changed who spoke what	The Norman Conquest of 1066 put a French-speaking ruling class in charge of England.
+The four languages of Norman England	After the Conquest, French was used at court, Latin in the Church, English among common people, and Celtic languages at the edges.
+What happened to English after 1066	English lost status for about 200 years, then returned as Middle English filled with French words.
+The return of English to official use	By 1362, English was being used again in the law courts and Parliament.
+The heroic code	The heroic code bound a generous lord and his warriors, who owed him loyalty to the death and revenge if he was killed.
+Kennings in Old English poetry	Old English poets used kennings, which are compound metaphors such as "life-house" for the body.
+Alliteration in Old English poetry	Old English poetry is organized by alliteration rather than rhyme.
+The tone of Old English poetry	Old English poetry has an elegiac tone that blends pagan heroism with Christian belief.
+Where romance came from	Chivalric romance grew out of Celtic Breton lays that were popular with Norman aristocrats.
+What chivalric romance is about	Chivalric romance centers on knightly quests, courtly love, courtesy, and prowess.
+The Arthurian line of romance	The Arthurian tradition runs from Geoffrey of Monmouth to Sir Gawain and the Green Knight to Malory's Morte Darthur.
+How Malory's Arthur reached readers	Caxton printed Malory's Morte Darthur in 1485, which spread the Arthurian stories widely.
+The death toll of the Black Death	The Black Death of 1348 killed about a quarter to a third of Europe's population.
+How the plague of 1348 led to social mobility	The Black Death caused a severe labor shortage, which allowed surviving workers to demand higher wages and rise in social status.
+The rise of the merchant class	After the plague, a merchant class grew in wealth and influence.
+Why Chaucer wrote in English	Chaucer, a merchant's son, wrote in English for the rising middle class.
+Social criticism after the plague	Langland's Piers Plowman and Wycliffe's English Bible criticized society and the Church.
+The Peasants' Revolt	The social changes that followed the plague led to the Peasants' Revolt of 1381.
+Where Old English came from	The Angles, Saxons, and Jutes brought the Germanic speech that became Old English.
+What Beowulf shows	Beowulf shows the heroic code, wergild, and the elegiac tone of Anglo-Saxon culture.
+Why Bede matters to literature	Bede's Ecclesiastical History preserves Caedmon's Hymn, the earliest poem recorded in English.
+Vowel alliteration in Old English	In Old English verse, any vowel can alliterate with any other vowel.
+Word substitution in Old English poetry	Old English poets used synecdoche and metonymy, such as "keel" for a ship and "crown" for the king.
+The Exeter Book riddles	The riddles in the Exeter Book show the Anglo-Saxon love of wordplay and double meanings.
+The Alliterative Revival	Alliterative verse returned in the 1300s in works such as Sir Gawain and the Green Knight and Piers Plowman.
+How wergild changed justice	Anglo-Saxon law replaced blood revenge with wergild, a payment made for killing or injuring someone.
+The fyrd	Alfred the Great created the fyrd, England's first national militia.
+The Witan as a forerunner of Parliament	The Witan advised Anglo-Saxon kings and later developed toward Parliament.
+Where the word "sheriff" comes from	The shire-reeve ran each shire for the king, and his title became the word "sheriff."
+Middle English	Middle English, the language of Chaucer, followed Old English and was not yet standardized.
+The rise of a standard English	In the 1400s, a London and East Midlands form of English became the standard.
+The Great Vowel Shift	The Great Vowel Shift moved English long vowels to new sounds, which is why English spelling no longer matches pronunciation; for example, "bite" was once pronounced like "beet."
+How printing affected English	Printing helped fix English spelling and moved the language toward Early Modern English.
+Medieval English drama	Medieval English drama included mystery plays, performed in cycles like York and Wakefield, and morality plays such as Everyman.

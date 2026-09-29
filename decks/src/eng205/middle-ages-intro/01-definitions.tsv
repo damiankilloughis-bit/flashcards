@@ -4,30 +4,31 @@
 # topic: Middle Ages Intro
 # short: 1 Definitions
 # order: 1
-# expect: 26
-Origin of the word 'medieval'	The word medieval comes from the Latin medium, meaning middle, and aevum, meaning age. It names the 'middle age' between the fall of Rome and the Renaissance.
-Old English (Anglo-Saxon)	Old English, also called Anglo-Saxon, is the earliest form of the English language. It is a Germanic language that was heavily inflected, meaning its words changed their endings to show grammar.
-Anglo-Norman (Old French)	Anglo-Norman is the form of Old French that was used in medieval England.
-Middle English	Middle English is the form of English that came after Old English. It had simpler grammar than Old English, thousands of words borrowed from French, and no single standard form.
-Early Modern English	Early Modern English is the form of English that came after Middle English and led directly to the English spoken today. Its spelling was largely fixed, and its long vowels sounded much like ours.
-Inflected language	An inflected language is one in which words change their endings to show their function, such as person, number, tense, case and mood.
-Alliteration	Alliteration is the repetition of the same starting sound at the beginning of several nearby words.
-Kenning	A kenning is a two-word compound noun used in place of a plain noun. For example, 'life-house' means the body and 'whale-road' means the sea.
-Elegiac tone	Elegiac describes a mournful tone that laments loss and the passing of time.
-Heroic code (lord and retainer)	In the heroic code, kinship rather than geography makes a nation, and the lord must be generous, giving his men gifts and treasure. In return his men owe him loyalty to the death and revenge after he dies, and scholars call this bond the comitatus.
-Synecdoche and metonymy	Synecdoche and metonymy are figures of speech. In synecdoche a part stands for the whole, as when 'keel' means a ship, and in metonymy something closely associated with a thing stands in for it, as when 'crown' means the king.
-Wergild	Wergild was money paid to a victim's family by the person who caused a death, as compensation in place of blood revenge.
-Witan	The Witan was the Anglo-Saxon council of nobles who advised the king.
-Fyrd	The fyrd was the Anglo-Saxon national militia, an army of ordinary men called up to defend the kingdom.
-Shire-reeve	A shire-reeve was the official who ran a shire, or county, for the king.
-Danelaw	The Danelaw was the area of eastern Britain settled by the Vikings, or Danes, where Danish law rather than Anglo-Saxon law applied.
-Domesday Survey (Domesday Book)	The Domesday Survey, or Domesday Book, was a census of all the land, people and property in England, right down to the livestock, made so the king could tax them.
-Hagiography	Hagiography is writing about the lives of saints.
-Breton lay	A Breton lay is a short Celtic tale of love and adventure that was sung by storytellers.
-Chivalric romance	A chivalric romance is a story of knightly adventure, courtly love and courtesy toward ladies, and martial prowess against powerful foes.
-Alliterative Revival	The Alliterative Revival was a return to Old English-style alliterative verse in Middle English poetry.
-Mystery play and morality play	A mystery play is a medieval play that dramatizes a Bible story as part of a cycle of plays. A morality play is an allegorical play in which personified virtues and vices fight for a person's soul.
-Black Death	The Black Death was a deadly epidemic of bubonic plague.
-Great Vowel Shift	The Great Vowel Shift was a major change in how English long vowels were pronounced.
-Exeter Book	The Exeter Book is a large manuscript collection of Old English poetry, including many riddles.
-Beowulf	Beowulf is an Old English heroic epic, a long narrative poem celebrating the deeds of the warrior hero Beowulf.
+# expect: 27
+Medieval	From Latin for "middle age," the era between Rome's fall and the Renaissance.
+Old English	The earliest, Germanic form of English, whose words changed endings to show grammar.
+Anglo-Norman	The French dialect spoken by England's ruling class after 1066.
+Middle English	English after 1066, with simpler grammar, many French words, and no standard spelling.
+Early Modern English	The English of Shakespeare, with mostly fixed spelling and near-modern vowel sounds.
+Inflected language	A language that changes word endings to show tense, number, or case.
+Alliteration	Repeating the same starting sound across nearby words.
+Kenning	A two-word metaphor that replaces a noun, like "whale-road" for the sea.
+Elegiac tone	A mournful tone that laments loss and the passing of time.
+Heroic code	A bond where the lord gives his warriors treasure and they give him loyalty to the death.
+Synecdoche and metonymy	Using a part ("keel") or a related thing ("crown") to stand for the whole thing.
+Wergild	A payment to a victim's family that replaced blood revenge.
+Witan	The council of nobles that advised Anglo-Saxon kings.
+Fyrd	An army of ordinary men called up to defend the kingdom.
+Shire-reeve	The king's official over a county, and the origin of the word "sheriff."
+Danelaw	The eastern part of England where the Vikings settled and Danish law applied.
+Domesday Book	William's survey of all land and property in England, made for taxation.
+Hagiography	Writing about the lives of saints.
+Breton lay	A short, sung Celtic tale of love and adventure.
+Chivalric romance	A story of knights on quests, courtly love, and feats of combat.
+Alliterative Revival	The 1300s return of Old English-style alliterative poetry.
+Mystery play	A medieval play that acts out a Bible story as part of a cycle.
+Morality play	An allegorical play where personified virtues and vices fight for a soul.
+Black Death	A bubonic plague epidemic that killed a huge share of Europe's population.
+Great Vowel Shift	The change that moved English long vowels to new sounds, so spelling stopped matching speech.
+Exeter Book	A large manuscript of Old English poems, known for its riddles.
+Beowulf	An Old English epic about a warrior hero's battles against monsters.

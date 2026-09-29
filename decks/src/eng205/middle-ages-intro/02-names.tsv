@@ -4,26 +4,37 @@
 # topic: Middle Ages Intro
 # short: 2 Names
 # order: 2
-# expect: 22
-Honorius (Roman emperor)	Honorius was the Roman emperor who recalled the troops from Britain. That left the Britons defenseless, as the video on Roman to Anglo-Saxon Britain explains.
-Angles, Saxons and Jutes	The Angles, Saxons and Jutes were the Germanic tribes who came to Britain as mercenaries after the Romans left and then took the island over, the Jutes settling Kent, the Saxons Essex, Wessex and Sussex, and the Angles East Anglia, Mercia and Northumbria. They matter because their takeover began the Anglo-Saxon period and their Germanic speech became Old English, and the name Anglo-Saxon comes from the Angles and the Saxons.
-Alfred the Great	Alfred the Great was the first true English king, and he united the kingdoms against the Danes. He created the fyrd, written law, a fleet, the Witan and the shires, and he commissioned the Anglo-Saxon Chronicle. He also supported Latin learning and Bede's Ecclesiastical History.
-Bede	Bede was a monk who wrote the Ecclesiastical History of the English People. It is our main source for the period, and it contains Caedmon's Hymn.
-Caedmon	Caedmon was an illiterate cowherd who became a poet. His Caedmon's Hymn is the earliest poem recorded in English.
-Vikings (Danes)	The Vikings, also called the Danes, were raiders who attacked England and then settled permanently in eastern Britain, in the area called the Danelaw. They matter because, as the common enemy, they united the Anglo-Saxon kingdoms under Alfred the Great, and they gave English around 2,000 words such as 'give', 'take' and 'die'.
-Edward the Confessor	Edward the Confessor was the Anglo-Saxon king who built Westminster Abbey. He died childless, which triggered the fight over who would succeed him.
-Harold Godwinson	Harold Godwinson was the Earl of Wessex, and the Witan chose him as king after Edward the Confessor died. He lost the crown to William at the Battle of Hastings.
-William the Conqueror (William I)	William the Conqueror, also called William I, was the Duke of Normandy who led the Norman Conquest and became king of England. He put a French-speaking ruling class in power, gave land to Norman vassals, built 5,000 to 6,000 castles and ordered the Domesday Survey. He also made all landholders swear loyalty to him.
-Geoffrey of Monmouth	Geoffrey of Monmouth wrote the History of the Kings of Britain in Latin. It is the source of the Arthurian legends.
-Marie de France	Marie de France wrote the Lais in Anglo-Norman French. She drew them from Breton sources.
-The Gawain poet (Pearl poet)	The Gawain poet, also called the Pearl poet, is the anonymous author of Sir Gawain and the Green Knight. The poem belongs to the Alliterative Revival and survives in only one manuscript.
-Geoffrey Chaucer	Geoffrey Chaucer wrote The Canterbury Tales in Middle English, mostly in rhymed couplets with five-stress lines, and he also wrote Troilus and Criseyde. As the son of a wine merchant, he stands for the rising merchant class.
-William Langland	William Langland wrote Piers Plowman. It is an alliterative dream vision that criticizes society and the Church after the plague, and it describes the July 'hungry gap'.
-John Wycliffe	John Wycliffe was a reformer who attacked corruption in the Church. His followers, the Lollards, began the first complete English Bible.
-Lollards	The Lollards were the followers of John Wycliffe who attacked corruption in the Church and produced the first complete English Bible. They matter because they challenged Church authority and put scripture into English, and they were persecuted and burned as heretics.
-Julian of Norwich	Julian of Norwich wrote the Book of Showings. It is a Christian visionary text, part of the important fourteenth-century trend of Christian visionary writing.
-Margery Kempe	Margery Kempe is the author of The Book of Margery Kempe, an account of her own life and religious experiences.
-Sir Thomas Malory	Sir Thomas Malory wrote Le Morte Darthur while in prison. It is the great prose collection of Arthurian romance, and William Caxton printed it.
-William Caxton	William Caxton set up England's first printing press. His moveable type made fast, identical copies possible, and he printed Malory's Morte Darthur.
-Henry VII (Henry Tudor)	Henry VII, also called Henry Tudor, won the Battle of Bosworth Field and married Elizabeth of York, ending the Wars of the Roses. He began the Tudor dynasty, which is where the Middle Ages end.
-Henry VIII	Henry VIII dissolved the monasteries. That ended their role as England's main producers of books.
+# expect: 33
+Honorius	Honorius was the Roman emperor who recalled the troops from Britain, which left the Britons defenseless.
+Angles, Saxons and Jutes	The Angles, Saxons and Jutes were Germanic tribes who came to Britain as mercenaries after the Romans left and then took over the island, beginning the Anglo-Saxon period.
+Where the Angles, Saxons and Jutes settled	The Jutes settled Kent, the Saxons settled Essex, Wessex and Sussex, and the Angles settled East Anglia, Mercia and Northumbria.
+Why the Angles, Saxons and Jutes matter to English	The Germanic speech of the Angles, Saxons and Jutes became Old English, and the Angles and Saxons gave the Anglo-Saxon period its name.
+Alfred the Great	Alfred the Great was the first true English king, who united the Anglo-Saxon kingdoms against the Danes.
+What Alfred the Great created	Alfred the Great organized the kingdom's defense and government by creating the fyrd, a fleet, written law, the Witan, and the shires.
+Alfred the Great and learning	Alfred the Great commissioned the Anglo-Saxon Chronicle and supported Latin learning and Bede's Ecclesiastical History.
+Bede	Bede was a monk whose Ecclesiastical History of the English People is the main source for the period and preserves Caedmon's Hymn.
+Caedmon	Caedmon was an illiterate cowherd who became a poet and composed Caedmon's Hymn, the earliest poem recorded in English.
+Vikings (Danes)	The Vikings, or Danes, were raiders who attacked England and then settled permanently in the eastern region called the Danelaw.
+Why the Vikings matter to English unity	As a common enemy, the Vikings pushed the Anglo-Saxon kingdoms to unite under Alfred the Great.
+The Vikings' mark on the English language	The Vikings gave English about 2,000 words, including everyday verbs such as "give," "take," and "die."
+Edward the Confessor	Edward the Confessor was the Anglo-Saxon king who built Westminster Abbey, and his childless death set off the fight over the English crown.
+Harold Godwinson	Harold Godwinson, Earl of Wessex, was chosen king by the Witan after Edward the Confessor died but lost the crown to William at the Battle of Hastings.
+William the Conqueror (William I)	William the Conqueror was the Duke of Normandy who led the Norman Conquest and became king of England, putting a French-speaking ruling class in power.
+How William the Conqueror held England	William secured his rule by giving land to Norman vassals, building 5,000 to 6,000 castles, and making all landholders swear loyalty to him.
+William the Conqueror and the Domesday Survey	William ordered the Domesday Survey, a record of all the land, people and property in England, so the crown could tax them.
+Geoffrey of Monmouth	Geoffrey of Monmouth wrote the Latin History of the Kings of Britain, which is the source of the Arthurian legends.
+Marie de France	Marie de France wrote the Lais in Anglo-Norman French, drawing her stories from Breton sources.
+The Gawain poet (Pearl poet)	The Gawain poet, also called the Pearl poet, is the anonymous author of Sir Gawain and the Green Knight, an Alliterative Revival poem that survives in only one manuscript.
+Geoffrey Chaucer	Geoffrey Chaucer was the Middle English poet of The Canterbury Tales and Troilus and Criseyde.
+Why Chaucer stands for the merchant class	As the son of a wine merchant who wrote in English, Chaucer represents the merchant class that rose after the plague.
+William Langland	William Langland wrote Piers Plowman, an alliterative dream vision that criticizes post-plague society and the Church and describes the July "hungry gap."
+John Wycliffe	John Wycliffe was a reformer who attacked corruption in the Church and inspired his followers, the Lollards, to begin the first complete English Bible.
+Lollards	The Lollards were followers of John Wycliffe who attacked Church corruption and produced the first complete English Bible.
+Why the Lollards matter	The Lollards challenged Church authority by putting scripture into English, and they were persecuted and burned as heretics for it.
+Julian of Norwich	Julian of Norwich wrote the Book of Showings, a key text in the fourteenth-century trend of Christian visionary writing.
+Margery Kempe	Margery Kempe wrote The Book of Margery Kempe, an account of her own life and religious experiences.
+Sir Thomas Malory	Sir Thomas Malory wrote Le Morte Darthur in prison, producing the great prose collection of Arthurian romance.
+William Caxton	William Caxton set up England's first printing press, whose moveable type made fast, identical copies of books possible.
+Henry VII (Henry Tudor)	Henry VII won the Battle of Bosworth Field and married Elizabeth of York, which ended the Wars of the Roses.
+Henry VII and the end of the Middle Ages	Henry VII founded the Tudor dynasty, and its beginning marks the end of the Middle Ages.
+Henry VIII	Henry VIII dissolved the monasteries, which ended their role as England's main producers of books.

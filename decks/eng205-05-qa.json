@@ -5,107 +5,137 @@
  "topic": "Middle Ages Intro",
  "short": "5 Q&A",
  "order": 5,
- "count": 20,
+ "count": 26,
  "cards": [
   {
    "id": "c0",
    "term": "What are the three sub-periods of medieval English literature?",
-   "def": "The three sub-periods are the Anglo-Saxon, the Anglo-Norman and the Middle English periods."
+   "def": "The three sub-periods are the Anglo-Saxon, the Anglo-Norman, and the Middle English periods."
   },
   {
    "id": "c1",
    "term": "What event made French the language of England's ruling class?",
-   "def": "The Norman Conquest of 1066 by William the Conqueror made French the language of England's ruling class."
+   "def": "William the Conqueror's Norman Conquest of 1066 made French the language of England's ruling class."
   },
   {
    "id": "c2",
    "term": "Which four languages circulated in Anglo-Norman England?",
-   "def": "Four languages circulated: Old French, Latin, Old English and the Celtic languages."
+   "def": "Old French, Latin, Old English, and the Celtic languages all circulated in Anglo-Norman England."
   },
   {
    "id": "c3",
-   "term": "What is the organizing principle of Old English poetry: rhyme or alliteration?",
-   "def": "Alliteration is the organizing principle of Old English poetry. Rhyme is rarely used to link lines."
+   "term": "Does Old English poetry rely on rhyme or alliteration?",
+   "def": "Old English poetry links its lines through alliteration and rarely uses rhyme."
   },
   {
    "id": "c4",
-   "term": "What is a kenning? Give an example.",
-   "def": "A kenning is a two-word compound used in place of a plain noun. For example, 'life-house' means the body."
+   "term": "What is a kenning?",
+   "def": "A kenning is a two-word compound that replaces a plain noun, such as \"life-house\" for the body."
   },
   {
    "id": "c5",
-   "term": "What does the lord owe his men, and what do they owe him?",
-   "def": "The lord owes his men generosity, meaning gifts, treasure and protection. In return, his men owe him loyalty to the death and revenge if he is killed."
+   "term": "In the heroic code, what does the lord owe his men?",
+   "def": "The lord owes his men generosity in the form of gifts, treasure, and protection."
   },
   {
    "id": "c6",
-   "term": "What tone is typical of Old English poetry?",
-   "def": "The typical tone is elegiac, or mournful, and it mixes Christian values with pagan heroic values."
+   "term": "In the heroic code, what do the men owe their lord?",
+   "def": "The men owe their lord loyalty to the death and revenge if he is killed."
   },
   {
    "id": "c7",
-   "term": "What was the earliest poem recorded in English, and who preserved it?",
-   "def": "The earliest poem recorded in English is Caedmon's Hymn. Bede preserved it in his Ecclesiastical History of the English People."
+   "term": "What tone is typical of Old English poetry?",
+   "def": "Old English poetry is typically elegiac, a mournful tone that mixes pagan heroic values with Christian ones."
   },
   {
    "id": "c8",
-   "term": "Where did the romance form come from?",
-   "def": "The romance form grew out of Celtic Breton lays, which Anglo-Norman aristocrats loved."
+   "term": "What is the earliest poem recorded in English?",
+   "def": "Caedmon's Hymn is the earliest poem recorded in English."
   },
   {
    "id": "c9",
+   "term": "Who preserved Caedmon's Hymn?",
+   "def": "Bede preserved Caedmon's Hymn by including it in his Ecclesiastical History of the English People."
+  },
+  {
+   "id": "c10",
+   "term": "Where did the romance form come from?",
+   "def": "The romance form grew out of Celtic Breton lays that Anglo-Norman aristocrats loved."
+  },
+  {
+   "id": "c11",
    "term": "Which famous romance survives in only one manuscript?",
    "def": "Sir Gawain and the Green Knight survives in only one manuscript."
   },
   {
-   "id": "c10",
-   "term": "Who wrote Le Morte Darthur, and who printed it?",
-   "def": "Sir Thomas Malory wrote Le Morte Darthur in prison around 1470. William Caxton printed it in 1485."
-  },
-  {
-   "id": "c11",
-   "term": "What did the Black Death (1348) do to English society?",
-   "def": "The Black Death killed one quarter to one third of the population, which caused a labor shortage and allowed social mobility. That mobility showed in a rising merchant class, the revolt of 1381, and new criticism of the Church and society."
-  },
-  {
    "id": "c12",
-   "term": "Who were the Lollards?",
-   "def": "The Lollards were followers of John Wycliffe who criticized Church corruption. They produced the first complete English Bible around 1380."
+   "term": "Who wrote Le Morte Darthur?",
+   "def": "Sir Thomas Malory wrote Le Morte Darthur while in prison around 1470."
   },
   {
    "id": "c13",
+   "term": "Who printed Le Morte Darthur?",
+   "def": "William Caxton printed Le Morte Darthur in 1485."
+  },
+  {
+   "id": "c14",
+   "term": "How did the Black Death (1348) change English society?",
+   "def": "By killing a quarter to a third of the population, the Black Death created a labor shortage that let survivors move up socially."
+  },
+  {
+   "id": "c15",
+   "term": "What did social mobility after the Black Death lead to?",
+   "def": "Mobility after the plague produced a rising merchant class, the Peasants' Revolt of 1381, and new criticism of the Church and society."
+  },
+  {
+   "id": "c16",
+   "term": "Who were the Lollards?",
+   "def": "The Lollards were followers of John Wycliffe who criticized Church corruption and produced the first complete English Bible around 1380."
+  },
+  {
+   "id": "c17",
    "term": "What verse form does Chaucer mainly use in The Canterbury Tales?",
    "def": "In The Canterbury Tales, Chaucer mainly uses rhymed couplets with five-stress lines."
   },
   {
-   "id": "c14",
-   "term": "What was the Alliterative Revival?",
-   "def": "The Alliterative Revival was a return in the 1300s to Old English alliterative verse. Examples include Sir Gawain and the Green Knight and Piers Plowman."
-  },
-  {
-   "id": "c15",
-   "term": "What is the difference between a mystery play and a morality play?",
-   "def": "A mystery play acts out Bible stories as part of a cycle. A morality play shows personified virtues and vices fighting over a soul, as in Everyman."
-  },
-  {
-   "id": "c16",
-   "term": "Why did Caxton's press (1476) matter?",
-   "def": "Caxton's press used moveable type to make books quickly and in identical copies. That spread texts widely and helped fix spelling standards."
-  },
-  {
-   "id": "c17",
-   "term": "Who was the first true English king, and what united the kingdoms?",
-   "def": "Alfred the Great, who reigned from 871 to 899, was the first true English king. The threat from the Vikings, or Danes, united the kingdoms."
-  },
-  {
    "id": "c18",
-   "term": "Is Shakespeare's language Old English?",
-   "def": "No, Shakespeare's language is Early Modern English. Old English is the language of Beowulf and Caedmon's Hymn, and Middle English is the language of Chaucer."
+   "term": "What was the Alliterative Revival?",
+   "def": "The Alliterative Revival was a 1300s return to Old English alliterative verse, seen in Sir Gawain and the Green Knight and Piers Plowman."
   },
   {
    "id": "c19",
-   "term": "Why does English use different words for the animal and its meat, such as cow and beef, sheep and mutton, and swine and pork?",
-   "def": "English-speaking peasants raised the animals, while French-speaking Norman lords ate the meat. That is why the animal names are English and the meat names are French, according to the History of English in 10 Minutes video."
+   "term": "What is a mystery play?",
+   "def": "A mystery play acts out a Bible story as one play in a cycle."
+  },
+  {
+   "id": "c20",
+   "term": "What is a morality play?",
+   "def": "A morality play shows personified virtues and vices fighting over a soul, as in Everyman."
+  },
+  {
+   "id": "c21",
+   "term": "Why did Caxton's press (1476) matter?",
+   "def": "Caxton's moveable type produced identical copies quickly, which spread texts widely and helped fix spelling standards."
+  },
+  {
+   "id": "c22",
+   "term": "Who was the first true English king?",
+   "def": "Alfred the Great, who reigned from 871 to 899, was the first true English king."
+  },
+  {
+   "id": "c23",
+   "term": "What united the Anglo-Saxon kingdoms?",
+   "def": "The shared threat from the Vikings, or Danes, united the Anglo-Saxon kingdoms."
+  },
+  {
+   "id": "c24",
+   "term": "Is Shakespeare's language Old English?",
+   "def": "No, Shakespeare wrote in Early Modern English, while Old English is the language of Beowulf and Middle English is the language of Chaucer."
+  },
+  {
+   "id": "c25",
+   "term": "Why does English use different words for an animal and its meat, such as cow and beef?",
+   "def": "English-speaking peasants raised the animals while French-speaking Norman lords ate the meat, so \"cow,\" \"sheep,\" and \"swine\" are English words but \"beef,\" \"mutton,\" and \"pork\" are French."
   }
  ]
 }

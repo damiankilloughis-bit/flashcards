@@ -5,117 +5,172 @@
  "topic": "Middle Ages Intro",
  "short": "2 Names",
  "order": 2,
- "count": 22,
+ "count": 33,
  "cards": [
   {
    "id": "c0",
-   "term": "Honorius (Roman emperor)",
-   "def": "Honorius was the Roman emperor who recalled the troops from Britain. That left the Britons defenseless, as the video on Roman to Anglo-Saxon Britain explains."
+   "term": "Honorius",
+   "def": "Honorius was the Roman emperor who recalled the troops from Britain, which left the Britons defenseless."
   },
   {
    "id": "c1",
    "term": "Angles, Saxons and Jutes",
-   "def": "The Angles, Saxons and Jutes were the Germanic tribes who came to Britain as mercenaries after the Romans left and then took the island over, the Jutes settling Kent, the Saxons Essex, Wessex and Sussex, and the Angles East Anglia, Mercia and Northumbria. They matter because their takeover began the Anglo-Saxon period and their Germanic speech became Old English, and the name Anglo-Saxon comes from the Angles and the Saxons."
+   "def": "The Angles, Saxons and Jutes were Germanic tribes who came to Britain as mercenaries after the Romans left and then took over the island, beginning the Anglo-Saxon period."
   },
   {
    "id": "c2",
-   "term": "Alfred the Great",
-   "def": "Alfred the Great was the first true English king, and he united the kingdoms against the Danes. He created the fyrd, written law, a fleet, the Witan and the shires, and he commissioned the Anglo-Saxon Chronicle. He also supported Latin learning and Bede's Ecclesiastical History."
+   "term": "Where the Angles, Saxons and Jutes settled",
+   "def": "The Jutes settled Kent, the Saxons settled Essex, Wessex and Sussex, and the Angles settled East Anglia, Mercia and Northumbria."
   },
   {
    "id": "c3",
-   "term": "Bede",
-   "def": "Bede was a monk who wrote the Ecclesiastical History of the English People. It is our main source for the period, and it contains Caedmon's Hymn."
+   "term": "Why the Angles, Saxons and Jutes matter to English",
+   "def": "The Germanic speech of the Angles, Saxons and Jutes became Old English, and the Angles and Saxons gave the Anglo-Saxon period its name."
   },
   {
    "id": "c4",
-   "term": "Caedmon",
-   "def": "Caedmon was an illiterate cowherd who became a poet. His Caedmon's Hymn is the earliest poem recorded in English."
+   "term": "Alfred the Great",
+   "def": "Alfred the Great was the first true English king, who united the Anglo-Saxon kingdoms against the Danes."
   },
   {
    "id": "c5",
-   "term": "Vikings (Danes)",
-   "def": "The Vikings, also called the Danes, were raiders who attacked England and then settled permanently in eastern Britain, in the area called the Danelaw. They matter because, as the common enemy, they united the Anglo-Saxon kingdoms under Alfred the Great, and they gave English around 2,000 words such as 'give', 'take' and 'die'."
+   "term": "What Alfred the Great created",
+   "def": "Alfred the Great organized the kingdom's defense and government by creating the fyrd, a fleet, written law, the Witan, and the shires."
   },
   {
    "id": "c6",
-   "term": "Edward the Confessor",
-   "def": "Edward the Confessor was the Anglo-Saxon king who built Westminster Abbey. He died childless, which triggered the fight over who would succeed him."
+   "term": "Alfred the Great and learning",
+   "def": "Alfred the Great commissioned the Anglo-Saxon Chronicle and supported Latin learning and Bede's Ecclesiastical History."
   },
   {
    "id": "c7",
-   "term": "Harold Godwinson",
-   "def": "Harold Godwinson was the Earl of Wessex, and the Witan chose him as king after Edward the Confessor died. He lost the crown to William at the Battle of Hastings."
+   "term": "Bede",
+   "def": "Bede was a monk whose Ecclesiastical History of the English People is the main source for the period and preserves Caedmon's Hymn."
   },
   {
    "id": "c8",
-   "term": "William the Conqueror (William I)",
-   "def": "William the Conqueror, also called William I, was the Duke of Normandy who led the Norman Conquest and became king of England. He put a French-speaking ruling class in power, gave land to Norman vassals, built 5,000 to 6,000 castles and ordered the Domesday Survey. He also made all landholders swear loyalty to him."
+   "term": "Caedmon",
+   "def": "Caedmon was an illiterate cowherd who became a poet and composed Caedmon's Hymn, the earliest poem recorded in English."
   },
   {
    "id": "c9",
-   "term": "Geoffrey of Monmouth",
-   "def": "Geoffrey of Monmouth wrote the History of the Kings of Britain in Latin. It is the source of the Arthurian legends."
+   "term": "Vikings (Danes)",
+   "def": "The Vikings, or Danes, were raiders who attacked England and then settled permanently in the eastern region called the Danelaw."
   },
   {
    "id": "c10",
-   "term": "Marie de France",
-   "def": "Marie de France wrote the Lais in Anglo-Norman French. She drew them from Breton sources."
+   "term": "Why the Vikings matter to English unity",
+   "def": "As a common enemy, the Vikings pushed the Anglo-Saxon kingdoms to unite under Alfred the Great."
   },
   {
    "id": "c11",
-   "term": "The Gawain poet (Pearl poet)",
-   "def": "The Gawain poet, also called the Pearl poet, is the anonymous author of Sir Gawain and the Green Knight. The poem belongs to the Alliterative Revival and survives in only one manuscript."
+   "term": "The Vikings' mark on the English language",
+   "def": "The Vikings gave English about 2,000 words, including everyday verbs such as \"give,\" \"take,\" and \"die.\""
   },
   {
    "id": "c12",
-   "term": "Geoffrey Chaucer",
-   "def": "Geoffrey Chaucer wrote The Canterbury Tales in Middle English, mostly in rhymed couplets with five-stress lines, and he also wrote Troilus and Criseyde. As the son of a wine merchant, he stands for the rising merchant class."
+   "term": "Edward the Confessor",
+   "def": "Edward the Confessor was the Anglo-Saxon king who built Westminster Abbey, and his childless death set off the fight over the English crown."
   },
   {
    "id": "c13",
-   "term": "William Langland",
-   "def": "William Langland wrote Piers Plowman. It is an alliterative dream vision that criticizes society and the Church after the plague, and it describes the July 'hungry gap'."
+   "term": "Harold Godwinson",
+   "def": "Harold Godwinson, Earl of Wessex, was chosen king by the Witan after Edward the Confessor died but lost the crown to William at the Battle of Hastings."
   },
   {
    "id": "c14",
-   "term": "John Wycliffe",
-   "def": "John Wycliffe was a reformer who attacked corruption in the Church. His followers, the Lollards, began the first complete English Bible."
+   "term": "William the Conqueror (William I)",
+   "def": "William the Conqueror was the Duke of Normandy who led the Norman Conquest and became king of England, putting a French-speaking ruling class in power."
   },
   {
    "id": "c15",
-   "term": "Lollards",
-   "def": "The Lollards were the followers of John Wycliffe who attacked corruption in the Church and produced the first complete English Bible. They matter because they challenged Church authority and put scripture into English, and they were persecuted and burned as heretics."
+   "term": "How William the Conqueror held England",
+   "def": "William secured his rule by giving land to Norman vassals, building 5,000 to 6,000 castles, and making all landholders swear loyalty to him."
   },
   {
    "id": "c16",
-   "term": "Julian of Norwich",
-   "def": "Julian of Norwich wrote the Book of Showings. It is a Christian visionary text, part of the important fourteenth-century trend of Christian visionary writing."
+   "term": "William the Conqueror and the Domesday Survey",
+   "def": "William ordered the Domesday Survey, a record of all the land, people and property in England, so the crown could tax them."
   },
   {
    "id": "c17",
-   "term": "Margery Kempe",
-   "def": "Margery Kempe is the author of The Book of Margery Kempe, an account of her own life and religious experiences."
+   "term": "Geoffrey of Monmouth",
+   "def": "Geoffrey of Monmouth wrote the Latin History of the Kings of Britain, which is the source of the Arthurian legends."
   },
   {
    "id": "c18",
-   "term": "Sir Thomas Malory",
-   "def": "Sir Thomas Malory wrote Le Morte Darthur while in prison. It is the great prose collection of Arthurian romance, and William Caxton printed it."
+   "term": "Marie de France",
+   "def": "Marie de France wrote the Lais in Anglo-Norman French, drawing her stories from Breton sources."
   },
   {
    "id": "c19",
-   "term": "William Caxton",
-   "def": "William Caxton set up England's first printing press. His moveable type made fast, identical copies possible, and he printed Malory's Morte Darthur."
+   "term": "The Gawain poet (Pearl poet)",
+   "def": "The Gawain poet, also called the Pearl poet, is the anonymous author of Sir Gawain and the Green Knight, an Alliterative Revival poem that survives in only one manuscript."
   },
   {
    "id": "c20",
-   "term": "Henry VII (Henry Tudor)",
-   "def": "Henry VII, also called Henry Tudor, won the Battle of Bosworth Field and married Elizabeth of York, ending the Wars of the Roses. He began the Tudor dynasty, which is where the Middle Ages end."
+   "term": "Geoffrey Chaucer",
+   "def": "Geoffrey Chaucer was the Middle English poet of The Canterbury Tales and Troilus and Criseyde."
   },
   {
    "id": "c21",
+   "term": "Why Chaucer stands for the merchant class",
+   "def": "As the son of a wine merchant who wrote in English, Chaucer represents the merchant class that rose after the plague."
+  },
+  {
+   "id": "c22",
+   "term": "William Langland",
+   "def": "William Langland wrote Piers Plowman, an alliterative dream vision that criticizes post-plague society and the Church and describes the July \"hungry gap.\""
+  },
+  {
+   "id": "c23",
+   "term": "John Wycliffe",
+   "def": "John Wycliffe was a reformer who attacked corruption in the Church and inspired his followers, the Lollards, to begin the first complete English Bible."
+  },
+  {
+   "id": "c24",
+   "term": "Lollards",
+   "def": "The Lollards were followers of John Wycliffe who attacked Church corruption and produced the first complete English Bible."
+  },
+  {
+   "id": "c25",
+   "term": "Why the Lollards matter",
+   "def": "The Lollards challenged Church authority by putting scripture into English, and they were persecuted and burned as heretics for it."
+  },
+  {
+   "id": "c26",
+   "term": "Julian of Norwich",
+   "def": "Julian of Norwich wrote the Book of Showings, a key text in the fourteenth-century trend of Christian visionary writing."
+  },
+  {
+   "id": "c27",
+   "term": "Margery Kempe",
+   "def": "Margery Kempe wrote The Book of Margery Kempe, an account of her own life and religious experiences."
+  },
+  {
+   "id": "c28",
+   "term": "Sir Thomas Malory",
+   "def": "Sir Thomas Malory wrote Le Morte Darthur in prison, producing the great prose collection of Arthurian romance."
+  },
+  {
+   "id": "c29",
+   "term": "William Caxton",
+   "def": "William Caxton set up England's first printing press, whose moveable type made fast, identical copies of books possible."
+  },
+  {
+   "id": "c30",
+   "term": "Henry VII (Henry Tudor)",
+   "def": "Henry VII won the Battle of Bosworth Field and married Elizabeth of York, which ended the Wars of the Roses."
+  },
+  {
+   "id": "c31",
+   "term": "Henry VII and the end of the Middle Ages",
+   "def": "Henry VII founded the Tudor dynasty, and its beginning marks the end of the Middle Ages."
+  },
+  {
+   "id": "c32",
    "term": "Henry VIII",
-   "def": "Henry VIII dissolved the monasteries. That ended their role as England's main producers of books."
+   "def": "Henry VIII dissolved the monasteries, which ended their role as England's main producers of books."
   }
  ]
 }

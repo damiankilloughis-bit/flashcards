@@ -3,19 +3,19 @@
   {
    "name": "ENG-205",
    "slug": "eng205",
-   "count": 114,
+   "count": 167,
    "topics": [
     {
      "name": "Middle Ages Intro",
      "slug": "middle-ages-intro",
-     "count": 114,
+     "count": 167,
      "decks": [
       {
        "id": "eng205-01-definitions",
        "title": "ENG-205 Middle Ages Intro — 1 Definitions",
        "short": "1 Definitions",
        "order": 1,
-       "count": 26,
+       "count": 27,
        "file": "eng205-01-definitions.json"
       },
       {
@@ -23,7 +23,7 @@
        "title": "ENG-205 Middle Ages Intro — 2 Names",
        "short": "2 Names",
        "order": 2,
-       "count": 22,
+       "count": 33,
        "file": "eng205-02-names.json"
       },
       {
@@ -31,7 +31,7 @@
        "title": "ENG-205 Middle Ages Intro — 3 Numbers & Dates",
        "short": "3 Numbers & Dates",
        "order": 3,
-       "count": 36,
+       "count": 45,
        "file": "eng205-03-numbers.json"
       },
       {
@@ -39,7 +39,7 @@
        "title": "ENG-205 Middle Ages Intro — 4 Main Ideas",
        "short": "4 Main Ideas",
        "order": 4,
-       "count": 10,
+       "count": 36,
        "file": "eng205-04-main-ideas.json"
       },
       {
@@ -47,7 +47,7 @@
        "title": "ENG-205 Middle Ages Intro — 5 Q&A",
        "short": "5 Q&A",
        "order": 5,
-       "count": 20,
+       "count": 26,
        "file": "eng205-05-qa.json"
       }
      ]
@@ -61,7 +61,7 @@
    "title": "ENG-205 Middle Ages Intro — 1 Definitions",
    "short": "1 Definitions",
    "order": 1,
-   "count": 26,
+   "count": 27,
    "file": "eng205-01-definitions.json",
    "subject": "ENG-205",
    "subjectSlug": "eng205",
@@ -73,7 +73,7 @@
    "title": "ENG-205 Middle Ages Intro — 2 Names",
    "short": "2 Names",
    "order": 2,
-   "count": 22,
+   "count": 33,
    "file": "eng205-02-names.json",
    "subject": "ENG-205",
    "subjectSlug": "eng205",
@@ -85,7 +85,7 @@
    "title": "ENG-205 Middle Ages Intro — 3 Numbers & Dates",
    "short": "3 Numbers & Dates",
    "order": 3,
-   "count": 36,
+   "count": 45,
    "file": "eng205-03-numbers.json",
    "subject": "ENG-205",
    "subjectSlug": "eng205",
@@ -97,7 +97,7 @@
    "title": "ENG-205 Middle Ages Intro — 4 Main Ideas",
    "short": "4 Main Ideas",
    "order": 4,
-   "count": 10,
+   "count": 36,
    "file": "eng205-04-main-ideas.json",
    "subject": "ENG-205",
    "subjectSlug": "eng205",
@@ -109,7 +109,7 @@
    "title": "ENG-205 Middle Ages Intro — 5 Q&A",
    "short": "5 Q&A",
    "order": 5,
-   "count": 20,
+   "count": 26,
    "file": "eng205-05-qa.json",
    "subject": "ENG-205",
    "subjectSlug": "eng205",

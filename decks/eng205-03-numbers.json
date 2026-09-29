@@ -5,37 +5,37 @@
  "topic": "Middle Ages Intro",
  "short": "3 Numbers & Dates",
  "order": 3,
- "count": 36,
+ "count": 45,
  "cards": [
   {
    "id": "c0",
    "term": "ca. 450 to ca. 1485",
-   "def": "The Middle Ages period runs from around 450 to around 1485. It stretches from the collapse of Roman rule in Britain to the start of the Renaissance and Tudor rule."
+   "def": "The Middle Ages run from about 450, when Roman rule in Britain collapsed, to about 1485, when Tudor rule and the Renaissance began."
   },
   {
    "id": "c1",
-   "term": "What dates frame the Middle Ages period?",
-   "def": "The Middle Ages period runs from around 450, when Roman rule in Britain collapsed, to around 1485, when the Renaissance and the Tudor line began."
+   "term": "3 sub-periods of medieval English literature",
+   "def": "Medieval English literature falls into the Anglo-Saxon period, the Anglo-Norman period after 1066, and the Middle English period of the 1300s and 1400s."
   },
   {
    "id": "c2",
-   "term": "Three sub-periods of medieval English literature",
-   "def": "Medieval English literature falls into three sub-periods. First comes the Anglo-Saxon or Old English period, then the Anglo-Norman period after 1066, and finally the Middle English period of the 1300s and 1400s."
+   "term": "AD 43 to 410",
+   "def": "The Romans occupied Britain from AD 43 until the troops were recalled in 410, a date the notes give as about 407."
   },
   {
    "id": "c3",
-   "term": "AD 43 to 410",
-   "def": "The Romans occupied Britain from AD 43 to 410, when the troops were recalled, although the notes give that date as around 407. The Anglo-Saxon conquest began around 450."
+   "term": "ca. 450",
+   "def": "Around 450 the Anglo-Saxon conquest of Britain began."
   },
   {
    "id": "c4",
-   "term": "Seven Anglo-Saxon kingdoms",
-   "def": "There were seven Anglo-Saxon kingdoms, and they had no single king until Alfred. Kent was the kingdom of the Jutes, Essex, Wessex and Sussex were Saxon kingdoms, and East Anglia, Mercia and Northumbria were kingdoms of the Angles."
+   "term": "7 Anglo-Saxon kingdoms",
+   "def": "Anglo-Saxon England was divided into seven kingdoms that had no single king until Alfred."
   },
   {
    "id": "c5",
    "term": "597",
-   "def": "In 597 St. Augustine of Canterbury led a mission to Kent. Christianity spread, and with it came literacy and Latin words such as 'martyr' and 'bishop'."
+   "def": "In 597 St. Augustine of Canterbury led a mission to Kent that spread Christianity, bringing literacy and Latin words such as \"martyr\" and \"bishop.\""
   },
   {
    "id": "c6",
@@ -49,143 +49,188 @@
   },
   {
    "id": "c8",
-   "term": "ca. 750 and ca. 1000",
-   "def": "Beowulf was perhaps composed around 750, though that date is uncertain. Its only surviving manuscript was copied around 1000."
+   "term": "ca. 750",
+   "def": "Beowulf was perhaps composed around 750, though the date is uncertain."
   },
   {
    "id": "c9",
-   "term": "ca. 787",
-   "def": "The first Viking raids on England came around 787. The Vikings gave English around 2,000 words, such as 'give', 'take' and 'die'."
+   "term": "ca. 1000",
+   "def": "The only surviving manuscript of Beowulf was copied around 1000."
   },
   {
    "id": "c10",
+   "term": "ca. 787",
+   "def": "The first Viking raids on England came around 787."
+  },
+  {
+   "id": "c11",
+   "term": "About 2,000 Norse words",
+   "def": "The Vikings gave English about 2,000 words, such as \"give,\" \"take,\" and \"die.\""
+  },
+  {
+   "id": "c12",
    "term": "871 to 899",
    "def": "Alfred the Great reigned from 871 to 899."
   },
   {
-   "id": "c11",
-   "term": "1066",
-   "def": "In 1066 Edward the Confessor died childless, the Witan chose Harold Godwinson as king, and William of Normandy defeated Harold at the Battle of Hastings and became King William I. This Norman Conquest made French the language of power, and English absorbed about 10,000 French words."
+   "id": "c13",
+   "term": "1066 (the succession)",
+   "def": "In 1066 Edward the Confessor died childless and the Witan chose Harold Godwinson as king."
   },
   {
-   "id": "c12",
+   "id": "c14",
+   "term": "1066 (Battle of Hastings)",
+   "def": "In 1066 William of Normandy defeated Harold at the Battle of Hastings and became King William I."
+  },
+  {
+   "id": "c15",
+   "term": "1066 (Norman Conquest)",
+   "def": "The Norman Conquest of 1066 made French the language of power in England."
+  },
+  {
+   "id": "c16",
+   "term": "About 10,000 French words",
+   "def": "After the Norman Conquest, English absorbed about 10,000 French words."
+  },
+  {
+   "id": "c17",
    "term": "1066 to 1087",
    "def": "William the Conqueror ruled England from 1066 to 1087."
   },
   {
-   "id": "c13",
-   "term": "Four languages after 1066",
-   "def": "After 1066 four languages were in use in England. Old French was the language of the court and law, Latin of the Church and scholarship, and Old English of the common people, and Celtic languages such as Welsh were spoken too."
+   "id": "c18",
+   "term": "5,000 to 6,000 castles",
+   "def": "William the Conqueror built 5,000 to 6,000 castles to secure Norman control of England."
   },
   {
-   "id": "c14",
-   "term": "When Old English and Middle English were spoken",
-   "def": "Old English was spoken until about 1066. Middle English re-emerged between the 1100s and the 1300s."
+   "id": "c19",
+   "term": "4 languages after 1066",
+   "def": "After 1066 Old French served the court and law, Latin the Church and scholarship, Old English the common people, and Celtic languages such as Welsh survived at the edges."
   },
   {
-   "id": "c15",
+   "id": "c20",
+   "term": "Until about 1066",
+   "def": "Old English was spoken until about 1066, when the Norman Conquest pushed English below French."
+  },
+  {
+   "id": "c21",
+   "term": "1100s to 1300s",
+   "def": "Middle English re-emerged between the 1100s and the 1300s."
+  },
+  {
+   "id": "c22",
    "term": "ca. 1135 to 1138",
-   "def": "Geoffrey of Monmouth wrote the History of the Kings of Britain around 1135 to 1138."
+   "def": "Geoffrey of Monmouth wrote the History of the Kings of Britain, the source of the Arthurian legends, around 1135 to 1138."
   },
   {
-   "id": "c16",
+   "id": "c23",
    "term": "ca. 1165 to 1180",
    "def": "Marie de France wrote the Lais around 1165 to 1180."
   },
   {
-   "id": "c17",
+   "id": "c24",
    "term": "1300s (Alliterative Revival)",
-   "def": "The Alliterative Revival, a return to Old English-style alliterative verse, took place in the 1300s."
+   "def": "In the 1300s the Alliterative Revival brought Old English-style alliterative verse back into English poetry."
   },
   {
-   "id": "c18",
+   "id": "c25",
    "term": "1337 to 1453 (Hundred Years' War)",
-   "def": "The Hundred Years' War with France lasted from 1337 to 1453. During it, English gained ground as the language of power, according to the History of English in 10 Minutes video."
+   "def": "During the Hundred Years' War with France, from 1337 to 1453, English gained ground as the language of power."
   },
   {
-   "id": "c19",
+   "id": "c26",
    "term": "1348",
-   "def": "The Black Death struck in 1348 and killed one quarter to one third of Europe's population. The labor shortage that followed led to social mobility."
+   "def": "The Black Death struck in 1348, and the labor shortage it left behind allowed social mobility."
   },
   {
-   "id": "c20",
+   "id": "c27",
+   "term": "One quarter to one third",
+   "def": "The Black Death of 1348 killed one quarter to one third of Europe's population."
+  },
+  {
+   "id": "c28",
    "term": "1362",
    "def": "In 1362 English was first used in the law courts and Parliament."
   },
   {
-   "id": "c21",
-   "term": "When was English first used in the law courts and Parliament?",
-   "def": "English was first used in the law courts and Parliament in 1362."
-  },
-  {
-   "id": "c22",
+   "id": "c29",
    "term": "1373 to 1393",
-   "def": "Julian of Norwich wrote the Book of Showings between 1373 and 1393."
+   "def": "Julian of Norwich wrote her visionary Book of Showings between 1373 and 1393."
   },
   {
-   "id": "c23",
+   "id": "c30",
    "term": "ca. 1375 to 1400",
    "def": "Sir Gawain and the Green Knight was written around 1375 to 1400."
   },
   {
-   "id": "c24",
+   "id": "c31",
    "term": "1377 to 1379",
    "def": "Langland wrote the B-text of Piers Plowman between 1377 and 1379."
   },
   {
-   "id": "c25",
-   "term": "ca. 1380 and 1381",
-   "def": "Around 1380 Wycliffe's followers began the first complete English Bible. In 1381 the Peasants' Revolt briefly took control of London."
+   "id": "c32",
+   "term": "ca. 1380",
+   "def": "Around 1380 Wycliffe's followers began the first complete English Bible."
   },
   {
-   "id": "c26",
+   "id": "c33",
+   "term": "1381",
+   "def": "In 1381 the Peasants' Revolt briefly took control of London."
+  },
+  {
+   "id": "c34",
    "term": "ca. 1387 to 1399",
    "def": "Chaucer was writing The Canterbury Tales from around 1387 to 1399."
   },
   {
-   "id": "c27",
-   "term": "1400s",
-   "def": "In the 1400s a London and East Midlands standard form of English emerged, and the Great Vowel Shift changed how long vowels were pronounced."
+   "id": "c35",
+   "term": "1400s (standard English)",
+   "def": "In the 1400s a London and East Midlands form of English emerged as the standard."
   },
   {
-   "id": "c28",
+   "id": "c36",
+   "term": "1400s (Great Vowel Shift)",
+   "def": "In the 1400s the Great Vowel Shift moved English long vowels to new sounds."
+  },
+  {
+   "id": "c37",
    "term": "1401",
    "def": "In 1401 the first Lollards were burned as heretics."
   },
   {
-   "id": "c29",
+   "id": "c38",
    "term": "ca. 1432 to 1438",
    "def": "Margery Kempe wrote The Book of Margery Kempe around 1432 to 1438."
   },
   {
-   "id": "c30",
+   "id": "c39",
    "term": "1455 to 1485",
-   "def": "The Wars of the Roses, fought between the houses of Lancaster and York, lasted from 1455 to 1485."
+   "def": "The Wars of the Roses between the houses of Lancaster and York lasted from 1455 to 1485."
   },
   {
-   "id": "c31",
+   "id": "c40",
    "term": "ca. 1470",
    "def": "Sir Thomas Malory wrote Le Morte Darthur in prison around 1470."
   },
   {
-   "id": "c32",
+   "id": "c41",
    "term": "1476",
-   "def": "In 1476 William Caxton set up the first printing press in England."
+   "def": "In 1476 William Caxton set up England's first printing press."
   },
   {
-   "id": "c33",
-   "term": "1485",
-   "def": "In 1485 Caxton printed Malory's Morte Darthur, and Henry VII won at Bosworth and began the Tudor dynasty. This year marks the end of the Middle Ages."
+   "id": "c42",
+   "term": "1485 (Caxton's Malory)",
+   "def": "In 1485 Caxton printed Malory's Morte Darthur."
   },
   {
-   "id": "c34",
+   "id": "c43",
+   "term": "1485 (Bosworth)",
+   "def": "In 1485 Henry VII won at Bosworth and founded the Tudor dynasty, which marks the end of the Middle Ages."
+  },
+  {
+   "id": "c44",
    "term": "1530s",
-   "def": "In the 1530s Henry VIII dissolved the monasteries, which had been the main producers of books until then."
-  },
-  {
-   "id": "c35",
-   "term": "One quarter to one third",
-   "def": "One quarter to one third is the share of Europe's population killed by the Black Death in 1348."
+   "def": "In the 1530s Henry VIII dissolved the monasteries, which had been England's main producers of books."
   }
  ]
 }

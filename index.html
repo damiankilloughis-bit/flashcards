@@ -20,12 +20,16 @@
   <!-- HOME -->
   <section id="view-home" class="view">
     <header class="topbar">
-      <h1>Flashcards</h1>
+      <div class="home-title">
+        <h1 id="app-h1">Flashcards</h1>
+        <button class="btn ghost crumb-btn" id="btn-home-back" aria-label="Back" hidden>‹ <span id="home-crumb"></span></button>
+      </div>
       <div class="topbar-actions">
         <button class="btn ghost" id="btn-misses" data-nav="#/misses">Misses <span id="miss-badge" class="badge"></span></button>
         <button class="btn ghost" data-nav="#/import">Import</button>
       </div>
     </header>
+    <h2 id="home-h1" class="level-title" hidden></h2>
     <div class="settings-row">
       <label class="toggle"><input type="checkbox" id="opt-shuffle"><span>Shuffle</span></label>
       <label class="toggle"><input type="checkbox" id="opt-deffirst"><span>Definition first</span></label>
@@ -36,7 +40,7 @@
   <!-- STUDY -->
   <section id="view-study" class="view" hidden>
     <header class="topbar study-top">
-      <button class="btn ghost icon" data-nav="#/" aria-label="Back">‹</button>
+      <button class="btn ghost icon" data-nav="#/" data-back-deck aria-label="Back">‹</button>
       <div class="study-title">
         <div id="study-deck-title" class="deck-title-sm"></div>
         <div id="study-round" class="muted small"></div>
@@ -79,7 +83,7 @@
   <!-- SUMMARY -->
   <section id="view-summary" class="view" hidden>
     <header class="topbar study-top">
-      <button class="btn ghost icon" data-nav="#/" aria-label="Back">‹</button>
+      <button class="btn ghost icon" data-nav="#/" data-back-deck aria-label="Back">‹</button>
       <div class="study-title"><div id="sum-deck-title" class="deck-title-sm"></div></div>
       <span></span>
     </header>
@@ -115,13 +119,15 @@
   <!-- IMPORT -->
   <section id="view-import" class="view" hidden>
     <header class="topbar study-top">
-      <button class="btn ghost icon" data-nav="#/" aria-label="Back">‹</button>
+      <button class="btn ghost icon" id="btn-import-back" aria-label="Back">‹</button>
       <div class="study-title"><div class="deck-title-sm">Import deck</div><div class="muted small">saved on this device only</div></div>
       <span></span>
     </header>
     <div class="import">
       <label>Title<input id="imp-title" type="text" placeholder="My deck"></label>
-      <label>Topic<input id="imp-topic" type="text" placeholder="Imported"></label>
+      <label>Subject<select id="imp-subject"></select></label>
+      <label id="imp-subject-new-wrap" hidden>New subject name<input id="imp-subject-new" type="text" placeholder="e.g. Math, Psychology"></label>
+      <label>Topic<input id="imp-topic" type="text" list="imp-topic-list" placeholder="e.g. PSY-101 Memory"><datalist id="imp-topic-list"></datalist></label>
       <label>Cards — one per line: term&lt;TAB&gt;definition<textarea id="imp-text" rows="10" placeholder="term&#9;definition"></textarea></label>
       <div id="imp-status" class="muted small"></div>
       <button class="btn big-wide green" id="btn-import">Save deck</button>

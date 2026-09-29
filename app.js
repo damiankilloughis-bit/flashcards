@@ -5,7 +5,7 @@
 // ---------- storage ----------
 const K = {
   settings: 'fc.settings',
-  imported: 'fc.imported',          // [{id,title,topic,short,order,count,cards,imported:true}]
+  imported: 'fc.imported',          // [{id,title,subject,topic,short,order,count,cards,imported:true}]
   misses:   'fc.misses',            // {"deckId|cardId": {deckId,deckTitle,cardId,term,def,count,first,last}}
   prog: id => 'fc.progress.' + id,  // {status:{cardId:'known'|'unknown'}, round:{...}}
 };
@@ -17,6 +17,8 @@ const LS = {
 
 // ---------- helpers ----------
 const $ = s => document.querySelector(s);
+const slugify = s => String(s).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '') || 'other';
+const RESERVED = ['deck', 'misses', 'import'];
 const esc = s => String(s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const shuffle = a => { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
 let toastT;
@@ -24,7 +26,9 @@ function toast(msg) { const t = $('#toast'); t.textContent = msg; t.hidden = fal
 
 // ---------- state ----------
 const S = {
-  manifest: [],        // built-in decks (from decks/index.json)
+  manifest: [],        // built-in decks (from decks/index.json), flattened, each with subject/topic + slugs
+  tree: [],            // [{name,slug,topics:[{name,slug,decks:[meta]}]}] built-in + imported
+  ctx: { subject: null, topic: null }, // where the home list currently is
   deck: null,          // current full deck {id,title,cards}
   byId: {},            // cardId -> card for current deck
   prog: null,          // current deck progress
@@ -82,30 +86,100 @@ async function route() {
   const m = h.match(/^#\/deck\/(.+)$/);
   if (m) { await openDeck(decodeURIComponent(m[1])); S.lastRoute = h; return; }
   if (h === '#/misses') { renderMisses(); show('misses'); return; }
-  if (h === '#/import') { show('import'); $('#imp-status').textContent = ''; return; }
-  S.lastRoute = '#/';
+  if (h === '#/import') { renderImportForm(); show('import'); $('#imp-status').textContent = ''; return; }
+  // list routes: #/  ->  #/<subject>  ->  #/<subject>/<topic>
+  const parts = h.replace(/^#\/?/, '').split('/').filter(Boolean).map(p => { try { return decodeURIComponent(p); } catch { return p; } });
+  buildTree();
+  const subj = parts[0] ? S.tree.find(x => x.slug === parts[0]) : null;
+  const topic = subj && parts[1] ? subj.topics.find(x => x.slug === parts[1]) : null;
+  if ((parts[0] && !subj) || (parts[1] && !topic) || parts.length > 2) { location.replace(subj ? subjRoute(subj) : '#/'); return; }
+  S.ctx = { subject: subj, topic };
+  S.lastRoute = topic ? topicRoute(subj, topic) : subj ? subjRoute(subj) : '#/';
   renderHome(); show('home');
 }
+const subjRoute = s => '#/' + encodeURIComponent(s.slug);
+const topicRoute = (s, t) => subjRoute(s) + '/' + encodeURIComponent(t.slug);
 window.addEventListener('hashchange', route);
 document.addEventListener('click', e => {
   const n = e.target.closest('[data-nav]');
   if (n) { e.preventDefault(); location.hash = n.dataset.nav; }
 });
 
-// ---------- home ----------
+// ---------- home: subjects > topics > decks ----------
+function buildTree() {
+  const tree = [];
+  const findOrAdd = (list, name, slug, top) => {
+    let x = list.find(e => e.name.toLowerCase() === name.toLowerCase());
+    if (!x) {
+      let sl = slug || slugify(name);
+      if (top && RESERVED.includes(sl)) sl += '-subject';
+      while (list.some(e => e.slug === sl)) sl += '-2';
+      x = { name, slug: sl, topics: [], decks: [] }; list.push(x);
+    }
+    return x;
+  };
+  for (const d of allDeckMetas()) {
+    const sb = findOrAdd(tree, d.subject || 'Other', d.subjectSlug, true);
+    const tp = findOrAdd(sb.topics, d.topic || 'Other', d.topicSlug, false);
+    tp.decks.push(d);
+  }
+  const byName = (a, b) => (a.name === 'Other') - (b.name === 'Other') || a.name.localeCompare(b.name);
+  tree.sort(byName);
+  for (const sb of tree) {
+    sb.topics.sort(byName);
+    for (const tp of sb.topics) tp.decks.sort((a, b) => (a.order ?? 999) - (b.order ?? 999) || a.title.localeCompare(b.title));
+    sb.decks = sb.topics.flatMap(t => t.decks);
+  }
+  S.tree = tree;
+  return tree;
+}
+function findDeckPlace(id) {
+  for (const sb of S.tree) for (const tp of sb.topics) if (tp.decks.some(d => d.id === id)) return { subject: sb, topic: tp };
+  return null;
+}
+function deckStats(d) {
+  const vals = Object.values(loadProgress(d.id).status);
+  return { k: vals.filter(v => v === 'known').length, u: vals.filter(v => v === 'unknown').length, count: d.count || 0 };
+}
+function sumStats(decks) {
+  return decks.map(deckStats).reduce((a, x) => ({ k: a.k + x.k, u: a.u + x.u, count: a.count + x.count }), { k: 0, u: 0, count: 0 });
+}
+const barHTML = (k, u, n) => `<div class="bar"><div class="k" style="width:${n ? k / n * 100 : 0}%"></div><div class="u" style="width:${n ? u / n * 100 : 0}%"></div></div>`;
+function navItemHTML(cls, route, name, meta, decks) {
+  const st = sumStats(decks), pct = st.count ? Math.round(st.k / st.count * 100) : 0;
+  const started = decks.some(d => loadProgress(d.id).round);
+  return `<button class="deck nav-item ${cls}" data-go="${esc(route)}">
+    <div class="row"><span class="name">${esc(name)}</span><span class="count">${meta}</span></div>
+    <div class="sub">${started ? `${st.k} of ${st.count} known · ${st.u} still learning` : 'Not started'}<span class="pct">${pct}%</span></div>
+    ${barHTML(st.k, st.u, st.count)}
+  </button>`;
+}
 function renderHome() {
-  const metas = allDeckMetas();
-  const groups = new Map();
-  metas.forEach(d => { const t = d.topic || 'Other'; if (!groups.has(t)) groups.set(t, []); groups.get(t).push(d); });
+  const { subject: sb, topic: tp } = S.ctx;
+  const plural = (n, w) => `${n} ${w}${n === 1 ? '' : 's'}`;
+  $('#home-h1').textContent = tp ? tp.name : sb ? sb.name : '';
+  $('#home-h1').hidden = !sb;
+  $('#app-h1').hidden = !!sb;
+  $('#home-crumb').textContent = tp ? sb.name : sb ? 'Subjects' : '';
+  $('#btn-home-back').hidden = !sb;
+  $('#view-home').dataset.level = tp ? 'topic' : sb ? 'subject' : 'subjects';
   let html = '';
-  if (!metas.length) html = '<div class="empty-note">No decks yet. Run build_decks.py or use Import.</div>';
-  for (const [topic, decks] of groups) {
-    decks.sort((a, b) => (a.order ?? 999) - (b.order ?? 999) || a.title.localeCompare(b.title));
-    html += `<div class="topic">${esc(topic)}</div>`;
-    for (const d of decks) {
+  if (!sb) {
+    if (!S.tree.length) html = '<div class="empty-note">No decks yet. Run build_decks.py or use Import.</div>';
+    html += `<div class="topic">Subjects</div>`;
+    for (const x of S.tree)
+      html += navItemHTML('subject-item', subjRoute(x), x.name,
+        `<span class="subj-topics">${plural(x.topics.length, 'topic')}</span> · <span class="subj-cards">${sumStats(x.decks).count}</span> cards`, x.decks);
+  } else if (!tp) {
+    html += `<div class="topic">Topics</div>`;
+    for (const t of sb.topics)
+      html += navItemHTML('topic-item', topicRoute(sb, t), t.name,
+        `${plural(t.decks.length, 'deck')} · <span class="topic-cards">${sumStats(t.decks).count}</span> cards`, t.decks);
+  } else {
+    html += `<div class="topic">Decks</div>`;
+    for (const d of tp.decks) {
       const p = loadProgress(d.id);
-      const vals = Object.values(p.status);
-      const k = vals.filter(v => v === 'known').length, u = vals.filter(v => v === 'unknown').length;
+      const { k, u } = deckStats(d);
       let sub = 'Not started';
       if (p.round) {
         const r = p.round;
@@ -113,27 +187,30 @@ function renderHome() {
         else if (r.pos >= r.queue.length) sub = `Round ${r.n} done · ${u} still learning`;
         else sub = `Round ${r.n} · card ${r.pos + 1} of ${r.queue.length}`;
       }
-      const pk = d.count ? (k / d.count * 100) : 0, pu = d.count ? (u / d.count * 100) : 0;
       html += `<button class="deck" data-deck="${esc(d.id)}">
         <div class="row"><span class="name">${esc(d.short || d.title)}</span><span class="count"><span class="deck-count">${d.count}</span> cards${d.imported ? ` <span class="deck-del" data-del="${esc(d.id)}" title="Delete imported deck">✕</span>` : ''}</span></div>
         <div class="sub">${esc(sub)} · ${k} known</div>
-        <div class="bar"><div class="k" style="width:${pk}%"></div><div class="u" style="width:${pu}%"></div></div>
+        ${barHTML(k, u, d.count)}
       </button>`;
     }
   }
   $('#deck-list').innerHTML = html;
   updateMissBadge();
 }
+function homeParent() { const { subject: sb, topic: tp } = S.ctx; return tp ? subjRoute(sb) : '#/'; }
+$('#btn-home-back').addEventListener('click', () => { location.hash = homeParent(); });
 $('#deck-list').addEventListener('click', e => {
   const del = e.target.closest('[data-del]');
   if (del) {
     e.stopPropagation();
     if (confirm('Delete this imported deck and its progress?')) {
       LS.set(K.imported, importedDecks().filter(d => d.id !== del.dataset.del));
-      LS.del(K.prog(del.dataset.del)); renderHome();
+      LS.del(K.prog(del.dataset.del)); route();
     }
     return;
   }
+  const go = e.target.closest('[data-go]');
+  if (go) { location.hash = go.dataset.go; return; }
   const b = e.target.closest('[data-deck]');
   if (b) location.hash = '#/deck/' + encodeURIComponent(b.dataset.deck);
 });
@@ -161,6 +238,9 @@ async function openDeck(id) {
   $('#study-deck-title').textContent = deck.short || deck.title;
   $('#study-deck-title').title = deck.title;
   $('#sum-deck-title').textContent = deck.short || deck.title;
+  buildTree();
+  const place = findDeckPlace(id);
+  document.querySelectorAll('[data-back-deck]').forEach(b => b.dataset.nav = place ? topicRoute(place.subject, place.topic) : '#/');
   if (roundDone()) { renderSummary(); show('summary'); }
   else { renderCard(); show('study'); }
 }
@@ -409,15 +489,33 @@ function parseTSV(text) {
   });
   return { cards, bad };
 }
+function renderImportForm() {
+  buildTree();
+  const sel = $('#imp-subject'), cur = S.ctx.subject ? S.ctx.subject.name : (sel.value && sel.value !== '__new' ? sel.value : null);
+  sel.innerHTML = S.tree.map(x => `<option value="${esc(x.name)}">${esc(x.name)}</option>`).join('') + '<option value="__new">+ New subject…</option>';
+  sel.value = cur && S.tree.some(x => x.name === cur) ? cur : (S.tree.length ? S.tree[0].name : '__new');
+  if (S.ctx.topic) $('#imp-topic').value = S.ctx.topic.name;
+  onImpSubject();
+}
+function onImpSubject() {
+  const v = $('#imp-subject').value, isNew = v === '__new';
+  $('#imp-subject-new-wrap').hidden = !isNew;
+  const sb = S.tree.find(x => x.name === v);
+  $('#imp-topic-list').innerHTML = sb ? sb.topics.map(t => `<option value="${esc(t.name)}"></option>`).join('') : '';
+}
+$('#imp-subject').addEventListener('change', onImpSubject);
+$('#btn-import-back').addEventListener('click', () => { location.hash = S.lastRoute && !S.lastRoute.startsWith('#/deck/') ? S.lastRoute : '#/'; });
 $('#btn-import').addEventListener('click', () => {
   const title = $('#imp-title').value.trim() || 'Imported deck';
+  const sv = $('#imp-subject').value;
+  const subject = (sv === '__new' ? $('#imp-subject-new').value.trim() : sv) || 'Other';
   const topic = $('#imp-topic').value.trim() || 'Imported';
   const { cards, bad } = parseTSV($('#imp-text').value);
   if (!cards.length) { $('#imp-status').textContent = 'No cards found. Each line needs a TAB between term and definition.'; return; }
-  const deck = { id: 'imp-' + Date.now().toString(36), title, topic, short: title, order: 999, count: cards.length, cards, imported: true };
+  const deck = { id: 'imp-' + Date.now().toString(36), title, subject, topic, short: title, order: 999, count: cards.length, cards, imported: true };
   const list = importedDecks(); list.push(deck);
   try { LS.set(K.imported, list); } catch { $('#imp-status').textContent = 'Could not save (storage full?)'; return; }
-  $('#imp-text').value = ''; $('#imp-title').value = '';
+  $('#imp-text').value = ''; $('#imp-title').value = ''; $('#imp-subject-new').value = '';
   toast(`Imported ${cards.length} cards` + (bad.length ? ` · skipped ${bad.length} line(s)` : ''));
   location.hash = '#/deck/' + encodeURIComponent(deck.id);
 });
@@ -433,7 +531,10 @@ async function boot() {
   syncSettingInputs();
   try {
     const r = await fetch('decks/index.json', { cache: 'no-cache' });
-    S.manifest = (await r.json()).decks || [];
+    const idx = await r.json();
+    S.manifest = idx.subjects
+      ? idx.subjects.flatMap(sb => sb.topics.flatMap(tp => tp.decks.map(d => ({ ...d, subject: sb.name, subjectSlug: sb.slug, topic: tp.name, topicSlug: tp.slug }))))
+      : (idx.decks || []);
   } catch (err) { S.manifest = []; toast('Could not load decks/index.json'); }
   await route();
   document.documentElement.dataset.ready = '1';

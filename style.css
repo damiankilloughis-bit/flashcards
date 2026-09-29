@@ -112,3 +112,14 @@ h1{font-size:26px;margin:0;font-weight:700;letter-spacing:.2px}
 .menu[hidden]{display:none}
 #view-study{position:relative}
 .toast{position:fixed;left:50%;bottom:calc(24px + var(--safe-b));transform:translateX(-50%);background:#000c;color:#fff;padding:10px 16px;border-radius:12px;font-size:15px;z-index:50}
+
+/* subjects / topics navigation */
+.home-title{display:flex;align-items:center;min-width:0;flex:1}
+.topbar-actions .btn{white-space:nowrap}
+.crumb-btn{margin-left:-14px;font-size:17px;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;text-align:left}
+.crumb-btn[hidden],.level-title[hidden],#app-h1[hidden]{display:none}
+.level-title{font-size:26px;font-weight:700;line-height:1.2;margin:0 0 8px}
+.deck.nav-item .name::after{content:" ›";color:var(--muted);font-weight:400}
+.deck .pct{color:var(--muted);font-size:14px;float:right}
+.import select{background:var(--panel);color:var(--text);border:1px solid var(--line);border-radius:12px;padding:12px;font:inherit;font-size:16px}
+.import label[hidden]{display:none}

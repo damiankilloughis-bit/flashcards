@@ -6,6 +6,7 @@
 const K = {
   settings: 'fc.settings',
   imported: 'fc.imported',          // [{id,title,subject,topic,short,order,count,cards,imported:true}]
+  subjects: 'fc.subjects',          // user-added subjects [{name, created}] (may be empty)
   misses:   'fc.misses',            // {"deckId|cardId": {deckId,deckTitle,cardId,term,def,count,first,last}}
   prog: id => 'fc.progress.' + id,  // {status:{cardId:'known'|'unknown'}, round:{...}}
 };
@@ -118,6 +119,7 @@ function buildTree() {
     }
     return x;
   };
+  for (const cs of LS.get(K.subjects, [])) findOrAdd(tree, cs.name, null, true).custom = true;
   for (const d of allDeckMetas()) {
     const sb = findOrAdd(tree, d.subject || 'Other', d.subjectSlug, true);
     const tp = findOrAdd(sb.topics, d.topic || 'Other', d.topicSlug, false);
@@ -172,6 +174,7 @@ function renderHome() {
         `<span class="subj-topics">${plural(x.topics.length, 'topic')}</span> · <span class="subj-cards">${sumStats(x.decks).count}</span> cards`, x.decks);
   } else if (!tp) {
     html += `<div class="topic">Topics</div>`;
+    if (!sb.topics.length) html += `<div class="empty-note">No topics yet. Add a topic by importing its first deck.<br><button class="btn red small-btn" id="btn-del-subject">Delete empty subject</button></div>`;
     for (const t of sb.topics)
       html += navItemHTML('topic-item', topicRoute(sb, t), t.name,
         `${plural(t.decks.length, 'deck')} · <span class="topic-cards">${sumStats(t.decks).count}</span> cards`, t.decks);
@@ -195,8 +198,28 @@ function renderHome() {
     }
   }
   $('#deck-list').innerHTML = html;
+  $('#add-subject-box').hidden = !!sb;
+  $('#add-subject-form').hidden = true; $('#btn-add-subject').hidden = false;
+  $('#add-topic-box').hidden = !sb || !!tp;
   updateMissBadge();
 }
+function addCustomSubject(name) {
+  name = name.trim(); if (!name) return null;
+  const list = LS.get(K.subjects, []);
+  if (!buildTree().some(x => x.name.toLowerCase() === name.toLowerCase())) { list.push({ name, created: Date.now() }); LS.set(K.subjects, list); }
+  return buildTree().find(x => x.name.toLowerCase() === name.toLowerCase());
+}
+$('#btn-add-subject').addEventListener('click', () => {
+  $('#btn-add-subject').hidden = true; $('#add-subject-form').hidden = false; $('#new-subject-name').value = ''; $('#new-subject-name').focus();
+});
+$('#btn-add-subject-cancel').addEventListener('click', () => { $('#add-subject-form').hidden = true; $('#btn-add-subject').hidden = false; });
+$('#add-subject-form').addEventListener('submit', e => {
+  e.preventDefault();
+  const sb = addCustomSubject($('#new-subject-name').value);
+  if (!sb) { toast('Enter a subject name'); return; }
+  toast(`Added ${sb.name}`); location.hash = subjRoute(sb);
+});
+$('#btn-add-topic').addEventListener('click', () => { $('#imp-topic').value = ''; location.hash = '#/import'; });
 function homeParent() { const { subject: sb, topic: tp } = S.ctx; return tp ? subjRoute(sb) : '#/'; }
 $('#btn-home-back').addEventListener('click', () => { location.hash = homeParent(); });
 $('#deck-list').addEventListener('click', e => {
@@ -207,6 +230,11 @@ $('#deck-list').addEventListener('click', e => {
       LS.set(K.imported, importedDecks().filter(d => d.id !== del.dataset.del));
       LS.del(K.prog(del.dataset.del)); route();
     }
+    return;
+  }
+  if (e.target.closest('#btn-del-subject')) {
+    const sb = S.ctx.subject;
+    if (sb && confirm(`Delete empty subject ${sb.name}?`)) { LS.set(K.subjects, LS.get(K.subjects, []).filter(x => x.name.toLowerCase() !== sb.name.toLowerCase())); location.hash = '#/'; }
     return;
   }
   const go = e.target.closest('[data-go]');
@@ -494,7 +522,7 @@ function renderImportForm() {
   const sel = $('#imp-subject'), cur = S.ctx.subject ? S.ctx.subject.name : (sel.value && sel.value !== '__new' ? sel.value : null);
   sel.innerHTML = S.tree.map(x => `<option value="${esc(x.name)}">${esc(x.name)}</option>`).join('') + '<option value="__new">+ New subject…</option>';
   sel.value = cur && S.tree.some(x => x.name === cur) ? cur : (S.tree.length ? S.tree[0].name : '__new');
-  if (S.ctx.topic) $('#imp-topic').value = S.ctx.topic.name;
+  if (S.ctx.topic) $('#imp-topic').value = S.ctx.topic.name; else if (S.ctx.subject) $('#imp-topic').value = '';
   onImpSubject();
 }
 function onImpSubject() {
@@ -509,6 +537,7 @@ $('#btn-import').addEventListener('click', () => {
   const title = $('#imp-title').value.trim() || 'Imported deck';
   const sv = $('#imp-subject').value;
   const subject = (sv === '__new' ? $('#imp-subject-new').value.trim() : sv) || 'Other';
+  if (sv === '__new' && subject !== 'Other') addCustomSubject(subject);
   const topic = $('#imp-topic').value.trim() || 'Imported';
   const { cards, bad } = parseTSV($('#imp-text').value);
   if (!cards.length) { $('#imp-status').textContent = 'No cards found. Each line needs a TAB between term and definition.'; return; }

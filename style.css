@@ -123,3 +123,9 @@ h1{font-size:26px;margin:0;font-weight:700;letter-spacing:.2px}
 .deck .pct{color:var(--muted);font-size:14px;float:right}
 .import select{background:var(--panel);color:var(--text);border:1px solid var(--line);border-radius:12px;padding:12px;font:inherit;font-size:16px}
 .import label[hidden]{display:none}
+.add-box{margin-top:6px}
+.add-box[hidden],.add-form[hidden]{display:none}
+.btn.ghost-outline{background:transparent;border:1px dashed var(--line);color:var(--accent)}
+.add-form{display:flex;gap:8px}
+.add-form input{flex:1;min-width:0;background:var(--panel);color:var(--text);border:1px solid var(--line);border-radius:12px;padding:12px;font:inherit;font-size:16px}
+.small-btn{margin-top:14px;font-size:14px;padding:8px 12px}

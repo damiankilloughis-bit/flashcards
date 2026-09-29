@@ -35,6 +35,17 @@
       <label class="toggle"><input type="checkbox" id="opt-deffirst"><span>Definition first</span></label>
     </div>
     <div id="deck-list"></div>
+    <div id="add-subject-box" class="add-box" hidden>
+      <button class="btn big-wide ghost-outline" id="btn-add-subject">+ Add subject</button>
+      <form id="add-subject-form" class="add-form" hidden>
+        <input id="new-subject-name" type="text" placeholder="Course, e.g. PSY-101" autocomplete="off">
+        <button class="btn green" type="submit">Add</button>
+        <button class="btn" type="button" id="btn-add-subject-cancel">Cancel</button>
+      </form>
+    </div>
+    <div id="add-topic-box" class="add-box" hidden>
+      <button class="btn big-wide ghost-outline" id="btn-add-topic">+ Add topic / import deck</button>
+    </div>
   </section>
 
   <!-- STUDY -->

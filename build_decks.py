@@ -4,21 +4,22 @@
 HIERARCHY  Subject > Topic > Deck.  Source files live in one folder per subject and topic:
 
     decks/src/<subject-slug>/<topic-slug>/NN-name.tsv
-    e.g. decks/src/english/eng205-middle-ages-intro/01-definitions.tsv
+    e.g. decks/src/eng205/middle-ages-intro/01-definitions.tsv
 
 HOW TO ADD A SUBJECT / TOPIC / DECK
   * New deck:    drop a TSV into the topic folder, named NN-name.tsv (NN = position 1..n in the topic).
-  * New topic:   make a new folder under the subject, e.g. decks/src/english/eng210-renaissance/.
-  * New subject: make a new folder under decks/src, e.g. decks/src/math/calc1-limits/01-basics.tsv.
+  * New topic:   make a new folder under the subject (course), e.g. decks/src/eng205/renaissance/.
+  * New subject: make a new folder under decks/src, e.g. decks/src/mat101/limits/01-basics.tsv.
   Then run  python3 build_decks.py  and commit decks/ (the JSON is what the site serves).
   Subject/topic names are inferred from folder names ("math" -> "Math", "calc1-limits" -> "Calc1 Limits");
-  add '# subject:' / '# topic:' headers for nicer names (headers always win over folders).
+  add '# subject:' / '# topic:' headers for nicer names (headers always win over folders),
+  e.g. '# subject: ENG-205' and '# topic: Middle Ages Intro'.  Folder names become the URL: #/eng205/middle-ages-intro.
   Files outside a subject folder (or without a subject header) go under subject "Other" / topic "Other".
 
 Source file format (one card per line):   term<TAB>definition
 Optional header lines at the top of the file (all optional):
-    # subject: English                          (top level on the home screen; default = folder name or "Other")
-    # topic:   ENG-205 Middle Ages Intro        (group inside the subject; default = folder name or "Other")
+    # subject: ENG-205                          (course; top level on the home screen; default = folder name or "Other")
+    # topic:   Middle Ages Intro                (group inside the subject; default = folder name or "Other")
     # title:   ENG-205 Middle Ages Intro — 1 Definitions
     # short:   1 Definitions                    (label inside the topic)
     # order:   1                                (sort within topic; default = last number in filename)

@@ -1,0 +1,150 @@
+{
+ "id": "eng205-01-definitions",
+ "title": "ENG-205 Middle Ages Intro — 1 Definitions",
+ "topic": "ENG-205 Middle Ages Intro",
+ "short": "1 Definitions",
+ "order": 1,
+ "count": 28,
+ "cards": [
+  {
+   "id": "c0",
+   "term": "Origin of the word 'medieval'",
+   "def": "The word medieval comes from the Latin medium, meaning middle, and aevum, meaning age. It names the 'middle age' between the fall of Rome and the Renaissance."
+  },
+  {
+   "id": "c1",
+   "term": "Old English (Anglo-Saxon)",
+   "def": "Old English, also called Anglo-Saxon, was the Germanic language of the Angles, Saxons and Jutes, and it was spoken until about 1066. It was heavily inflected, and it is the language of Caedmon's Hymn and Beowulf."
+  },
+  {
+   "id": "c2",
+   "term": "Anglo-Norman (Old French)",
+   "def": "Anglo-Norman, a form of Old French, was the French spoken by England's ruling class after the Norman Conquest of 1066."
+  },
+  {
+   "id": "c3",
+   "term": "Middle English",
+   "def": "Middle English is the English that re-emerged between the 1100s and the 1300s, with simpler grammar and thousands of French words. It was not yet standardized, and it is the language Chaucer wrote in."
+  },
+  {
+   "id": "c4",
+   "term": "Early Modern English",
+   "def": "Early Modern English is the language of Shakespeare. A London and East Midlands standard emerged in the 1400s, the Great Vowel Shift changed how it sounded, and print fixed its spelling."
+  },
+  {
+   "id": "c5",
+   "term": "Inflected language",
+   "def": "An inflected language is one in which words change their endings to show their function, such as person, number, tense, case and mood. Old English is a heavily inflected language."
+  },
+  {
+   "id": "c6",
+   "term": "Alliteration",
+   "def": "Alliteration means starting several words with the same sound, and it is the main organizing principle of Old English poetry, which rarely uses rhyme. In that poetry, any vowel alliterates with any other vowel."
+  },
+  {
+   "id": "c7",
+   "term": "Kenning",
+   "def": "A kenning is a two-word compound noun used in place of a plain noun. For example, 'life-house' means the body and 'whale-road' means the sea."
+  },
+  {
+   "id": "c8",
+   "term": "Elegiac tone",
+   "def": "Elegiac describes a mournful tone that laments loss and the passing of time. It is typical of Old English poetry, which blends Christian values with pagan heroic values."
+  },
+  {
+   "id": "c9",
+   "term": "Heroic code (lord and retainer)",
+   "def": "In the heroic code, kinship rather than geography makes a nation, and the lord must be generous, giving his men gifts and treasure. In return his men owe him loyalty to the death and revenge after he dies, and scholars call this bond the comitatus."
+  },
+  {
+   "id": "c10",
+   "term": "Synecdoche and metonymy",
+   "def": "Synecdoche and metonymy are Old English poetic devices. In synecdoche a part stands for the whole, as when 'keel' means a ship, and in metonymy something associated with a thing stands in for it, as when 'crown' means the king."
+  },
+  {
+   "id": "c11",
+   "term": "Wergild",
+   "def": "Wergild was money paid to a victim's family for causing a death, and it replaced blood revenge. Failing to pay it brought dishonor, as we see in Beowulf."
+  },
+  {
+   "id": "c12",
+   "term": "Witan",
+   "def": "The Witan was Alfred's assembly of nobles who advised the king. It later became William's Great Council and was a forerunner of Parliament."
+  },
+  {
+   "id": "c13",
+   "term": "Fyrd",
+   "def": "The fyrd was Alfred the Great's first national militia."
+  },
+  {
+   "id": "c14",
+   "term": "Shire-reeve",
+   "def": "The shire-reeve was the official who ran a shire, or county, for the king. The title is the origin of the word 'sheriff'."
+  },
+  {
+   "id": "c15",
+   "term": "Danelaw",
+   "def": "The Danelaw was the area of permanent Viking, or Danish, settlement in eastern Britain. The Danes were the common enemy that united the Anglo-Saxon kingdoms under Alfred."
+  },
+  {
+   "id": "c16",
+   "term": "Domesday Survey (Domesday Book)",
+   "def": "The Domesday Survey, or Domesday Book, was William the Conqueror's census of all land, people and property, right down to the livestock. Its purpose was taxation."
+  },
+  {
+   "id": "c17",
+   "term": "Hagiography",
+   "def": "Hagiography is writing about the lives of saints. Bede's Ecclesiastical History is partly hagiography."
+  },
+  {
+   "id": "c18",
+   "term": "Breton lay",
+   "def": "A Breton lay was a short Celtic oral tale sung by storytellers. Anglo-Norman aristocrats loved these tales, and they developed into the romance."
+  },
+  {
+   "id": "c19",
+   "term": "Chivalric romance",
+   "def": "A chivalric romance is a story of knightly adventure, courtly love and courtesy toward ladies, and martial prowess against powerful foes. Examples include Sir Gawain and the Green Knight and Malory's Morte Darthur."
+  },
+  {
+   "id": "c20",
+   "term": "Alliterative Revival",
+   "def": "The Alliterative Revival was a return in the 1300s to Old English-style alliterative verse. Sir Gawain and the Green Knight and Piers Plowman are examples."
+  },
+  {
+   "id": "c21",
+   "term": "Mystery play and morality play",
+   "def": "A mystery play is part of a cycle of plays dramatizing Bible stories, like the York and Wakefield cycles. A morality play shows personified virtues and vices fighting for a man's soul, as in Everyman."
+  },
+  {
+   "id": "c22",
+   "term": "Lollards",
+   "def": "The Lollards were followers of John Wycliffe who criticized Church corruption and produced the first complete English Bible around 1380. They were persecuted as heretics, and Lollards were first burned in 1401."
+  },
+  {
+   "id": "c23",
+   "term": "Black Death",
+   "def": "The Black Death was the bubonic plague of 1348, and it killed one quarter to one third of Europe's population. The labor shortage that followed led to social mobility."
+  },
+  {
+   "id": "c24",
+   "term": "Great Vowel Shift",
+   "def": "The Great Vowel Shift was a change in the 1400s in how long vowels were pronounced. It helped move Middle English toward Early Modern English."
+  },
+  {
+   "id": "c25",
+   "term": "Exeter Book",
+   "def": "The Exeter Book is an Old English manuscript collection that includes the riddles, which are full of double entendre. It shows the Anglo-Saxon love of riddles."
+  },
+  {
+   "id": "c26",
+   "term": "Beowulf",
+   "def": "Beowulf is an Old English heroic epic, composed perhaps around 750, that survives in only one manuscript from around 1000. It shows the heroic code, wergild and the elegiac tone."
+  },
+  {
+   "id": "c27",
+   "term": "Angles, Saxons and Jutes",
+   "def": "The Angles, Saxons and Jutes were Germanic tribes who came to Britain as mercenaries after Rome left and took it over from around 450, and the name Anglo-Saxon comes from the Angles and the Saxons. The Jutes held Kent, the Saxons held Essex, Wessex and Sussex, and the Angles held East Anglia, Mercia and Northumbria."
+  }
+ ]
+}

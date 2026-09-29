@@ -1,0 +1,120 @@
+{
+ "id": "eng205-05-qa",
+ "title": "ENG-205 Middle Ages Intro — 5 Q&A",
+ "topic": "ENG-205 Middle Ages Intro",
+ "short": "5 Q&A",
+ "order": 5,
+ "count": 22,
+ "cards": [
+  {
+   "id": "c0",
+   "term": "What dates frame the Middle Ages period?",
+   "def": "The Middle Ages period runs from around 450, when Roman rule in Britain collapsed, to around 1485, when the Renaissance and the Tudor line began."
+  },
+  {
+   "id": "c1",
+   "term": "What are the three sub-periods of medieval English literature?",
+   "def": "The three sub-periods are the Anglo-Saxon, the Anglo-Norman and the Middle English periods."
+  },
+  {
+   "id": "c2",
+   "term": "What event made French the language of England's ruling class?",
+   "def": "The Norman Conquest of 1066 by William the Conqueror made French the language of England's ruling class."
+  },
+  {
+   "id": "c3",
+   "term": "Which four languages circulated in Anglo-Norman England?",
+   "def": "Four languages circulated: Old French, Latin, Old English and the Celtic languages."
+  },
+  {
+   "id": "c4",
+   "term": "What is the organizing principle of Old English poetry: rhyme or alliteration?",
+   "def": "Alliteration is the organizing principle of Old English poetry. Rhyme is rarely used to link lines."
+  },
+  {
+   "id": "c5",
+   "term": "What is a kenning? Give an example.",
+   "def": "A kenning is a two-word compound used in place of a plain noun. For example, 'life-house' means the body."
+  },
+  {
+   "id": "c6",
+   "term": "What does the lord owe his men, and what do they owe him?",
+   "def": "The lord owes his men generosity, meaning gifts, treasure and protection. In return, his men owe him loyalty to the death and revenge if he is killed."
+  },
+  {
+   "id": "c7",
+   "term": "What tone is typical of Old English poetry?",
+   "def": "The typical tone is elegiac, or mournful, and it mixes Christian values with pagan heroic values."
+  },
+  {
+   "id": "c8",
+   "term": "What was the earliest poem recorded in English, and who preserved it?",
+   "def": "The earliest poem recorded in English is Caedmon's Hymn. Bede preserved it in his Ecclesiastical History of the English People."
+  },
+  {
+   "id": "c9",
+   "term": "Where did the romance form come from?",
+   "def": "The romance form grew out of Celtic Breton lays, which Anglo-Norman aristocrats loved."
+  },
+  {
+   "id": "c10",
+   "term": "Which famous romance survives in only one manuscript?",
+   "def": "Sir Gawain and the Green Knight survives in only one manuscript."
+  },
+  {
+   "id": "c11",
+   "term": "Who wrote Le Morte Darthur, and who printed it?",
+   "def": "Sir Thomas Malory wrote Le Morte Darthur in prison around 1470. William Caxton printed it in 1485."
+  },
+  {
+   "id": "c12",
+   "term": "What did the Black Death (1348) do to English society?",
+   "def": "The Black Death killed one quarter to one third of the population, which caused a labor shortage and allowed social mobility. That mobility showed in a rising merchant class, the revolt of 1381, and new criticism of the Church and society."
+  },
+  {
+   "id": "c13",
+   "term": "Who were the Lollards?",
+   "def": "The Lollards were followers of John Wycliffe who criticized Church corruption. They produced the first complete English Bible around 1380."
+  },
+  {
+   "id": "c14",
+   "term": "What verse form does Chaucer mainly use in The Canterbury Tales?",
+   "def": "In The Canterbury Tales, Chaucer mainly uses rhymed couplets with five-stress lines."
+  },
+  {
+   "id": "c15",
+   "term": "What was the Alliterative Revival?",
+   "def": "The Alliterative Revival was a return in the 1300s to Old English alliterative verse. Examples include Sir Gawain and the Green Knight and Piers Plowman."
+  },
+  {
+   "id": "c16",
+   "term": "What is the difference between a mystery play and a morality play?",
+   "def": "A mystery play acts out Bible stories as part of a cycle. A morality play shows personified virtues and vices fighting over a soul, as in Everyman."
+  },
+  {
+   "id": "c17",
+   "term": "Why did Caxton's press (1476) matter?",
+   "def": "Caxton's press used moveable type to make books quickly and in identical copies. That spread texts widely and helped fix spelling standards."
+  },
+  {
+   "id": "c18",
+   "term": "Who was the first true English king, and what united the kingdoms?",
+   "def": "Alfred the Great, who reigned from 871 to 899, was the first true English king. The threat from the Vikings, or Danes, united the kingdoms."
+  },
+  {
+   "id": "c19",
+   "term": "Is Shakespeare's language Old English?",
+   "def": "No, Shakespeare's language is Early Modern English. Old English is the language of Beowulf and Caedmon's Hymn, and Middle English is the language of Chaucer."
+  },
+  {
+   "id": "c20",
+   "term": "When was English first used in the law courts and Parliament?",
+   "def": "English was first used in the law courts and Parliament in 1362."
+  },
+  {
+   "id": "c21",
+   "term": "Why does English use different words for the animal and its meat, such as cow and beef, sheep and mutton, and swine and pork?",
+   "def": "English-speaking peasants raised the animals, while French-speaking Norman lords ate the meat. That is why the animal names are English and the meat names are French, according to the History of English in 10 Minutes video."
+  }
+ ]
+}

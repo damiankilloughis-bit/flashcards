@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#111418">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Flashcards">
+<title>Flashcards</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="app">
+
+  <!-- HOME -->
+  <section id="view-home" class="view">
+    <header class="topbar">
+      <h1>Flashcards</h1>
+      <div class="topbar-actions">
+        <button class="btn ghost" id="btn-misses" data-nav="#/misses">Misses <span id="miss-badge" class="badge"></span></button>
+        <button class="btn ghost" data-nav="#/import">Import</button>
+      </div>
+    </header>
+    <div class="settings-row">
+      <label class="toggle"><input type="checkbox" id="opt-shuffle"><span>Shuffle</span></label>
+      <label class="toggle"><input type="checkbox" id="opt-deffirst"><span>Definition first</span></label>
+    </div>
+    <div id="deck-list"></div>
+  </section>
+
+  <!-- STUDY -->
+  <section id="view-study" class="view" hidden>
+    <header class="topbar study-top">
+      <button class="btn ghost icon" data-nav="#/" aria-label="Back">‹</button>
+      <div class="study-title">
+        <div id="study-deck-title" class="deck-title-sm"></div>
+        <div id="study-round" class="muted small"></div>
+      </div>
+      <button class="btn ghost icon" id="btn-menu" aria-label="Options">⋯</button>
+    </header>
+    <div id="study-menu" class="menu" hidden>
+      <label class="toggle"><input type="checkbox" id="opt-shuffle-2"><span>Shuffle (next round)</span></label>
+      <label class="toggle"><input type="checkbox" id="opt-deffirst-2"><span>Definition first</span></label>
+      <button class="btn" id="btn-restart-menu">Restart deck</button>
+      <button class="btn" data-nav="#/misses">Misses list</button>
+    </div>
+    <div class="progress-row">
+      <span class="pill red" id="cnt-unknown">0</span>
+      <div class="progress"><div id="progress-bar"></div></div>
+      <span class="pill green" id="cnt-known">0</span>
+    </div>
+    <div class="progress-label muted small" id="progress-label"></div>
+
+    <div id="stage" class="stage">
+      <div id="card-next" class="card-shell next"><div class="card"><div class="face front"><div class="face-inner"><div class="face-text" id="next-text"></div></div></div></div></div>
+      <div id="card-cur" class="card-shell" tabindex="0">
+        <div class="stamp know">KNOW</div>
+        <div class="stamp dont">STILL LEARNING</div>
+        <div class="card" id="card-inner">
+          <div class="face front"><div class="face-label" id="front-label">Term</div><div class="face-inner"><div class="face-text" id="front-text"></div></div><div class="hint">tap to flip</div></div>
+          <div class="face back"><div class="face-label" id="back-label">Definition</div><div class="face-inner"><div class="face-text" id="back-text"></div></div><div class="hint">tap to flip</div></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="controls">
+      <button class="btn big red" id="btn-dont" aria-label="Don't know (left arrow)">✕<span>Don't know</span></button>
+      <button class="btn big ghost" id="btn-undo" aria-label="Undo (Z)">↶<span>Undo</span></button>
+      <button class="btn big green" id="btn-know" aria-label="Know (right arrow)">✓<span>Know</span></button>
+    </div>
+    <div class="kbd-hint muted small">← don't know · → know · space flip · Z undo</div>
+  </section>
+
+  <!-- SUMMARY -->
+  <section id="view-summary" class="view" hidden>
+    <header class="topbar study-top">
+      <button class="btn ghost icon" data-nav="#/" aria-label="Back">‹</button>
+      <div class="study-title"><div id="sum-deck-title" class="deck-title-sm"></div></div>
+      <span></span>
+    </header>
+    <div class="summary">
+      <div id="sum-heading" class="sum-heading">Round complete</div>
+      <div class="sum-stats">
+        <div class="stat green"><div class="num" id="sum-known">0</div><div>known</div></div>
+        <div class="stat red"><div class="num" id="sum-unknown">0</div><div>still learning</div></div>
+      </div>
+      <div class="muted" id="sum-overall"></div>
+      <div id="sum-missed-list" class="sum-missed"></div>
+      <button class="btn big-wide green" id="btn-keep">Keep going</button>
+      <button class="btn big-wide" id="btn-undo-sum">Undo last swipe</button>
+      <button class="btn big-wide" id="btn-restart">Restart deck</button>
+      <button class="btn big-wide ghost" data-nav="#/misses">Misses list</button>
+    </div>
+  </section>
+
+  <!-- MISSES -->
+  <section id="view-misses" class="view" hidden>
+    <header class="topbar study-top">
+      <button class="btn ghost icon" id="btn-misses-back" aria-label="Back">‹</button>
+      <div class="study-title"><div class="deck-title-sm">Misses list</div><div class="muted small">every card ever swiped left · write &amp; say ×25</div></div>
+      <span></span>
+    </header>
+    <div class="misses-bar">
+      <select id="miss-filter"></select>
+      <button class="btn red" id="btn-clear-misses">Clear</button>
+    </div>
+    <div id="miss-list"></div>
+  </section>
+
+  <!-- IMPORT -->
+  <section id="view-import" class="view" hidden>
+    <header class="topbar study-top">
+      <button class="btn ghost icon" data-nav="#/" aria-label="Back">‹</button>
+      <div class="study-title"><div class="deck-title-sm">Import deck</div><div class="muted small">saved on this device only</div></div>
+      <span></span>
+    </header>
+    <div class="import">
+      <label>Title<input id="imp-title" type="text" placeholder="My deck"></label>
+      <label>Topic<input id="imp-topic" type="text" placeholder="Imported"></label>
+      <label>Cards — one per line: term&lt;TAB&gt;definition<textarea id="imp-text" rows="10" placeholder="term&#9;definition"></textarea></label>
+      <div id="imp-status" class="muted small"></div>
+      <button class="btn big-wide green" id="btn-import">Save deck</button>
+    </div>
+  </section>
+
+</div>
+<div id="toast" class="toast" hidden></div>
+<script src="app.js"></script>
+</body>
+</html>

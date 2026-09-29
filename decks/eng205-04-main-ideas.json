@@ -1,0 +1,35 @@
+{
+ "id": "eng205-04-main-ideas",
+ "title": "ENG-205 Middle Ages Intro — 4 Main Ideas",
+ "topic": "ENG-205 Middle Ages Intro",
+ "short": "4 Main Ideas",
+ "order": 4,
+ "count": 5,
+ "cards": [
+  {
+   "id": "c0",
+   "term": "When the Middle Ages began and ended, and its three sub-periods",
+   "def": "The Middle Ages run from around 450, when Rome left Britain and the Anglo-Saxons arrived, to around 1485, when the Tudors, the Renaissance and printing arrived. The literature of the period falls into three sub-periods: Anglo-Saxon, Anglo-Norman and Middle English."
+  },
+  {
+   "id": "c1",
+   "term": "How the Norman Conquest of 1066 changed language in England",
+   "def": "The Norman Conquest of 1066 put a French-speaking elite on top, and four languages then circulated: French for the court and law, Latin for the Church and learning, English for the common people, and the Celtic languages. English sank for about 200 years, then came back as Middle English full of French words, and by 1362 it was used in the law courts and Parliament."
+  },
+  {
+   "id": "c2",
+   "term": "The main features of Old English poetry",
+   "def": "Old English poetry rests on the heroic code, in which a generous lord and his loyal retainers are bound together, the men owe him loyalty to the death and then revenge, and kinship makes the nation. It uses kennings such as 'life-house' for the body, and alliteration rather than rhyme organizes the line. Its elegiac tone blends pagan heroism with Christianity, as in Beowulf and Caedmon's Hymn."
+  },
+  {
+   "id": "c3",
+   "term": "How romance developed from Breton lays to Sir Gawain to Malory",
+   "def": "Celtic Breton lays, loved by Norman aristocrats, grew into chivalric romance, with its knightly quests, courtly love, courtesy and prowess. The Arthurian line runs from Geoffrey of Monmouth to Sir Gawain and the Green Knight, which survives in a single manuscript and belongs to the Alliterative Revival, and then to Malory's Morte Darthur, which Caxton printed in 1485."
+  },
+  {
+   "id": "c4",
+   "term": "How the plague of 1348 led to social mobility",
+   "def": "The Black Death of 1348 killed one quarter to one third of Europe's population, so labor was scarce and people could move up socially. This produced a rising merchant class, for whom Chaucer, a merchant's son, wrote in English, along with social and religious criticism in Langland's Piers Plowman and in Wycliffe and the Lollards' English Bible. It also led to the Peasants' Revolt of 1381."
+  }
+ ]
+}

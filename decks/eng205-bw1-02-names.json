@@ -5,7 +5,7 @@
  "topic": "Beowulf Part 1 (to Another Attack)",
  "short": "2 Names",
  "order": 2,
- "count": 50,
+ "count": 16,
  "cards": [
   {
    "id": "c0",
@@ -14,248 +14,78 @@
   },
   {
    "id": "c1",
-   "term": "Beow",
-   "def": "Beow was Shield Sheafson's son, sent by God to comfort the Danes, and he ruled them well after his father's death."
-  },
-  {
-   "id": "c2",
-   "term": "Halfdane",
-   "def": "Halfdane was Beow's heir and Hrothgar's father, a warlord who ruled the Danes for the rest of his life."
-  },
-  {
-   "id": "c3",
    "term": "Hrothgar",
    "def": "Hrothgar is the aging king of the Danes who builds Heorot and suffers helplessly under Grendel's attacks."
   },
   {
-   "id": "c4",
-   "term": "Why Hrothgar knows Beowulf's family",
-   "def": "Hrothgar once ended a feud for Beowulf's father by paying treasure to the Wulfings, and in return Ecgtheow swore allegiance to him."
-  },
-  {
-   "id": "c5",
-   "term": "Heorogar",
-   "def": "Heorogar was Hrothgar's older brother, whom Hrothgar calls the better man, and he died young."
-  },
-  {
-   "id": "c6",
-   "term": "Halga",
-   "def": "Halga, called \"the good,\" was Hrothgar's younger brother."
-  },
-  {
-   "id": "c7",
+   "id": "c2",
    "term": "Wealhtheow",
    "def": "Wealhtheow is Hrothgar's queen, who passes the mead cup in order of rank and thanks God for sending Beowulf as a deliverer."
   },
   {
-   "id": "c8",
-   "term": "What Wealhtheow asks for her sons",
-   "def": "Wealhtheow urges Hrothgar to leave the kingdom to his own kin and asks both Hrothulf and Beowulf to protect her young sons."
-  },
-  {
-   "id": "c9",
-   "term": "Hrethric and Hrothmond",
-   "def": "Hrethric and Hrothmond are the young sons of Hrothgar and Wealhtheow, between whom Beowulf sits at the victory feast."
-  },
-  {
-   "id": "c10",
-   "term": "Hrothulf",
-   "def": "Hrothulf is Hrothgar's nephew, whom Wealhtheow trusts to protect her sons, although the poet hints that the Danes will later know feud and betrayal."
-  },
-  {
-   "id": "c11",
+   "id": "c3",
    "term": "Grendel",
    "def": "Grendel is a man-eating monster descended from Cain who raids Heorot at night because the sounds of feasting and song enrage him."
   },
   {
-   "id": "c12",
-   "term": "Why no weapon hurts Grendel",
-   "def": "Grendel had put a spell on every blade, so the swords of Beowulf's men could not wound him."
-  },
-  {
-   "id": "c13",
-   "term": "Cain",
-   "def": "Cain is the biblical first murderer, and God's curse on him for killing Abel produced a race of monsters that includes Grendel."
-  },
-  {
-   "id": "c14",
+   "id": "c4",
    "term": "Beowulf",
    "def": "Beowulf is a young Geatish warrior of great strength who sails to Denmark to rid Hrothgar's hall of Grendel."
   },
   {
-   "id": "c15",
+   "id": "c5",
    "term": "Beowulf's reputation before Denmark",
    "def": "Beowulf arrives already famous for binding beasts, raiding a troll-nest, and killing sea monsters at night."
   },
   {
-   "id": "c16",
+   "id": "c6",
    "term": "Ecgtheow",
    "def": "Ecgtheow is Beowulf's father, a famous warrior who killed Heatholaf and fled to the Danes until Hrothgar paid off the feud."
   },
   {
-   "id": "c17",
+   "id": "c7",
    "term": "Hygelac",
    "def": "Hygelac is king of the Geats and Beowulf's lord and uncle, and Beowulf fights Grendel partly to add to Hygelac's fame."
   },
   {
-   "id": "c18",
-   "term": "Hygelac's fate foretold",
-   "def": "The poet foretells that Hygelac will wear Wealhtheow's torque on a proud raid against the Frisians and die there, leaving his body to the Franks."
-  },
-  {
-   "id": "c19",
-   "term": "Hrethel",
-   "def": "Hrethel was the earlier king of the Geats and Beowulf's grandfather, who gave his daughter to Ecgtheow and gave Beowulf his mail shirt."
-  },
-  {
-   "id": "c20",
-   "term": "Weland",
-   "def": "Weland is the legendary smith who forged the mail shirt that Beowulf wants sent to Hygelac if he dies."
-  },
-  {
-   "id": "c21",
-   "term": "Heatholaf",
-   "def": "Heatholaf was a warrior of the Wulfings whose killing by Ecgtheow started a feud."
-  },
-  {
-   "id": "c22",
-   "term": "The Wulfings",
-   "def": "The Wulfings were Heatholaf's tribe, to whom Hrothgar sent treasure to settle their feud with Ecgtheow."
-  },
-  {
-   "id": "c23",
+   "id": "c8",
    "term": "The Danish coast-guard",
    "def": "Hrothgar's coast-guard challenges the armed Geats on the beach, judges them honest by their words and bearing, and guides them to Heorot."
   },
   {
-   "id": "c24",
-   "term": "Wulfgar",
-   "def": "Wulfgar is Hrothgar's herald, a Wendel chief, who questions the Geats at the door and persuades Hrothgar to receive them."
-  },
-  {
-   "id": "c25",
+   "id": "c9",
    "term": "Unferth",
    "def": "Unferth, son of Ecglaf, is a Danish courtier who sits at Hrothgar's feet and, out of envy, mocks Beowulf for losing a swimming match."
   },
   {
-   "id": "c26",
+   "id": "c10",
    "term": "Unferth's crime",
    "def": "Beowulf reveals that Unferth killed his own brothers, a crime that shames him despite his cleverness."
   },
   {
-   "id": "c27",
+   "id": "c11",
    "term": "Breca",
    "def": "Breca is Beowulf's boyhood rival, who according to Unferth outswam Beowulf in a sea contest and returned home to the Brondings."
   },
   {
-   "id": "c28",
-   "term": "The Brondings",
-   "def": "The Brondings are Breca's people, to whose country he returned after the swimming match."
-  },
-  {
-   "id": "c29",
-   "term": "The Heathoreams",
-   "def": "The Heathoreams are the people on whose shore the sea cast Breca up after the swim."
-  },
-  {
-   "id": "c30",
+   "id": "c12",
    "term": "The Geats",
    "def": "The Geats are Beowulf's people, a seafaring tribe of what is now southern Sweden, ruled by Hygelac."
   },
   {
-   "id": "c31",
+   "id": "c13",
    "term": "The Danes",
    "def": "The Danes, also called Shieldings after their founder Shield, are Hrothgar's people, whom Grendel terrorizes for years."
   },
   {
-   "id": "c32",
+   "id": "c14",
    "term": "Heorot",
    "def": "Heorot is Hrothgar's great gold-roofed mead-hall, where Grendel kills Danes until Beowulf defends it."
   },
   {
-   "id": "c33",
-   "term": "Geatland",
-   "def": "Geatland is Beowulf's homeland across the sea from Denmark, where Hygelac rules."
-  },
-  {
-   "id": "c34",
-   "term": "Hrothgar's scop",
-   "def": "Hrothgar's poet sings of God's creation of the world in Heorot, a song that angers Grendel."
-  },
-  {
-   "id": "c35",
-   "term": "The scop on the ride back",
-   "def": "A thane skilled in old stories composes new verses on Beowulf's victory and compares him to famous heroes."
-  },
-  {
-   "id": "c36",
-   "term": "Sigemund",
-   "def": "Sigemund is a legendary hero whose dragon-slaying and treasure-winning the scop sings about to praise Beowulf by comparison."
-  },
-  {
-   "id": "c37",
-   "term": "Fitela",
-   "def": "Fitela is Sigemund's nephew and battle partner, who was absent when Sigemund killed the dragon."
-  },
-  {
-   "id": "c38",
-   "term": "Heremod",
-   "def": "Heremod is a Danish king whom the scop contrasts with Beowulf, because evil entered him and he became a burden to his people."
-  },
-  {
-   "id": "c39",
-   "term": "Finn",
-   "def": "Finn is the Frisian king in the scop's lay whose truce with the Danes breaks down, and he is killed in his own hall."
-  },
-  {
-   "id": "c40",
-   "term": "Hnaef",
-   "def": "Hnaef is the Danish leader killed in the fight in Friesland, whose body is burned on one pyre with his nephew's."
-  },
-  {
-   "id": "c41",
+   "id": "c15",
    "term": "Hildeburh",
    "def": "Hildeburh is Finn's queen, who loses both her brother Hnaef and her son in the fight and has them burned together."
-  },
-  {
-   "id": "c42",
-   "term": "Hengest",
-   "def": "Hengest takes command of the Danes after Hnaef's death, spends a bitter winter with Finn, and finally takes revenge."
-  },
-  {
-   "id": "c43",
-   "term": "The Frisians",
-   "def": "The Frisians are Finn's people, whose forced truce with the Danes ends in revenge and the sack of Finn's hall."
-  },
-  {
-   "id": "c44",
-   "term": "The Jutes",
-   "def": "The Jutes are the enemies in the Finn story whom Hildeburh has little cause to trust and whom Hengest longs to repay."
-  },
-  {
-   "id": "c45",
-   "term": "Hunlafing",
-   "def": "Hunlafing lays a famous sword on Hengest's lap, a gesture that pushes Hengest to break the truce and take revenge."
-  },
-  {
-   "id": "c46",
-   "term": "Guthlaf and Oslaf",
-   "def": "Guthlaf and Oslaf are Danes who return from a voyage and blame Finn for the ambush, which leads to his killing."
-  },
-  {
-   "id": "c47",
-   "term": "Hama",
-   "def": "Hama is a legendary hero who carried off the Brosings' necklace from Eormenric, and the poet uses him to praise the torque Wealhtheow gives Beowulf."
-  },
-  {
-   "id": "c48",
-   "term": "Seamus Heaney",
-   "def": "Seamus Heaney was the Irish poet whose modern English translation of Beowulf keeps the poem's alliteration and adds Irish words like \"bawn.\""
-  },
-  {
-   "id": "c49",
-   "term": "The Beowulf poet",
-   "def": "The Beowulf poet was an unknown Christian author in England who wrote down an older pagan story about Scandinavian heroes."
   }
  ]
 }

@@ -5,245 +5,35 @@
  "topic": "Beowulf Part 1 (to Another Attack)",
  "short": "5 Q&A",
  "order": 5,
- "count": 48,
+ "count": 6,
  "cards": [
   {
    "id": "c0",
-   "term": "Who founded the Danish royal line?",
-   "def": "Shield Sheafson, a foundling who became a conquering king, founded the Danish royal line."
-  },
-  {
-   "id": "c1",
-   "term": "What is the name of Hrothgar's mead-hall?",
-   "def": "Hrothgar's mead-hall is called Heorot."
-  },
-  {
-   "id": "c2",
-   "term": "Why does Grendel hate the noise in Heorot?",
-   "def": "Grendel, an outcast from God, is tormented by the sound of feasting and the scop's song about God's creation."
-  },
-  {
-   "id": "c3",
-   "term": "From whom is Grendel descended?",
-   "def": "Grendel is descended from Cain, the biblical murderer whom God cursed for killing Abel."
-  },
-  {
-   "id": "c4",
-   "term": "Why can the Danes not settle Grendel's feud?",
-   "def": "Grendel will never make peace or pay the death-price, so the usual way of ending a feud is impossible."
-  },
-  {
-   "id": "c5",
-   "term": "Where do the Danes turn for help in their despair?",
-   "def": "The Danes make offerings at pagan shrines, because they do not know the Christian God."
-  },
-  {
-   "id": "c6",
    "term": "How does Beowulf learn about Grendel?",
    "def": "Sailors bring stories of Hrothgar's troubles back to Geatland."
   },
   {
-   "id": "c7",
-   "term": "Who first challenges the Geats in Denmark?",
-   "def": "The Danish coast-guard rides down to the beach and demands to know who they are."
-  },
-  {
-   "id": "c8",
-   "term": "Who is Beowulf's father?",
-   "def": "Beowulf's father is Ecgtheow, a famous warrior whom Hrothgar once helped."
-  },
-  {
-   "id": "c9",
-   "term": "Who is Beowulf's lord?",
-   "def": "Beowulf's lord is Hygelac, king of the Geats."
-  },
-  {
-   "id": "c10",
-   "term": "Who announces the Geats to Hrothgar?",
-   "def": "Wulfgar, Hrothgar's herald, announces the Geats to the king."
-  },
-  {
-   "id": "c11",
-   "term": "Why does Beowulf refuse to use a sword against Grendel?",
-   "def": "Because Grendel fights without weapons, Beowulf wants a fair fight that will bring more fame to Hygelac."
-  },
-  {
-   "id": "c12",
-   "term": "What does Beowulf want sent to Hygelac if he dies?",
-   "def": "Beowulf wants his mail shirt, made by Weland and given to him by Hrethel, sent back to Hygelac."
-  },
-  {
-   "id": "c13",
-   "term": "Who taunts Beowulf at the feast?",
-   "def": "Unferth, son of Ecglaf, taunts Beowulf out of envy."
-  },
-  {
-   "id": "c14",
-   "term": "What contest does Unferth bring up?",
-   "def": "Unferth brings up Beowulf's swimming match against Breca on the open sea."
-  },
-  {
-   "id": "c15",
-   "term": "How does Unferth say the swimming match ended?",
-   "def": "Unferth says Breca outswam Beowulf and made good his boast."
-  },
-  {
-   "id": "c16",
+   "id": "c1",
    "term": "How does Beowulf say the swimming match ended?",
    "def": "Beowulf says storms drove them apart and he killed sea monsters before landing in Finland."
   },
   {
-   "id": "c17",
-   "term": "What saves Beowulf when a sea monster drags him down?",
-   "def": "His hand-forged mail shirt protects him until he can kill the beast with his sword."
-  },
-  {
-   "id": "c18",
-   "term": "What shameful act does Beowulf accuse Unferth of?",
-   "def": "Beowulf accuses Unferth of killing his own brothers."
-  },
-  {
-   "id": "c19",
-   "term": "Why does Beowulf say Grendel is not afraid of the Danes?",
-   "def": "Beowulf says Grendel knows the Danes will never take revenge, so he kills them without fear."
-  },
-  {
-   "id": "c20",
-   "term": "Who carries the mead cup through Heorot?",
-   "def": "Queen Wealhtheow carries the cup, first to Hrothgar and then to the rest of the company."
-  },
-  {
-   "id": "c21",
-   "term": "What does Beowulf vow to Wealhtheow?",
-   "def": "Beowulf vows that he will do what the Danes need or die in the mead-hall."
-  },
-  {
-   "id": "c22",
-   "term": "What does Grendel do before he reaches Beowulf?",
-   "def": "Grendel seizes a sleeping Geat and eats him whole."
-  },
-  {
-   "id": "c23",
-   "term": "How does Beowulf defeat Grendel?",
-   "def": "Beowulf grips Grendel's hand until his arm tears off at the shoulder."
-  },
-  {
-   "id": "c24",
-   "term": "What trophy is hung in Heorot?",
-   "def": "Grendel's arm and shoulder are hung high under Heorot's roof."
-  },
-  {
-   "id": "c25",
-   "term": "Where does Grendel go to die?",
-   "def": "Grendel flees to his mere in the fens and dies there."
-  },
-  {
-   "id": "c26",
-   "term": "Which hero does the scop compare Beowulf to?",
-   "def": "The scop compares Beowulf to Sigemund, the famous dragon-slayer."
-  },
-  {
-   "id": "c27",
-   "term": "Which king does the scop contrast with Beowulf?",
-   "def": "The scop contrasts Beowulf with Heremod, a king who became evil and a burden to his people."
-  },
-  {
-   "id": "c28",
-   "term": "What does Hrothgar promise Beowulf after the victory?",
-   "def": "Hrothgar promises to love Beowulf as a son and to give him anything he wants."
-  },
-  {
-   "id": "c29",
-   "term": "What story does the scop tell at the victory feast?",
-   "def": "The scop tells the story of Finn and Hengest, a feud between the Frisians and the Danes."
-  },
-  {
-   "id": "c30",
-   "term": "Who is Hildeburh?",
-   "def": "Hildeburh is Finn's queen, who loses her brother and her son in the fight at Finn's hall."
-  },
-  {
-   "id": "c31",
-   "term": "Who will later wear the torque that Wealhtheow gives Beowulf?",
-   "def": "Hygelac will wear the torque on the raid in which he dies."
-  },
-  {
-   "id": "c32",
-   "term": "What does \"unlocked his word-hoard\" mean?",
-   "def": "It means that Beowulf began to speak."
-  },
-  {
-   "id": "c33",
-   "term": "What kenning for the sea appears in the opening lines?",
-   "def": "The poem calls the sea the \"whale-road.\""
-  },
-  {
-   "id": "c34",
-   "term": "Is Beowulf a folk epic or an art epic?",
-   "def": "Beowulf is a folk epic, because it grew out of oral tradition and its author is unknown."
-  },
-  {
-   "id": "c35",
+   "id": "c2",
    "term": "What are three examples of art epics?",
    "def": "The Aeneid, the Divine Comedy, and Paradise Lost are art epics written by single authors."
   },
   {
-   "id": "c36",
-   "term": "What holds a line of Old English poetry together instead of rhyme?",
-   "def": "Alliteration across the two half-lines holds each line together."
-  },
-  {
-   "id": "c37",
+   "id": "c3",
    "term": "Which sound alliterates in \"Then a powerful demon, a prowler through the dark\"?",
    "def": "The p sound alliterates in \"powerful\" and \"prowler.\""
   },
   {
-   "id": "c38",
+   "id": "c4",
    "term": "What are three kennings for the sea in Part 1?",
    "def": "Part 1 calls the sea the \"whale-road,\" the \"swan's road,\" and the \"wave-vat.\""
   },
   {
-   "id": "c39",
-   "term": "Why does Beowulf contain both pagan and Christian elements?",
-   "def": "A Christian poet wrote down an older pagan story, so both sets of values appear."
-  },
-  {
-   "id": "c40",
-   "term": "What does the king owe his thanes in the comitatus?",
-   "def": "The king owes his thanes land, wealth, and the spoils of war."
-  },
-  {
-   "id": "c41",
-   "term": "What do thanes owe their king in the comitatus?",
-   "def": "Thanes owe their king loyalty, protection, and revenge if he is killed."
-  },
-  {
-   "id": "c42",
-   "term": "What is the greatest disgrace in the heroic world?",
-   "def": "Disloyalty to one's lord is the greatest disgrace."
-  },
-  {
-   "id": "c43",
-   "term": "What is the greatest misfortune in the heroic world?",
-   "def": "Having no lord or family is the greatest misfortune."
-  },
-  {
-   "id": "c44",
-   "term": "How is the comitatus broken at the start of the poem?",
-   "def": "Hrothgar cannot protect his thanes from Grendel, so the bond of protection has failed."
-  },
-  {
-   "id": "c45",
-   "term": "Why does the poet give away the ending through foretelling?",
-   "def": "Foretelling creates a sense of doom and irony, since the audience knows the outcome while the characters do not."
-  },
-  {
-   "id": "c46",
-   "term": "What is an example of foretelling in Part 1?",
-   "def": "The poet foretells that Heorot will one day burn in a feud between in-laws."
-  },
-  {
-   "id": "c47",
+   "id": "c5",
    "term": "How should a name like Hrothgar be pronounced?",
    "def": "Every letter is pronounced, including the H at the start of Hrothgar."
   }

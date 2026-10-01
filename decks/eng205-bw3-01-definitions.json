@@ -5,7 +5,7 @@
  "topic": "Beowulf Part 3 (to the end)",
  "short": "1 Definitions",
  "order": 1,
- "count": 31,
+ "count": 8,
  "cards": [
   {
    "id": "c0",
@@ -19,148 +19,33 @@
   },
   {
    "id": "c2",
-   "term": "Earth-house",
-   "def": "A kenning for a barrow, the underground chamber inside a burial mound."
-  },
-  {
-   "id": "c3",
-   "term": "Hides",
-   "def": "Anglo-Saxon units of land, each roughly enough to support one household."
-  },
-  {
-   "id": "c4",
-   "term": "Gorget",
-   "def": "An ornamental collar worn around the throat."
-  },
-  {
-   "id": "c5",
    "term": "Peace-weaver",
    "def": "A royal woman whose marriage or presence is meant to bind two peoples in peace."
   },
   {
-   "id": "c6",
-   "term": "Peace-pledge",
-   "def": "A woman whose marriage guarantees peace between two nations."
-  },
-  {
-   "id": "c7",
-   "term": "Wave-crosser",
-   "def": "A kenning for a ship."
-  },
-  {
-   "id": "c8",
-   "term": "Sea-shawl",
-   "def": "A kenning for a sail."
-  },
-  {
-   "id": "c9",
-   "term": "World's candle",
-   "def": "A kenning for the sun."
-  },
-  {
-   "id": "c10",
-   "term": "Heaven's gem",
-   "def": "A kenning for the sun."
-  },
-  {
-   "id": "c11",
-   "term": "Sky-winger",
-   "def": "A kenning for the dragon as a creature that flies through the night sky."
-  },
-  {
-   "id": "c12",
+   "id": "c3",
    "term": "Ground-burner",
    "def": "A kenning for the fire-breathing dragon that scorches the land."
   },
   {
-   "id": "c13",
-   "term": "Hoard-guard",
-   "def": "A kenning for the dragon as the guardian of buried treasure."
-  },
-  {
-   "id": "c14",
+   "id": "c4",
    "term": "Bone-house",
    "def": "A kenning for the human body."
   },
   {
-   "id": "c15",
-   "term": "Breast-cage",
-   "def": "A kenning for the chest."
-  },
-  {
-   "id": "c16",
-   "term": "Steel-hail",
-   "def": "A kenning for a storm of arrows in battle."
-  },
-  {
-   "id": "c17",
-   "term": "Linden boards",
-   "def": "Shields made of wood from the linden tree."
-  },
-  {
-   "id": "c18",
+   "id": "c5",
    "term": "Naegling",
    "def": "Beowulf's ancient iron-gray sword."
   },
   {
-   "id": "c19",
-   "term": "Shield-wall",
-   "def": "A line of warriors standing with their shields overlapped for protection."
-  },
-  {
-   "id": "c20",
+   "id": "c6",
    "term": "Lay of the Last Survivor",
    "def": "The speech of the last man of a vanished people, who buries his tribe's treasure and mourns that all his companions are dead."
   },
   {
-   "id": "c21",
+   "id": "c7",
    "term": "The father's lament",
    "def": "The passage comparing Hrethel's grief to that of an old man whose son hangs on the gallows and cannot be avenged."
-  },
-  {
-   "id": "c22",
-   "term": "Dirge",
-   "def": "A song of mourning for the dead."
-  },
-  {
-   "id": "c23",
-   "term": "Keen",
-   "def": "To wail aloud in grief for the dead."
-  },
-  {
-   "id": "c24",
-   "term": "Funeral pyre",
-   "def": "A pile of wood on which a dead body is burned."
-  },
-  {
-   "id": "c25",
-   "term": "Gallows",
-   "def": "A wooden frame on which criminals are hanged."
-  },
-  {
-   "id": "c26",
-   "term": "Curse on the hoard",
-   "def": "A spell laid by the people who buried the treasure, so that anyone who robbed it would be punished."
-  },
-  {
-   "id": "c27",
-   "term": "Exile",
-   "def": "Being forced to leave one's lord, people, and homeland, one of the worst fates in the heroic world."
-  },
-  {
-   "id": "c28",
-   "term": "Kinsman",
-   "def": "A man related by blood, to whom a warrior owes loyalty and, if he is killed, revenge."
-  },
-  {
-   "id": "c29",
-   "term": "Regent",
-   "def": "A person who governs a kingdom on behalf of a king who is too young to rule."
-  },
-  {
-   "id": "c30",
-   "term": "Wake",
-   "def": "A watch kept beside the body of a dead person before burial."
   }
  ]
 }

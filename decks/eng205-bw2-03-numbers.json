@@ -5,72 +5,47 @@
  "topic": "Beowulf Part 2 (Another Attack to Another Celebration at Heorot)",
  "short": "3 Numbers & Dates",
  "order": 3,
- "count": 13,
+ "count": 8,
  "cards": [
   {
    "id": "c0",
-   "term": "The very next night",
-   "def": "Grendel's mother attacked Heorot on the night after the victory feast, while the Danes believed the danger was over."
-  },
-  {
-   "id": "c1",
-   "term": "2 creatures on the moors",
-   "def": "Hrothgar's counselors had seen two monsters on the moors, one shaped like a woman and one like a man."
-  },
-  {
-   "id": "c2",
-   "term": "A few miles from Heorot",
-   "def": "Hrothgar says the haunted mere lies only a few miles from Heorot."
-  },
-  {
-   "id": "c3",
    "term": "A hundred seasons",
    "def": "Grendel's mother had haunted the mere for a hundred seasons before Beowulf entered it."
   },
   {
-   "id": "c4",
+   "id": "c1",
    "term": "The best part of a day",
    "def": "Beowulf swam down for the best part of a day before he could see the bottom of the mere."
   },
   {
-   "id": "c5",
+   "id": "c2",
    "term": "15 house-guards",
    "def": "Beowulf beheads Grendel's corpse to repay a raid in which Grendel ate fifteen of Hrothgar's house-guards and carried off fifteen more."
   },
   {
-   "id": "c6",
-   "term": "The ninth hour",
-   "def": "At the ninth hour of the day, about mid-afternoon, the Danes gave up hope and went home, while the Geats stayed at the mere."
-  },
-  {
-   "id": "c7",
+   "id": "c3",
    "term": "4 men to carry the head",
    "def": "It took four men to carry Grendel's head on a spear back to Heorot."
   },
   {
-   "id": "c8",
+   "id": "c4",
    "term": "14 Geats",
    "def": "Fourteen Geats marched back to Heorot around Beowulf as he brought Grendel's head."
   },
   {
-   "id": "c9",
+   "id": "c5",
    "term": "50 years of Hrothgar's rule",
    "def": "Hrothgar says he ruled the Ring-Danes for fifty years before Grendel's attacks turned his happiness into grief."
   },
   {
-   "id": "c10",
+   "id": "c6",
    "term": "1,000 thanes",
    "def": "Beowulf promises to bring a thousand thanes to help Hrothgar if enemies ever threaten Denmark."
   },
   {
-   "id": "c11",
+   "id": "c7",
    "term": "12 treasures",
    "def": "At the farewell, Hrothgar gave Beowulf twelve treasures to take home."
-  },
-  {
-   "id": "c12",
-   "term": "2 forebodings",
-   "def": "Hrothgar wept at the farewell because of two forebodings, the stronger being that he would never see Beowulf again."
   }
  ]
 }

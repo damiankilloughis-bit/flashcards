@@ -5,160 +5,30 @@
  "topic": "Beowulf Part 2 (Another Attack to Another Celebration at Heorot)",
  "short": "5 Q&A",
  "order": 5,
- "count": 31,
+ "count": 5,
  "cards": [
   {
    "id": "c0",
-   "term": "Whom does Grendel's mother kill in Heorot?",
-   "def": "She kills Aeschere, Hrothgar's most trusted counselor."
-  },
-  {
-   "id": "c1",
    "term": "What does Grendel's mother take back from Heorot?",
    "def": "She takes back Grendel's bloody hand, the trophy hanging in the hall."
   },
   {
-   "id": "c2",
-   "term": "Why is Beowulf not in Heorot during the second attack?",
-   "def": "Beowulf had been given another lodging after the treasure-giving."
-  },
-  {
-   "id": "c3",
+   "id": "c1",
    "term": "Why does Grendel's mother attack Heorot?",
    "def": "She attacks to avenge her son's death."
   },
   {
-   "id": "c4",
-   "term": "How does Hrothgar answer when Beowulf asks if he has rested?",
-   "def": "Hrothgar answers, \"Rest? What is rest? Sorrow has returned.\""
-  },
-  {
-   "id": "c5",
-   "term": "What strange thing happens on the mere at night?",
-   "def": "The water of the mere burns at night."
-  },
-  {
-   "id": "c6",
-   "term": "What does the hunted stag do at the edge of the mere?",
-   "def": "The stag turns to face the hounds and dies rather than dive into the mere."
-  },
-  {
-   "id": "c7",
-   "term": "What does Beowulf say is better than mourning?",
-   "def": "Beowulf says it is always better to avenge a friend than to mourn him."
-  },
-  {
-   "id": "c8",
-   "term": "What do the Danes find at the cliff above the mere?",
-   "def": "They find Aeschere's head at the foot of the cliff."
-  },
-  {
-   "id": "c9",
+   "id": "c2",
    "term": "How does Beowulf kill a water-beast at the mere?",
    "def": "Beowulf shoots it with an arrow, and the men pull it ashore with boar-spears."
   },
   {
-   "id": "c10",
-   "term": "Who lends Beowulf a sword for the fight in the mere?",
-   "def": "Unferth lends Beowulf the sword Hrunting."
-  },
-  {
-   "id": "c11",
-   "term": "Why does Unferth lose fame at the mere?",
-   "def": "Unferth is not brave enough to risk his own life fighting underwater."
-  },
-  {
-   "id": "c12",
-   "term": "What does Beowulf leave to Unferth if he dies?",
-   "def": "Beowulf leaves Unferth his own sword."
-  },
-  {
-   "id": "c13",
+   "id": "c3",
    "term": "Where does Grendel's mother take Beowulf?",
    "def": "She drags him to her dry, firelit hall at the bottom of the mere."
   },
   {
-   "id": "c14",
-   "term": "What happens when Beowulf strikes her with Hrunting?",
-   "def": "Hrunting refuses to cut her, failing for the first time."
-  },
-  {
-   "id": "c15",
-   "term": "What saves Beowulf from her knife?",
-   "def": "His mail shirt turns aside the point and edge of her knife."
-  },
-  {
-   "id": "c16",
-   "term": "What weapon kills Grendel's mother?",
-   "def": "An ancient giant-made sword that Beowulf finds hanging in her hall kills her."
-  },
-  {
-   "id": "c17",
-   "term": "What does Beowulf do to Grendel's corpse?",
-   "def": "Beowulf cuts off Grendel's head."
-  },
-  {
-   "id": "c18",
-   "term": "What happens to the giant sword's blade?",
-   "def": "The blade melts like ice in Grendel's hot, poisonous blood."
-  },
-  {
-   "id": "c19",
-   "term": "What two things does Beowulf bring back from the mere?",
-   "def": "He brings back Grendel's head and the hilt of the giant sword."
-  },
-  {
-   "id": "c20",
-   "term": "Why do the Danes leave the mere before Beowulf returns?",
-   "def": "They see blood in the water and assume Beowulf has been killed."
-  },
-  {
-   "id": "c21",
-   "term": "What is carved on the giant sword's hilt?",
-   "def": "The hilt shows how war began and how God destroyed the giants in the flood."
-  },
-  {
-   "id": "c22",
-   "term": "What does Hrothgar warn Beowulf against in his sermon?",
-   "def": "Hrothgar warns Beowulf against pride and greed, which make a man forget that he will die."
-  },
-  {
-   "id": "c23",
-   "term": "Which bad king does Hrothgar use as an example?",
-   "def": "Hrothgar uses Heremod, who killed his own comrades and stopped giving gifts."
-  },
-  {
-   "id": "c24",
-   "term": "What does Beowulf do with Hrunting before leaving?",
-   "def": "Beowulf returns it to Unferth with thanks and does not blame it for failing."
-  },
-  {
-   "id": "c25",
-   "term": "Whom does Beowulf invite to the Geats' court?",
-   "def": "Beowulf invites Hrothgar's son Hrethric to visit the Geats."
-  },
-  {
-   "id": "c26",
-   "term": "What does Hrothgar predict about Beowulf's future?",
-   "def": "Hrothgar predicts that the Geats will want Beowulf as their king if Hygelac dies."
-  },
-  {
-   "id": "c27",
-   "term": "Why does Hrothgar weep when Beowulf leaves?",
-   "def": "Hrothgar senses that he will never see Beowulf again."
-  },
-  {
-   "id": "c28",
-   "term": "To whom does Beowulf give credit for surviving the mere?",
-   "def": "Beowulf says God helped him by showing him the giant sword."
-  },
-  {
-   "id": "c29",
-   "term": "What does Grendel's mother represent?",
-   "def": "Grendel's mother represents the recurring cycle of war, in which every killing demands another revenge."
-  },
-  {
-   "id": "c30",
+   "id": "c4",
    "term": "What understatement does Hrothgar use for the mere?",
    "def": "Hrothgar calls the mere \"no good place,\" a litotes that means it is truly terrifying."
   }

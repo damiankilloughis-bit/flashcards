@@ -5,7 +5,7 @@
  "topic": "Beowulf Part 2 (Another Attack to Another Celebration at Heorot)",
  "short": "1 Definitions",
  "order": 1,
- "count": 34,
+ "count": 8,
  "cards": [
   {
    "id": "c0",
@@ -14,168 +14,38 @@
   },
   {
    "id": "c1",
-   "term": "Fen",
-   "def": "A low, wet marshland."
-  },
-  {
-   "id": "c2",
-   "term": "Avenger",
-   "def": "A person who takes revenge for a wrong done to a relative."
-  },
-  {
-   "id": "c3",
    "term": "Tarn-hag",
    "def": "A kenning for Grendel's mother that calls her a witch of the mountain lake."
   },
   {
-   "id": "c4",
+   "id": "c2",
    "term": "Hell-dam",
    "def": "A kenning for Grendel's mother that calls her a mother from hell."
   },
   {
-   "id": "c5",
-   "term": "Hell-bride",
-   "def": "A kenning for Grendel's mother that calls her a female demon from hell."
-  },
-  {
-   "id": "c6",
-   "term": "Troll-dam",
-   "def": "A term for Grendel's mother that means a monstrous female troll."
-  },
-  {
-   "id": "c7",
-   "term": "Wolf of the deep",
-   "def": "A kenning for Grendel's mother that pictures her as a predator of the water."
-  },
-  {
-   "id": "c8",
-   "term": "Swamp-thing from hell",
-   "def": "An epithet for Grendel's mother that stresses both her marsh home and her demonic origin."
-  },
-  {
-   "id": "c9",
+   "id": "c3",
    "term": "Heather-stepper",
    "def": "A kenning for a hart, or stag, that walks across the heath."
   },
   {
-   "id": "c10",
-   "term": "Sail-road",
-   "def": "A kenning for the sea, the road on which sailing ships travel."
-  },
-  {
-   "id": "c11",
+   "id": "c4",
    "term": "Gannet's bath",
    "def": "A kenning for the sea, where the diving seabird called the gannet bathes."
   },
   {
-   "id": "c12",
-   "term": "Bone-cage",
-   "def": "A kenning for the body, the frame of bones that holds a person's life."
-  },
-  {
-   "id": "c13",
-   "term": "House of flesh",
-   "def": "A kenning for the body as the dwelling place of life."
-  },
-  {
-   "id": "c14",
+   "id": "c5",
    "term": "Heaven's candle",
    "def": "A kenning for the sun."
   },
   {
-   "id": "c15",
+   "id": "c6",
    "term": "Battle-torch",
    "def": "A kenning for a gleaming sword that lights up a fight."
   },
   {
-   "id": "c16",
-   "term": "Gold-friend",
-   "def": "A kenning for a generous lord who rewards his retainers with gold."
-  },
-  {
-   "id": "c17",
-   "term": "Gift-lord",
-   "def": "A kenning for a king whose role is to hand out treasure."
-  },
-  {
-   "id": "c18",
-   "term": "Shepherd of the people",
-   "def": "An epithet for a king that pictures him as the protector who guards his people."
-  },
-  {
-   "id": "c19",
+   "id": "c7",
    "term": "Hrunting",
    "def": "An ancient sword with a blood-tempered iron blade that had never failed anyone who carried it in battle."
-  },
-  {
-   "id": "c20",
-   "term": "The giant sword",
-   "def": "An enormous ancient blade made by giants and so heavy that only Beowulf could wield it."
-  },
-  {
-   "id": "c21",
-   "term": "Hilt",
-   "def": "The handle and hand-guard of a sword."
-  },
-  {
-   "id": "c22",
-   "term": "Runes",
-   "def": "The letters of the old Germanic alphabet, carved into wood, stone, or metal."
-  },
-  {
-   "id": "c23",
-   "term": "Heirloom",
-   "def": "A treasured object handed down through generations of a family."
-  },
-  {
-   "id": "c24",
-   "term": "Damascened",
-   "def": "Decorated with wavy patterns worked into the metal, as on a fine sword blade."
-  },
-  {
-   "id": "c25",
-   "term": "Brehon",
-   "def": "An old Irish word for a learned judge or lawgiver."
-  },
-  {
-   "id": "c26",
-   "term": "Sept",
-   "def": "An Irish word for a clan or branch of a family."
-  },
-  {
-   "id": "c27",
-   "term": "Deluge",
-   "def": "The great flood that God sent to destroy the wicked, as told in the Bible."
-  },
-  {
-   "id": "c28",
-   "term": "Amazon",
-   "def": "A woman warrior of Greek legend."
-  },
-  {
-   "id": "c29",
-   "term": "Homily",
-   "def": "A moral speech that gives religious advice about how to live."
-  },
-  {
-   "id": "c30",
-   "term": "Hrothgar's sermon",
-   "def": "Hrothgar's long speech warning Beowulf that pride and greed destroy great men and that death comes to all."
-  },
-  {
-   "id": "c31",
-   "term": "Overweening pride",
-   "def": "Excessive self-confidence that makes a powerful man forget he will die."
-  },
-  {
-   "id": "c32",
-   "term": "Wintered into wisdom",
-   "def": "A phrase meaning grown wise by living through many hard years."
-  },
-  {
-   "id": "c33",
-   "term": "Trophy",
-   "def": "An object taken from a defeated enemy as proof of victory."
   }
  ]
 }

@@ -5,7 +5,7 @@
  "topic": "Beowulf Part 3 (to the end)",
  "short": "4 Main Ideas",
  "order": 4,
- "count": 42,
+ "count": 46,
  "cards": [
   {
    "id": "c0",
@@ -216,6 +216,26 @@
    "id": "c41",
    "term": "Young hero and old king",
    "def": "The poem contrasts young Beowulf defeating Grendel with old Beowulf dying against the dragon, which shows the full arc of a heroic life."
+  },
+  {
+   "id": "c42",
+   "term": "The comitatus broken at the end",
+   "def": "The poem ends with the comitatus broken again, because Beowulf dies without an heir and his thanes are left leaderless."
+  },
+  {
+   "id": "c43",
+   "term": "The enemies of youth and of age",
+   "def": "In youth Beowulf fights monsters that stand for destructive nature, while in old age the real threats are his own pride and thanes who look out for themselves."
+  },
+  {
+   "id": "c44",
+   "term": "Ubi sunt in Beowulf",
+   "def": "The last survivor's lament, which mourns that no harp, hawk, or horse is left in the hall, is the poem's clearest ubi sunt passage."
+  },
+  {
+   "id": "c45",
+   "term": "Foretelling in Part 3",
+   "def": "The narrator states before the dragon fight that Beowulf will die, so the audience watches his last battle knowing its outcome."
   }
  ]
 }

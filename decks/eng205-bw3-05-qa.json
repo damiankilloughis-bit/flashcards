@@ -5,7 +5,7 @@
  "topic": "Beowulf Part 3 (to the end)",
  "short": "5 Q&A",
  "order": 5,
- "count": 35,
+ "count": 39,
  "cards": [
   {
    "id": "c0",
@@ -181,6 +181,26 @@
    "id": "c34",
    "term": "How do the Geats describe Beowulf at the very end?",
    "def": "They call him the kindest of kings to his people and the keenest to win fame."
+  },
+  {
+   "id": "c35",
+   "term": "Who says \"A warrior will sooner die than live a life of shame\"?",
+   "def": "Wiglaf says it while condemning the warriors who deserted Beowulf."
+  },
+  {
+   "id": "c36",
+   "term": "What passage in Part 3 is an example of ubi sunt?",
+   "def": "The last survivor's lament over his vanished people is an ubi sunt passage."
+  },
+  {
+   "id": "c37",
+   "term": "How is the comitatus broken at the end of the poem?",
+   "def": "Beowulf dies without an heir, and his thanes are left leaderless and open to attack."
+  },
+  {
+   "id": "c38",
+   "term": "What are Beowulf's enemies in old age, according to the course?",
+   "def": "In old age his enemies are his own pride and thanes who look out for themselves."
   }
  ]
 }

@@ -5,7 +5,7 @@
  "topic": "Beowulf Part 3 (to the end)",
  "short": "2 Names",
  "order": 2,
- "count": 43,
+ "count": 44,
  "cards": [
   {
    "id": "c0",
@@ -221,6 +221,11 @@
    "id": "c42",
    "term": "Friesland",
    "def": "Friesland is the land of the Frisians, where Hygelac was killed on his raid."
+  },
+  {
+   "id": "c43",
+   "term": "The Swedes",
+   "def": "The Swedes are the Geats' neighbors and longtime enemies, whose endless wars with the Geats serve as a cautionary example of feud."
   }
  ]
 }

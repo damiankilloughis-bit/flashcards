@@ -5,7 +5,7 @@
  "topic": "Beowulf Part 3 (to the end)",
  "short": "1 Definitions",
  "order": 1,
- "count": 32,
+ "count": 31,
  "cards": [
   {
    "id": "c0",
@@ -119,51 +119,46 @@
   },
   {
    "id": "c22",
-   "term": "Elegy",
-   "def": "A mournful poem or passage that laments death and loss."
-  },
-  {
-   "id": "c23",
    "term": "Dirge",
    "def": "A song of mourning for the dead."
   },
   {
-   "id": "c24",
+   "id": "c23",
    "term": "Keen",
    "def": "To wail aloud in grief for the dead."
   },
   {
-   "id": "c25",
+   "id": "c24",
    "term": "Funeral pyre",
    "def": "A pile of wood on which a dead body is burned."
   },
   {
-   "id": "c26",
+   "id": "c25",
    "term": "Gallows",
    "def": "A wooden frame on which criminals are hanged."
   },
   {
-   "id": "c27",
+   "id": "c26",
    "term": "Curse on the hoard",
    "def": "A spell laid by the people who buried the treasure, so that anyone who robbed it would be punished."
   },
   {
-   "id": "c28",
+   "id": "c27",
    "term": "Exile",
    "def": "Being forced to leave one's lord, people, and homeland, one of the worst fates in the heroic world."
   },
   {
-   "id": "c29",
+   "id": "c28",
    "term": "Kinsman",
    "def": "A man related by blood, to whom a warrior owes loyalty and, if he is killed, revenge."
   },
   {
-   "id": "c30",
+   "id": "c29",
    "term": "Regent",
    "def": "A person who governs a kingdom on behalf of a king who is too young to rule."
   },
   {
-   "id": "c31",
+   "id": "c30",
    "term": "Wake",
    "def": "A watch kept beside the body of a dead person before burial."
   }

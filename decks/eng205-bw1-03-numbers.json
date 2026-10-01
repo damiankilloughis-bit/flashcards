@@ -5,7 +5,7 @@
  "topic": "Beowulf Part 1 (to Another Attack)",
  "short": "3 Numbers & Dates",
  "order": 3,
- "count": 21,
+ "count": 24,
  "cards": [
   {
    "id": "c0",
@@ -111,6 +111,21 @@
    "id": "c20",
    "term": "1999",
    "def": "Seamus Heaney's translation of Beowulf was published in 1999."
+  },
+  {
+   "id": "c21",
+   "term": "8th to 10th century",
+   "def": "The course dates the composition of Beowulf to the 8th to 10th century, making it the oldest long poem in English."
+  },
+  {
+   "id": "c22",
+   "term": "Before 550",
+   "def": "The action of Beowulf is set in Scandinavia before about 550, although the poem was written in England."
+  },
+  {
+   "id": "c23",
+   "term": "4 strong stresses",
+   "def": "Each line of Old English verse has four strong stresses, two in each half-line, linked by alliteration rather than rhyme."
   }
  ]
 }

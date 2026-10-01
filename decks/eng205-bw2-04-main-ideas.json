@@ -5,7 +5,7 @@
  "topic": "Beowulf Part 2 (Another Attack to Another Celebration at Heorot)",
  "short": "4 Main Ideas",
  "order": 4,
- "count": 41,
+ "count": 45,
  "cards": [
   {
    "id": "c0",
@@ -211,6 +211,26 @@
    "id": "c40",
    "term": "Generosity as the mark of a good king",
    "def": "Hrothgar's sermon contrasts his own generosity with Heremod's stinginess, since a king who stops giving gifts loses his people."
+  },
+  {
+   "id": "c41",
+   "term": "Grendel's mother as the cycle of war",
+   "def": "Grendel's mother stands for the recurring cycle of war, because her revenge for Grendel provokes Beowulf's revenge for Aeschere in turn."
+  },
+  {
+   "id": "c42",
+   "term": "Light, dark, light in Part 2",
+   "def": "The joyful feast is followed by Grendel's mother's night attack and then by the light that fills her hall when she dies and the new feast in Heorot."
+  },
+  {
+   "id": "c43",
+   "term": "Foretelling in Part 2",
+   "def": "As Beowulf leaves Denmark, the narrator foretells that Hrothgar will remain a peerless king only until old age saps his strength."
+  },
+  {
+   "id": "c44",
+   "term": "Youth and age in Part 2",
+   "def": "Old Hrothgar's sermon warns young Beowulf that his strength will fade, which sets up the old king Beowulf will become."
   }
  ]
 }

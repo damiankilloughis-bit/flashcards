@@ -5,7 +5,7 @@
  "topic": "Beowulf Part 2 (Another Attack to Another Celebration at Heorot)",
  "short": "5 Q&A",
  "order": 5,
- "count": 29,
+ "count": 31,
  "cards": [
   {
    "id": "c0",
@@ -151,6 +151,16 @@
    "id": "c28",
    "term": "To whom does Beowulf give credit for surviving the mere?",
    "def": "Beowulf says God helped him by showing him the giant sword."
+  },
+  {
+   "id": "c29",
+   "term": "What does Grendel's mother represent?",
+   "def": "Grendel's mother represents the recurring cycle of war, in which every killing demands another revenge."
+  },
+  {
+   "id": "c30",
+   "term": "What understatement does Hrothgar use for the mere?",
+   "def": "Hrothgar calls the mere \"no good place,\" a litotes that means it is truly terrifying."
   }
  ]
 }

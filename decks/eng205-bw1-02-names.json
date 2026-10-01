@@ -5,7 +5,7 @@
  "topic": "Beowulf Part 1 (to Another Attack)",
  "short": "2 Names",
  "order": 2,
- "count": 49,
+ "count": 50,
  "cards": [
   {
    "id": "c0",
@@ -251,6 +251,11 @@
    "id": "c48",
    "term": "Seamus Heaney",
    "def": "Seamus Heaney was the Irish poet whose modern English translation of Beowulf keeps the poem's alliteration and adds Irish words like \"bawn.\""
+  },
+  {
+   "id": "c49",
+   "term": "The Beowulf poet",
+   "def": "The Beowulf poet was an unknown Christian author in England who wrote down an older pagan story about Scandinavian heroes."
   }
  ]
 }

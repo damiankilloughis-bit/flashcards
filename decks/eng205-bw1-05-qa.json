@@ -5,7 +5,7 @@
  "topic": "Beowulf Part 1 (to Another Attack)",
  "short": "5 Q&A",
  "order": 5,
- "count": 34,
+ "count": 48,
  "cards": [
   {
    "id": "c0",
@@ -176,6 +176,76 @@
    "id": "c33",
    "term": "What kenning for the sea appears in the opening lines?",
    "def": "The poem calls the sea the \"whale-road.\""
+  },
+  {
+   "id": "c34",
+   "term": "Is Beowulf a folk epic or an art epic?",
+   "def": "Beowulf is a folk epic, because it grew out of oral tradition and its author is unknown."
+  },
+  {
+   "id": "c35",
+   "term": "What are three examples of art epics?",
+   "def": "The Aeneid, the Divine Comedy, and Paradise Lost are art epics written by single authors."
+  },
+  {
+   "id": "c36",
+   "term": "What holds a line of Old English poetry together instead of rhyme?",
+   "def": "Alliteration across the two half-lines holds each line together."
+  },
+  {
+   "id": "c37",
+   "term": "Which sound alliterates in \"Then a powerful demon, a prowler through the dark\"?",
+   "def": "The p sound alliterates in \"powerful\" and \"prowler.\""
+  },
+  {
+   "id": "c38",
+   "term": "What are three kennings for the sea in Part 1?",
+   "def": "Part 1 calls the sea the \"whale-road,\" the \"swan's road,\" and the \"wave-vat.\""
+  },
+  {
+   "id": "c39",
+   "term": "Why does Beowulf contain both pagan and Christian elements?",
+   "def": "A Christian poet wrote down an older pagan story, so both sets of values appear."
+  },
+  {
+   "id": "c40",
+   "term": "What does the king owe his thanes in the comitatus?",
+   "def": "The king owes his thanes land, wealth, and the spoils of war."
+  },
+  {
+   "id": "c41",
+   "term": "What do thanes owe their king in the comitatus?",
+   "def": "Thanes owe their king loyalty, protection, and revenge if he is killed."
+  },
+  {
+   "id": "c42",
+   "term": "What is the greatest disgrace in the heroic world?",
+   "def": "Disloyalty to one's lord is the greatest disgrace."
+  },
+  {
+   "id": "c43",
+   "term": "What is the greatest misfortune in the heroic world?",
+   "def": "Having no lord or family is the greatest misfortune."
+  },
+  {
+   "id": "c44",
+   "term": "How is the comitatus broken at the start of the poem?",
+   "def": "Hrothgar cannot protect his thanes from Grendel, so the bond of protection has failed."
+  },
+  {
+   "id": "c45",
+   "term": "Why does the poet give away the ending through foretelling?",
+   "def": "Foretelling creates a sense of doom and irony, since the audience knows the outcome while the characters do not."
+  },
+  {
+   "id": "c46",
+   "term": "What is an example of foretelling in Part 1?",
+   "def": "The poet foretells that Heorot will one day burn in a feud between in-laws."
+  },
+  {
+   "id": "c47",
+   "term": "How should a name like Hrothgar be pronounced?",
+   "def": "Every letter is pronounced, including the H at the start of Hrothgar."
   }
  ]
 }

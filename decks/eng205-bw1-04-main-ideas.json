@@ -5,7 +5,7 @@
  "topic": "Beowulf Part 1 (to Another Attack)",
  "short": "4 Main Ideas",
  "order": 4,
- "count": 46,
+ "count": 70,
  "cards": [
   {
    "id": "c0",
@@ -236,6 +236,126 @@
    "id": "c45",
    "term": "Light and dark in Part 1",
    "def": "Heorot's gold, light, and song stand for human civilization, while Grendel comes out of the dark fens as its enemy."
+  },
+  {
+   "id": "c46",
+   "term": "Why Beowulf is a folk epic",
+   "def": "Beowulf is a folk epic because it grew out of oral tradition and its author is unknown."
+  },
+  {
+   "id": "c47",
+   "term": "How Beowulf shows the characteristics of an epic",
+   "def": "Beowulf has a hero of great importance, superhuman deeds, supernatural enemies, a setting that spans Denmark and Geatland, and a grand, formal style."
+  },
+  {
+   "id": "c48",
+   "term": "Epic conventions that Beowulf uses",
+   "def": "Beowulf announces its subject in the opening lines, gives its heroes long formal speeches, and breaks off for digressions such as the Finn story."
+  },
+  {
+   "id": "c49",
+   "term": "The language of the Beowulf manuscript",
+   "def": "The surviving manuscript is written in the West Saxon dialect of Old English, even though the story is set in Scandinavia."
+  },
+  {
+   "id": "c50",
+   "term": "Why Beowulf has pagan and Christian elements",
+   "def": "A Christian poet wrote down an older pagan story, so Christian commentary is layered over pagan heroic values."
+  },
+  {
+   "id": "c51",
+   "term": "Pagan elements in Beowulf",
+   "def": "The pagan elements include fate, the quest for earthly fame, blood revenge, boasting, ship and pyre funerals, and offerings at idols' shrines."
+  },
+  {
+   "id": "c52",
+   "term": "Christian elements in Beowulf",
+   "def": "The Christian elements include God the creator, Cain and Abel, the flood, Hell, and the narrator's repeated claim that God controls events."
+  },
+  {
+   "id": "c53",
+   "term": "The effect of the Christian elements",
+   "def": "The narrator's Christian comments present the heroes' victories as God's will, which lets the poet admire pagan heroes while condemning pagan practices."
+  },
+  {
+   "id": "c54",
+   "term": "What makes an Anglo-Saxon hero",
+   "def": "An Anglo-Saxon hero shows courage, great strength, loyalty to his lord, generosity, and a hunger for lasting fame."
+  },
+  {
+   "id": "c55",
+   "term": "What the king gives his thanes",
+   "def": "In the comitatus the king gives his thanes land, wealth, and the spoils of war."
+  },
+  {
+   "id": "c56",
+   "term": "What thanes owe their king",
+   "def": "In the comitatus thanes owe their king loyalty, protection in battle, and revenge if he is killed."
+  },
+  {
+   "id": "c57",
+   "term": "Why the breakdown of the comitatus matters",
+   "def": "When the bond between king and thanes breaks, society falls apart because no one is left to protect the people or avenge them."
+  },
+  {
+   "id": "c58",
+   "term": "The comitatus broken at the start",
+   "def": "The poem opens with the comitatus broken, because Hrothgar cannot protect his thanes from Grendel in his own hall."
+  },
+  {
+   "id": "c59",
+   "term": "Disloyalty and lordlessness",
+   "def": "In the heroic world disloyalty is the greatest disgrace, and having no lord or family is the greatest misfortune."
+  },
+  {
+   "id": "c60",
+   "term": "How The Wanderer relates to Beowulf",
+   "def": "The Wanderer shows the loneliness of a warrior who has lost his lord, the fate that threatens Beowulf's thanes at the end of the poem."
+  },
+  {
+   "id": "c61",
+   "term": "How wergild limits blood feuds",
+   "def": "Wergild let a killer's family pay a death price instead of suffering revenge, which offered a way to stop blood feuds."
+  },
+  {
+   "id": "c62",
+   "term": "Why Grendel is a descendant of Cain",
+   "def": "Grendel descends from Cain, the first murderer, so he embodies kin-killing and exile from both God and human society."
+  },
+  {
+   "id": "c63",
+   "term": "What Grendel represents",
+   "def": "Grendel stands for destructive forces outside society, because he rejects law and custom and refuses to negotiate or pay tribute."
+  },
+  {
+   "id": "c64",
+   "term": "The light, dark, light pattern",
+   "def": "The poem moves again and again from light to darkness and back, as joyful feasting gives way to a night attack and then to a victorious dawn."
+  },
+  {
+   "id": "c65",
+   "term": "Light, dark, light in the Grendel fight",
+   "def": "Heorot's bright feast, Grendel's attack out of the night, and the morning celebration over his arm follow the light, dark, light pattern."
+  },
+  {
+   "id": "c66",
+   "term": "Past, present, and future linked",
+   "def": "The poet ties old stories, present action, and future disasters together, such as the Finn story and the foretold burning of Heorot, to show that violence repeats itself."
+  },
+  {
+   "id": "c67",
+   "term": "The destinies of men and halls",
+   "def": "Halls, like the men who build them, rise in glory and fall to violence, as the foretold burning of Heorot shows."
+  },
+  {
+   "id": "c68",
+   "term": "Youth versus age",
+   "def": "The poem contrasts youth and age by pairing young Beowulf with old Hrothgar in Denmark and old King Beowulf with young Wiglaf at the end."
+  },
+  {
+   "id": "c69",
+   "term": "Why the poet uses foretelling",
+   "def": "Foretelling builds a sense of doom and irony, because the audience knows the tragic outcome while the characters celebrate."
   }
  ]
 }

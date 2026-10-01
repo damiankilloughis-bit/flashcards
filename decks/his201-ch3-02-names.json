@@ -5,7 +5,7 @@
  "topic": "Chapter 3: Colonization and Conflict in the South",
  "short": "2 Names",
  "order": 2,
- "count": 29,
+ "count": 31,
  "cards": [
   {
    "id": "c0",
@@ -151,6 +151,16 @@
    "id": "c28",
    "term": "James Oglethorpe",
    "def": "James Oglethorpe was the Georgia trustee who planned the colony as a refuge for the worthy poor, with small farms and no slavery."
+  },
+  {
+   "id": "c29",
+   "term": "Quebec and Montreal",
+   "def": "Quebec, founded by Samuel de Champlain on the St. Lawrence River, became the first permanent French settlement in North America, and Montreal, upriver, became New France's fur-trading hub."
+  },
+  {
+   "id": "c30",
+   "term": "Pokanokets",
+   "def": "The Pokanokets were a Wampanoag people of southeastern New England whose sachem, Massasoit, allied with the Plymouth colonists after epidemics had badly weakened his people."
   }
  ]
 }

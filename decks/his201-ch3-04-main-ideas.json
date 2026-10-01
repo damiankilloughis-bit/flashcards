@@ -5,7 +5,7 @@
  "topic": "Chapter 3: Colonization and Conflict in the South",
  "short": "4 Main Ideas",
  "order": 4,
- "count": 33,
+ "count": 34,
  "cards": [
   {
    "id": "c0",
@@ -171,6 +171,11 @@
    "id": "c32",
    "term": "The staple crops of the southern colonies",
    "def": "The Chesapeake specialized in tobacco, South Carolina in rice and indigo, and the Caribbean in sugar, tying each region's wealth to coerced labor."
+  },
+  {
+   "id": "c33",
+   "term": "Why Indian-settler relations differed across the southern colonies",
+   "def": "Disease and slavery had nearly erased Caribbean Indians before English settlement, Chesapeake peoples fought back through a strong confederacy, and South Carolina drew many Indians into trading pelts and captives."
   }
  ]
 }

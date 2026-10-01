@@ -5,7 +5,7 @@
  "topic": "Chapter 2: Old Worlds, New Worlds",
  "short": "2 Names",
  "order": 2,
- "count": 41,
+ "count": 43,
  "cards": [
   {
    "id": "c0",
@@ -211,6 +211,16 @@
    "id": "c40",
    "term": "Bernardino de Sahagún",
    "def": "Bernardino de Sahagún was a Spanish missionary who recorded Aztec informants' memories of their society and of the conquest, preserving the Indian side of the story."
+  },
+  {
+   "id": "c41",
+   "term": "Hispaniola",
+   "def": "Hispaniola, the Caribbean island now shared by Haiti and the Dominican Republic, held the first Spanish settlements in the Americas and became Spain's base for conquering the Caribbean."
+  },
+  {
+   "id": "c42",
+   "term": "Upper and Lower Guinea",
+   "def": "Upper Guinea and Lower Guinea were the coastal regions of West Africa, Upper Guinea stretching south from the Senegal River and Lower Guinea running east along the Gulf of Guinea."
   }
  ]
 }

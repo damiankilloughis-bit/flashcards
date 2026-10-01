@@ -5,7 +5,7 @@
  "topic": "Chapter 3: Colonization and Conflict in the South",
  "short": "5 Q&A",
  "order": 5,
- "count": 6,
+ "count": 26,
  "cards": [
   {
    "id": "c0",
@@ -36,6 +36,106 @@
    "id": "c5",
    "term": "Why did Georgia's settlers reject the trustees' restrictions?",
    "def": "Georgia's settlers wanted to buy land freely, own slaves, and drink liquor, and they resented that the colony had no elected assembly to hear their grievances."
+  },
+  {
+   "id": "c6",
+   "term": "True or false: Georgia was populated by emptying England's debtors' prisons.",
+   "def": "False: Georgia's trustees did not simply empty debtors' prisons but recruited European paupers who were willing to work and professed Protestantism."
+  },
+  {
+   "id": "c7",
+   "term": "True or false: Oñate's order to cut off one foot of every Acoma man was certainly carried out.",
+   "def": "False: scholars doubt Juan de Oñate's foot-amputation order was carried out, but the Pueblos remember it as a symbol of Spanish cruelty."
+  },
+  {
+   "id": "c8",
+   "term": "Who built New Mexico's first Catholic church?",
+   "def": "Pueblo women built New Mexico's first Catholic church, while Pueblo artisans built irrigation and public works for Oñate's colony."
+  },
+  {
+   "id": "c9",
+   "term": "What was Santa Fe's original name and distinction?",
+   "def": "El Villa Real de Santa Fe, founded in 1610, became the second-oldest European town in the United States after St. Augustine."
+  },
+  {
+   "id": "c10",
+   "term": "Which Pueblo leader organized the 1680 revolt, and where had he been wounded?",
+   "def": "Popé, a prominent Tewa man wounded in Taos after Spanish whippings, organized a general uprising and called for war to purify the land."
+  },
+  {
+   "id": "c11",
+   "term": "What share of the transatlantic slave trade went to North America?",
+   "def": "Only about 4 percent of the total transatlantic slave trade went to North America, while nine-tenths landed in Brazil or the Caribbean."
+  },
+  {
+   "id": "c12",
+   "term": "Where did most Africans brought to the Chesapeake after 1680 come from?",
+   "def": "Most came from the West African coast between the Senegal and Niger Rivers, and most of the rest came from Angola."
+  },
+  {
+   "id": "c13",
+   "term": "How were enslaved Africans packed during the Middle Passage?",
+   "def": "Several hundred Africans were packed below decks on closely spaced platforms where sitting upright was impossible."
+  },
+  {
+   "id": "c14",
+   "term": "Why did South Carolina planters import Africans for rice?",
+   "def": "South Carolina planters imported more Africans partly because West Africans brought rice-growing skills that built the colony's rice economy."
+  },
+  {
+   "id": "c15",
+   "term": "What did the Fundamental Constitutions of Carolina establish?",
+   "def": "The Fundamental Constitutions provided a proprietary governor, a hereditary Council of Lords, and a Parliament elected by lesser landowners."
+  },
+  {
+   "id": "c16",
+   "term": "Why did many Georgia settlers move to South Carolina?",
+   "def": "Georgia settlers demanded a free land market and slavery, and without an elected assembly to voice grievances, many moved to South Carolina."
+  },
+  {
+   "id": "c17",
+   "term": "Where was Spain confined in Florida by 1706?",
+   "def": "By 1706 Spanish authority in Florida was confined to St. Augustine and nearby territory, and within a decade most Florida Indians had been depopulated."
+  },
+  {
+   "id": "c18",
+   "term": "How did the Yamasee War change the southeastern Indian trade?",
+   "def": "After the Yamasee War the regional Indian slave trade declined, deerskins regained importance, and southern confederacies played European powers against each other."
+  },
+  {
+   "id": "c19",
+   "term": "Why did white Caribbean planters fortify their homes?",
+   "def": "Caribbean planters fortified homes with parapets because servant mutinies and slave rebellions, including seven major uprisings, threatened them, which also prompted harsh slave codes."
+  },
+  {
+   "id": "c20",
+   "term": "What did ordinary medieval Europeans eat before sugar became common?",
+   "def": "Ordinary medieval diets centered on bread, peas, and beans, with occasional milk, butter, cheese, meat, rabbit, or fish."
+  },
+  {
+   "id": "c21",
+   "term": "Where did Europe import sugar before the fourteenth century?",
+   "def": "Before the fourteenth century Europe imported small, expensive quantities of sugar from North Africa, Persia, and India, where sugar had been produced since 500 CE."
+  },
+  {
+   "id": "c22",
+   "term": "How did nineteenth-century English families use sugar products?",
+   "def": "By the nineteenth century English families used treacle on porridge and jam or marmalade on bread."
+  },
+  {
+   "id": "c23",
+   "term": "What were the southern English colonies' monocultures in the chapter summary?",
+   "def": "The chapter summary lists tobacco in the Chesapeake, rice in the Carolinas, and sugar in the Caribbean, after which African slavery became the dominant labor system."
+  },
+  {
+   "id": "c24",
+   "term": "What share of white servant emigrants to the Chesapeake died or were exhausted?",
+   "def": "Nearly half of white servant emigrants to the Chesapeake died or were exhausted by tobacco labor."
+  },
+  {
+   "id": "c25",
+   "term": "How did Maryland and Carolina proprietors fare, and did Georgia's utopia succeed?",
+   "def": "Proprietors in Maryland and the Carolinas faced farmers seeking economic and political power, and Georgia's trustees failed to create a utopia of poor farmers."
   }
  ]
 }

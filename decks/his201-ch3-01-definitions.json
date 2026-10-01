@@ -5,7 +5,7 @@
  "topic": "Chapter 3: Colonization and Conflict in the South",
  "short": "1 Definitions",
  "order": 1,
- "count": 16,
+ "count": 31,
  "cards": [
   {
    "id": "c0",
@@ -86,6 +86,81 @@
    "id": "c15",
    "term": "Cowpen",
    "def": "A South Carolina stock-raising farm where enslaved cowboys let cattle range freely across the open countryside."
+  },
+  {
+   "id": "c16",
+   "term": "Tribute",
+   "def": "Tribute was the payment of food, furs, and skins that Powhatan collected from confederacy villages in return for alliance, patronage, and protection."
+  },
+  {
+   "id": "c17",
+   "term": "Subject king",
+   "def": "A subject king was the status English colonists tried to impose on Powhatan by crowning him under James I, a crown they had to force onto his head."
+  },
+  {
+   "id": "c18",
+   "term": "Starving time",
+   "def": "The starving time was the Jamestown winter of 1609 to 1610, when hunger and disease left only sixty survivors, some of whom ate corpses."
+  },
+  {
+   "id": "c19",
+   "term": "Favorable balance of trade",
+   "def": "A favorable balance of trade, the mercantilist goal, meant a nation's exports exceeded its imports so that gold and silver flowed home."
+  },
+  {
+   "id": "c20",
+   "term": "Secularization of missions",
+   "def": "Secularization was the conversion of central Mexican Franciscan missions into self-supporting parishes by the 1570s, which pushed Franciscans toward frontier conversion work."
+  },
+  {
+   "id": "c21",
+   "term": "Coffle",
+   "def": "A coffle was a forced march of African captives linked by chains or wooden yokes from the interior to coastal slave forts."
+  },
+  {
+   "id": "c22",
+   "term": "Maroon communities",
+   "def": "Maroon communities were settlements of escaped enslaved Africans who fled plantations and lived beyond their masters' control in the Americas."
+  },
+  {
+   "id": "c23",
+   "term": "Manumission",
+   "def": "Manumission was a master's freeing of an enslaved person, which late-seventeenth-century Virginia laws made much harder to obtain."
+  },
+  {
+   "id": "c24",
+   "term": "Buccaneers",
+   "def": "Buccaneers were English raiders who traded illegally with Spanish settlements, sacked coastal towns, and attacked Spanish silver ships from Caribbean bases."
+  },
+  {
+   "id": "c25",
+   "term": "Subtleties",
+   "def": "Subtleties were elaborate sugar sculptures served at medieval court feasts, when European elites treated sugar as a costly spice and medicine."
+  },
+  {
+   "id": "c26",
+   "term": "Naval stores",
+   "def": "Naval stores were the masts, pitch, tar, and turpentine that North Carolina produced alongside general farming because poor harbors limited its markets."
+  },
+  {
+   "id": "c27",
+   "term": "Worthy poor",
+   "def": "The worthy poor were the industrious, Protestant European paupers whom Georgia's trustees recruited to become small farmers, rather than inmates of debtors' prisons."
+  },
+  {
+   "id": "c28",
+   "term": "Ashkenazim and Sephardim",
+   "def": "Ashkenazim were German Jews and Sephardim were Spanish and Portuguese Jews, and both groups established a Jewish community in Savannah, Georgia."
+  },
+  {
+   "id": "c29",
+   "term": "Sickle-cell trait",
+   "def": "The sickle-cell trait was an inherited condition that gave Africans more resistance to malaria than Europeans, though they remained vulnerable to respiratory infections."
+  },
+  {
+   "id": "c30",
+   "term": "Mestizos and mulattoes",
+   "def": "Mestizos were people of mixed Spanish and Indian ancestry and mulattoes of mixed Spanish and African ancestry, both part of New Mexico's colonial population."
   }
  ]
 }

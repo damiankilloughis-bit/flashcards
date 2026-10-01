@@ -5,7 +5,7 @@
  "topic": "Chapter 3: Colonization and Conflict in the South",
  "short": "3 Numbers & Dates",
  "order": 3,
- "count": 28,
+ "count": 77,
  "cards": [
   {
    "id": "c0",
@@ -125,7 +125,7 @@
   {
    "id": "c23",
    "term": "When North Carolina became a separate colony",
-   "def": "In 1712 North Carolina received its own governor, becoming a poor colony of small farms and naval stores separate from South Carolina."
+   "def": "In 1701, about forty years after the Carolina grant, North Carolina became a separate colony, becoming a poor colony of small farms and naval stores separate from South Carolina."
   },
   {
    "id": "c24",
@@ -146,6 +146,251 @@
    "id": "c27",
    "term": "When Georgia became a royal colony",
    "def": "In 1752 Georgia passed to royal control after the trustees had abandoned their limits on land, slavery, and liquor."
+  },
+  {
+   "id": "c28",
+   "term": "How much Oñate's backers expected to recoup",
+   "def": "Juan de Oñate and his backers expected colonizing New Mexico to repay more than half a million pesos, but they found little mineral wealth."
+  },
+  {
+   "id": "c29",
+   "term": "How many people Oñate led to New Mexico in 1598",
+   "def": "In 1598 Juan de Oñate led 500 colonists, soldiers, and slaves to the upper Rio Grande, finding modest villages, no ocean, and little mineral wealth."
+  },
+  {
+   "id": "c30",
+   "term": "How many Acoma people the Spanish killed",
+   "def": "Vicente de Zaldívar's punitive expedition killed perhaps 800 Acoma people and enslaved several hundred, and Oñate ordered surviving adult males to lose one foot."
+  },
+  {
+   "id": "c31",
+   "term": "When royal authorities removed Oñate",
+   "def": "In 1606 royal authorities removed Juan de Oñate as New Mexico's governor for mismanagement and abuse of Indians."
+  },
+  {
+   "id": "c32",
+   "term": "What reward the Crown promised New Mexico settlers",
+   "def": "The Spanish Crown promised New Mexico settlers minor nobility after five years, yet many still abandoned the arid colony."
+  },
+  {
+   "id": "c33",
+   "term": "How many people St. Augustine had in 1600 and 1675",
+   "def": "St. Augustine survived with about 500 people in 1600 and reached about 1,500 by the bishop's tour in 1675."
+  },
+  {
+   "id": "c34",
+   "term": "How many Pueblo households held captives by 1680",
+   "def": "By 1680 half of New Mexican Spanish households held at least one Indian captive taken through war, purchase, or slave raids."
+  },
+  {
+   "id": "c35",
+   "term": "What annual tribute each Pueblo household owed",
+   "def": "Each Pueblo household officially owed Spain three bushels of corn and one processed hide or large cotton blanket every year, plus public labor."
+  },
+  {
+   "id": "c36",
+   "term": "How much smallpox reduced the Pueblo population",
+   "def": "Smallpox arrived in the early 1620s and cut the Pueblo population by 70 percent to about 30,000 in less than a generation."
+  },
+  {
+   "id": "c37",
+   "term": "How many Pueblo villages remained by 1680",
+   "def": "Pueblo villages fell from roughly 100 at contact to only 30 inhabited villages in 1680."
+  },
+  {
+   "id": "c38",
+   "term": "How Spain punished Pueblo religious leaders in the 1670s",
+   "def": "Spanish authorities arrested Pueblo religious leaders, executed two, and publicly whipped forty-three, including Popé, before the Pueblo Revolt."
+  },
+  {
+   "id": "c39",
+   "term": "How many colonists founded Jamestown",
+   "def": "In 1607, 104 colonists, 100 men and four boys, arrived in three ships, and the first two English women reached Jamestown in fall 1608."
+  },
+  {
+   "id": "c40",
+   "term": "When John Smith left Jamestown",
+   "def": "In 1609 Captain John Smith returned to England after an accidental gunpowder injury, ending his brief imposition of order at Jamestown."
+  },
+  {
+   "id": "c41",
+   "term": "How long Virginia Company laborers served",
+   "def": "Virginia Company laborers served seven years in exchange for passage, and later indenture promoters promised land and wealth after four to seven years."
+  },
+  {
+   "id": "c42",
+   "term": "When the headright system began and what it granted",
+   "def": "In 1618 the Virginia Company's headright system gave existing colonists 100 acres, new settlers 50 acres, and sponsors 50 acres per immigrant whose passage they paid."
+  },
+  {
+   "id": "c43",
+   "term": "How many immigrants entered the Chesapeake in the 1620s",
+   "def": "In the 1620s 130,000 to 150,000 immigrants, mostly aged fifteen to twenty-four, entered the Chesapeake, and men outnumbered women six to one."
+  },
+  {
+   "id": "c44",
+   "term": "What share of Virginia immigrants were indentured servants",
+   "def": "Indentured servants made up three-quarters of Virginia immigrants, and about 40 percent of servants did not survive their terms."
+  },
+  {
+   "id": "c45",
+   "term": "What Chesapeake life expectancy was",
+   "def": "A Chesapeake man who reached age twenty could expect to live only to forty-eight, and women's life expectancy was even lower."
+  },
+  {
+   "id": "c46",
+   "term": "How many immigrants died before the Virginia Company was dissolved",
+   "def": "More than 3,000 immigrants died in Chesapeake conditions before James I dissolved the Virginia Company in 1624."
+  },
+  {
+   "id": "c47",
+   "term": "How Chesapeake child mortality affected families",
+   "def": "One in four Chesapeake children died before maturity, and among those reaching eighteen, one-third had lost both parents."
+  },
+  {
+   "id": "c48",
+   "term": "How much land the Calverts controlled",
+   "def": "The Calvert family controlled ten million acres of Maryland, along with its justice and civil government, after founding the colony in 1632."
+  },
+  {
+   "id": "c49",
+   "term": "How many people lived in Maryland by 1640",
+   "def": "By 1640 about 2,000 Maryland inhabitants planted tobacco on land that Virginians wanted, renewing tension with the Indians."
+  },
+  {
+   "id": "c50",
+   "term": "How Opechancanough's 1644 attack ended",
+   "def": "In 1644 Opechancanough killed hundreds of colonists and halted the frontier, but he was captured and shot and the Powhatan confederacy ended."
+  },
+  {
+   "id": "c51",
+   "term": "How many Virginia free white men were landless by 1676",
+   "def": "By 1676 one-quarter of Virginia's free white men were landless, as tobacco overproduction and Navigation duties crushed small planters."
+  },
+  {
+   "id": "c52",
+   "term": "When Bacon burned Jamestown",
+   "def": "In September 1676 Nathaniel Bacon burned Jamestown and died of dysentery a month later, ending Bacon's Rebellion."
+  },
+  {
+   "id": "c53",
+   "term": "What share of Chesapeake inhabitants were Black in 1675",
+   "def": "Black people made up only 5 percent of Chesapeake inhabitants in 1675, when planters still preferred English indentured servants."
+  },
+  {
+   "id": "c54",
+   "term": "When Africans first arrived in Virginia",
+   "def": "Africans arrived in Virginia by 1619, probably through Dutch traders, and some early Black settlers were English-speaking Christians, servants, or free."
+  },
+  {
+   "id": "c55",
+   "term": "How many Africans British dealers sold annually after 1698",
+   "def": "After the Royal African Company's monopoly ended in 1698, British dealers sold 20,000 Africans annually."
+  },
+  {
+   "id": "c56",
+   "term": "How enslaved Africans compared with European migrants, 1492 to 1820",
+   "def": "From 1492 to 1820 enslaved Africans arriving in the Americas outnumbered European migrants almost five to one."
+  },
+  {
+   "id": "c57",
+   "term": "How annual slave imports grew before and after sugar",
+   "def": "Slave imports to the Americas were a few thousand yearly before 1600, then rose to 19,000 yearly in the seventeenth century and 60,000 yearly in the eighteenth."
+  },
+  {
+   "id": "c58",
+   "term": "How many Africans were captured between 1700 and 1850",
+   "def": "Between 1700 and 1850 as many as 21 million West Africans were captured, about 9 million entered the Americas, and as many as 7 million remained enslaved in Africa."
+  },
+  {
+   "id": "c59",
+   "term": "Where nine-tenths of enslaved Africans landed",
+   "def": "Nine-tenths of Africans taken to the New World landed in Brazil or the Caribbean islands, and only about 4 percent went to North America."
+  },
+  {
+   "id": "c60",
+   "term": "What share of new Chesapeake slaves came directly from Africa after 1680",
+   "def": "After 1680 more than 80 percent of new slaves entering the Chesapeake and mainland North America came directly from Africa, mostly Senegal–Niger coast and Angola."
+  },
+  {
+   "id": "c61",
+   "term": "How long the Middle Passage lasted and its death rate",
+   "def": "The Middle Passage lasted three weeks to three months, and historians estimate 15 of every 85 Africans who reached the Americas died during the voyage."
+  },
+  {
+   "id": "c62",
+   "term": "How deadly seasoning was in the Chesapeake",
+   "def": "One-quarter of Africans died in their first year in the Chesapeake, and seasoning mortality in Carolina and the Caribbean was even higher."
+  },
+  {
+   "id": "c63",
+   "term": "What share of Virginians were Black by 1740",
+   "def": "By 1740 40 percent of Virginians were Black, most of them African-born, after direct imports from Africa had surged following 1680."
+  },
+  {
+   "id": "c64",
+   "term": "What punishment Virginia law set for a Black person striking a white person",
+   "def": "Under Virginia's late-seventeenth-century slave laws, a Black person who struck a white person could receive thirty lashes."
+  },
+  {
+   "id": "c65",
+   "term": "How much land most small Chesapeake planters held after 1700",
+   "def": "After 1700 most small Virginia and Maryland planters held 50 to 200 acres and owned no slaves or only two or three."
+  },
+  {
+   "id": "c66",
+   "term": "When Barbados turned to sugar",
+   "def": "In the 1640s Barbados planters learned Dutch sugar-processing methods, and Dutch traders supplied African slaves and marketed the sugar in the Netherlands."
+  },
+  {
+   "id": "c67",
+   "term": "How Africans outnumbered English in the Caribbean",
+   "def": "By the early eighteenth century Africans outnumbered English residents of the Caribbean four to one, and seven major slave uprisings shook the English islands."
+  },
+  {
+   "id": "c68",
+   "term": "When the Carolinas were granted to proprietors",
+   "def": "In 1663 Charles II granted the Carolinas to joint proprietors after William Berkeley and Sir John Colleton persuaded him."
+  },
+  {
+   "id": "c69",
+   "term": "When the first permanent South Carolina settlement was founded",
+   "def": "In 1669 Shaftesbury's English and Barbadian immigrants founded South Carolina's first permanent settlement, and by 1680 Charles Town stood at the Ashley and Cooper Rivers."
+  },
+  {
+   "id": "c70",
+   "term": "How many Florida missions Carolina raiders destroyed",
+   "def": "After Governor James Moore's 1702 attack, Creeks, Yamasees, and Englishmen destroyed 29 Spanish missions, confining Spain to St. Augustine by 1706."
+  },
+  {
+   "id": "c71",
+   "term": "How many Indian slaves Carolinians took before 1715",
+   "def": "Before 1715 Carolinians purchased or captured 30,000 to 50,000 Indian slaves, and South Carolina exported more slaves than it imported."
+  },
+  {
+   "id": "c72",
+   "term": "How many white people lived on the South Carolina coast by 1730",
+   "def": "Malaria, yellow fever, smallpox, and respiratory disease made the swampy coast so deadly that only 10,000 white people lived there by 1730."
+  },
+  {
+   "id": "c73",
+   "term": "When Black people became South Carolina's majority",
+   "def": "Black people became a majority in South Carolina by 1708 and outnumbered whites two to one by 1730."
+  },
+  {
+   "id": "c74",
+   "term": "What Georgia's trustees gave settlers",
+   "def": "Georgia's trustees paid passage and gave 50 acres, tools, and a year of supplies, capped holdings at 500 acres, and banned slavery and hard liquor."
+  },
+  {
+   "id": "c75",
+   "term": "What the colony table lists for southern colony populations in 1700",
+   "def": "The colony table lists about 72,000 in Virginia, 30,000 in Maryland, 65,000 in the British West Indies, 6,000 in South Carolina, and 10,700 in North Carolina in 1700."
+  },
+  {
+   "id": "c76",
+   "term": "What the colony table lists for Spanish colonies and Georgia",
+   "def": "The colony table lists St. Augustine founded 1565 with 1,500 Spaniards by 1700, New Mexico's 2,500 including Indian slaves in 1675, and Georgia's 5,000 in 1752."
   }
  ]
 }

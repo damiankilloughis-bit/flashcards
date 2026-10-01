@@ -1,0 +1,151 @@
+{
+ "id": "his201-ch3-03-numbers",
+ "title": "HIS-201 Ch. 3 — 3 Numbers & Dates",
+ "subject": "HIS-201",
+ "topic": "Chapter 3: Colonization and Conflict in the South",
+ "short": "3 Numbers & Dates",
+ "order": 3,
+ "count": 28,
+ "cards": [
+  {
+   "id": "c0",
+   "term": "When Juan de Oñate founded New Mexico",
+   "def": "In 1598 Juan de Oñate led colonists, soldiers, and slaves to the upper Rio Grande, founding Spain's lasting colony of New Mexico."
+  },
+  {
+   "id": "c1",
+   "term": "When Santa Fe was founded",
+   "def": "In 1610 the Spanish founded Santa Fe, the second-oldest European town in the present-day United States after St. Augustine."
+  },
+  {
+   "id": "c2",
+   "term": "How many colonists lived in New Mexico by 1675",
+   "def": "By 1675 New Mexico held only about 2,500 Spanish colonists, showing how unattractive the poor northern outpost was to settlers."
+  },
+  {
+   "id": "c3",
+   "term": "How large Florida's mission network was by 1675",
+   "def": "By 1675 forty Franciscan missions in Florida served as many as 26,000 baptized Indians, extending Spain's reach beyond St. Augustine."
+  },
+  {
+   "id": "c4",
+   "term": "When the Pueblo Revolt began",
+   "def": "On August 10, 1680, the Pueblo Indians rose against Spanish rule, killed colonists, besieged Santa Fe, and drove the survivors south."
+  },
+  {
+   "id": "c5",
+   "term": "When Spain reconquered New Mexico",
+   "def": "In 1692, about a dozen years after the Pueblo Revolt, Spain returned and reconquered New Mexico."
+  },
+  {
+   "id": "c6",
+   "term": "When the Virginia Company received its charter",
+   "def": "In 1606 James I chartered the Virginia Company of London as a private venture to colonize the Chesapeake."
+  },
+  {
+   "id": "c7",
+   "term": "When Jamestown was founded",
+   "def": "In the spring of 1607 the Virginia Company's 100 men and four boys founded Jamestown on Powhatan's territory, beginning England's permanent colonization."
+  },
+  {
+   "id": "c8",
+   "term": "When the starving time struck Jamestown",
+   "def": "In the winter of 1609 to 1610 disease, salt-poisoned water, hunger, and conflict left only about sixty Jamestown settlers alive."
+  },
+  {
+   "id": "c9",
+   "term": "When Pocahontas married John Rolfe",
+   "def": "In 1614 Pocahontas married John Rolfe, and Powhatan used the alliance to gain English weapons and labor against rival Indians."
+  },
+  {
+   "id": "c10",
+   "term": "When Powhatan still ruled a flourishing confederacy",
+   "def": "In 1617 Powhatan still ruled a thriving Chesapeake confederacy, though English tobacco fields were beginning to change the balance of power."
+  },
+  {
+   "id": "c11",
+   "term": "When the House of Burgesses first met",
+   "def": "In 1619 Virginia's House of Burgesses first met, creating the first representative assembly in England's American colonies."
+  },
+  {
+   "id": "c12",
+   "term": "When the Powhatans launched their great attack",
+   "def": "In March 1622 Opechancanough's coordinated attack killed about one-quarter of Virginia's colonists, provoking devastating English retaliation."
+  },
+  {
+   "id": "c13",
+   "term": "When Virginia became a royal colony",
+   "def": "In 1624 James I dissolved the Virginia Company and made Virginia a royal colony under direct Crown rule."
+  },
+  {
+   "id": "c14",
+   "term": "When Maryland was founded",
+   "def": "In 1632 the Calvert family received Maryland as a proprietary colony, a Catholic-led settlement that tolerated all Christians."
+  },
+  {
+   "id": "c15",
+   "term": "When Maryland's tobacco rivalry sparked another Indian war",
+   "def": "In 1644 a second major war broke out between the Chesapeake Indians and the English, fueled by the spread of Maryland's and Virginia's tobacco plantations."
+  },
+  {
+   "id": "c16",
+   "term": "How many colonists Virginia had by 1650",
+   "def": "By 1650 Virginia had stabilized and could claim about 15,000 colonists despite decades of disease and Indian war."
+  },
+  {
+   "id": "c17",
+   "term": "When England's civil war and restoration changed colonial policy",
+   "def": "After Charles I's execution in 1649 and the restoration of the monarchy in 1660, Charles II demanded that the colonies contribute more to English prosperity."
+  },
+  {
+   "id": "c18",
+   "term": "When the first Navigation Act was passed",
+   "def": "In 1660 Parliament passed the first of the Navigation Acts, reserving colonial shipping for England and limiting enumerated exports to English ports."
+  },
+  {
+   "id": "c19",
+   "term": "When later Navigation Acts tightened trade",
+   "def": "In 1663 and 1673 Parliament added Navigation Acts that routed colonial imports through England and imposed duties on colonial trade."
+  },
+  {
+   "id": "c20",
+   "term": "When Bacon's Rebellion occurred",
+   "def": "In 1676 Nathaniel Bacon's followers attacked Indians, fought Governor Berkeley's supporters, and burned Jamestown before Bacon's death ended the revolt."
+  },
+  {
+   "id": "c21",
+   "term": "When Coode's Rebellion occurred",
+   "def": "In July 1689 John Coode's rebels overthrew Maryland's proprietary government, and England revoked the Calverts' charter until 1715."
+  },
+  {
+   "id": "c22",
+   "term": "When the Royal African Company lost its monopoly",
+   "def": "In 1698 the Royal African Company lost its monopoly on the English slave trade, and competing merchants sharply increased African imports."
+  },
+  {
+   "id": "c23",
+   "term": "When North Carolina became a separate colony",
+   "def": "In 1712 North Carolina received its own governor, becoming a poor colony of small farms and naval stores separate from South Carolina."
+  },
+  {
+   "id": "c24",
+   "term": "When the Yamasee War occurred",
+   "def": "In 1715 the Yamasees attacked South Carolina, nearly destroying the colony and ending the region's Indian slave trade and its proprietary rule."
+  },
+  {
+   "id": "c25",
+   "term": "When South Carolina became a royal colony",
+   "def": "In 1729 the Crown formally made South Carolina a royal colony, and rice exports soon restored its prosperity."
+  },
+  {
+   "id": "c26",
+   "term": "When Georgia was chartered",
+   "def": "In 1732 George II gave Georgia's trustees a twenty-one-year charter for a buffer against Spanish Florida and a refuge for the worthy poor."
+  },
+  {
+   "id": "c27",
+   "term": "When Georgia became a royal colony",
+   "def": "In 1752 Georgia passed to royal control after the trustees had abandoned their limits on land, slavery, and liquor."
+  }
+ ]
+}

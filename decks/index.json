@@ -213,7 +213,7 @@
   {
    "name": "HIS-201",
    "slug": "his201",
-   "count": 237,
+   "count": 349,
    "topics": [
     {
      "name": "Chapter 1: The First Civilizations of North America",
@@ -306,6 +306,53 @@
        "order": 5,
        "count": 6,
        "file": "his201-ch2-05-qa.json"
+      }
+     ]
+    },
+    {
+     "name": "Chapter 3: Colonization and Conflict in the South",
+     "slug": "chapter-3",
+     "count": 112,
+     "decks": [
+      {
+       "id": "his201-ch3-01-definitions",
+       "title": "HIS-201 Ch. 3 — 1 Definitions",
+       "short": "1 Definitions",
+       "order": 1,
+       "count": 16,
+       "file": "his201-ch3-01-definitions.json"
+      },
+      {
+       "id": "his201-ch3-02-names",
+       "title": "HIS-201 Ch. 3 — 2 Names",
+       "short": "2 Names",
+       "order": 2,
+       "count": 29,
+       "file": "his201-ch3-02-names.json"
+      },
+      {
+       "id": "his201-ch3-03-numbers",
+       "title": "HIS-201 Ch. 3 — 3 Numbers & Dates",
+       "short": "3 Numbers & Dates",
+       "order": 3,
+       "count": 28,
+       "file": "his201-ch3-03-numbers.json"
+      },
+      {
+       "id": "his201-ch3-04-main-ideas",
+       "title": "HIS-201 Ch. 3 — 4 Main Ideas",
+       "short": "4 Main Ideas",
+       "order": 4,
+       "count": 33,
+       "file": "his201-ch3-04-main-ideas.json"
+      },
+      {
+       "id": "his201-ch3-05-qa",
+       "title": "HIS-201 Ch. 3 — 5 Q&A",
+       "short": "5 Q&A",
+       "order": 5,
+       "count": 6,
+       "file": "his201-ch3-05-qa.json"
       }
      ]
     }
@@ -684,6 +731,66 @@
    "subjectSlug": "his201",
    "topic": "Chapter 2: Old Worlds, New Worlds",
    "topicSlug": "chapter-2"
+  },
+  {
+   "id": "his201-ch3-01-definitions",
+   "title": "HIS-201 Ch. 3 — 1 Definitions",
+   "short": "1 Definitions",
+   "order": 1,
+   "count": 16,
+   "file": "his201-ch3-01-definitions.json",
+   "subject": "HIS-201",
+   "subjectSlug": "his201",
+   "topic": "Chapter 3: Colonization and Conflict in the South",
+   "topicSlug": "chapter-3"
+  },
+  {
+   "id": "his201-ch3-02-names",
+   "title": "HIS-201 Ch. 3 — 2 Names",
+   "short": "2 Names",
+   "order": 2,
+   "count": 29,
+   "file": "his201-ch3-02-names.json",
+   "subject": "HIS-201",
+   "subjectSlug": "his201",
+   "topic": "Chapter 3: Colonization and Conflict in the South",
+   "topicSlug": "chapter-3"
+  },
+  {
+   "id": "his201-ch3-03-numbers",
+   "title": "HIS-201 Ch. 3 — 3 Numbers & Dates",
+   "short": "3 Numbers & Dates",
+   "order": 3,
+   "count": 28,
+   "file": "his201-ch3-03-numbers.json",
+   "subject": "HIS-201",
+   "subjectSlug": "his201",
+   "topic": "Chapter 3: Colonization and Conflict in the South",
+   "topicSlug": "chapter-3"
+  },
+  {
+   "id": "his201-ch3-04-main-ideas",
+   "title": "HIS-201 Ch. 3 — 4 Main Ideas",
+   "short": "4 Main Ideas",
+   "order": 4,
+   "count": 33,
+   "file": "his201-ch3-04-main-ideas.json",
+   "subject": "HIS-201",
+   "subjectSlug": "his201",
+   "topic": "Chapter 3: Colonization and Conflict in the South",
+   "topicSlug": "chapter-3"
+  },
+  {
+   "id": "his201-ch3-05-qa",
+   "title": "HIS-201 Ch. 3 — 5 Q&A",
+   "short": "5 Q&A",
+   "order": 5,
+   "count": 6,
+   "file": "his201-ch3-05-qa.json",
+   "subject": "HIS-201",
+   "subjectSlug": "his201",
+   "topic": "Chapter 3: Colonization and Conflict in the South",
+   "topicSlug": "chapter-3"
   }
  ]
 }

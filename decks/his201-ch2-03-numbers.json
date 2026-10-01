@@ -5,7 +5,7 @@
  "topic": "Chapter 2: Old Worlds, New Worlds",
  "short": "3 Numbers & Dates",
  "order": 3,
- "count": 39,
+ "count": 63,
  "cards": [
   {
    "id": "c0",
@@ -60,7 +60,7 @@
   {
    "id": "c10",
    "term": "When Columbus took his proposal to Spain",
-   "def": "In 1485, after Portugal rejected his calculations, Columbus moved to Spain to seek royal support for a westward route to Asia."
+   "def": "In 1485, after nearly a decade of Portuguese rejection because experts judged his globe too small, Columbus left Portugal and appealed to Spain for support."
   },
   {
    "id": "c11",
@@ -115,12 +115,12 @@
   {
    "id": "c21",
    "term": "When Pizarro conquered the Incas",
-   "def": "In 1532 Francisco Pizarro began the conquest of the Inca Empire, extending Spanish rule into South America."
+   "def": "By 1532 Francisco Pizarro and his brothers had conquered the Inca Empire, extending Spanish rule into the silver-rich Andes of South America."
   },
   {
    "id": "c22",
    "term": "When Coronado explored the Southwest",
-   "def": "From 1540 to 1542 Coronado's expedition crossed the Southwest and the southern Plains seeking rich cities but found none."
+   "def": "Coronado's expedition entered the Southwest in 1539, reached the Grand Canyon and Great Plains, and returned to Mexico in 1542, when Crown officials tried him for great cruelties."
   },
   {
    "id": "c23",
@@ -201,6 +201,126 @@
    "id": "c38",
    "term": "Where England stood in colonization by 1600",
    "def": "By 1600, more than a century after Columbus, England still had no permanent American settlement, while Spain dominated most of the Americas."
+  },
+  {
+   "id": "c39",
+   "term": "How Zheng He's junks compared with Columbus's ships",
+   "def": "Zheng He's largest junks were nine-masted and 400 feet long, while Columbus's largest 1492 ship was only 85 feet and all three ships carried about 90 men."
+  },
+  {
+   "id": "c40",
+   "term": "When Cabot's second voyage vanished",
+   "def": "Cabot's second voyage sought a Northwest Passage to Asia, but his five ships disappeared in 1498."
+  },
+  {
+   "id": "c41",
+   "term": "How many vessels fished Newfoundland by the 1550s",
+   "def": "By the 1550s about 400 vessels a year from England, France, Portugal, and Spain sailed to the Newfoundland fishery."
+  },
+  {
+   "id": "c42",
+   "term": "Life expectancy and inequality in late-medieval Europe",
+   "def": "In the fourteenth and fifteenth centuries one-quarter of European children died in their first year, reaching 40 was fortunate, and nobles earned hundreds of times peasants' incomes."
+  },
+  {
+   "id": "c43",
+   "term": "How deadly the Black Death was in cities",
+   "def": "The Black Death killed one-quarter of Europe's population and as much as 70 percent in some cities, provoking spiritual crisis and massacres of Jews."
+  },
+  {
+   "id": "c44",
+   "term": "How many witches were executed in early modern Europe",
+   "def": "An estimated 40,000 to 60,000 accused witches were hanged or burned in early modern Europe, showing the lasting power of supernatural belief."
+  },
+  {
+   "id": "c45",
+   "term": "How deadly malaria was for the Portuguese in West Africa",
+   "def": "Malaria killed roughly one-fourth to one-half of the Portuguese who tried to remain in West Africa, so Portugal partnered with coastal elites instead of conquering."
+  },
+  {
+   "id": "c46",
+   "term": "Slavery's scale in the modern world",
+   "def": "Estimates cited in the chapter count up to 27 million people in labor bondage today and nearly 1 million sold across borders yearly."
+  },
+  {
+   "id": "c47",
+   "term": "Africans in Lisbon by the mid-sixteenth century",
+   "def": "By the mid-sixteenth century people of African descent made up 10 percent of Lisbon's population."
+  },
+  {
+   "id": "c48",
+   "term": "When Columbus arrived in Portugal",
+   "def": "Columbus was shipwrecked on Portugal's coast in 1476 and spent the next 10 years learning navigation and geography there."
+  },
+  {
+   "id": "c49",
+   "term": "Spanish share of Spanish America's population by 1600",
+   "def": "By 1600 only about 5 percent of Spain's colonial population was Spanish-descended, and by 1800 only 300,000 Spanish immigrants had reached Central and South America."
+  },
+  {
+   "id": "c50",
+   "term": "When African slaves were imported for West Indian sugar",
+   "def": "By 1520 large numbers of Black slaves were being imported from Africa to work Spain's West Indian sugar plantations."
+  },
+  {
+   "id": "c51",
+   "term": "When Spain settled Georgia and Narváez invaded Florida",
+   "def": "Spain's 1526 settlement in present-day Georgia soon collapsed, and in 1528 Pánfilo de Narváez led 300 men into Florida."
+  },
+  {
+   "id": "c52",
+   "term": "When Cabeza de Vaca reached Mexico City",
+   "def": "In July 1536 Spanish slavers found Cabeza de Vaca, Esteban, and two other castaways and brought the four survivors to Mexico City."
+  },
+  {
+   "id": "c53",
+   "term": "How much French piracy cost Spain",
+   "def": "French attacks on Spanish galleons from 1556 to 1560 cut Spain's colonial revenue in half, motivating the destruction of Fort Caroline."
+  },
+  {
+   "id": "c54",
+   "term": "How many Huguenots Menéndez killed",
+   "def": "In 1565 Menéndez attacked Fort Caroline with 500 soldiers and killed Jean Ribault and about 500 Huguenots in battle and executions."
+  },
+  {
+   "id": "c55",
+   "term": "When Elizabeth began colonizing Ireland",
+   "def": "Beginning in 1565 Elizabeth I sponsored elite ventures to subdue Catholic Ireland and settle loyal English Protestants on Irish land."
+  },
+  {
+   "id": "c56",
+   "term": "When Hakluyt wrote his Discourse",
+   "def": "In 1584 Richard Hakluyt wrote A Discourse Concerning Westerne Planting, urging Walter Raleigh's North American colonization."
+  },
+  {
+   "id": "c57",
+   "term": "How Raleigh's second colony was organized",
+   "def": "Raleigh's second colony of 1587 recruited 119 men, women, and children, gave each a 500-acre estate, and made John White governor."
+  },
+  {
+   "id": "c58",
+   "term": "When Drake rescued the first Roanoke colonists",
+   "def": "After Lane's men killed Wingina, Sir Francis Drake rescued 102 survivors of the first Roanoke colony."
+  },
+  {
+   "id": "c59",
+   "term": "When the Stuart dynasty began",
+   "def": "Elizabeth I died in 1603, James I founded the Stuart dynasty, and in 1607 the English founded Jamestown on Chesapeake Bay."
+  },
+  {
+   "id": "c60",
+   "term": "How long James I imprisoned Raleigh",
+   "def": "Walter Raleigh spent 15 years imprisoned by James I and was beheaded after a second defiance."
+  },
+  {
+   "id": "c61",
+   "term": "How many de Soto's hogs numbered",
+   "def": "De Soto's pig herd sometimes exceeded 700, and hogs used over 80 percent of a carcass versus about 50 percent for cattle or sheep."
+  },
+  {
+   "id": "c62",
+   "term": "When the Jesuit mission in Florida began",
+   "def": "In 1570 Menéndez encouraged a short-lived Jesuit mission as Spain added outposts across Florida."
   }
  ]
 }

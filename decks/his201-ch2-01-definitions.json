@@ -5,7 +5,7 @@
  "topic": "Chapter 2: Old Worlds, New Worlds",
  "short": "1 Definitions",
  "order": 1,
- "count": 18,
+ "count": 24,
  "cards": [
   {
    "id": "c0",
@@ -96,6 +96,36 @@
    "id": "c17",
    "term": "Weroance",
    "def": "The Algonquian title for a chief who ruled a group of villages and collected tribute from them in return for protection and leadership."
+  },
+  {
+   "id": "c18",
+   "term": "Lateen sail",
+   "def": "A triangular sail used on the Portuguese caravel that allowed flexible steering and helped ships sail against contrary winds and currents."
+  },
+  {
+   "id": "c19",
+   "term": "Witch bottle",
+   "def": "A Bellarmine jar filled with bent pins, hair, navel fluff, and sulfur-laced liquid that early modern English people used to counter supposed witches' spells."
+  },
+  {
+   "id": "c20",
+   "term": "Mundus Novus",
+   "def": "Mundus Novus, meaning \"New World,\" was Amerigo Vespucci's name for the lands Columbus reached, which a German mapmaker then called America."
+  },
+  {
+   "id": "c21",
+   "term": "Sea dogs",
+   "def": "The English sea dogs, including Humphrey Gilbert and Walter Raleigh, were Elizabethan adventurers who raided Spain and attempted England's first American colonies."
+  },
+  {
+   "id": "c22",
+   "term": "Treasury of merit",
+   "def": "In Catholic teaching, the store of surplus grace from Christ and the saints on which indulgences drew to shorten a soul's time in purgatory."
+  },
+  {
+   "id": "c23",
+   "term": "Holy commonwealth",
+   "def": "Calvin's model of Geneva as a holy commonwealth in which government regulated behavior and morals according to biblical law."
   }
  ]
 }

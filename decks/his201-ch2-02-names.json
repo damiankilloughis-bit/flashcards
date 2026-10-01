@@ -5,7 +5,7 @@
  "topic": "Chapter 2: Old Worlds, New Worlds",
  "short": "2 Names",
  "order": 2,
- "count": 43,
+ "count": 67,
  "cards": [
   {
    "id": "c0",
@@ -40,7 +40,7 @@
   {
    "id": "c6",
    "term": "Wine Islands",
-   "def": "The Wine Islands, the Atlantic island groups of Madeira, the Canaries, and the Azores, were where Europeans first built sugar plantations worked by enslaved Africans."
+   "def": "The Wine Islands, the volcanic-soil Atlantic island groups of the Canaries, Madeira, and the Azores, were where Portugal spread slave-run sugar plantations after earlier Mediterranean plantations."
   },
   {
    "id": "c7",
@@ -105,7 +105,7 @@
   {
    "id": "c19",
    "term": "Francisco Pizarro",
-   "def": "Francisco Pizarro was the Spanish conquistador who, with his brothers, conquered the Inca Empire and gave Spain control of the silver-rich Andes."
+   "def": "Francisco Pizarro was the Spanish conquistador who, with his brothers, had conquered the Inca Empire by 1532 using political divisions, disease, technology, and luck."
   },
   {
    "id": "c20",
@@ -115,7 +115,7 @@
   {
    "id": "c21",
    "term": "Juan Ponce de León",
-   "def": "Juan Ponce de León, the Spanish conqueror of Puerto Rico, led expeditions to Florida, where armed Indian resistance left him mortally wounded."
+   "def": "Juan Ponce de León, the Spanish conqueror of Puerto Rico, made the first official Spanish mainland expedition, named Florida, and was mortally wounded by Calusa Indians in 1521."
   },
   {
    "id": "c22",
@@ -135,7 +135,7 @@
   {
    "id": "c25",
    "term": "Francisco Vázquez de Coronado",
-   "def": "Francisco Vázquez de Coronado led a Spanish expedition across the Southwest in search of wealthy cities, attacking pueblos and returning empty-handed."
+   "def": "Francisco Vázquez de Coronado, aged 29, led 300 Spaniards and 1,000 Mexican Indian warriors into the Southwest in 1539 seeking rich cities but found only mud-and-straw pueblos."
   },
   {
    "id": "c26",
@@ -221,6 +221,126 @@
    "id": "c42",
    "term": "Upper and Lower Guinea",
    "def": "Upper Guinea and Lower Guinea were the coastal regions of West Africa, Upper Guinea stretching south from the Senegal River and Lower Guinea running east along the Gulf of Guinea."
+  },
+  {
+   "id": "c43",
+   "term": "Giovanni Caboto (John Cabot)",
+   "def": "Giovanni Caboto, backed by Henry VII, sailed from Bristol in spring 1497, reported a new-found island rich in cod and mast trees, and earned a £10 reward."
+  },
+  {
+   "id": "c44",
+   "term": "Hy-Brasil",
+   "def": "Hy-Brasil, the mythical Isle of the Blessed, was the island English mariners searched for west of Ireland in the 1480s and 1490s."
+  },
+  {
+   "id": "c45",
+   "term": "St. John's, Newfoundland",
+   "def": "St. John's, Newfoundland, was the informal hub of the North Atlantic fishery, where crews gathered supplies, traded with Native people, and departed each autumn."
+  },
+  {
+   "id": "c46",
+   "term": "Constantinople (Istanbul)",
+   "def": "Constantinople, now Istanbul, was the Christian city bridging Europe and Asia and a premier trading hub until Ottoman Sultan Mehmet II conquered it in 1453."
+  },
+  {
+   "id": "c47",
+   "term": "Saladin",
+   "def": "Saladin was the Muslim leader who reconquered Jerusalem in the twelfth century, pushing European investors to move sugar plantations to eastern Mediterranean islands."
+  },
+  {
+   "id": "c48",
+   "term": "San Salvador",
+   "def": "San Salvador was Columbus's name for the Bahamas bay where the Niña, Pinta, and Santa Maria anchored on October 12, 1492, which Columbus mistook for land near Japan."
+  },
+  {
+   "id": "c49",
+   "term": "Tenochtitlán",
+   "def": "Tenochtitlán, the Aztec capital of roughly 250,000 people, fell to Cortés's siege in August 1521 and became Mexico City, headquarters of Spanish bureaucracy."
+  },
+  {
+   "id": "c50",
+   "term": "Doña Marina",
+   "def": "Doña Marina was the Native woman who translated for Cortés during his first meetings with Moctezuma's representatives in 1519."
+  },
+  {
+   "id": "c51",
+   "term": "Potosí",
+   "def": "Potosí was the Andean silver-mining city whose 120,000 people by 1570 made it larger than any city in Spain or its American empire."
+  },
+  {
+   "id": "c52",
+   "term": "Calusa",
+   "def": "The Calusa were the Florida Indians who, knowing Spaniards as slave raiders, resisted Juan Ponce de León and mortally wounded him in 1521."
+  },
+  {
+   "id": "c53",
+   "term": "Pánfilo de Narváez",
+   "def": "Pánfilo de Narváez led 300 men into Florida in 1528, ignored Cabeza de Vaca's warning, separated from his force near Tampa Bay, and disappeared."
+  },
+  {
+   "id": "c54",
+   "term": "The Turk",
+   "def": "The Turk was the Indian guide who led Coronado onto the Great Plains toward Quivira, and Coronado had the Turk strangled in present-day Kansas."
+  },
+  {
+   "id": "c55",
+   "term": "Mississippian chiefdoms",
+   "def": "The declining Mississippian chiefdoms of the Southeast were seen by Europeans only on de Soto's expedition, which hastened their shift to decentralized confederacies."
+  },
+  {
+   "id": "c56",
+   "term": "Giovanni da Verrazzano and Jacques Cartier",
+   "def": "Giovanni da Verrazzano explored North America's eastern coast in 1524, and Jacques Cartier explored the St. Lawrence River valley in 1534, 1535, and 1541."
+  },
+  {
+   "id": "c57",
+   "term": "Jean Ribault",
+   "def": "Jean Ribault led 150 Norman Huguenots to Parris Island in 1562 and a larger group to found Fort Caroline in 1564, before Menéndez killed Ribault."
+  },
+  {
+   "id": "c58",
+   "term": "Fort Caroline",
+   "def": "Fort Caroline was the 1564 French Huguenot settlement south of present-day Jacksonville, allied with the Timucua, that Menéndez destroyed in 1565."
+  },
+  {
+   "id": "c59",
+   "term": "Timucua",
+   "def": "The Timucua were the Florida Indians who allied with the French Huguenots at Fort Caroline in 1564."
+  },
+  {
+   "id": "c60",
+   "term": "Richard Grenville and Ralph Lane",
+   "def": "Sir Richard Grenville and Ralph Lane alienated the Roanoke people by burning a village and corn stores over a stolen cup, and Lane's men killed Wingina."
+  },
+  {
+   "id": "c61",
+   "term": "Thomas Hariot",
+   "def": "Thomas Hariot studied Roanoke's resources, and Hariot's 1588 report, with John White's drawings of Native people, became a major source on coastal Algonquians."
+  },
+  {
+   "id": "c62",
+   "term": "Croatoan",
+   "def": "Croatoan was the island near Cape Hatteras whose name John White found carved on a post at the empty Roanoke fort in 1590."
+  },
+  {
+   "id": "c63",
+   "term": "Simon Ferdinando",
+   "def": "Simon Ferdinando was the pilot who in July 1587 left Raleigh's second colony at Roanoke Island rather than Chesapeake Bay."
+  },
+  {
+   "id": "c64",
+   "term": "Michel de Montaigne and André Thevet",
+   "def": "Michel de Montaigne mocked European assumptions that Indians lacked trade, letters, and laws, while André Thevet, visiting Brazil in 1557, read Native nakedness as lust."
+  },
+  {
+   "id": "c65",
+   "term": "Catherine of Aragon and Anne Boleyn",
+   "def": "Henry VIII's wife Catherine of Aragon bore Mary but no son, and after the pope refused an annulment Henry married Anne Boleyn."
+  },
+  {
+   "id": "c66",
+   "term": "Edward VI and Mary I",
+   "def": "Edward VI's six-year reign helped English Protestants, while Catholic Mary became queen in 1553 and persecuted them until Elizabeth I succeeded in 1558."
   }
  ]
 }

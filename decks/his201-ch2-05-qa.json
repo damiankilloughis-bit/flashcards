@@ -5,7 +5,7 @@
  "topic": "Chapter 2: Old Worlds, New Worlds",
  "short": "5 Q&A",
  "order": 5,
- "count": 6,
+ "count": 12,
  "cards": [
   {
    "id": "c0",
@@ -36,6 +36,36 @@
    "id": "c5",
    "term": "What did English colonists misunderstand about Native farming?",
    "def": "Englishmen considered farming women's work and looked down on it, yet Native agriculture depended on women's skilled cultivation, and English settlers struggled because they rejected local practices."
+  },
+  {
+   "id": "c6",
+   "term": "True or false: Zheng He's fleet reached America before Columbus.",
+   "def": "False: Zheng He's treasure fleet reached eastern Africa, but Chinese leaders grounded the fleet, leaving no Zheng He-led route predating Columbus."
+  },
+  {
+   "id": "c7",
+   "term": "True or false: Portuguese experts rejected Columbus because they thought the earth was flat.",
+   "def": "False: Portuguese experts correctly judged that Columbus's globe was too small and his westward route to China impractical."
+  },
+  {
+   "id": "c8",
+   "term": "Where did the Calusa wound Ponce de León, and why did Florida Indians resist?",
+   "def": "Calusa Indians mortally wounded Ponce de León in Florida in 1521 because Florida Indians already knew Spaniards as slave raiders."
+  },
+  {
+   "id": "c9",
+   "term": "Where did Pedro Menéndez de Avilés found St. Augustine, and what did Menéndez destroy?",
+   "def": "Menéndez founded St. Augustine in Florida in 1565 and destroyed the Huguenots' Fort Caroline, south of present-day Jacksonville, with 500 soldiers."
+  },
+  {
+   "id": "c10",
+   "term": "Why were the second Roanoke colonists left at Roanoke Island instead of Chesapeake Bay?",
+   "def": "Pilot Simon Ferdinando left Raleigh's second colony at Roanoke Island in July 1587, and the Spanish Armada later delayed John White's return."
+  },
+  {
+   "id": "c11",
+   "term": "True or false: Henry VIII broke with Rome to adopt Protestant theology.",
+   "def": "False: Henry VIII broke with the pope to obtain an annulment and retained essentially Catholic teaching and ritual in the Church of England."
   }
  ]
 }

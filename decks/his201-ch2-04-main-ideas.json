@@ -5,7 +5,7 @@
  "topic": "Chapter 2: Old Worlds, New Worlds",
  "short": "4 Main Ideas",
  "order": 4,
- "count": 25,
+ "count": 51,
  "cards": [
   {
    "id": "c0",
@@ -131,6 +131,136 @@
    "id": "c24",
    "term": "England's position in the global race for empire by 1600",
    "def": "By 1600 Portugal and Spain had built overseas empires, while England's failed experiments laid the groundwork for its renewed expansion in the seventeenth century."
+  },
+  {
+   "id": "c25",
+   "term": "Why Chinese voyages did not precede Columbus to America",
+   "def": "Chinese leaders grounded Zheng He's treasure fleet and ended long-distance voyages, so China left no route to the Americas before Columbus."
+  },
+  {
+   "id": "c26",
+   "term": "Why Mehmet II's conquest alarmed Europe",
+   "def": "Mehmet II's 1453 capture of Constantinople alarmed Europe economically and militarily because the Ottomans now controlled eastern Mediterranean trade routes."
+  },
+  {
+   "id": "c27",
+   "term": "How financial techniques enabled expansion",
+   "def": "By the late fifteenth century, merchants and bankers used efficient money transfers and credit over long distances, providing capital for technology, trade, and colonial enterprises."
+  },
+  {
+   "id": "c28",
+   "term": "How the Portuguese solved the Atlantic return problem",
+   "def": "Atlantic currents made returning from Africa nearly impossible, so Portugal became the first kingdom to solve it with caravels, lateen sails, and a sturdier Islamic astrolabe."
+  },
+  {
+   "id": "c29",
+   "term": "What Portugal traded in West Africa",
+   "def": "Portugal traded textiles, raw and worked metal, cowry-shell currency, and beads for West African gold, ivory, malaguetta pepper, and slaves."
+  },
+  {
+   "id": "c30",
+   "term": "Why sugar plantations kept moving west",
+   "def": "Sugar exhausted soil quickly, while the Black Death and Ottoman conquests cut Mediterranean labor and Balkan slave sources, pushing plantations to the Atlantic islands and West African slaves."
+  },
+  {
+   "id": "c31",
+   "term": "Why Columbus's second voyage became colonization",
+   "def": "Gold rumors, a vulnerable Taino population lacking West African military power, and a healthy climate turned Columbus's second voyage into colonization rather than commerce."
+  },
+  {
+   "id": "c32",
+   "term": "How Spaniards and Aztecs were similar",
+   "def": "Spaniards and Aztecs were both rural agricultural societies with urban merchants, specialized craftworkers, noble and priestly elites, tribute systems, and expansionist goals."
+  },
+  {
+   "id": "c33",
+   "term": "Why the Aztecs were vulnerable",
+   "def": "The Aztecs lacked ocean navigation, metal tools and weapons, and firearms, and their young empire had not fully controlled central Mexico."
+  },
+  {
+   "id": "c34",
+   "term": "Why the Taino population collapsed",
+   "def": "Within one generation Taino numbers collapsed through war, overwork, malnutrition, despair, and Eurasian diseases, as Spanish slavers also depopulated the Bahamas."
+  },
+  {
+   "id": "c35",
+   "term": "How Europeans and Indians judged each other's dress",
+   "def": "Europeans saw Native nakedness as lust or innocence, while Native observers found Europeans' wool clothing and limited bathing barbaric; clothing marked a supposed civilized-savage boundary."
+  },
+  {
+   "id": "c36",
+   "term": "How the Columbian Exchange reshaped the Caribbean",
+   "def": "Europeans likely carried syphilis home and brought horses, large dogs, oranges, lemons, figs, and bananas, while escaped hogs and rats overran Caribbean islands."
+  },
+  {
+   "id": "c37",
+   "term": "How Indians lived under Spanish rule",
+   "def": "Indians often stayed on former Aztec and Inca farms, paid Spanish taxes, raised export livestock, and supplied coerced labor in mines beside Black slaves."
+  },
+  {
+   "id": "c38",
+   "term": "How Spanish treasure and trade moved by 1600",
+   "def": "Potosí silver went by ship to Panama, overland across the Isthmus, then from the Caribbean to Spain, while an Acapulco expedition sailed yearly to the Philippines."
+  },
+  {
+   "id": "c39",
+   "term": "Why first-contact sources must be read critically",
+   "def": "Accounts by Bernal Díaz in the 1560s and Bernardino de Sahagún's 1540s informants are later, partial, and shaped by the authors' positions and purposes."
+  },
+  {
+   "id": "c40",
+   "term": "What de Soto's expedition did to the Southeast",
+   "def": "De Soto's men ravaged the Southeast from Florida to Texas, found no treasure, and hastened the shift from Mississippian chiefdoms to decentralized confederacies."
+  },
+  {
+   "id": "c41",
+   "term": "Why Spain dominated the Americas in the sixteenth century",
+   "def": "Spain dominated the Americas for most of the sixteenth century because rival powers were absorbed in the religious upheaval of the Protestant Reformation."
+  },
+  {
+   "id": "c42",
+   "term": "Why Catholic Church abuses provoked reform",
+   "def": "Between 1100 and 1500 church wealth, landholding, tithes, office fees, and political interference clashed with poorly educated priests and popular demands for assurance of salvation."
+  },
+  {
+   "id": "c43",
+   "term": "How Catholic and Protestant views of salvation differed",
+   "def": "Catholic teaching stressed faith plus good works, sacraments, pilgrimages, and prayer, while Luther taught justification by faith alone, with good behavior following salvation."
+  },
+  {
+   "id": "c44",
+   "term": "How the Reformation divided Europe",
+   "def": "Spain, Portugal, Ireland, and Italy stayed Catholic; England, Scotland, the Netherlands, Switzerland, and France had Calvinists; Germany and Scandinavia became largely Lutheran."
+  },
+  {
+   "id": "c45",
+   "term": "How Henry VIII's Church of England compared with Catholicism",
+   "def": "Henry VIII made himself head of the Church of England after the pope refused an annulment but retained essentially Catholic teaching and ritual."
+  },
+  {
+   "id": "c46",
+   "term": "How the English treated the Irish",
+   "def": "English colonizers portrayed Catholic Irish as savage and denied them land, offices, juries, testimony, trades, and weapons, a precedent for brutality toward savage peoples."
+  },
+  {
+   "id": "c47",
+   "term": "What Gilbert's charter claimed",
+   "def": "Gilbert's 1578 charter covered American land not held by a Christian prince between Florida and Labrador, ignored Native possession, and envisioned feudal lords and free land for the poor."
+  },
+  {
+   "id": "c48",
+   "term": "What Hakluyt said America offered England",
+   "def": "Hakluyt promoted North America for tropical commodities, attacks on Spain, a Northwest Passage, Protestantism, English markets, and relief for the poor and unemployed."
+  },
+  {
+   "id": "c49",
+   "term": "Theories on the fate of the lost Roanoke colonists",
+   "def": "The fate of the lost Roanoke colonists remains unknown: they may have moved to Croatoan, joined Native communities, or been killed."
+  },
+  {
+   "id": "c50",
+   "term": "What the chapter summary says enabled European expansion",
+   "def": "Europe's expansion was enabled by technology, new trade networks, financial techniques, and political centralization, while Native divisions and European diseases enabled Spanish conquest."
   }
  ]
 }

@@ -5,7 +5,7 @@
  "topic": "Chapter 1: The First Civilizations of North America",
  "short": "3 Numbers & Dates",
  "order": 3,
- "count": 26,
+ "count": 28,
  "cards": [
   {
    "id": "c0",
@@ -74,66 +74,76 @@
   },
   {
    "id": "c13",
+   "term": "How large Teotihuacán was at its height",
+   "def": "Around 650 CE, Teotihuacán covered roughly fifteen square miles and housed nearly 200,000 people, making the city one of the largest in the world."
+  },
+  {
+   "id": "c14",
    "term": "When the Adena and Hopewell built burial mounds",
    "def": "About 2,000 years ago, Adena and Hopewell communities built burial mounds in the Ohio and Mississippi valleys and filled them with imported prestige goods."
   },
   {
-   "id": "c14",
+   "id": "c15",
+   "term": "When Poverty Point's earthworks were built",
+   "def": "Around 1000 BCE, the builders of Poverty Point in Louisiana raised enormous earthworks, one of the earliest mound centers in eastern North America."
+  },
+  {
+   "id": "c16",
    "term": "When the Anasazi population peaked",
    "def": "Between about 900 and 1100 CE, the Anasazi population reached its peak of about 30,000 people spread across a vast area of the Southwest."
   },
   {
-   "id": "c15",
+   "id": "c17",
    "term": "When Cahokia reached its height",
    "def": "By the twelfth century CE, Cahokia had become the leading city-building and trading center of eastern North America."
   },
   {
-   "id": "c16",
+   "id": "c18",
    "term": "How many people lived at Cahokia",
    "def": "At its height, Cahokia may have held as many as 30,000 people, making Cahokia one of the largest cities in North America before European contact."
   },
   {
-   "id": "c17",
+   "id": "c19",
    "term": "When the Aztecs arrived in central Mexico",
    "def": "In the mid-thirteenth century, the Aztecs migrated south from northern Mesoamerica and settled in the Valley of Mexico in central Mexico."
   },
   {
-   "id": "c18",
+   "id": "c20",
    "term": "When the Aztec empire peaked",
    "def": "By the late fifteenth century, the Aztecs ruled a large tribute empire centered on their island capital of Tenochtitlán."
   },
   {
-   "id": "c19",
+   "id": "c21",
    "term": "How many people lived in Tenochtitlán",
    "def": "By the late fifteenth century, Tenochtitlán may have housed about a quarter of a million people, making the Aztec capital a major world city."
   },
   {
-   "id": "c20",
+   "id": "c22",
    "term": "When many American cultures declined",
    "def": "During the three to four hundred years before Europeans arrived, many sophisticated American cultures declined sharply or disappeared for reasons that remain a mystery."
   },
   {
-   "id": "c21",
+   "id": "c23",
    "term": "When lasting European contact began",
    "def": "In 1492 Christopher Columbus reached the Caribbean, beginning lasting contact that would devastate Native peoples through disease and conquest."
   },
   {
-   "id": "c22",
+   "id": "c24",
    "term": "How many people lived in North America and the Caribbean by 1492",
    "def": "Somewhere between 57 and 112 million people lived in over 350 different societies in North America and the Caribbean when Europeans arrived."
   },
   {
-   "id": "c23",
+   "id": "c25",
    "term": "What share of the world's crops came from the Americas",
    "def": "Plants domesticated by Native Americans, including corn, squash, potatoes, and beans, today account for three-fifths of the world's crops."
   },
   {
-   "id": "c24",
+   "id": "c26",
    "term": "How many large mammals humans domesticated worldwide",
    "def": "Of 148 large mammal species worldwide, humans domesticated only fourteen before the twentieth century, so few wild animals were suitable for herding."
   },
   {
-   "id": "c25",
+   "id": "c27",
    "term": "How Eurasia's domestic animals compared with the Americas'",
    "def": "Eurasia had thirteen of the world's fourteen domesticated large mammals, while the Americas had only one, the llama and its relative the alpaca."
   }

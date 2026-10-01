@@ -213,12 +213,12 @@
   {
    "name": "HIS-201",
    "slug": "his201",
-   "count": 101,
+   "count": 108,
    "topics": [
     {
      "name": "Chapter 1: The First Civilizations of North America",
      "slug": "chapter-1",
-     "count": 101,
+     "count": 108,
      "decks": [
       {
        "id": "his201-ch1-01-definitions",
@@ -233,7 +233,7 @@
        "title": "HIS-201 Ch. 1 — 2 Names",
        "short": "2 Names",
        "order": 2,
-       "count": 25,
+       "count": 30,
        "file": "his201-ch1-02-names.json"
       },
       {
@@ -241,7 +241,7 @@
        "title": "HIS-201 Ch. 1 — 3 Numbers & Dates",
        "short": "3 Numbers & Dates",
        "order": 3,
-       "count": 26,
+       "count": 28,
        "file": "his201-ch1-03-numbers.json"
       },
       {
@@ -535,7 +535,7 @@
    "title": "HIS-201 Ch. 1 — 2 Names",
    "short": "2 Names",
    "order": 2,
-   "count": 25,
+   "count": 30,
    "file": "his201-ch1-02-names.json",
    "subject": "HIS-201",
    "subjectSlug": "his201",
@@ -547,7 +547,7 @@
    "title": "HIS-201 Ch. 1 — 3 Numbers & Dates",
    "short": "3 Numbers & Dates",
    "order": 3,
-   "count": 26,
+   "count": 28,
    "file": "his201-ch1-03-numbers.json",
    "subject": "HIS-201",
    "subjectSlug": "his201",

@@ -5,7 +5,7 @@
  "topic": "Chapter 1: The First Civilizations of North America",
  "short": "2 Names",
  "order": 2,
- "count": 25,
+ "count": 30,
  "cards": [
   {
    "id": "c0",
@@ -44,91 +44,116 @@
   },
   {
    "id": "c7",
+   "term": "Teotihuacán",
+   "def": "Teotihuacán was a huge central Mexican metropolis of pyramids, markets, palaces, and residential neighborhoods whose scale demonstrated the urban complexity of early Mesoamerica."
+  },
+  {
+   "id": "c8",
+   "term": "Toltecs",
+   "def": "The Toltecs were a later Mesoamerican civilization whose urban ball courts and cultural traditions helped shape the practices the Aztecs later adopted."
+  },
+  {
+   "id": "c9",
    "term": "Aztecs (Mexica)",
    "def": "The Aztecs, also called the Mexica, built a tribute empire in central Mexico that ruled millions of people divided into classes of aristocrats, commoners, and slaves."
   },
   {
-   "id": "c8",
+   "id": "c10",
    "term": "Tenochtitlán",
    "def": "Tenochtitlán, the Aztec capital built on an island in Lake Texcoco, was linked to the mainland by causeways and fed by chinampas, making Tenochtitlán one of the world's largest cities."
   },
   {
-   "id": "c9",
+   "id": "c11",
    "term": "Anasazi (Ancestral Puebloans)",
    "def": "The Anasazi, now usually called the Ancestral Puebloans, were Southwestern farmers who built multistory masonry towns, kivas, and long roads that show clear Mesoamerican influence."
   },
   {
-   "id": "c10",
+   "id": "c12",
    "term": "Chaco Canyon",
    "def": "Chaco Canyon in New Mexico was the largest Anasazi center, where massive stone great houses, kivas, and broad roads linked a network of Southwestern farming towns."
   },
   {
-   "id": "c11",
+   "id": "c13",
+   "term": "Mesa Verde",
+   "def": "Mesa Verde in Colorado held multistory Ancestral Pueblo masonry villages, showing how highland farmers turned agricultural surplus into complex communities."
+  },
+  {
+   "id": "c14",
+   "term": "Hohokam",
+   "def": "The Hohokam of the Arizona desert dug extensive irrigation canals that let them farm arid land and sustain unusually large Southwestern populations."
+  },
+  {
+   "id": "c15",
+   "term": "Mogollon",
+   "def": "The Mogollon were Southwestern farmers of the mountain river valleys who became renowned for distinctive painted pottery, showing how crops supported specialized regional crafts."
+  },
+  {
+   "id": "c16",
    "term": "Moundbuilders",
    "def": "The Moundbuilders were the Adena, Hopewell, and Mississippian peoples of the Ohio and Mississippi valleys, whose massive earthworks reveal skilled engineering, long-distance trade, and powerful leaders."
   },
   {
-   "id": "c12",
+   "id": "c17",
    "term": "Adena",
    "def": "The Adena people of the Ohio Valley built large burial mounds for their leaders and filled the mounds with valuable goods imported through long-distance trade."
   },
   {
-   "id": "c13",
+   "id": "c18",
    "term": "Hopewell",
    "def": "The Hopewell people built elaborate earthworks and burial mounds in the Ohio and Mississippi valleys and traded raw materials and fine crafts across much of North America."
   },
   {
-   "id": "c14",
+   "id": "c19",
    "term": "Mississippians",
    "def": "The Mississippians were maize-farming peoples of the Mississippi Valley and Southeast who organized powerful chiefdoms and built mound-centered towns, with Cahokia as their greatest city."
   },
   {
-   "id": "c15",
+   "id": "c20",
    "term": "Cahokia",
    "def": "Cahokia, the great Mississippian city near modern Saint Louis, centered on plazas, temples, and more than one hundred mounds and controlled a far-reaching trade network."
   },
   {
-   "id": "c16",
+   "id": "c21",
    "term": "Eastern Woodlands peoples",
    "def": "The Eastern Woodlands peoples lived in the forests of eastern North America and everywhere depended on a combination of fishing, gathering, and hunting."
   },
   {
-   "id": "c17",
+   "id": "c22",
    "term": "Algonquians (Algonquins)",
    "def": "The Algonquians were the many Subarctic and Eastern Woodlands peoples who spoke related Algonquian languages and lived by seasonal hunting, fishing, and gathering."
   },
   {
-   "id": "c18",
+   "id": "c23",
    "term": "Great Plains peoples",
    "def": "The Great Plains peoples either farmed in large villages along tree-lined rivers or migrated with the seasons and survived almost entirely by hunting buffalo."
   },
   {
-   "id": "c19",
+   "id": "c24",
    "term": "Great Basin peoples",
    "def": "Among the Great Basin peoples of the dry interior West, men tracked and trapped animals, but the staples of the diet were seeds, nuts, and plants that women gathered."
   },
   {
-   "id": "c20",
+   "id": "c25",
    "term": "Pacific Northwest peoples",
    "def": "The Pacific Northwest peoples, such as the Kwakiutls, Nootkas, and Tlingits, fished for salmon, hunted whales and seals from large cedar canoes, and ranked families by wealth."
   },
   {
-   "id": "c21",
+   "id": "c26",
    "term": "Inuit",
    "def": "The Inuit of the Arctic, in today's far northern Canada and Alaska, survived exclusively by hunting and fishing, using skin-covered boats to hunt whales and seals where farming was impossible."
   },
   {
-   "id": "c22",
+   "id": "c27",
    "term": "Subarctic peoples",
    "def": "The Subarctic peoples migrated with the seasons, moving from summer fishing camps to berry patches in the fall and to moose- and caribou-hunting grounds in winter."
   },
   {
-   "id": "c23",
+   "id": "c28",
    "term": "Taino",
    "def": "The Taino were the farming and seafaring people of the Caribbean islands, whose deeply stratified society was among the first Native cultures that Columbus and other Europeans encountered."
   },
   {
-   "id": "c24",
+   "id": "c29",
    "term": "Christopher Columbus",
    "def": "Christopher Columbus was the explorer whose voyage began lasting European contact with the Americas and who misnamed Native peoples \"Indians\" because he believed he had reached Asia."
   }

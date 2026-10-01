@@ -213,7 +213,7 @@
   {
    "name": "HIS-201",
    "slug": "his201",
-   "count": 108,
+   "count": 237,
    "topics": [
     {
      "name": "Chapter 1: The First Civilizations of North America",
@@ -259,6 +259,53 @@
        "order": 5,
        "count": 4,
        "file": "his201-ch1-05-qa.json"
+      }
+     ]
+    },
+    {
+     "name": "Chapter 2: Old Worlds, New Worlds",
+     "slug": "chapter-2",
+     "count": 129,
+     "decks": [
+      {
+       "id": "his201-ch2-01-definitions",
+       "title": "HIS-201 Ch. 2 — 1 Definitions",
+       "short": "1 Definitions",
+       "order": 1,
+       "count": 18,
+       "file": "his201-ch2-01-definitions.json"
+      },
+      {
+       "id": "his201-ch2-02-names",
+       "title": "HIS-201 Ch. 2 — 2 Names",
+       "short": "2 Names",
+       "order": 2,
+       "count": 41,
+       "file": "his201-ch2-02-names.json"
+      },
+      {
+       "id": "his201-ch2-03-numbers",
+       "title": "HIS-201 Ch. 2 — 3 Numbers & Dates",
+       "short": "3 Numbers & Dates",
+       "order": 3,
+       "count": 39,
+       "file": "his201-ch2-03-numbers.json"
+      },
+      {
+       "id": "his201-ch2-04-main-ideas",
+       "title": "HIS-201 Ch. 2 — 4 Main Ideas",
+       "short": "4 Main Ideas",
+       "order": 4,
+       "count": 25,
+       "file": "his201-ch2-04-main-ideas.json"
+      },
+      {
+       "id": "his201-ch2-05-qa",
+       "title": "HIS-201 Ch. 2 — 5 Q&A",
+       "short": "5 Q&A",
+       "order": 5,
+       "count": 6,
+       "file": "his201-ch2-05-qa.json"
       }
      ]
     }
@@ -577,6 +624,66 @@
    "subjectSlug": "his201",
    "topic": "Chapter 1: The First Civilizations of North America",
    "topicSlug": "chapter-1"
+  },
+  {
+   "id": "his201-ch2-01-definitions",
+   "title": "HIS-201 Ch. 2 — 1 Definitions",
+   "short": "1 Definitions",
+   "order": 1,
+   "count": 18,
+   "file": "his201-ch2-01-definitions.json",
+   "subject": "HIS-201",
+   "subjectSlug": "his201",
+   "topic": "Chapter 2: Old Worlds, New Worlds",
+   "topicSlug": "chapter-2"
+  },
+  {
+   "id": "his201-ch2-02-names",
+   "title": "HIS-201 Ch. 2 — 2 Names",
+   "short": "2 Names",
+   "order": 2,
+   "count": 41,
+   "file": "his201-ch2-02-names.json",
+   "subject": "HIS-201",
+   "subjectSlug": "his201",
+   "topic": "Chapter 2: Old Worlds, New Worlds",
+   "topicSlug": "chapter-2"
+  },
+  {
+   "id": "his201-ch2-03-numbers",
+   "title": "HIS-201 Ch. 2 — 3 Numbers & Dates",
+   "short": "3 Numbers & Dates",
+   "order": 3,
+   "count": 39,
+   "file": "his201-ch2-03-numbers.json",
+   "subject": "HIS-201",
+   "subjectSlug": "his201",
+   "topic": "Chapter 2: Old Worlds, New Worlds",
+   "topicSlug": "chapter-2"
+  },
+  {
+   "id": "his201-ch2-04-main-ideas",
+   "title": "HIS-201 Ch. 2 — 4 Main Ideas",
+   "short": "4 Main Ideas",
+   "order": 4,
+   "count": 25,
+   "file": "his201-ch2-04-main-ideas.json",
+   "subject": "HIS-201",
+   "subjectSlug": "his201",
+   "topic": "Chapter 2: Old Worlds, New Worlds",
+   "topicSlug": "chapter-2"
+  },
+  {
+   "id": "his201-ch2-05-qa",
+   "title": "HIS-201 Ch. 2 — 5 Q&A",
+   "short": "5 Q&A",
+   "order": 5,
+   "count": 6,
+   "file": "his201-ch2-05-qa.json",
+   "subject": "HIS-201",
+   "subjectSlug": "his201",
+   "topic": "Chapter 2: Old Worlds, New Worlds",
+   "topicSlug": "chapter-2"
   }
  ]
 }

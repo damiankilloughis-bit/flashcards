@@ -5,7 +5,7 @@
  "topic": "Beowulf Part 1 (to Another Attack)",
  "short": "1 Definitions",
  "order": 1,
- "count": 44,
+ "count": 34,
  "cards": [
   {
    "id": "c0",
@@ -174,56 +174,6 @@
   },
   {
    "id": "c33",
-   "term": "Verbal irony",
-   "def": "Saying something that means the opposite of the literal words."
-  },
-  {
-   "id": "c34",
-   "term": "Situational irony",
-   "def": "An outcome that is the opposite of what the characters or readers expect."
-  },
-  {
-   "id": "c35",
-   "term": "Dramatic irony",
-   "def": "A situation in which the audience knows something that the characters do not."
-  },
-  {
-   "id": "c36",
-   "term": "Hyperbole",
-   "def": "Deliberate exaggeration used for emphasis."
-  },
-  {
-   "id": "c37",
-   "term": "Metaphor",
-   "def": "A comparison that says one thing is another, without using \"like\" or \"as.\""
-  },
-  {
-   "id": "c38",
-   "term": "Simile",
-   "def": "A comparison that uses \"like\" or \"as,\" such as a ship that flies \"like a bird.\""
-  },
-  {
-   "id": "c39",
-   "term": "Personification",
-   "def": "Giving human qualities to something that is not human."
-  },
-  {
-   "id": "c40",
-   "term": "Synecdoche",
-   "def": "Using a part of something to stand for the whole, like \"keel\" for a ship."
-  },
-  {
-   "id": "c41",
-   "term": "Metonymy",
-   "def": "Using something closely related to a thing to stand for it, like \"the crown\" for the king."
-  },
-  {
-   "id": "c42",
-   "term": "Symbolism",
-   "def": "The use of an object, person, or event to stand for a larger idea."
-  },
-  {
-   "id": "c43",
    "term": "The Wanderer",
    "def": "An Old English elegy in which a lordless warrior mourns the loss of his lord and companions."
   }

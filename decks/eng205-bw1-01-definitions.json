@@ -1,0 +1,221 @@
+{
+ "id": "eng205-bw1-01-definitions",
+ "title": "ENG-205 Beowulf Part 1 — 1 Definitions",
+ "subject": "ENG-205",
+ "topic": "Beowulf Part 1 (to Another Attack)",
+ "short": "1 Definitions",
+ "order": 1,
+ "count": 42,
+ "cards": [
+  {
+   "id": "c0",
+   "term": "Beowulf (the poem)",
+   "def": "An Old English epic poem about a Geatish hero who fights the monster Grendel, Grendel's mother, and a dragon."
+  },
+  {
+   "id": "c1",
+   "term": "Epic",
+   "def": "A long narrative poem about a hero whose great deeds decide the fate of a whole people."
+  },
+  {
+   "id": "c2",
+   "term": "Mead-hall",
+   "def": "A great wooden hall where a lord feasted his warriors, gave them treasure, and sheltered them, making it the center of a tribe's life."
+  },
+  {
+   "id": "c3",
+   "term": "Ring-giver",
+   "def": "A kenning for a king, who earns his warriors' loyalty by handing out rings and treasure."
+  },
+  {
+   "id": "c4",
+   "term": "Thane",
+   "def": "A warrior who serves a lord in exchange for the lord's protection and gifts."
+  },
+  {
+   "id": "c5",
+   "term": "Retainer",
+   "def": "A sworn follower who lives in a lord's household and fights for him."
+  },
+  {
+   "id": "c6",
+   "term": "Comitatus",
+   "def": "The bond between a chief and his war-band, in which he gives protection and treasure and they give loyalty to the death."
+  },
+  {
+   "id": "c7",
+   "term": "Scop",
+   "def": "An Old English court poet who composed and sang stories of heroes to the harp in the mead-hall."
+  },
+  {
+   "id": "c8",
+   "term": "Lay",
+   "def": "A short narrative song performed by a poet about a hero or a famous event."
+  },
+  {
+   "id": "c9",
+   "term": "Kenning",
+   "def": "A compound metaphor that names a thing by describing it, like \"whale-road\" for the sea."
+  },
+  {
+   "id": "c10",
+   "term": "Whale-road",
+   "def": "A kenning for the sea, pictured as the road that whales travel."
+  },
+  {
+   "id": "c11",
+   "term": "Swan's road",
+   "def": "A kenning for the sea, pictured as the path on which swans ride."
+  },
+  {
+   "id": "c12",
+   "term": "Wave-vat",
+   "def": "A kenning for the sea, pictured as a huge tub of waves."
+  },
+  {
+   "id": "c13",
+   "term": "Word-hoard",
+   "def": "A kenning for a person's store of words, so \"unlocked his word-hoard\" means he began to speak."
+  },
+  {
+   "id": "c14",
+   "term": "Breast-webbing",
+   "def": "A kenning for a mail shirt, the woven net of iron rings that covers the chest."
+  },
+  {
+   "id": "c15",
+   "term": "War-board",
+   "def": "A kenning for a shield, the wooden board carried into battle."
+  },
+  {
+   "id": "c16",
+   "term": "Shadow-stalker",
+   "def": "A kenning for Grendel that pictures him as a creature who hunts under cover of darkness."
+  },
+  {
+   "id": "c17",
+   "term": "Hall-watcher",
+   "def": "A kenning for Grendel that pictures him as a creature who lurks around Heorot waiting to strike."
+  },
+  {
+   "id": "c18",
+   "term": "Epithet",
+   "def": "A descriptive phrase attached to a name, like \"protector of the Shieldings,\" that tells what a person is known for."
+  },
+  {
+   "id": "c19",
+   "term": "Spear-Danes, Ring-Danes, Bright-Danes",
+   "def": "Varied epithets for the Danes that praise them for their skill in war, their wealth, and their glory."
+  },
+  {
+   "id": "c20",
+   "term": "Alliteration",
+   "def": "The repetition of the same first sound in nearby stressed words, which binds each line of Old English poetry together in place of rhyme."
+  },
+  {
+   "id": "c21",
+   "term": "Caesura",
+   "def": "A pause in the middle of an Old English line that splits it into two half-lines linked by alliteration."
+  },
+  {
+   "id": "c22",
+   "term": "Boast",
+   "def": "A formal public vow in which a warrior names the deed he will do and stakes his honor on doing it."
+  },
+  {
+   "id": "c23",
+   "term": "Flyting",
+   "def": "A ritual contest of insults and counter-boasts between two warriors."
+  },
+  {
+   "id": "c24",
+   "term": "Wergild",
+   "def": "A payment made to a victim's family that settles a killing and replaces blood revenge."
+  },
+  {
+   "id": "c25",
+   "term": "Death-price",
+   "def": "Another name for wergild, the payment owed to a dead man's kin to end a feud."
+  },
+  {
+   "id": "c26",
+   "term": "Feud",
+   "def": "A cycle of revenge killings between families or tribes that lasts until compensation is paid or one side is destroyed."
+  },
+  {
+   "id": "c27",
+   "term": "Wyrd",
+   "def": "The Old English idea of fate, a fixed destiny that decides how each person's life will end."
+  },
+  {
+   "id": "c28",
+   "term": "Heroic code",
+   "def": "The warrior ethic that demands courage, loyalty to one's lord, revenge for slain kin, and deeds that win lasting fame."
+  },
+  {
+   "id": "c29",
+   "term": "Fame",
+   "def": "The lasting reputation a warrior wins through his deeds, the only part of him that outlives death in the heroic world."
+  },
+  {
+   "id": "c30",
+   "term": "Hall-warden",
+   "def": "A guardian entrusted with defending a lord's hall."
+  },
+  {
+   "id": "c31",
+   "term": "Torque",
+   "def": "A heavy twisted metal ring worn around the neck as a sign of wealth and rank."
+  },
+  {
+   "id": "c32",
+   "term": "Mail shirt",
+   "def": "Body armor made of small interlocking iron rings that keeps blades from cutting through."
+  },
+  {
+   "id": "c33",
+   "term": "Boar-crest",
+   "def": "A boar image mounted on a helmet as a charm believed to protect the wearer."
+  },
+  {
+   "id": "c34",
+   "term": "Foundling",
+   "def": "An abandoned child who is found and raised by strangers."
+  },
+  {
+   "id": "c35",
+   "term": "Ship funeral",
+   "def": "A funeral in which a dead lord is laid in a ship loaded with treasure and sent out to sea."
+  },
+  {
+   "id": "c36",
+   "term": "Litotes",
+   "def": "Ironic understatement that stresses a point by denying its opposite, like \"it was hardly a shame to be showered with such gifts.\""
+  },
+  {
+   "id": "c37",
+   "term": "Digression",
+   "def": "A story inside the main story that comments on the main action through comparison or contrast."
+  },
+  {
+   "id": "c38",
+   "term": "Foreshadowing",
+   "def": "A hint of a later event that builds a sense of coming doom."
+  },
+  {
+   "id": "c39",
+   "term": "Cain's clan",
+   "def": "The poem's name for the monsters descended from Cain, whom God cursed and exiled for murdering his brother Abel."
+  },
+  {
+   "id": "c40",
+   "term": "Bawn",
+   "def": "An Irish-English word for the fortified yard around a hall."
+  },
+  {
+   "id": "c41",
+   "term": "Wassail",
+   "def": "A drinking celebration with toasts."
+  }
+ ]
+}

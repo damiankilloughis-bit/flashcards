@@ -5,7 +5,7 @@
  "topic": "Beowulf Part 1 (to Another Attack)",
  "short": "2 Names",
  "order": 2,
- "count": 16,
+ "count": 17,
  "cards": [
   {
    "id": "c0",
@@ -14,76 +14,81 @@
   },
   {
    "id": "c1",
+   "term": "Hrothgar's family line",
+   "def": "Hrothgar descends from Shield Sheafson through Shield's son Beow and Beow's son Halfdane, who is Hrothgar's father."
+  },
+  {
+   "id": "c2",
    "term": "Hrothgar",
    "def": "Hrothgar is the aging king of the Danes who builds Heorot and suffers helplessly under Grendel's attacks."
   },
   {
-   "id": "c2",
+   "id": "c3",
    "term": "Wealhtheow",
    "def": "Wealhtheow is Hrothgar's queen, who passes the mead cup in order of rank and thanks God for sending Beowulf as a deliverer."
   },
   {
-   "id": "c3",
+   "id": "c4",
    "term": "Grendel",
    "def": "Grendel is a man-eating monster descended from Cain who raids Heorot at night because the sounds of feasting and song enrage him."
   },
   {
-   "id": "c4",
+   "id": "c5",
    "term": "Beowulf",
    "def": "Beowulf is a young Geatish warrior of great strength who sails to Denmark to rid Hrothgar's hall of Grendel."
   },
   {
-   "id": "c5",
+   "id": "c6",
    "term": "Beowulf's reputation before Denmark",
    "def": "Beowulf arrives already famous for binding beasts, raiding a troll-nest, and killing sea monsters at night."
   },
   {
-   "id": "c6",
+   "id": "c7",
    "term": "Ecgtheow",
    "def": "Ecgtheow is Beowulf's father, a famous warrior who killed Heatholaf and fled to the Danes until Hrothgar paid off the feud."
   },
   {
-   "id": "c7",
+   "id": "c8",
    "term": "Hygelac",
    "def": "Hygelac is king of the Geats and Beowulf's lord and uncle, and Beowulf fights Grendel partly to add to Hygelac's fame."
   },
   {
-   "id": "c8",
+   "id": "c9",
    "term": "The Danish coast-guard",
    "def": "Hrothgar's coast-guard challenges the armed Geats on the beach, judges them honest by their words and bearing, and guides them to Heorot."
   },
   {
-   "id": "c9",
+   "id": "c10",
    "term": "Unferth",
    "def": "Unferth, son of Ecglaf, is a Danish courtier who sits at Hrothgar's feet and, out of envy, mocks Beowulf for losing a swimming match."
   },
   {
-   "id": "c10",
+   "id": "c11",
    "term": "Unferth's crime",
    "def": "Beowulf reveals that Unferth killed his own brothers, a crime that shames him despite his cleverness."
   },
   {
-   "id": "c11",
+   "id": "c12",
    "term": "Breca",
    "def": "Breca is Beowulf's boyhood rival, who according to Unferth outswam Beowulf in a sea contest and returned home to the Brondings."
   },
   {
-   "id": "c12",
+   "id": "c13",
    "term": "The Geats",
    "def": "The Geats are Beowulf's people, a seafaring tribe of what is now southern Sweden, ruled by Hygelac."
   },
   {
-   "id": "c13",
+   "id": "c14",
    "term": "The Danes",
    "def": "The Danes, also called Shieldings after their founder Shield, are Hrothgar's people, whom Grendel terrorizes for years."
   },
   {
-   "id": "c14",
+   "id": "c15",
    "term": "Heorot",
    "def": "Heorot is Hrothgar's great gold-roofed mead-hall, where Grendel kills Danes until Beowulf defends it."
   },
   {
-   "id": "c15",
+   "id": "c16",
    "term": "Hildeburh",
    "def": "Hildeburh is Finn's queen, who loses both her brother Hnaef and her son in the fight and has them burned together."
   }

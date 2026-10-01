@@ -5,7 +5,7 @@
  "topic": "Beowulf Part 1 (to Another Attack)",
  "short": "1 Definitions",
  "order": 1,
- "count": 34,
+ "count": 35,
  "cards": [
   {
    "id": "c0",
@@ -176,6 +176,11 @@
    "id": "c33",
    "term": "The Wanderer",
    "def": "An Old English elegy in which a lordless warrior mourns the loss of his lord and companions."
+  },
+  {
+   "id": "c34",
+   "term": "The poet's names for the Danes",
+   "def": "Spear-Danes, Ring-Danes, and Bright-Danes, epithets that praise the Danes as warriors and treasure-givers."
   }
  ]
 }

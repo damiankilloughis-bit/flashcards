@@ -5,7 +5,7 @@
  "topic": "Chapter 1: The First Civilizations of North America",
  "short": "4 Main Ideas",
  "order": 4,
- "count": 26,
+ "count": 30,
  "cards": [
   {
    "id": "c0",
@@ -100,7 +100,7 @@
   {
    "id": "c18",
    "term": "Why scarce domestic animals left Native Americans vulnerable to disease",
-   "def": "With few domesticated animals, Native Americans were never exposed to animal-borne diseases and so lacked immunities comparable to those of Eurasians."
+   "def": "With few domesticated animals, Native Americans were never exposed to diseases that came from domesticated animals and so had little or no immunity to those diseases."
   },
   {
    "id": "c19",
@@ -136,6 +136,26 @@
    "id": "c25",
    "term": "The decline and rebuilding of American societies before contact",
    "def": "After many American cultures declined, the most successful new societies arose in the Caribbean and central Mexico, and both were deeply stratified."
+  },
+  {
+   "id": "c26",
+   "term": "The most important cause of regional diversity in ancient North America",
+   "def": "Distinctive weather conditions, along with the Americas' immense geographic and climatic variety, were the most important cause of regional diversity among the societies of ancient North America."
+  },
+  {
+   "id": "c27",
+   "term": "The early Americans' innovation of greatest long-term importance",
+   "def": "The early Americans' manipulation of certain plants into domesticated crops was their innovation of greatest long-term importance, creating farming breakthroughs that still sustain peoples around the world."
+  },
+  {
+   "id": "c28",
+   "term": "The effect of Native American crops on Africa's population",
+   "def": "Native American crops such as maize and manioc may have increased Africa's population enough to offset the population losses caused by the Atlantic slave trade."
+  },
+  {
+   "id": "c29",
+   "term": "Corn's place in American diets today",
+   "def": "Corn, first domesticated by Native Americans, remains the native crop most central to American diets today, feeding livestock and sweetening and thickening many processed foods."
   }
  ]
 }

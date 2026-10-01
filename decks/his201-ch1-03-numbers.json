@@ -5,7 +5,7 @@
  "topic": "Chapter 1: The First Civilizations of North America",
  "short": "3 Numbers & Dates",
  "order": 3,
- "count": 28,
+ "count": 30,
  "cards": [
   {
    "id": "c0",
@@ -146,6 +146,16 @@
    "id": "c27",
    "term": "How Eurasia's domestic animals compared with the Americas'",
    "def": "Eurasia had thirteen of the world's fourteen domesticated large mammals, while the Americas had only one, the llama and its relative the alpaca."
+  },
+  {
+   "id": "c28",
+   "term": "When Mesoamericans domesticated squash",
+   "def": "Over 10,000 years ago, Mesoamericans domesticated squash, among the earliest crops of the Americas, long before farming became the basis of settled village life."
+  },
+  {
+   "id": "c29",
+   "term": "How many large pueblos the Anasazi built in Chaco Canyon",
+   "def": "During the first eight to nine centuries CE, the Anasazi built nine large pueblos, multistory stone apartment towns, in Chaco Canyon in present-day New Mexico."
   }
  ]
 }

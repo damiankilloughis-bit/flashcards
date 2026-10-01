@@ -5,7 +5,7 @@
  "topic": "Chapter 1: The First Civilizations of North America",
  "short": "2 Names",
  "order": 2,
- "count": 30,
+ "count": 31,
  "cards": [
   {
    "id": "c0",
@@ -65,7 +65,7 @@
   {
    "id": "c11",
    "term": "Anasazi (Ancestral Puebloans)",
-   "def": "The Anasazi, now usually called the Ancestral Puebloans, were Southwestern farmers who built multistory masonry towns, kivas, and long roads that show clear Mesoamerican influence."
+   "def": "The Anasazi, now usually called the Ancestral Puebloans, were farmers of the Four Corners region of the Southwest who built multistory masonry towns, kivas, and long roads showing Mesoamerican influence."
   },
   {
    "id": "c12",
@@ -110,7 +110,7 @@
   {
    "id": "c20",
    "term": "Cahokia",
-   "def": "Cahokia, the great Mississippian city near modern Saint Louis, centered on plazas, temples, and more than one hundred mounds and controlled a far-reaching trade network."
+   "def": "Cahokia, the great Mississippian port city across the Mississippi River from modern St. Louis, centered on plazas, temples, and over one hundred mounds and controlled a far-reaching trade network."
   },
   {
    "id": "c21",
@@ -120,7 +120,7 @@
   {
    "id": "c22",
    "term": "Algonquians (Algonquins)",
-   "def": "The Algonquians were the many Subarctic and Eastern Woodlands peoples who spoke related Algonquian languages and lived by seasonal hunting, fishing, and gathering."
+   "def": "The Algonquians (Algonquins) were Eastern Woodlands peoples who lived along the Atlantic seaboard and around the Great Lakes, spoke related Algonquian languages, and lived by seasonal hunting, fishing, and gathering."
   },
   {
    "id": "c23",
@@ -156,6 +156,11 @@
    "id": "c29",
    "term": "Christopher Columbus",
    "def": "Christopher Columbus was the explorer whose voyage began lasting European contact with the Americas and who misnamed Native peoples \"Indians\" because he believed he had reached Asia."
+  },
+  {
+   "id": "c30",
+   "term": "Iroquois and Huron",
+   "def": "The Iroquois and Huron, Iroquoian-speaking farming peoples of the Eastern Woodlands near the Great Lakes, lived in distinctive longhouses, long bark-covered dwellings shared by several related families."
   }
  ]
 }

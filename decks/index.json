@@ -3,7 +3,7 @@
   {
    "name": "ENG-205",
    "slug": "eng205",
-   "count": 411,
+   "count": 413,
    "topics": [
     {
      "name": "Beowulf Part 1 (to Another Attack)",
@@ -55,14 +55,14 @@
     {
      "name": "Beowulf Part 2 (Another Attack to Another Celebration at Heorot)",
      "slug": "beowulf-part-2",
-     "count": 58,
+     "count": 60,
      "decks": [
       {
        "id": "eng205-bw2-01-definitions",
        "title": "ENG-205 Beowulf Part 2 — 1 Definitions",
        "short": "1 Definitions",
        "order": 1,
-       "count": 6,
+       "count": 7,
        "file": "eng205-bw2-01-definitions.json"
       },
       {
@@ -86,7 +86,7 @@
        "title": "ENG-205 Beowulf Part 2 — 4 Main Ideas",
        "short": "4 Main Ideas",
        "order": 4,
-       "count": 37,
+       "count": 38,
        "file": "eng205-bw2-04-main-ideas.json"
       },
       {
@@ -262,7 +262,7 @@
    "title": "ENG-205 Beowulf Part 2 — 1 Definitions",
    "short": "1 Definitions",
    "order": 1,
-   "count": 6,
+   "count": 7,
    "file": "eng205-bw2-01-definitions.json",
    "subject": "ENG-205",
    "subjectSlug": "eng205",
@@ -298,7 +298,7 @@
    "title": "ENG-205 Beowulf Part 2 — 4 Main Ideas",
    "short": "4 Main Ideas",
    "order": 4,
-   "count": 37,
+   "count": 38,
    "file": "eng205-bw2-04-main-ideas.json",
    "subject": "ENG-205",
    "subjectSlug": "eng205",

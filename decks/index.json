@@ -3,19 +3,19 @@
   {
    "name": "ENG-205",
    "slug": "eng205",
-   "count": 413,
+   "count": 423,
    "topics": [
     {
      "name": "Beowulf Part 1 (to Another Attack)",
      "slug": "beowulf-part-1",
-     "count": 122,
+     "count": 113,
      "decks": [
       {
        "id": "eng205-bw1-01-definitions",
        "title": "ENG-205 Beowulf Part 1 — 1 Definitions",
        "short": "1 Definitions",
        "order": 1,
-       "count": 35,
+       "count": 26,
        "file": "eng205-bw1-01-definitions.json"
       },
       {
@@ -55,14 +55,14 @@
     {
      "name": "Beowulf Part 2 (Another Attack to Another Celebration at Heorot)",
      "slug": "beowulf-part-2",
-     "count": 60,
+     "count": 59,
      "decks": [
       {
        "id": "eng205-bw2-01-definitions",
        "title": "ENG-205 Beowulf Part 2 — 1 Definitions",
        "short": "1 Definitions",
        "order": 1,
-       "count": 7,
+       "count": 6,
        "file": "eng205-bw2-01-definitions.json"
       },
       {
@@ -147,16 +147,31 @@
      ]
     },
     {
+     "name": "Literary Devices",
+     "slug": "literary-devices",
+     "count": 22,
+     "decks": [
+      {
+       "id": "eng205-litdev-01-definitions",
+       "title": "ENG-205 Literary Devices — Definitions",
+       "short": "Definitions",
+       "order": 1,
+       "count": 22,
+       "file": "eng205-litdev-01-definitions.json"
+      }
+     ]
+    },
+    {
      "name": "Middle Ages Intro",
      "slug": "middle-ages-intro",
-     "count": 167,
+     "count": 165,
      "decks": [
       {
        "id": "eng205-01-definitions",
        "title": "ENG-205 Middle Ages Intro — 1 Definitions",
        "short": "1 Definitions",
        "order": 1,
-       "count": 27,
+       "count": 25,
        "file": "eng205-01-definitions.json"
       },
       {
@@ -202,7 +217,7 @@
    "title": "ENG-205 Beowulf Part 1 — 1 Definitions",
    "short": "1 Definitions",
    "order": 1,
-   "count": 35,
+   "count": 26,
    "file": "eng205-bw1-01-definitions.json",
    "subject": "ENG-205",
    "subjectSlug": "eng205",
@@ -262,7 +277,7 @@
    "title": "ENG-205 Beowulf Part 2 — 1 Definitions",
    "short": "1 Definitions",
    "order": 1,
-   "count": 7,
+   "count": 6,
    "file": "eng205-bw2-01-definitions.json",
    "subject": "ENG-205",
    "subjectSlug": "eng205",
@@ -378,11 +393,23 @@
    "topicSlug": "beowulf-part-3"
   },
   {
+   "id": "eng205-litdev-01-definitions",
+   "title": "ENG-205 Literary Devices — Definitions",
+   "short": "Definitions",
+   "order": 1,
+   "count": 22,
+   "file": "eng205-litdev-01-definitions.json",
+   "subject": "ENG-205",
+   "subjectSlug": "eng205",
+   "topic": "Literary Devices",
+   "topicSlug": "literary-devices"
+  },
+  {
    "id": "eng205-01-definitions",
    "title": "ENG-205 Middle Ages Intro — 1 Definitions",
    "short": "1 Definitions",
    "order": 1,
-   "count": 27,
+   "count": 25,
    "file": "eng205-01-definitions.json",
    "subject": "ENG-205",
    "subjectSlug": "eng205",

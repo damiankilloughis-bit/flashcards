@@ -5,7 +5,7 @@
  "topic": "Middle Ages Intro",
  "short": "1 Definitions",
  "order": 1,
- "count": 27,
+ "count": 25,
  "cards": [
   {
    "id": "c0",
@@ -39,106 +39,96 @@
   },
   {
    "id": "c6",
-   "term": "Alliteration",
-   "def": "Repeating the same starting sound across nearby words."
-  },
-  {
-   "id": "c7",
-   "term": "Kenning",
-   "def": "A two-word metaphor that replaces a noun, like \"whale-road\" for the sea."
-  },
-  {
-   "id": "c8",
    "term": "Elegiac tone",
    "def": "A mournful tone that laments loss and the passing of time."
   },
   {
-   "id": "c9",
+   "id": "c7",
    "term": "Heroic code",
    "def": "A bond where the lord gives his warriors treasure and they give him loyalty to the death."
   },
   {
-   "id": "c10",
+   "id": "c8",
    "term": "Synecdoche and metonymy",
    "def": "Using a part (\"keel\") or a related thing (\"crown\") to stand for the whole thing."
   },
   {
-   "id": "c11",
+   "id": "c9",
    "term": "Wergild",
    "def": "A payment to a victim's family that replaced blood revenge."
   },
   {
-   "id": "c12",
+   "id": "c10",
    "term": "Witan",
    "def": "The council of nobles that advised Anglo-Saxon kings."
   },
   {
-   "id": "c13",
+   "id": "c11",
    "term": "Fyrd",
    "def": "An army of ordinary men called up to defend the kingdom."
   },
   {
-   "id": "c14",
+   "id": "c12",
    "term": "Shire-reeve",
    "def": "The king's official over a county, and the origin of the word \"sheriff.\""
   },
   {
-   "id": "c15",
+   "id": "c13",
    "term": "Danelaw",
    "def": "The eastern part of England where the Vikings settled and Danish law applied."
   },
   {
-   "id": "c16",
+   "id": "c14",
    "term": "Domesday Book",
    "def": "William's survey of all land and property in England, made for taxation."
   },
   {
-   "id": "c17",
+   "id": "c15",
    "term": "Hagiography",
    "def": "Writing about the lives of saints."
   },
   {
-   "id": "c18",
+   "id": "c16",
    "term": "Breton lay",
    "def": "A short, sung Celtic tale of love and adventure."
   },
   {
-   "id": "c19",
+   "id": "c17",
    "term": "Chivalric romance",
    "def": "A story of knights on quests, courtly love, and feats of combat."
   },
   {
-   "id": "c20",
+   "id": "c18",
    "term": "Alliterative Revival",
    "def": "The 1300s return of Old English-style alliterative poetry."
   },
   {
-   "id": "c21",
+   "id": "c19",
    "term": "Mystery play",
    "def": "A medieval play that acts out a Bible story as part of a cycle."
   },
   {
-   "id": "c22",
+   "id": "c20",
    "term": "Morality play",
    "def": "An allegorical play where personified virtues and vices fight for a soul."
   },
   {
-   "id": "c23",
+   "id": "c21",
    "term": "Black Death",
    "def": "A bubonic plague epidemic that killed a huge share of Europe's population."
   },
   {
-   "id": "c24",
+   "id": "c22",
    "term": "Great Vowel Shift",
    "def": "The change that moved English long vowels to new sounds, so spelling stopped matching speech."
   },
   {
-   "id": "c25",
+   "id": "c23",
    "term": "Exeter Book",
    "def": "A large manuscript of Old English poems, known for its riddles."
   },
   {
-   "id": "c26",
+   "id": "c24",
    "term": "Beowulf",
    "def": "An Old English epic about a warrior hero's battles against monsters."
   }

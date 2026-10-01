@@ -5,7 +5,7 @@
  "topic": "Beowulf Part 1 (to Another Attack)",
  "short": "1 Definitions",
  "order": 1,
- "count": 35,
+ "count": 26,
  "cards": [
   {
    "id": "c0",
@@ -39,146 +39,101 @@
   },
   {
    "id": "c6",
-   "term": "Kenning",
-   "def": "A compound metaphor that names a thing by describing it, like \"whale-road\" for the sea."
-  },
-  {
-   "id": "c7",
    "term": "Word-hoard",
    "def": "A kenning for a person's store of words, so \"unlocked his word-hoard\" means he began to speak."
   },
   {
-   "id": "c8",
+   "id": "c7",
    "term": "Breast-webbing",
    "def": "A kenning for a mail shirt, the woven net of iron rings that covers the chest."
   },
   {
-   "id": "c9",
-   "term": "Alliteration",
-   "def": "The repetition of the same first sound in nearby stressed words, which binds each line of Old English poetry together in place of rhyme."
-  },
-  {
-   "id": "c10",
-   "term": "Caesura",
-   "def": "A pause in the middle of an Old English line that splits it into two half-lines linked by alliteration."
-  },
-  {
-   "id": "c11",
+   "id": "c8",
    "term": "Boast",
    "def": "A formal public vow in which a warrior names the deed he will do and stakes his honor on doing it."
   },
   {
-   "id": "c12",
+   "id": "c9",
    "term": "Flyting",
    "def": "A ritual contest of insults and counter-boasts between two warriors."
   },
   {
-   "id": "c13",
+   "id": "c10",
    "term": "Wergild",
    "def": "A death price paid to a victim's family that settles a killing and replaces blood revenge."
   },
   {
-   "id": "c14",
+   "id": "c11",
    "term": "Wyrd",
    "def": "The Old English idea of fate, a fixed destiny that decides how each person's life will end."
   },
   {
-   "id": "c15",
+   "id": "c12",
    "term": "Heroic code",
    "def": "The warrior ethic that demands courage, loyalty to one's lord, revenge for slain kin, and deeds that win lasting fame."
   },
   {
-   "id": "c16",
+   "id": "c13",
    "term": "Torque",
    "def": "A heavy twisted metal ring worn around the neck as a sign of wealth and rank."
   },
   {
-   "id": "c17",
-   "term": "Litotes",
-   "def": "Ironic understatement that stresses a point by denying its opposite, like \"it was hardly a shame to be showered with such gifts.\""
-  },
-  {
-   "id": "c18",
-   "term": "Digression",
-   "def": "A story inside the main story that comments on the main action through comparison or contrast."
-  },
-  {
-   "id": "c19",
+   "id": "c14",
    "term": "Folk epic",
    "def": "An epic that grows out of oral tradition and has no certain author, also called a primary epic."
   },
   {
-   "id": "c20",
+   "id": "c15",
    "term": "Art epic",
    "def": "An epic written by a single known author, also called a literary epic."
   },
   {
-   "id": "c21",
+   "id": "c16",
    "term": "Epic characteristics",
    "def": "The features that mark an epic, namely a significant hero, superhuman deeds, supernatural helpers or enemies, a vast setting, and a grand, objective style."
   },
   {
-   "id": "c22",
+   "id": "c17",
    "term": "Epic conventions",
    "def": "The standard devices of an epic, namely a theme stated at the start, a call to the Muse, opening in medias res, catalogs, formal speeches, and digressions."
   },
   {
-   "id": "c23",
-   "term": "In medias res",
-   "def": "Latin for \"in the middle of things,\" meaning that a story opens in the middle of the action."
-  },
-  {
-   "id": "c24",
+   "id": "c18",
    "term": "Invocation of the Muse",
    "def": "A call at the start of an epic asking a goddess of inspiration to help the poet tell the story."
   },
   {
-   "id": "c25",
-   "term": "Epic catalog",
-   "def": "A long formal list of people, ships, weapons, or gifts."
-  },
-  {
-   "id": "c26",
+   "id": "c19",
    "term": "Formulaic phrasing",
    "def": "Stock phrases and epithets that oral poets reused to fill out lines and remember long poems."
   },
   {
-   "id": "c27",
+   "id": "c20",
    "term": "Hapax legomena",
    "def": "Words that are recorded only once in the whole surviving written record of a language."
   },
   {
-   "id": "c28",
-   "term": "Elegy",
-   "def": "A meditative poem or passage that mourns the dead."
-  },
-  {
-   "id": "c29",
+   "id": "c21",
    "term": "Lament",
    "def": "A formulaic expression of grief."
   },
   {
-   "id": "c30",
-   "term": "Ubi sunt",
-   "def": "Latin for \"where are they?\", the name for a passage that mourns vanished people and the passing of glory."
-  },
-  {
-   "id": "c31",
+   "id": "c22",
    "term": "Foretelling",
    "def": "A direct statement by the narrator of what will happen later in the story."
   },
   {
-   "id": "c32",
+   "id": "c23",
    "term": "Blood feud",
    "def": "A feud in which the relatives of a person who was killed take revenge on the killer or his family."
   },
   {
-   "id": "c33",
+   "id": "c24",
    "term": "The Wanderer",
    "def": "An Old English elegy in which a lordless warrior mourns the loss of his lord and companions."
   },
   {
-   "id": "c34",
+   "id": "c25",
    "term": "The poet's names for the Danes",
    "def": "Spear-Danes, Ring-Danes, and Bright-Danes, epithets that praise the Danes as warriors and treasure-givers."
   }

@@ -1,0 +1,121 @@
+{
+ "id": "eng205-litdev-01-definitions",
+ "title": "ENG-205 Literary Devices — Definitions",
+ "subject": "ENG-205",
+ "topic": "Literary Devices",
+ "short": "Definitions",
+ "order": 1,
+ "count": 22,
+ "cards": [
+  {
+   "id": "c0",
+   "term": "Alliteration",
+   "def": "The repetition of the same first sound in nearby stressed words, which binds each line of Old English poetry together in place of rhyme."
+  },
+  {
+   "id": "c1",
+   "term": "Caesura",
+   "def": "A pause in the middle of an Old English line that splits it into two half-lines linked by alliteration."
+  },
+  {
+   "id": "c2",
+   "term": "Kenning",
+   "def": "A compound metaphor that names a thing by describing it, like \"whale-road\" for the sea."
+  },
+  {
+   "id": "c3",
+   "term": "Epithet",
+   "def": "A descriptive name or phrase used in place of, or alongside, a person's name, like \"hell-dam\" for Grendel's mother."
+  },
+  {
+   "id": "c4",
+   "term": "Litotes",
+   "def": "Ironic understatement that stresses a point by denying its opposite, like \"it was hardly a shame to be showered with such gifts.\""
+  },
+  {
+   "id": "c5",
+   "term": "Hyperbole",
+   "def": "Deliberate exaggeration used for emphasis."
+  },
+  {
+   "id": "c6",
+   "term": "Metaphor",
+   "def": "A comparison that says one thing is another, without using \"like\" or \"as.\""
+  },
+  {
+   "id": "c7",
+   "term": "Simile",
+   "def": "A comparison that uses \"like\" or \"as,\" such as a ship that flies \"like a bird.\""
+  },
+  {
+   "id": "c8",
+   "term": "Personification",
+   "def": "Giving human actions or feelings to something that is not human, as when a wood \"waits and keeps watch.\""
+  },
+  {
+   "id": "c9",
+   "term": "Synecdoche",
+   "def": "Using a part of something to stand for the whole, like \"keel\" for a ship."
+  },
+  {
+   "id": "c10",
+   "term": "Metonymy",
+   "def": "Using something closely related to a thing to stand for it, like \"the crown\" for the king."
+  },
+  {
+   "id": "c11",
+   "term": "Symbolism",
+   "def": "The use of an object, person, or event to stand for a larger idea."
+  },
+  {
+   "id": "c12",
+   "term": "Verbal irony",
+   "def": "Saying something that means the opposite of the literal words."
+  },
+  {
+   "id": "c13",
+   "term": "Situational irony",
+   "def": "An outcome that is the opposite of what the characters or readers expect."
+  },
+  {
+   "id": "c14",
+   "term": "Dramatic irony",
+   "def": "A situation in which the audience knows something that the characters do not."
+  },
+  {
+   "id": "c15",
+   "term": "Foreshadowing",
+   "def": "A hint early in a story of what will happen later, which the Beowulf poet calls foretelling."
+  },
+  {
+   "id": "c16",
+   "term": "Digression",
+   "def": "A story inside the main story that comments on the main action through comparison or contrast."
+  },
+  {
+   "id": "c17",
+   "term": "In medias res",
+   "def": "Latin for \"in the middle of things,\" meaning that a story opens in the middle of the action."
+  },
+  {
+   "id": "c18",
+   "term": "Epic catalog",
+   "def": "A long formal list of people, ships, weapons, or gifts."
+  },
+  {
+   "id": "c19",
+   "term": "Lament",
+   "def": "A formulaic expression of grief."
+  },
+  {
+   "id": "c20",
+   "term": "Elegy",
+   "def": "A meditative poem or passage that mourns the dead."
+  },
+  {
+   "id": "c21",
+   "term": "Ubi sunt",
+   "def": "Latin for \"where are they?\", the name for a passage that mourns vanished people and the passing of glory."
+  }
+ ]
+}

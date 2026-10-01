@@ -5,7 +5,7 @@
  "topic": "Beowulf Part 2 (Another Attack to Another Celebration at Heorot)",
  "short": "1 Definitions",
  "order": 1,
- "count": 7,
+ "count": 6,
  "cards": [
   {
    "id": "c0",
@@ -36,11 +36,6 @@
    "id": "c5",
    "term": "Wintered into wisdom",
    "def": "Hrothgar's phrase for growing wise by living through many hard winters (around line 1725)."
-  },
-  {
-   "id": "c6",
-   "term": "Personification",
-   "def": "Giving human actions or feelings to something that is not human, as when a wood \"waits and keeps watch.\""
   }
  ]
 }

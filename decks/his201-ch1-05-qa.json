@@ -1,0 +1,31 @@
+{
+ "id": "his201-ch1-05-qa",
+ "title": "HIS-201 Ch. 1 — 5 Q&A",
+ "subject": "HIS-201",
+ "topic": "Chapter 1: The First Civilizations of North America",
+ "short": "5 Q&A",
+ "order": 5,
+ "count": 4,
+ "cards": [
+  {
+   "id": "c0",
+   "term": "What natural obstacles left Native Americans vulnerable when they met Europeans?",
+   "def": "The north-south axis slowed the spread of crops and technology, and the scarcity of domesticated animals left Native Americans without immunity to Eurasian diseases."
+  },
+  {
+   "id": "c1",
+   "term": "Why do archaeologists no longer accept the \"Clovis first\" theory?",
+   "def": "Sites such as Monte Verde in Chile and Buttermilk Creek in Texas are older than any Clovis site, proving that people reached the Americas before the Clovis culture."
+  },
+  {
+   "id": "c2",
+   "term": "How did Eastern Woodlands subsistence differ from Mesoamerican subsistence?",
+   "def": "Mesoamericans depended on farming that supported large cities, while most Eastern Woodlands peoples lived by fishing, gathering, and hunting and never adopted agriculture."
+  },
+  {
+   "id": "c3",
+   "term": "How did Mesoamerica influence the peoples of the Southwest?",
+   "def": "Mesoamerican farming spread north to the Southwest, and some Southwestern architectural styles came to clearly resemble those of Mexico."
+  }
+ ]
+}

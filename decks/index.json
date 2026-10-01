@@ -209,6 +209,60 @@
      ]
     }
    ]
+  },
+  {
+   "name": "HIS-201",
+   "slug": "his201",
+   "count": 101,
+   "topics": [
+    {
+     "name": "Chapter 1: The First Civilizations of North America",
+     "slug": "chapter-1",
+     "count": 101,
+     "decks": [
+      {
+       "id": "his201-ch1-01-definitions",
+       "title": "HIS-201 Ch. 1 — 1 Definitions",
+       "short": "1 Definitions",
+       "order": 1,
+       "count": 20,
+       "file": "his201-ch1-01-definitions.json"
+      },
+      {
+       "id": "his201-ch1-02-names",
+       "title": "HIS-201 Ch. 1 — 2 Names",
+       "short": "2 Names",
+       "order": 2,
+       "count": 25,
+       "file": "his201-ch1-02-names.json"
+      },
+      {
+       "id": "his201-ch1-03-numbers",
+       "title": "HIS-201 Ch. 1 — 3 Numbers & Dates",
+       "short": "3 Numbers & Dates",
+       "order": 3,
+       "count": 26,
+       "file": "his201-ch1-03-numbers.json"
+      },
+      {
+       "id": "his201-ch1-04-main-ideas",
+       "title": "HIS-201 Ch. 1 — 4 Main Ideas",
+       "short": "4 Main Ideas",
+       "order": 4,
+       "count": 26,
+       "file": "his201-ch1-04-main-ideas.json"
+      },
+      {
+       "id": "his201-ch1-05-qa",
+       "title": "HIS-201 Ch. 1 — 5 Q&A",
+       "short": "5 Q&A",
+       "order": 5,
+       "count": 4,
+       "file": "his201-ch1-05-qa.json"
+      }
+     ]
+    }
+   ]
   }
  ],
  "decks": [
@@ -463,6 +517,66 @@
    "subjectSlug": "eng205",
    "topic": "Middle Ages Intro",
    "topicSlug": "middle-ages-intro"
+  },
+  {
+   "id": "his201-ch1-01-definitions",
+   "title": "HIS-201 Ch. 1 — 1 Definitions",
+   "short": "1 Definitions",
+   "order": 1,
+   "count": 20,
+   "file": "his201-ch1-01-definitions.json",
+   "subject": "HIS-201",
+   "subjectSlug": "his201",
+   "topic": "Chapter 1: The First Civilizations of North America",
+   "topicSlug": "chapter-1"
+  },
+  {
+   "id": "his201-ch1-02-names",
+   "title": "HIS-201 Ch. 1 — 2 Names",
+   "short": "2 Names",
+   "order": 2,
+   "count": 25,
+   "file": "his201-ch1-02-names.json",
+   "subject": "HIS-201",
+   "subjectSlug": "his201",
+   "topic": "Chapter 1: The First Civilizations of North America",
+   "topicSlug": "chapter-1"
+  },
+  {
+   "id": "his201-ch1-03-numbers",
+   "title": "HIS-201 Ch. 1 — 3 Numbers & Dates",
+   "short": "3 Numbers & Dates",
+   "order": 3,
+   "count": 26,
+   "file": "his201-ch1-03-numbers.json",
+   "subject": "HIS-201",
+   "subjectSlug": "his201",
+   "topic": "Chapter 1: The First Civilizations of North America",
+   "topicSlug": "chapter-1"
+  },
+  {
+   "id": "his201-ch1-04-main-ideas",
+   "title": "HIS-201 Ch. 1 — 4 Main Ideas",
+   "short": "4 Main Ideas",
+   "order": 4,
+   "count": 26,
+   "file": "his201-ch1-04-main-ideas.json",
+   "subject": "HIS-201",
+   "subjectSlug": "his201",
+   "topic": "Chapter 1: The First Civilizations of North America",
+   "topicSlug": "chapter-1"
+  },
+  {
+   "id": "his201-ch1-05-qa",
+   "title": "HIS-201 Ch. 1 — 5 Q&A",
+   "short": "5 Q&A",
+   "order": 5,
+   "count": 4,
+   "file": "his201-ch1-05-qa.json",
+   "subject": "HIS-201",
+   "subjectSlug": "his201",
+   "topic": "Chapter 1: The First Civilizations of North America",
+   "topicSlug": "chapter-1"
   }
  ]
 }

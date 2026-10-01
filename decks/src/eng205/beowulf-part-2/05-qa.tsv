@@ -4,9 +4,5 @@
 # topic: Beowulf Part 2 (Another Attack to Another Celebration at Heorot)
 # short: 5 Q&A
 # order: 5
-# expect: 5
-What does Grendel's mother take back from Heorot?	She takes back Grendel's bloody hand, the trophy hanging in the hall.
-Why does Grendel's mother attack Heorot?	She attacks to avenge her son's death.
-How does Beowulf kill a water-beast at the mere?	Beowulf shoots it with an arrow, and the men pull it ashore with boar-spears.
-Where does Grendel's mother take Beowulf?	She drags him to her dry, firelit hall at the bottom of the mere.
-What understatement does Hrothgar use for the mere?	Hrothgar calls the mere "no good place," a litotes that means it is truly terrifying.
+# expect: 1
+What litotes does Hrothgar use for the mere?	Hrothgar says "That is no good place," an understatement meaning the mere is truly terrifying (around line 1372).

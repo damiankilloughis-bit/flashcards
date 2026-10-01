@@ -5,172 +5,192 @@
  "topic": "Beowulf Part 2 (Another Attack to Another Celebration at Heorot)",
  "short": "4 Main Ideas",
  "order": 4,
- "count": 33,
+ "count": 37,
  "cards": [
   {
    "id": "c0",
    "term": "What happens in the section Another Attack",
-   "def": "While the Danes slept after the feast, Grendel's mother broke into Heorot, seized Aeschere, took back Grendel's arm, and fled to the fen."
+   "def": "While the Danes slept after the feast, Grendel's mother broke into Heorot, seized Aeschere, took back \"Grendel's bloodied hand,\" and fled to the fen (around line 1251)."
   },
   {
    "id": "c1",
    "term": "Why Beowulf is absent during the attack",
-   "def": "Beowulf had been given a different lodging after the treasure-giving, so he was not sleeping in Heorot when she came."
+   "def": "\"Beowulf was elsewhere,\" because after the treasure-giving he had been given \"another lodging\" (around line 1300)."
   },
   {
    "id": "c2",
    "term": "How Grendel's mother compares to Grendel",
-   "def": "The poet says her attack was less terrible than Grendel's only in the way that a woman warrior is less fearsome than an armed man."
+   "def": "The poet says her onslaught was less than Grendel's only as an \"Amazon warrior's\" is less than an \"armored man's\" (around line 1283)."
   },
   {
    "id": "c3",
-   "term": "Hrothgar's grief for Aeschere",
-   "def": "Hrothgar answers Beowulf's greeting with \"Rest? What is rest? Sorrow has returned,\" and mourns Aeschere as his dearest friend."
+   "term": "Why Grendel's mother flees so quickly",
+   "def": "The \"hell-dam was in panic, desperate to get out\" once the warriors grabbed their swords, so she snatched one man and fled (around line 1292)."
   },
   {
    "id": "c4",
-   "term": "Hrothgar's description of the mere",
-   "def": "Hrothgar describes a lake where the water burns at night and a hunted stag would rather die than dive in, to show how dangerous it is."
+   "term": "Hrothgar's grief for Aeschere",
+   "def": "Hrothgar answers Beowulf with \"Rest? What is rest? Sorrow has returned,\" and mourns Aeschere as his dearest friend (around line 1322)."
   },
   {
    "id": "c5",
-   "term": "Beowulf's reply about revenge",
-   "def": "Beowulf tells Hrothgar that it is better to avenge a friend than to mourn, because every man should win glory before he dies."
+   "term": "Why Hrothgar says she attacked",
+   "def": "Hrothgar says she \"has taken up the feud\" because Beowulf killed Grendel, and she is \"driven to avenge her kinsman's death\" (around line 1333)."
   },
   {
    "id": "c6",
-   "term": "The journey to the mere",
-   "def": "Hrothgar and Beowulf followed the monster's tracks over cliffs and narrow paths until they found Aeschere's head at the foot of a cliff."
+   "term": "Hrothgar's description of the mere",
+   "def": "Hrothgar describes a mere above which a \"frost-stiffened wood\" stands, where \"the water burns\" at night, the bottom \"has never been sounded,\" and a hunted hart will die rather than dive in (around line 1360)."
   },
   {
    "id": "c7",
-   "term": "How Beowulf prepares to fight",
-   "def": "Beowulf put on his mail shirt and boar-crested helmet and took Hrunting, the sword Unferth lent him."
+   "term": "Beowulf's two-part reply",
+   "def": "Beowulf answers that \"it is always better to avenge dear ones than to indulge in mourning\" and that each man should \"win glory before death\" (around line 1385)."
   },
   {
    "id": "c8",
-   "term": "Beowulf's speech before diving",
-   "def": "Beowulf asked Hrothgar to care for his men and send his treasures to Hygelac if he died, and he left his own sword to Unferth."
+   "term": "The journey to the mere",
+   "def": "Hrothgar and Beowulf followed her tracks over cliffs and narrow paths to a \"dismal wood\" above \"bloodshot water,\" where they found Aeschere's head at the foot of the cliff (around line 1421)."
   },
   {
    "id": "c9",
-   "term": "The fight in the mere",
-   "def": "Grendel's mother seized Beowulf and dragged him to her underwater hall, while sea-beasts tore at his mail shirt on the way down."
+   "term": "How Beowulf kills a water-beast",
+   "def": "When a war-horn stirred the sea-dragons and serpents, Beowulf shot one with an arrow and the men dragged it ashore with \"barbed boar-spears\" (around line 1432)."
   },
   {
    "id": "c10",
-   "term": "Why Hrunting fails",
-   "def": "Hrunting rang against Grendel's mother's head but would not bite, the first time the famous blade ever failed."
+   "term": "How Beowulf arms himself for the mere",
+   "def": "Beowulf put on his \"fine-webbed mail\" and gold helmet \"adorned with boar-shapes\" and took Hrunting, the sword Unferth lent him (around line 1445)."
   },
   {
    "id": "c11",
-   "term": "Why Beowulf throws Hrunting away",
-   "def": "When the sword failed, Beowulf flung it aside and wrestled her with his bare hands, because a man seeking lasting glory must rely on his own strength."
+   "term": "Beowulf's requests before diving",
+   "def": "Beowulf asks Hrothgar to \"act like a father\" to him, take care of his young comrades, send his treasures to Hygelac, and give Unferth his own sword, then vows \"With Hrunting I shall gain glory or die\" (around line 1475)."
   },
   {
    "id": "c12",
-   "term": "How the mail shirt saves Beowulf",
-   "def": "When Grendel's mother pinned Beowulf and stabbed with her knife, his chain-mail turned the blade, and God granted him victory."
+   "term": "The fight in the mere",
+   "def": "The \"wolfish swimmer\" carried Beowulf to her underwater \"court,\" a \"hellish turn-hole\" lit by firelight, while sea-beasts tore at his chain-mail (around line 1506)."
   },
   {
    "id": "c13",
-   "term": "How Beowulf kills Grendel's mother",
-   "def": "Beowulf saw an ancient giant-made sword hanging in her hall and swung it through her neck."
+   "term": "Why Hrunting fails",
+   "def": "Beowulf found \"his battle-torch extinguished\" because \"the shining blade refused to bite,\" the first time the heirloom failed (around line 1523)."
   },
   {
    "id": "c14",
-   "term": "Why Beowulf beheads Grendel's corpse",
-   "def": "Beowulf cut off the dead Grendel's head to take revenge for all the Danes whom Grendel had killed."
+   "term": "Why Beowulf throws Hrunting away",
+   "def": "Beowulf \"flung his sword away\" to \"rely on the might of his arm,\" because a man seeking \"enduring glory\" must not count the cost of his life (around line 1531)."
   },
   {
    "id": "c15",
-   "term": "Why the giant sword melts",
-   "def": "The blade melted like ice because Grendel's blood was so hot and poisonous, leaving only the hilt."
+   "term": "How the mail shirt saves Beowulf",
+   "def": "When she pinned him and drew \"a broad, whetted knife,\" his chain-mail turned the blade, and \"Holy God decided the victory\" (around line 1546)."
   },
   {
    "id": "c16",
-   "term": "The Danes give up on Beowulf",
-   "def": "When blood surged up in the mere, the Danes assumed Beowulf was dead and went home, but the Geats waited loyally."
+   "term": "How Beowulf kills Grendel's mother",
+   "def": "Beowulf seized \"an ancient heirloom from the days of the giants,\" a sword \"so huge and heavy\" only he could wield, and it severed her neck bone (around line 1557)."
   },
   {
    "id": "c17",
-   "term": "What Beowulf brings back from the mere",
-   "def": "Beowulf left the rest of the treasure behind and brought back only Grendel's head and the golden hilt of the giant sword."
+   "term": "Why the giant sword melts",
+   "def": "The blade \"began to wilt into gory icicles\" and melted \"as ice melts,\" because the blood of the \"poisonous fiend\" was so scalding (around line 1607)."
   },
   {
    "id": "c18",
-   "term": "What happens in the section Another Celebration at Heorot",
-   "def": "Beowulf presented Grendel's head, told of the underwater fight, and gave Hrothgar the golden hilt, and a new feast restored joy to the hall."
+   "term": "What Beowulf brings back from the mere",
+   "def": "Beowulf saw \"treasure in abundance\" but carried back only Grendel's head and \"the inlaid hilt embossed with jewels\" (around line 1614)."
   },
   {
    "id": "c19",
-   "term": "What the hilt shows",
-   "def": "The hilt is engraved with the story of how God destroyed the giants in the flood, and runes on it name the man it was made for."
+   "term": "What happens in the section Another Celebration at Heorot",
+   "def": "Grendel's head was \"hauled by the hair\" across the drinking floor, Beowulf told of the fight, and Hrothgar's hall feasted again (around line 1647)."
   },
   {
    "id": "c20",
-   "term": "Hrothgar's sermon on pride",
-   "def": "Hrothgar warns Beowulf that a powerful man who grows proud and stingy will be struck down, so he should choose eternal rewards instead."
+   "term": "Beowulf's pledge to Hrothgar",
+   "def": "Beowulf credits God for showing him the giant sword and pledges that Hrothgar \"can sleep secure\" in Heorot with his troops (around line 1672)."
   },
   {
    "id": "c21",
-   "term": "Hrothgar's warning about mortality",
-   "def": "Hrothgar reminds Beowulf that his strength will soon fade through sickness, the sword, fire, water, or old age."
+   "term": "What the hilt shows",
+   "def": "The gold hilt handed to Hrothgar is engraved with how \"war first came into the world\" and how \"the flood destroyed the tribe of giants,\" with runes naming whom it was made for (around line 1688)."
   },
   {
    "id": "c22",
    "term": "Why Hrothgar tells the story of Heremod",
-   "def": "Hrothgar tells of Heremod, who killed his comrades and stopped giving rings, as an example of the king Beowulf must not become."
+   "def": "Hrothgar warns that Heremod \"killed his own comrades,\" \"grew bloodthirsty,\" and \"gave no more rings,\" the kind of king Beowulf must not become (around line 1710)."
   },
   {
    "id": "c23",
-   "term": "Beowulf returns Hrunting",
-   "def": "Before leaving, Beowulf returned Hrunting to Unferth, thanked him, and did not blame the sword for failing."
+   "term": "Hrothgar's sermon on pride",
+   "def": "Hrothgar urges \"O flower of warriors, beware of that trap,\" telling Beowulf to \"choose... the better part, eternal rewards\" and warning \"Do not give way to pride\" (around line 1758)."
   },
   {
    "id": "c24",
-   "term": "Beowulf's farewell promise",
-   "def": "Beowulf promises Hrothgar that he will come with an army if enemies threaten Denmark, and he invites Hrethric to visit the Geats."
+   "term": "The arrow image in the sermon",
+   "def": "Hrothgar describes pride entering a man while \"the soul's guard, its sentry, drowses,\" until a demon \"archer\" shoots him in the heart and he \"bestows no gold\" (around line 1744)."
   },
   {
    "id": "c25",
-   "term": "Hrothgar's prediction about Beowulf",
-   "def": "Hrothgar predicts that if Hygelac dies, the Geats could find no better king than Beowulf."
+   "term": "Hrothgar's warning about mortality",
+   "def": "Hrothgar lists the ends that await Beowulf as \"illness or the sword,\" \"a sudden fire or surge of water,\" a \"jabbing blade or javelin from the air,\" or \"repellent age\" (around line 1763)."
   },
   {
    "id": "c26",
-   "term": "How Beowulf has united two peoples",
-   "def": "Hrothgar says Beowulf has brought the Geats and the Danes into peace, so gifts will now pass between them across the sea."
+   "term": "The gifts and exchanges in Part 2, in order",
+   "def": "Hrothgar first promises \"coffers of coiled gold,\" Unferth lends Hrunting, Beowulf gives Hrothgar Grendel's head and the gold hilt, Hrothgar promises treasure \"tomorrow morning,\" Beowulf returns Hrunting, and Hrothgar gives twelve treasures."
   },
   {
    "id": "c27",
-   "term": "Hrothgar's tearful farewell",
-   "def": "Hrothgar kissed and embraced Beowulf and wept, because he sensed that they would never meet again."
+   "term": "Beowulf returns Hrunting",
+   "def": "Beowulf had Hrunting brought to Unferth, called it \"a friend in battle,\" and \"put no blame on the blade's cutting edge\" (around line 1807)."
   },
   {
    "id": "c28",
+   "term": "Beowulf's farewell promise",
+   "def": "Beowulf promises to bring a \"hedge of spears\" if Denmark is threatened and says Hrothgar's son Hrethric will find many friends among the Geats (around line 1836)."
+  },
+  {
+   "id": "c29",
+   "term": "Hrothgar's prediction about Beowulf",
+   "def": "Hrothgar says the Geats could find no man \"worthier of acclaim as their king\" than Beowulf if Hygelac dies (around line 1850)."
+  },
+  {
+   "id": "c30",
+   "term": "How Beowulf has united two peoples",
+   "def": "Hrothgar says Beowulf has drawn the Geats and Danes into \"shared peace and a pact of friendship\" despite past hatreds, so gifts will cross \"the gannet's bath\" (around line 1857)."
+  },
+  {
+   "id": "c31",
+   "term": "Hrothgar's tearful farewell",
+   "def": "Hrothgar kissed Beowulf and wept, troubled by \"two forebodings,\" the stronger being that they would never meet \"face to face\" again (around line 1873)."
+  },
+  {
+   "id": "c32",
+   "term": "Foretelling in Part 2",
+   "def": "As Beowulf leaves, the narrator foretells that Hrothgar was \"a peerless king until old age sapped his strength\" (around line 1885)."
+  },
+  {
+   "id": "c33",
    "term": "Weapons versus strength",
    "def": "Hrunting fails and the giant sword melts, which suggests that Beowulf's victories depend on his own strength and God's help rather than on weapons."
   },
   {
-   "id": "c29",
+   "id": "c34",
    "term": "Grendel's mother as the cycle of war",
    "def": "Grendel's mother stands for the recurring cycle of war, because her revenge for Grendel provokes Beowulf's revenge for Aeschere in turn."
   },
   {
-   "id": "c30",
+   "id": "c35",
    "term": "Light, dark, light in Part 2",
-   "def": "The joyful feast is followed by Grendel's mother's night attack and then by the light that fills her hall when she dies and the new feast in Heorot."
+   "def": "The joyful feast gives way to the night attack, and then \"a light appeared\" in her hall as she died, followed by a new feast in Heorot."
   },
   {
-   "id": "c31",
-   "term": "Foretelling in Part 2",
-   "def": "As Beowulf leaves Denmark, the narrator foretells that Hrothgar will remain a peerless king only until old age saps his strength."
-  },
-  {
-   "id": "c32",
+   "id": "c36",
    "term": "Youth and age in Part 2",
-   "def": "Old Hrothgar's sermon warns young Beowulf that his strength will fade, which sets up the old king Beowulf will become."
+   "def": "Old Hrothgar, who has \"wintered into wisdom,\" warns young Beowulf that his strength will fade, which sets up the old king Beowulf will become."
   }
  ]
 }

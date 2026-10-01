@@ -5,32 +5,12 @@
  "topic": "Beowulf Part 2 (Another Attack to Another Celebration at Heorot)",
  "short": "5 Q&A",
  "order": 5,
- "count": 5,
+ "count": 1,
  "cards": [
   {
    "id": "c0",
-   "term": "What does Grendel's mother take back from Heorot?",
-   "def": "She takes back Grendel's bloody hand, the trophy hanging in the hall."
-  },
-  {
-   "id": "c1",
-   "term": "Why does Grendel's mother attack Heorot?",
-   "def": "She attacks to avenge her son's death."
-  },
-  {
-   "id": "c2",
-   "term": "How does Beowulf kill a water-beast at the mere?",
-   "def": "Beowulf shoots it with an arrow, and the men pull it ashore with boar-spears."
-  },
-  {
-   "id": "c3",
-   "term": "Where does Grendel's mother take Beowulf?",
-   "def": "She drags him to her dry, firelit hall at the bottom of the mere."
-  },
-  {
-   "id": "c4",
-   "term": "What understatement does Hrothgar use for the mere?",
-   "def": "Hrothgar calls the mere \"no good place,\" a litotes that means it is truly terrifying."
+   "term": "What litotes does Hrothgar use for the mere?",
+   "def": "Hrothgar says \"That is no good place,\" an understatement meaning the mere is truly terrifying (around line 1372)."
   }
  ]
 }

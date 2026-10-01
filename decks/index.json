@@ -3,7 +3,7 @@
   {
    "name": "ENG-205",
    "slug": "eng205",
-   "count": 410,
+   "count": 411,
    "topics": [
     {
      "name": "Beowulf Part 1 (to Another Attack)",
@@ -55,14 +55,14 @@
     {
      "name": "Beowulf Part 2 (Another Attack to Another Celebration at Heorot)",
      "slug": "beowulf-part-2",
-     "count": 57,
+     "count": 58,
      "decks": [
       {
        "id": "eng205-bw2-01-definitions",
        "title": "ENG-205 Beowulf Part 2 — 1 Definitions",
        "short": "1 Definitions",
        "order": 1,
-       "count": 8,
+       "count": 6,
        "file": "eng205-bw2-01-definitions.json"
       },
       {
@@ -70,7 +70,7 @@
        "title": "ENG-205 Beowulf Part 2 — 2 Names",
        "short": "2 Names",
        "order": 2,
-       "count": 3,
+       "count": 4,
        "file": "eng205-bw2-02-names.json"
       },
       {
@@ -78,7 +78,7 @@
        "title": "ENG-205 Beowulf Part 2 — 3 Numbers & Dates",
        "short": "3 Numbers & Dates",
        "order": 3,
-       "count": 8,
+       "count": 10,
        "file": "eng205-bw2-03-numbers.json"
       },
       {
@@ -86,7 +86,7 @@
        "title": "ENG-205 Beowulf Part 2 — 4 Main Ideas",
        "short": "4 Main Ideas",
        "order": 4,
-       "count": 33,
+       "count": 37,
        "file": "eng205-bw2-04-main-ideas.json"
       },
       {
@@ -94,7 +94,7 @@
        "title": "ENG-205 Beowulf Part 2 — 5 Q&A",
        "short": "5 Q&A",
        "order": 5,
-       "count": 5,
+       "count": 1,
        "file": "eng205-bw2-05-qa.json"
       }
      ]
@@ -262,7 +262,7 @@
    "title": "ENG-205 Beowulf Part 2 — 1 Definitions",
    "short": "1 Definitions",
    "order": 1,
-   "count": 8,
+   "count": 6,
    "file": "eng205-bw2-01-definitions.json",
    "subject": "ENG-205",
    "subjectSlug": "eng205",
@@ -274,7 +274,7 @@
    "title": "ENG-205 Beowulf Part 2 — 2 Names",
    "short": "2 Names",
    "order": 2,
-   "count": 3,
+   "count": 4,
    "file": "eng205-bw2-02-names.json",
    "subject": "ENG-205",
    "subjectSlug": "eng205",
@@ -286,7 +286,7 @@
    "title": "ENG-205 Beowulf Part 2 — 3 Numbers & Dates",
    "short": "3 Numbers & Dates",
    "order": 3,
-   "count": 8,
+   "count": 10,
    "file": "eng205-bw2-03-numbers.json",
    "subject": "ENG-205",
    "subjectSlug": "eng205",
@@ -298,7 +298,7 @@
    "title": "ENG-205 Beowulf Part 2 — 4 Main Ideas",
    "short": "4 Main Ideas",
    "order": 4,
-   "count": 33,
+   "count": 37,
    "file": "eng205-bw2-04-main-ideas.json",
    "subject": "ENG-205",
    "subjectSlug": "eng205",
@@ -310,7 +310,7 @@
    "title": "ENG-205 Beowulf Part 2 — 5 Q&A",
    "short": "5 Q&A",
    "order": 5,
-   "count": 5,
+   "count": 1,
    "file": "eng205-bw2-05-qa.json",
    "subject": "ENG-205",
    "subjectSlug": "eng205",

@@ -5,22 +5,27 @@
  "topic": "Beowulf Part 2 (Another Attack to Another Celebration at Heorot)",
  "short": "2 Names",
  "order": 2,
- "count": 3,
+ "count": 4,
  "cards": [
   {
    "id": "c0",
    "term": "Grendel's mother",
-   "def": "Grendel's mother is a monstrous water-hag descended from Cain who lives in the mere and attacks Heorot to avenge her son."
+   "def": "Grendel's mother is a monstrous water-hag of Cain's line who lives in the mere and comes to Heorot \"desperate for revenge\" for her son."
   },
   {
    "id": "c1",
    "term": "Aeschere",
-   "def": "Aeschere was Hrothgar's most trusted counselor and battle companion, whom Grendel's mother carried off and killed."
+   "def": "Aeschere, Yrmenlaf's elder brother, was Hrothgar's \"right-hand man,\" \"true mentor,\" and most trusted counselor, whom Grendel's mother carried off and killed (around line 1323)."
   },
   {
    "id": "c2",
    "term": "Unferth in Part 2",
-   "def": "Unferth, once Beowulf's mocker, lends him the sword Hrunting but loses fame because he dares not fight underwater himself."
+   "def": "Unferth, \"the brehon\" and son of Ecglaf, lends Beowulf Hrunting but, \"not man enough\" to fight underwater, \"lost fame and repute\" (around line 1471)."
+  },
+  {
+   "id": "c3",
+   "term": "The two monsters of the moors",
+   "def": "Hrothgar's counselors had seen two creatures on the moors, one that \"looks like a woman\" and one \"warped in the shape of a man\" called Grendel, both \"fatherless\" with an ancestry hidden among demons (around line 1351)."
   }
  ]
 }

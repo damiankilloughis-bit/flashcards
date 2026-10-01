@@ -5,47 +5,57 @@
  "topic": "Beowulf Part 2 (Another Attack to Another Celebration at Heorot)",
  "short": "3 Numbers & Dates",
  "order": 3,
- "count": 8,
+ "count": 10,
  "cards": [
   {
    "id": "c0",
-   "term": "A hundred seasons",
-   "def": "Grendel's mother had haunted the mere for a hundred seasons before Beowulf entered it."
+   "term": "A few miles from Heorot",
+   "def": "Hrothgar says the haunted mere lies only \"a few miles from here\" (around line 1362)."
   },
   {
    "id": "c1",
    "term": "The best part of a day",
-   "def": "Beowulf swam down for the best part of a day before he could see the bottom of the mere."
+   "def": "Beowulf swam down for \"the best part of a day\" before he could see the bottom of the mere (around line 1495)."
   },
   {
    "id": "c2",
-   "term": "15 house-guards",
-   "def": "Beowulf beheads Grendel's corpse to repay a raid in which Grendel ate fifteen of Hrothgar's house-guards and carried off fifteen more."
+   "term": "A hundred seasons",
+   "def": "Grendel's mother had \"scavenged and gone her gluttonous rounds\" in the mere \"for a hundred seasons\" (around line 1499)."
   },
   {
    "id": "c3",
-   "term": "4 men to carry the head",
-   "def": "It took four men to carry Grendel's head on a spear back to Heorot."
+   "term": "15 house-guards",
+   "def": "Beowulf cut off Grendel's head to repay the night Grendel ate fifteen of Hrothgar's house-guards and carried off as many again (around line 1581)."
   },
   {
    "id": "c4",
-   "term": "14 Geats",
-   "def": "Fourteen Geats marched back to Heorot around Beowulf as he brought Grendel's head."
+   "term": "The ninth hour",
+   "def": "At \"the ninth hour of the day,\" the Danes left the cliff-top first and Hrothgar went home, while the Geats stayed staring at the mere for their lord (around line 1600)."
   },
   {
    "id": "c5",
-   "term": "50 years of Hrothgar's rule",
-   "def": "Hrothgar says he ruled the Ring-Danes for fifty years before Grendel's attacks turned his happiness into grief."
+   "term": "4 men to carry the head",
+   "def": "It was \"a task for four\" to hoist Grendel's head on a spear and carry it to Heorot (around line 1637)."
   },
   {
    "id": "c6",
-   "term": "1,000 thanes",
-   "def": "Beowulf promises to bring a thousand thanes to help Hrothgar if enemies ever threaten Denmark."
+   "term": "14 Geats",
+   "def": "\"Fourteen Geats in fine fettle\" marched back to Heorot around Beowulf (around line 1641)."
   },
   {
    "id": "c7",
+   "term": "50 years of Hrothgar's rule",
+   "def": "Hrothgar says he \"ruled the Ring-Danes' country for fifty years\" before Grendel turned his bliss to grief (around line 1770)."
+  },
+  {
+   "id": "c8",
+   "term": "1,000 thanes",
+   "def": "Beowulf promises to \"land with a thousand thanes\" to help Hrothgar if enemies ever threaten Denmark (around line 1829)."
+  },
+  {
+   "id": "c9",
    "term": "12 treasures",
-   "def": "At the farewell, Hrothgar gave Beowulf twelve treasures to take home."
+   "def": "At the farewell Hrothgar gave Beowulf \"twelve treasures\" and told him to sail home safely and return soon (around line 1867)."
   }
  ]
 }

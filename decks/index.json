@@ -357,6 +357,60 @@
      ]
     }
    ]
+  },
+  {
+   "name": "PSC-201",
+   "slug": "psc201",
+   "count": 233,
+   "topics": [
+    {
+     "name": "Module 2: Government, Politics, Economic Theories, and Civic Engagement",
+     "slug": "module-2",
+     "count": 233,
+     "decks": [
+      {
+       "id": "psc201-m2-01-definitions",
+       "title": "PSC-201 Mod. 2 — 1 Definitions",
+       "short": "1 Definitions",
+       "order": 1,
+       "count": 56,
+       "file": "psc201-m2-01-definitions.json"
+      },
+      {
+       "id": "psc201-m2-02-names",
+       "title": "PSC-201 Mod. 2 — 2 Names",
+       "short": "2 Names",
+       "order": 2,
+       "count": 33,
+       "file": "psc201-m2-02-names.json"
+      },
+      {
+       "id": "psc201-m2-03-numbers",
+       "title": "PSC-201 Mod. 2 — 3 Numbers & Dates",
+       "short": "3 Numbers & Dates",
+       "order": 3,
+       "count": 40,
+       "file": "psc201-m2-03-numbers.json"
+      },
+      {
+       "id": "psc201-m2-04-main-ideas",
+       "title": "PSC-201 Mod. 2 — 4 Main Ideas",
+       "short": "4 Main Ideas",
+       "order": 4,
+       "count": 98,
+       "file": "psc201-m2-04-main-ideas.json"
+      },
+      {
+       "id": "psc201-m2-05-qa",
+       "title": "PSC-201 Mod. 2 — 5 Q&A",
+       "short": "5 Q&A",
+       "order": 5,
+       "count": 6,
+       "file": "psc201-m2-05-qa.json"
+      }
+     ]
+    }
+   ]
   }
  ],
  "decks": [
@@ -791,6 +845,66 @@
    "subjectSlug": "his201",
    "topic": "Chapter 3: Colonization and Conflict in the South",
    "topicSlug": "chapter-3"
+  },
+  {
+   "id": "psc201-m2-01-definitions",
+   "title": "PSC-201 Mod. 2 — 1 Definitions",
+   "short": "1 Definitions",
+   "order": 1,
+   "count": 56,
+   "file": "psc201-m2-01-definitions.json",
+   "subject": "PSC-201",
+   "subjectSlug": "psc201",
+   "topic": "Module 2: Government, Politics, Economic Theories, and Civic Engagement",
+   "topicSlug": "module-2"
+  },
+  {
+   "id": "psc201-m2-02-names",
+   "title": "PSC-201 Mod. 2 — 2 Names",
+   "short": "2 Names",
+   "order": 2,
+   "count": 33,
+   "file": "psc201-m2-02-names.json",
+   "subject": "PSC-201",
+   "subjectSlug": "psc201",
+   "topic": "Module 2: Government, Politics, Economic Theories, and Civic Engagement",
+   "topicSlug": "module-2"
+  },
+  {
+   "id": "psc201-m2-03-numbers",
+   "title": "PSC-201 Mod. 2 — 3 Numbers & Dates",
+   "short": "3 Numbers & Dates",
+   "order": 3,
+   "count": 40,
+   "file": "psc201-m2-03-numbers.json",
+   "subject": "PSC-201",
+   "subjectSlug": "psc201",
+   "topic": "Module 2: Government, Politics, Economic Theories, and Civic Engagement",
+   "topicSlug": "module-2"
+  },
+  {
+   "id": "psc201-m2-04-main-ideas",
+   "title": "PSC-201 Mod. 2 — 4 Main Ideas",
+   "short": "4 Main Ideas",
+   "order": 4,
+   "count": 98,
+   "file": "psc201-m2-04-main-ideas.json",
+   "subject": "PSC-201",
+   "subjectSlug": "psc201",
+   "topic": "Module 2: Government, Politics, Economic Theories, and Civic Engagement",
+   "topicSlug": "module-2"
+  },
+  {
+   "id": "psc201-m2-05-qa",
+   "title": "PSC-201 Mod. 2 — 5 Q&A",
+   "short": "5 Q&A",
+   "order": 5,
+   "count": 6,
+   "file": "psc201-m2-05-qa.json",
+   "subject": "PSC-201",
+   "subjectSlug": "psc201",
+   "topic": "Module 2: Government, Politics, Economic Theories, and Civic Engagement",
+   "topicSlug": "module-2"
   }
  ]
 }

@@ -1,0 +1,211 @@
+{
+ "id": "psc201-m2-03-numbers",
+ "title": "PSC-201 Mod. 2 — 3 Numbers & Dates",
+ "subject": "PSC-201",
+ "topic": "Module 2: Government, Politics, Economic Theories, and Civic Engagement",
+ "short": "3 Numbers & Dates",
+ "order": 3,
+ "count": 40,
+ "cards": [
+  {
+   "id": "c0",
+   "term": "Years of the American Revolution",
+   "def": "During the American Revolution (1775–1783), British colonists fought for the right to govern themselves, an early example of Americans fighting to acquire the right to participate."
+  },
+  {
+   "id": "c1",
+   "term": "When citizens demanded removal of property requirements for voting",
+   "def": "In the early nineteenth century, agitated citizens called for removing property requirements for voting so that poor White men could participate in government just as wealthy men could."
+  },
+  {
+   "id": "c2",
+   "term": "When women, African Americans, and Native Americans fought for the vote",
+   "def": "Throughout the late nineteenth and twentieth centuries, women, African Americans, Native Americans, and many other groups fought for the right to vote and hold office."
+  },
+  {
+   "id": "c3",
+   "term": "The war during which the Figure 1.1 voting poster was created",
+   "def": "The poster in Figure 1.1 was created during World War II and depicts voting as an important part of the fight to keep the United States free."
+  },
+  {
+   "id": "c4",
+   "term": "How many years after Locke's death Adam Smith was born",
+   "def": "Adam Smith was born nineteen years after John Locke's death, and the instructor presents Smith's economic ideas as similar to Locke's ideas on the social contract."
+  },
+  {
+   "id": "c5",
+   "term": "Year The Wealth of Nations was published",
+   "def": "Adam Smith's The Wealth of Nations was published in 1776, \"the same year that the Declaration of Independence was written,\" linking capitalism's origins to American independence."
+  },
+  {
+   "id": "c6",
+   "term": "Percentage of Americans who are atheists",
+   "def": "Atheists account for only about 7 percent of the U.S. population, yet minority rights would protect them even if the majority wanted them imprisoned or expelled."
+  },
+  {
+   "id": "c7",
+   "term": "Share of U.S. presidents who attended Ivy League schools",
+   "def": "One-third of U.S. presidents have attended Ivy League schools, a far higher percentage than the general population, which the textbook presents as apparent support for elite theory."
+  },
+  {
+   "id": "c8",
+   "term": "Recent presidents who graduated from Ivy League schools",
+   "def": "Figure 1.6 notes that five of the six most recent presidents graduated from an Ivy League university, and the 4e update adds that the 2024 election returned Ivy graduates Trump and Vance."
+  },
+  {
+   "id": "c9",
+   "term": "Percentage of members of Congress with bachelor's degrees",
+   "def": "Ninety-five percent of members of the House of Representatives and 100 percent of senators hold a bachelor's degree, while fewer than 40 percent of U.S. adults have even an associate's degree."
+  },
+  {
+   "id": "c10",
+   "term": "Gender and racial makeup of Congress",
+   "def": "Approximately 73 percent of members of Congress are men and about 76 percent are White, so the nation's laws are made primarily by well-educated White male professionals and businessmen."
+  },
+  {
+   "id": "c11",
+   "term": "Share of Congress members who are millionaires",
+   "def": "About half of the members of Congress are millionaires, which the textbook says makes Congress more likely to view a flat tax as fair and public-education funding as unnecessary."
+  },
+  {
+   "id": "c12",
+   "term": "Share of Congress sending children to private schools",
+   "def": "In 2009, 38 percent of Congress sent children to private schools versus 11 percent of Americans, and the 4e update reports 34 percent of representatives and 33 percent of senators in 2022."
+  },
+  {
+   "id": "c13",
+   "term": "The 10 percent flat tax example",
+   "def": "Under a 10 percent flat tax, a person earning $40,000 pays $4,000 and keeps $36,000, while a person earning $1,000,000 pays $100,000 but still keeps $900,000."
+  },
+  {
+   "id": "c14",
+   "term": "Number of interest groups and share of Americans in groups",
+   "def": "Thousands of interest groups exist in the United States, and approximately 70–90 percent of Americans report belonging to at least one group, supporting pluralist theory."
+  },
+  {
+   "id": "c15",
+   "term": "The 2007 Massachusetts clinic buffer-zone law",
+   "def": "In 2007, Massachusetts enacted a law requiring protesters to stand thirty-five feet away from abortion clinic entrances, intending to prevent women seeking abortions from being harassed or threatened."
+  },
+  {
+   "id": "c16",
+   "term": "The 2020 pandemic tradeoff over masks",
+   "def": "With the rapid spread of COVID-19 in 2020, Americans debated whether the national government should mandate masks and social distancing or leave those measures to state and local control."
+  },
+  {
+   "id": "c17",
+   "term": "When the Fix-NICS Act became law",
+   "def": "The Fix-NICS Act, which improved the federal background-check process, passed both houses and was signed by President Trump in March 2018 as part of an omnibus spending bill."
+  },
+  {
+   "id": "c18",
+   "term": "Length of a House member's term",
+   "def": "Because House members serve two-year terms and soon face re-election, House members are more likely to buck their political party in favor of their constituents."
+  },
+  {
+   "id": "c19",
+   "term": "The Fifteenth Amendment",
+   "def": "The Fifteenth Amendment gave the vote to African American men, ending the period when the right to vote belonged solely to White men."
+  },
+  {
+   "id": "c20",
+   "term": "The Nineteenth Amendment",
+   "def": "The Nineteenth Amendment extended the right to vote to include women, an achievement won through marches, boycotts, speeches, letters, and activists' willingness to risk arrest."
+  },
+  {
+   "id": "c21",
+   "term": "The Voting Rights Act of 1965",
+   "def": "The Voting Rights Act of 1965 made exercising the right to vote a reality for Black men and women in the South, building on the Fifteenth Amendment's guarantee."
+  },
+  {
+   "id": "c22",
+   "term": "Year of the print celebrating African American men's voting rights",
+   "def": "The Figure 1.8 print, published in 1870, celebrates the extension of the right to vote to African American men and depicts legal rights that enslaved people lacked."
+  },
+  {
+   "id": "c23",
+   "term": "The Twenty-Sixth Amendment",
+   "def": "The Twenty-Sixth Amendment, which went into effect in 1971, lowered the voting age in national elections from the twenty-one required by most states to eighteen."
+  },
+  {
+   "id": "c24",
+   "term": "The First Amendment",
+   "def": "The First Amendment of the Constitution gives Americans the right to express their opinions on matters of concern to them, and the federal government cannot interfere with that right."
+  },
+  {
+   "id": "c25",
+   "term": "The Fourteenth Amendment",
+   "def": "Because of the Fourteenth Amendment, state governments, not only the federal government, must also protect Americans' First Amendment right to freedom of speech."
+  },
+  {
+   "id": "c26",
+   "term": "The 2008 Ohio early-voting lines",
+   "def": "In 2008, voters lined up to vote early in Ohio, and many who had never voted before did so because of then-senator Barack Obama's presidential candidacy."
+  },
+  {
+   "id": "c27",
+   "term": "Ritchie Torres's election to the New York City Council",
+   "def": "In 2013, at age twenty-five, Ritchie Torres became the youngest member of the New York City Council and the first gay council member to represent the Bronx."
+  },
+  {
+   "id": "c28",
+   "term": "Ritchie Torres's election to Congress",
+   "def": "In November 2020, Ritchie Torres was elected to the U.S. House of Representatives to represent New York's 15th congressional district."
+  },
+  {
+   "id": "c29",
+   "term": "Share of adults taking political action in the 2018 survey",
+   "def": "A 2018 survey found that almost 70 percent of American adults had participated in some political action in the five years before the survey, showing that many Americans engage in political activity regularly."
+  },
+  {
+   "id": "c30",
+   "term": "Share who attended meetings or worked for campaigns in 2018",
+   "def": "In the same 2018 survey period, approximately 30 percent of people attended a local government meeting or political rally, while 16 percent worked or volunteered for a campaign."
+  },
+  {
+   "id": "c31",
+   "term": "Age group least involved in traditional political activity",
+   "def": "Americans aged 18–29 were less likely than older Americans to become involved in traditional forms of political activity, according to the textbook and the instructor's notes."
+  },
+  {
+   "id": "c32",
+   "term": "Results of Harvard's 2018 poll of young adults",
+   "def": "A 2018 Harvard Institute of Politics poll of over two thousand young adults found 24 percent politically engaged, fewer than 35 percent voting in a primary, and 9 percent attending demonstrations."
+  },
+  {
+   "id": "c33",
+   "term": "Youth turnout in the 2018 midterm elections",
+   "def": "In the 2018 midterm elections, an estimated 31 percent of Americans under thirty turned out to vote, the highest level of young adult engagement in decades."
+  },
+  {
+   "id": "c34",
+   "term": "Youth turnout in the 2020 presidential election",
+   "def": "CIRCLE reported a record youth turnout of 53 percent in 2020, greater even than the historic 2008 turnout, though young voters still participated at lower rates than other age groups."
+  },
+  {
+   "id": "c35",
+   "term": "Youth vote for the Democratic ticket",
+   "def": "In the 3e text, 61 percent of younger voters chose the Democratic ticket in 2020, while the 4e update reports 51 percent in 2024 as Harris's margin narrowed."
+  },
+  {
+   "id": "c36",
+   "term": "Youth voting in the 2024 election",
+   "def": "The instructor and 4e note that youth turnout declined slightly in 2024 and the partisan gap narrowed, with Trump performing about 10 percent better among young voters than in 2020."
+  },
+  {
+   "id": "c37",
+   "term": "Young Americans' party identification in Figure 1.13",
+   "def": "Figure 1.13 shows 40 percent of young Americans identifying as Democrats, 37 percent as Independents, and 21 percent as Republicans when it comes to voting."
+  },
+  {
+   "id": "c38",
+   "term": "Young Americans' ideology in Figure 1.13",
+   "def": "Figure 1.13 shows 32 percent of young Americans calling themselves liberal, 27 percent moderate, and 24 percent conservative, with the rest moderates leaning one direction."
+  },
+  {
+   "id": "c39",
+   "term": "Harvard's 2015 survey of young Americans' party opinions",
+   "def": "Harvard's 2015 survey of Americans under thirty found that more held a favorable opinion of Democrats in Congress than of Republicans, a finding the 4e edition updates with 2024 data."
+  }
+ ]
+}

@@ -1,0 +1,291 @@
+{
+ "id": "psc201-m2-01-definitions",
+ "title": "PSC-201 Mod. 2 — 1 Definitions",
+ "subject": "PSC-201",
+ "topic": "Module 2: Government, Politics, Economic Theories, and Civic Engagement",
+ "short": "1 Definitions",
+ "order": 1,
+ "count": 56,
+ "cards": [
+  {
+   "id": "c0",
+   "term": "Government",
+   "def": "Government is \"the means by which a society organizes itself and allocates authority in order to accomplish collective goals and provide benefits that the society as a whole needs.\""
+  },
+  {
+   "id": "c1",
+   "term": "Politics",
+   "def": "Politics is \"the process of gaining and exercising control within a government for the purpose of setting and achieving particular goals,\" especially those related to the division of resources within a nation."
+  },
+  {
+   "id": "c2",
+   "term": "Economics",
+   "def": "According to the instructor's notes, economics \"deals with how material resources are produced and distributed, including who gets them and how they get them.\""
+  },
+  {
+   "id": "c3",
+   "term": "Democracy",
+   "def": "Democracy is \"a form of government where political power rests in the hands of the people,\" a political system in which people govern themselves rather than being ruled by elites."
+  },
+  {
+   "id": "c4",
+   "term": "Political power",
+   "def": "Political power is \"influence over a government's institutions, leadership, or policies,\" and in a democracy that power rests in the hands of the people."
+  },
+  {
+   "id": "c5",
+   "term": "Representative democracy (republic)",
+   "def": "A representative democracy, or republic, is a form of government in which voters elect representatives to make decisions and pass laws on behalf of all the people instead of voting directly on laws."
+  },
+  {
+   "id": "c6",
+   "term": "Direct democracy",
+   "def": "A direct democracy is a form of government in which people participate directly in making government decisions instead of choosing representatives to make those decisions for them."
+  },
+  {
+   "id": "c7",
+   "term": "Majority rule",
+   "def": "Majority rule is \"a fundamental principle of democracy\" holding that the majority should have the power to make decisions binding upon the whole, so majority opinions carry more influence with government."
+  },
+  {
+   "id": "c8",
+   "term": "Minority rights",
+   "def": "Minority rights are protections for those who are not part of the majority, meaning people cannot be deprived of certain rights even if an overwhelming number of people think they should be."
+  },
+  {
+   "id": "c9",
+   "term": "Monarchy",
+   "def": "A monarchy is a form of government in which one ruler, usually a hereditary ruler, holds political power, although some monarchs share power with an elected legislature."
+  },
+  {
+   "id": "c10",
+   "term": "Absolute monarchy",
+   "def": "In an absolute monarchy, the monarch exercises substantial and unrestricted political power, as in the southwest Asian kingdoms of Saudi Arabia, Qatar, and the United Arab Emirates."
+  },
+  {
+   "id": "c11",
+   "term": "Constitutional monarchy",
+   "def": "In a constitutional monarchy, the monarch's powers are limited by law and may be largely ceremonial, so the instructor notes that such systems are not necessarily authoritarian."
+  },
+  {
+   "id": "c12",
+   "term": "Oligarchy",
+   "def": "An oligarchy is a form of government in which a handful of elite society members, often those belonging to a particular political party, hold all political power."
+  },
+  {
+   "id": "c13",
+   "term": "Totalitarianism",
+   "def": "Totalitarianism is an extreme, fairly rare form of authoritarian government in which the government is more important than the citizens, controls all aspects of their lives, and allows no opposition."
+  },
+  {
+   "id": "c14",
+   "term": "Authoritarian government",
+   "def": "An authoritarian government is one in which the rulers or leaders hold most or all political power, and in extreme forms the people have no meaningful political power at all."
+  },
+  {
+   "id": "c15",
+   "term": "Non-authoritarian government",
+   "def": "A non-authoritarian government regulates behavior in some respects, such as outlawing murder and theft, but allows people considerable freedom and meaningful opportunities to participate in and influence government."
+  },
+  {
+   "id": "c16",
+   "term": "Anarchy",
+   "def": "According to the instructor's notes, anarchy is the absence of government or an overarching governing authority, representing the extreme opposite of concentrated governmental authority."
+  },
+  {
+   "id": "c17",
+   "term": "Public-interest citizenship",
+   "def": "Public-interest citizenship describes citizens who put aside their self-interest in order to advance the public interest, according to the instructor's types of citizenship."
+  },
+  {
+   "id": "c18",
+   "term": "Self-interested citizenship",
+   "def": "Self-interested citizenship describes citizens who try to use the political system to get the most they can for themselves, a tendency the framers feared would produce factions."
+  },
+  {
+   "id": "c19",
+   "term": "Consent of the governed",
+   "def": "Consent of the governed is the idea, central to social contract theory, that legitimate government rests on the people's free agreement to be governed."
+  },
+  {
+   "id": "c20",
+   "term": "Capitalism",
+   "def": "Capitalism is an economic system that relies on the market, reflecting individuals' collective decisions to buy or sell and resulting supply and demand, to decide who gets material goods."
+  },
+  {
+   "id": "c21",
+   "term": "Socialism",
+   "def": "Socialism is an economic system in which the means of generating wealth, such as factories, large farms, and banks, are owned or controlled by the government rather than private individuals."
+  },
+  {
+   "id": "c22",
+   "term": "Social democracy",
+   "def": "Social democracy generally maintains a capitalist market economy while using government regulation and social programs to reduce inequality and provide public benefits."
+  },
+  {
+   "id": "c23",
+   "term": "Democratic socialism",
+   "def": "Democratic socialism seeks to achieve a socialist economic system through democratic political processes rather than through authoritarian rule or revolution, though some private ownership and markets may remain."
+  },
+  {
+   "id": "c24",
+   "term": "Regulated capitalism",
+   "def": "Regulated capitalism is a capitalist economic system in which government intervenes in the market through laws and regulations to protect individual rights, consumers, workers, competition, or market functioning."
+  },
+  {
+   "id": "c25",
+   "term": "Laissez-faire capitalism",
+   "def": "Laissez-faire capitalism is a system with little to no government regulation or intervention in the market, and pure laissez-faire systems exist largely in theory rather than practice."
+  },
+  {
+   "id": "c26",
+   "term": "Mixed economy",
+   "def": "A mixed economy is an economic system based on modified forms of capitalism and socialism that combines aspects of both, and most real systems are mixed to varying degrees."
+  },
+  {
+   "id": "c27",
+   "term": "Private goods",
+   "def": "Private goods are goods provided by private businesses, such as food, clothing, and housing, that can be used only by those who pay for them."
+  },
+  {
+   "id": "c28",
+   "term": "Public goods",
+   "def": "Public goods are goods provided by government, such as national security and public education, that anyone can use and that are \"available to all without charge.\""
+  },
+  {
+   "id": "c29",
+   "term": "Common goods",
+   "def": "Common goods are goods that all people may use free of charge but that are \"of limited supply,\" such as fish in the sea or clean drinking water."
+  },
+  {
+   "id": "c30",
+   "term": "Toll goods",
+   "def": "Toll goods are goods available to many people but used only by those who can pay the price, so toll goods \"occupy a middle ground between public and private goods.\""
+  },
+  {
+   "id": "c31",
+   "term": "Excludable versus non-excludable goods",
+   "def": "Excludable goods are available only to some people, often those who pay, while non-excludable goods are available to all people and no one may be excluded from using them."
+  },
+  {
+   "id": "c32",
+   "term": "Rivalrous versus non-rivalrous goods",
+   "def": "Rivalrous goods can be used by only one person at any given time, while non-rivalrous goods can be used by many people at the same time."
+  },
+  {
+   "id": "c33",
+   "term": "Sustainability",
+   "def": "Sustainability is the idea of regulating access to common goods, such as fish, so that species are not depleted and future generations keep an important food source and livelihood."
+  },
+  {
+   "id": "c34",
+   "term": "Individualism",
+   "def": "Individualism is the ideal of freedom to act as one chooses instead of being controlled by government, which may lead government to loosen business regulations or cut taxes."
+  },
+  {
+   "id": "c35",
+   "term": "Egalitarianism",
+   "def": "Egalitarianism is the ideal that \"calls for equal treatment for all and the destruction of socioeconomic inequalities,\" which may lead government to raise taxes to fund public services."
+  },
+  {
+   "id": "c36",
+   "term": "Civic engagement",
+   "def": "Civic engagement is \"the participation that connects citizens to government,\" which the instructor describes as the ways citizens interact with, participate in, and impact government and their communities."
+  },
+  {
+   "id": "c37",
+   "term": "Interest group",
+   "def": "An interest group is an organized group of people with shared interests who join together to make their desires known to politicians and compete to influence government policy."
+  },
+  {
+   "id": "c38",
+   "term": "Access points",
+   "def": "Access points are the many places within the U.S. system's several levels and branches of government where citizens and groups can engage the government, according to pluralist theorists."
+  },
+  {
+   "id": "c39",
+   "term": "Flat tax",
+   "def": "A flat tax is a tax system that generally requires everyone to pay the same percentage rate of income, which the textbook says \"hurts the poor more than it does the rich.\""
+  },
+  {
+   "id": "c40",
+   "term": "Fracking",
+   "def": "Fracking is \"the process of hydraulic fracturing that gives drilling companies access to natural gas trapped between layers of shale underground,\" producing abundant, inexpensive natural gas."
+  },
+  {
+   "id": "c41",
+   "term": "Referendum",
+   "def": "A referendum is a proposed law placed on the ballot so citizens vote on it directly in state or local elections instead of leaving the matter to the state legislature."
+  },
+  {
+   "id": "c42",
+   "term": "Social capital",
+   "def": "Social capital is \"the collective value of all 'social networks' and the inclinations that arise from these networks to do things for each other,\" meaning connections with others and willingness to aid them."
+  },
+  {
+   "id": "c43",
+   "term": "Partisanship",
+   "def": "Partisanship is \"the tendency to identify with and to support (often blindly) a particular political party,\" amounting to strong support or even blind allegiance to that party."
+  },
+  {
+   "id": "c44",
+   "term": "Ideology",
+   "def": "Ideology is the set of \"established beliefs and ideals that help shape political policy,\" shaping political opinion first and eventually policy."
+  },
+  {
+   "id": "c45",
+   "term": "Latent preferences",
+   "def": "Latent preferences are beliefs and preferences that people are not deeply committed to, that change over time, and that may be formed on the spot when someone is questioned."
+  },
+  {
+   "id": "c46",
+   "term": "Intense preferences",
+   "def": "Intense preferences are beliefs and preferences \"based on strong feelings regarding an issue that someone adheres to over time,\" and such preferences tend to produce greater political engagement."
+  },
+  {
+   "id": "c47",
+   "term": "Civil disobedience",
+   "def": "Civil disobedience is an active and direct form of engagement in which protesters deliberately and peacefully break laws they consider unjust, a tactic used successfully in the 1950s–1960s civil rights movement."
+  },
+  {
+   "id": "c48",
+   "term": "Sit-ins",
+   "def": "Sit-ins, along with sleep-ins and pray-ins, were protests in which Black civil rights activists occupied segregated spaces, and the tactic successfully desegregated lunch counters, motels, and churches."
+  },
+  {
+   "id": "c49",
+   "term": "Boycott",
+   "def": "A boycott is a protest tactic in which activists refuse to buy from businesses whose policies they disapprove of, a tactic used by past movements and still common today."
+  },
+  {
+   "id": "c50",
+   "term": "Buycott",
+   "def": "A \"buycott\" is a tactic in which consumers purchase goods and services from companies that give extensively to charity, help their communities, or take steps to protect the environment."
+  },
+  {
+   "id": "c51",
+   "term": "Electoral College",
+   "def": "The Electoral College is the group that formally chooses the president of the United States, although the votes of individuals in their home states determine how the Electoral College votes."
+  },
+  {
+   "id": "c52",
+   "term": "Mediation",
+   "def": "According to the instructor, mediation is \"essentially the act of connecting people to information,\" a process strongly shaped by technology and online sourcing."
+  },
+  {
+   "id": "c53",
+   "term": "Mediated citizens",
+   "def": "\"Mediated citizens\" is the instructor's term for people who regularly receive political information through channels that can shape how they understand issues and events."
+  },
+  {
+   "id": "c54",
+   "term": "Information bubble",
+   "def": "An information bubble is an information environment in which a person's existing beliefs and interpretations are repeatedly reinforced by much of what that person sees and hears."
+  },
+  {
+   "id": "c55",
+   "term": "Unexamined mediated life",
+   "def": "The instructor's phrase \"unexamined mediated life\" describes living without opening oneself to multiple credible information sources and perspectives, so that one's information goes unquestioned."
+  }
+ ]
+}

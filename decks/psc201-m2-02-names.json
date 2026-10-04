@@ -1,0 +1,176 @@
+{
+ "id": "psc201-m2-02-names",
+ "title": "PSC-201 Mod. 2 — 2 Names",
+ "subject": "PSC-201",
+ "topic": "Module 2: Government, Politics, Economic Theories, and Civic Engagement",
+ "short": "2 Names",
+ "order": 2,
+ "count": 33,
+ "cards": [
+  {
+   "id": "c0",
+   "term": "John Locke",
+   "def": "John Locke, an English political philosopher of the seventeenth century, argued that all people have natural rights to \"life, liberty, and property,\" an idea that inspired democratic self-government."
+  },
+  {
+   "id": "c1",
+   "term": "Adam Smith",
+   "def": "Adam Smith, a Scottish philosopher, argued in The Wealth of Nations that people should be free to acquire property and keep their proceeds, ideas that \"formed the basis for industrial capitalism.\""
+  },
+  {
+   "id": "c2",
+   "term": "Karl Marx (the Marxist ideal)",
+   "def": "Karl Marx envisioned a classless society based on common ownership, emerging through the overthrow of capitalism, though no real-world example of this fully developed \"Marxist ideal\" exists."
+  },
+  {
+   "id": "c3",
+   "term": "C. Wright Mills",
+   "def": "C. Wright Mills, \"the foremost supporter of elite theory,\" argued in The Power Elite that government was controlled by a combination of business, military, and political elites."
+  },
+  {
+   "id": "c4",
+   "term": "Robert Dahl",
+   "def": "Robert Dahl, author of Who Governs?, was one of the first to advance pluralist theory, arguing that politicians seeking an \"electoral payoff\" attend to politically active citizens' concerns."
+  },
+  {
+   "id": "c5",
+   "term": "Robert Putnam",
+   "def": "Political scientist Robert Putnam argued that civic engagement is declining because Americans now join large, impersonal groups instead of small, interactive groups, which reduces social capital."
+  },
+  {
+   "id": "c6",
+   "term": "Everett Ladd",
+   "def": "Everett Ladd countered Putnam's thesis by showing positive trends in community involvement, noting for example that while bowling league participation is down, soccer league participation has proliferated."
+  },
+  {
+   "id": "c7",
+   "term": "April Clark",
+   "def": "April Clark examined and analyzed a wide variety of social capital data trends and disputed Robert Putnam's original thesis that civic engagement and social capital were eroding."
+  },
+  {
+   "id": "c8",
+   "term": "The framers",
+   "def": "Despite their misgivings about popular government, the framers of the Constitution gave Americans a constitutional framework that is \"strong, adaptable, long-lived, and open to citizen action.\""
+  },
+  {
+   "id": "c9",
+   "term": "Ancient Athens",
+   "def": "Ancient Athens is \"the most famous example of a direct democracy,\" where all male citizens could attend meetings of the Assembly to debate and vote on all proposed laws."
+  },
+  {
+   "id": "c10",
+   "term": "New England town meetings",
+   "def": "New England town meetings, such as those in Boxborough, Massachusetts, allow all residents to debate decisions affecting the town, a centuries-old tradition of direct democracy within the United States."
+  },
+  {
+   "id": "c11",
+   "term": "The Communist Party in China and Cuba",
+   "def": "In China and Cuba, only members of the Communist Party may vote or hold public office, and the party's most important members make all government decisions, making both nations oligarchies."
+  },
+  {
+   "id": "c12",
+   "term": "Abolitionists",
+   "def": "Abolitionists were activists, mostly ordinary people including men and women of both races, whose actions led to slavery being outlawed and formerly enslaved people being granted citizenship."
+  },
+  {
+   "id": "c13",
+   "term": "Common Cause",
+   "def": "Common Cause is a non-partisan organization that seeks to hold government accountable by calling for campaign finance reform, paper verification of electronic votes, and abolishing the Electoral College for the popular vote."
+  },
+  {
+   "id": "c14",
+   "term": "Friends of the Earth",
+   "def": "Friends of the Earth is an organization, listed by the textbook as needing volunteers, that mobilizes people to protect the natural environment."
+  },
+  {
+   "id": "c15",
+   "term": "Grassroots International",
+   "def": "Grassroots International is an organization, listed by the textbook among groups citizens can join to get involved, that works for global justice."
+  },
+  {
+   "id": "c16",
+   "term": "The Committee for a Responsible Federal Budget",
+   "def": "The Committee for a Responsible Federal Budget seeks to inform the public on issues with fiscal impact and favors smaller budget deficits, according to the textbook's list of civic organizations."
+  },
+  {
+   "id": "c17",
+   "term": "Conservative Leaders for Education",
+   "def": "Conservative Leaders for Education is an organization that supports local control and increased parent choice in education, according to the textbook's list of groups seeking volunteers."
+  },
+  {
+   "id": "c18",
+   "term": "Coffee Party USA",
+   "def": "Coffee Party USA provides an online forum where people from a variety of political perspectives can discuss issues of concern to them, an example of group-based engagement."
+  },
+  {
+   "id": "c19",
+   "term": "Habitat for Humanity",
+   "def": "Habitat for Humanity builds homes for low-income people, and building a house with Habitat for Humanity is the textbook's example of community action that helps government do its job."
+  },
+  {
+   "id": "c20",
+   "term": "Black Lives Matter and Occupy Wall Street",
+   "def": "Black Lives Matter and Occupy Wall Street are modern movements that adopted the sit-ins, sleep-ins, and pray-ins used successfully by Black civil rights activists of the 1950s and 1960s."
+  },
+  {
+   "id": "c21",
+   "term": "American Civil Liberties Union (ACLU)",
+   "def": "The American Civil Liberties Union (ACLU) protects all citizens' right to freedom of speech, and the textbook asks whether such groups should be able to block government eavesdropping."
+  },
+  {
+   "id": "c22",
+   "term": "FBI and NSA",
+   "def": "The textbook asks whether those who control the Federal Bureau of Investigation (FBI) and the National Security Agency (NSA) should be allowed to eavesdrop on Americans' phone conversations and email."
+  },
+  {
+   "id": "c23",
+   "term": "National Rifle Association (NRA)",
+   "def": "The National Rifle Association objected to the Fix-NICS Act, but widespread congressional support for improving the background-check process carried the act through the House and Senate anyway."
+  },
+  {
+   "id": "c24",
+   "term": "McCullen v. Coakley",
+   "def": "In McCullen v. Coakley (2014), the U.S. Supreme Court struck down the Massachusetts law that created a buffer zone between abortion-clinic protesters and clinic entrances, a freedom-of-speech tradeoff."
+  },
+  {
+   "id": "c25",
+   "term": "Center for Responsive Politics (OpenSecrets.org)",
+   "def": "The Center for Responsive Politics is a non-partisan research group whose website, OpenSecrets.org, tracks campaign contributions, congressional bills and committees, interest groups, and lobbyists."
+  },
+  {
+   "id": "c26",
+   "term": "Harvard University's Institute of Politics",
+   "def": "Harvard University's Institute of Politics surveys young Americans' attitudes toward politics and public service, tracking youth political engagement, opinions of the parties, and intent to vote."
+  },
+  {
+   "id": "c27",
+   "term": "CIRCLE (Tufts University)",
+   "def": "Tufts University's Center for Information and Research on Civic Learning & Engagement (CIRCLE) conducts post-election analyses of youth voting, including turnout and partisan preferences in 2020 and 2024."
+  },
+  {
+   "id": "c28",
+   "term": "Ritchie Torres",
+   "def": "Ritchie Torres, raised in poverty in Bronx public housing where mold gave him asthma, worked as James Vacca's housing director and then won office himself, remaining committed to improving housing for the poor."
+  },
+  {
+   "id": "c29",
+   "term": "James Vacca",
+   "def": "James Vacca, a Bronx politician and Ritchie Torres's mentor, hired Torres as housing director after winning a City Council seat, and the two served together on the council from 2014 to 2017."
+  },
+  {
+   "id": "c30",
+   "term": "Mondaire Jones",
+   "def": "Mondaire Jones, who represents New York's 17th congressional district, and Ritchie Torres became the first openly gay Black men elected to Congress in November 2020."
+  },
+  {
+   "id": "c31",
+   "term": "Bernie Sanders",
+   "def": "In 2016, Democratic candidate Bernie Sanders made college costs an issue by promising free tuition at public institutions, winning intense campus support that faded after his nomination campaign failed."
+  },
+  {
+   "id": "c32",
+   "term": "Hillary Clinton",
+   "def": "Although Democratic nominee Hillary Clinton eventually took up the free tuition issue in 2016, young people did not flock to her, and Clinton won a smaller youth share than Obama in 2012."
+  }
+ ]
+}

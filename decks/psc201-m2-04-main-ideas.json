@@ -1,0 +1,501 @@
+{
+ "id": "psc201-m2-04-main-ideas",
+ "title": "PSC-201 Mod. 2 — 4 Main Ideas",
+ "subject": "PSC-201",
+ "topic": "Module 2: Government, Politics, Economic Theories, and Civic Engagement",
+ "short": "4 Main Ideas",
+ "order": 4,
+ "count": 98,
+ "cards": [
+  {
+   "id": "c0",
+   "term": "Government versus politics",
+   "def": "Government is the structure of authority that can be observed objectively, while politics, put simply, is \"the process of who gets what and how,\" involving often subjective judgments."
+  },
+  {
+   "id": "c1",
+   "term": "How politics relates to government",
+   "def": "According to the instructor, politics helps shape how a government is organized and how authority is exercised within it, though politics is not the same as government."
+  },
+  {
+   "id": "c2",
+   "term": "The basic functions of government",
+   "def": "Governments maintain order and security, provide goods and services, raise and allocate public revenue, regulate behavior and economic activity, and create institutions through which political decisions are made."
+  },
+  {
+   "id": "c3",
+   "term": "The goals and benefits governments provide",
+   "def": "Governments seek economic prosperity, secure national borders, and citizens' safety and well-being, and they commonly provide benefits such as education, health care, and transportation infrastructure."
+  },
+  {
+   "id": "c4",
+   "term": "Why governmental systems are confused with economic systems",
+   "def": "Governmental systems are confused with economic systems because certain types of political thought develop alongside certain economies, as capitalism developed alongside democratic republics, self-government, and natural rights."
+  },
+  {
+   "id": "c5",
+   "term": "How Locke's ideas developed into representative self-government",
+   "def": "Locke's idea of natural rights produced the belief in consent to be governed, which in eighteenth-century British North America and France became government by elected representatives rather than a king."
+  },
+  {
+   "id": "c6",
+   "term": "How Adam Smith believed competition would benefit society",
+   "def": "Adam Smith believed competition would keep prices low and make faulty goods disappear, so businesses would reap profits, consumers would have needs satisfied, and society as a whole would prosper."
+  },
+  {
+   "id": "c7",
+   "term": "Why many Americans equate democracy with capitalism",
+   "def": "Representative government and capitalism developed together in the United States, and both rely on individualism, so many Americans equate democracy with capitalism, though the two need not go together."
+  },
+  {
+   "id": "c8",
+   "term": "Why capitalism might be bad for democracy",
+   "def": "Capitalism has produced great wealth gaps between owners and wage workers, and that great wealth may give a very small minority more influence over government than the majority holds."
+  },
+  {
+   "id": "c9",
+   "term": "Why successful capitalists seek political influence",
+   "def": "Because capitalism relies on individualism, successful capitalists prefer political systems over which they can exert at least some influence in order to maintain their liberty."
+  },
+  {
+   "id": "c10",
+   "term": "How the U.S. government checks business",
+   "def": "Congress regulates banking, and agencies regulate factory toxic gases, food purity, and toy and automobile safety, contrary to Adam Smith's belief that capitalism should be \"almost entirely unregulated.\""
+  },
+  {
+   "id": "c11",
+   "term": "The relationship between socialism and authoritarian government",
+   "def": "Some historical socialist states, such as China, have been authoritarian oligarchies, but the instructor stresses that socialism as an economic theory does not itself require authoritarian government."
+  },
+  {
+   "id": "c12",
+   "term": "What social democracy and democratic socialism share",
+   "def": "Social democracy and democratic socialism both combine democratic political principles with greater public involvement in economic and social policy, yet the instructor stresses that the two are not the same."
+  },
+  {
+   "id": "c13",
+   "term": "What socialist governments typically provide and control",
+   "def": "Socialist governments redistribute accumulated wealth through social programs such as free or inexpensive health care, education, and childcare, and usually control utilities, transportation, and telecommunications."
+  },
+  {
+   "id": "c14",
+   "term": "Why government provides public goods",
+   "def": "Because the market cannot provide everything in enough quantity or at low enough cost, especially for people in poverty, government provides some goods and services to meet everyone's needs."
+  },
+  {
+   "id": "c15",
+   "term": "Why only government can provide national security",
+   "def": "Because of its ability to tax, draw upon the resources of an entire nation, and compel citizen compliance, \"only government is capable of protecting the nation,\" making defense a public good."
+  },
+  {
+   "id": "c16",
+   "term": "The public goods government provides at every level",
+   "def": "At the federal, state, and local levels, government provides military, police, and fire protection, public education, public transportation, mail service, and food, housing, and health care for the poor."
+  },
+  {
+   "id": "c17",
+   "term": "Why public schools are public goods and private schools are toll goods",
+   "def": "Public schools educate all children free from kindergarten through twelfth grade, benefiting everyone through educated voters and workers, while private schools charge tuition and serve only those who can pay."
+  },
+  {
+   "id": "c18",
+   "term": "The Figure 1.3 examples of the four types of goods",
+   "def": "Figure 1.3 lists private goods (cell phones, automobiles, homes), toll goods (cable TV, private school, turnpikes), common goods (ocean fish, fresh water), and public goods (public education, mail, national security)."
+  },
+  {
+   "id": "c19",
+   "term": "Why common goods must be protected",
+   "def": "Because everyone can use common goods but supply is limited, government must protect them so that a few people do not take everything and leave others with nothing."
+  },
+  {
+   "id": "c20",
+   "term": "How common goods differ from public goods in supply",
+   "def": "Government can build more public schools or hire more firefighters, but public lands and wildlife are common goods that government cannot simply multiply when demand reduces supply."
+  },
+  {
+   "id": "c21",
+   "term": "The fishing regulation debate",
+   "def": "Environmentalists want strict fishing limits, while commercial fishers say limits would drive them out of business, so limits are set by scientists, politicians, local resource managers, and fishers' groups."
+  },
+  {
+   "id": "c22",
+   "term": "How government structures the provision of goods and services",
+   "def": "Americans elect city councils, state legislatures, and Congress, which make laws, impose taxes on income, property, and sales, and draft budgets determining how revenue will be spent."
+  },
+  {
+   "id": "c23",
+   "term": "What local governments fund",
+   "def": "On the local level, government funds are allotted for education, police and fire departments, and maintenance of public parks."
+  },
+  {
+   "id": "c24",
+   "term": "What state governments fund",
+   "def": "State governments allocate money for state colleges and universities, maintenance of state roads and bridges, and wildlife management, among other priorities."
+  },
+  {
+   "id": "c25",
+   "term": "What the national government funds",
+   "def": "On the national level, money goes to defense, Social Security, pensions for veterans, maintenance of federal courts and prisons, and management of national parks."
+  },
+  {
+   "id": "c26",
+   "term": "How individualism and egalitarianism lead to different policies",
+   "def": "A government supporting individualism may loosen business regulations or cut taxes, while one supporting egalitarianism may raise taxes to fund public education, transportation, housing for the poor, and elder care."
+  },
+  {
+   "id": "c27",
+   "term": "The tradeoff between national security and individual liberty",
+   "def": "A government more concerned with national security may tap phones and restrict what newspapers publish, while one valuing liberty restricts law enforcement's intrusion into private communications."
+  },
+  {
+   "id": "c28",
+   "term": "How Western democracies let citizens make opinions known",
+   "def": "Western democracies like the United States, Britain, and France let citizens participate and make their opinions known by protecting freedom of speech and the press and allowing citizens to vote."
+  },
+  {
+   "id": "c29",
+   "term": "The forms of political engagement listed in Section 1.1",
+   "def": "Political engagement includes reading about politics, listening to news, discussing politics, attending or watching debates, donating to campaigns, handing out flyers, voting, joining protest marches, and writing to representatives."
+  },
+  {
+   "id": "c30",
+   "term": "The purpose of voting and political engagement",
+   "def": "According to the chapter introduction, the purpose of voting and other political engagement is \"to ensure that government serves the people, and not the other way around.\""
+  },
+  {
+   "id": "c31",
+   "term": "Why civic engagement has mattered since the nation's founding",
+   "def": "The United States has relied on citizen participation at local, state, and national levels since its founding, because civic engagement ensures that representative democracy continues to flourish."
+  },
+  {
+   "id": "c32",
+   "term": "Representative democracy versus direct democracy",
+   "def": "In a representative democracy, citizens elect representatives to decide and pass laws for them, while in a direct democracy, people participate directly in making government decisions themselves."
+  },
+  {
+   "id": "c33",
+   "term": "The officials U.S. citizens elect in a representative democracy",
+   "def": "U.S. citizens vote for members of Congress, the president and vice president, state legislators, governors, mayors, and members of town councils and school boards to act on their behalf."
+  },
+  {
+   "id": "c34",
+   "term": "Majority rule versus minority rights in the United States",
+   "def": "The United States favors majority rule but protects minority rights through features like checks and balances, separation of powers, and federalism, though protections have not always reached every group."
+  },
+  {
+   "id": "c35",
+   "term": "Elements of direct democracy in the United States",
+   "def": "Although the Constitution requires national and state governments to be representative, direct democracy survives through ballot referendums and New England town meetings where residents debate town decisions."
+  },
+  {
+   "id": "c36",
+   "term": "The political spectrum of governments",
+   "def": "Most countries now have some form of representative government, while elite-driven forms such as monarchy, oligarchy, and totalitarianism sit at the other end of the political spectrum."
+  },
+  {
+   "id": "c37",
+   "term": "Examples of nondemocratic governments in the textbook",
+   "def": "The textbook names Saudi Arabia, Qatar, and the United Arab Emirates as absolute monarchies, China and Cuba as Communist Party oligarchies, and North Korea as totalitarian."
+  },
+  {
+   "id": "c38",
+   "term": "Subjects versus citizens",
+   "def": "People under authoritarian governments function more as subjects because they have little role in determining political authority, while people in non-authoritarian systems function as citizens with meaningful political freedoms."
+  },
+  {
+   "id": "c39",
+   "term": "Why the framers chose a republic over direct democracy",
+   "def": "The framers worried about self-interested citizenship and factions arising, and these concerns led them to create a republic, or representative democracy, rather than a direct democracy."
+  },
+  {
+   "id": "c40",
+   "term": "Citizen participation as the cornerstone of representative democracy",
+   "def": "The instructor stresses that citizen participation is \"the cornerstone of a representative democracy,\" because a system of elected representatives depends on ordinary people making their voices known."
+  },
+  {
+   "id": "c41",
+   "term": "Elite theory",
+   "def": "Elite theory \"claims political power rests in the hands of a small, elite group of people,\" reflecting many Americans' fear that elite citizens really run government and others have no influence."
+  },
+  {
+   "id": "c42",
+   "term": "How elites keep power according to elite theory",
+   "def": "In elite theory, the wealthy control the economy so others cannot advance, use wealth to secure political positions, allocate resources to benefit themselves, and maintain order by force."
+  },
+  {
+   "id": "c43",
+   "term": "Why some favor government by elites",
+   "def": "Those who favor government by the elite believe the elite are better fit to govern and that average citizens are content to leave many political decisions to them."
+  },
+  {
+   "id": "c44",
+   "term": "Pluralist theory",
+   "def": "Pluralist theory \"claims political power rests in the hands of groups of people,\" arguing that power is distributed among competing interest groups rather than controlled by a single elite."
+  },
+  {
+   "id": "c45",
+   "term": "Elitism versus pluralism on how policy is made",
+   "def": "Elite theory says policy is made from the top down by a small wealthy elite, while pluralist theory says policy is shaped \"from the bottom up\" through competition among groups."
+  },
+  {
+   "id": "c46",
+   "term": "Why people rely on groups according to pluralist theory",
+   "def": "Because most people lack the inclination, time, or expertise to decide political issues, pluralists argue that interest groups such as environmental advocates, unions, and business organizations speak for them."
+  },
+  {
+   "id": "c47",
+   "term": "Why the makeup of Congress matters",
+   "def": "The makeup of Congress matters because race, gender, profession, education, and socioeconomic status shape people's political interests, and tax and spending changes do not affect all citizens equally."
+  },
+  {
+   "id": "c48",
+   "term": "The prior careers of most members of Congress",
+   "def": "Most members of Congress engaged in state or local politics, worked as business people, or practiced law before being elected, reinforcing elite theory's view of who makes laws."
+  },
+  {
+   "id": "c49",
+   "term": "Why a flat tax hurts the poor more than the rich",
+   "def": "Under a flat tax, people who are not wealthy pay more than they can comfortably afford, while the wealthy pay a larger sum but see no real impact on daily life."
+  },
+  {
+   "id": "c50",
+   "term": "Why more public-education funding helps the poor more than the wealthy",
+   "def": "Wealthy families are more likely to use private schools, so better-funded public schools mainly benefit poorer families and can greatly improve the upward mobility of other socioeconomic classes."
+  },
+  {
+   "id": "c51",
+   "term": "The tradeoffs perspective",
+   "def": "The tradeoffs perspective holds that, rather than an elitist-pluralist \"tug-of-war,\" government action results from an ongoing series of tradeoffs or compromises that often attempt to please both elites and ordinary people."
+  },
+  {
+   "id": "c52",
+   "term": "The central-versus-state government tradeoff",
+   "def": "Since the framing of the U.S. Constitution, tradeoffs have been made between those who favor the supremacy of the central government and those who believe state governments should be more powerful."
+  },
+  {
+   "id": "c53",
+   "term": "The freedom-of-speech tradeoff",
+   "def": "Government must protect free expression yet cannot let one person's free expression interfere with another person's ability to exercise their own rights, as abortion-clinic buffer-zone disputes show."
+  },
+  {
+   "id": "c54",
+   "term": "The fracking tradeoff",
+   "def": "Fracking provides abundant inexpensive natural gas, jobs, and less foreign energy dependence, but critics link fracking to contaminated drinking water, air pollution, earthquake risk, and possibly cancer."
+  },
+  {
+   "id": "c55",
+   "term": "Tradeoffs in Congress among constituents",
+   "def": "Members of Congress usually vote by their districts' concerns, which pits regions against each other and favors some groups over others, as when offshore drilling pleases job seekers but angers conservationists."
+  },
+  {
+   "id": "c56",
+   "term": "Party leaders versus constituents in congressional voting",
+   "def": "Members of Congress sometimes follow party leaders over home-state voters, as when leaders oppose social spending wanted by elderly constituents, though members facing re-election may side with constituents."
+  },
+  {
+   "id": "c57",
+   "term": "The gun-control tradeoff",
+   "def": "State governments balance competing groups by restricting who can sell guns, where sales occur, and background-check requirements, while not banning gun sales, and some states require private-seller background checks."
+  },
+  {
+   "id": "c58",
+   "term": "Why participation matters under both pluralist and elite theory",
+   "def": "According to pluralist theory, government cannot function without some citizens' active participation, and even under elite theory, voting can change who the members of the elite are."
+  },
+  {
+   "id": "c59",
+   "term": "Putnam's explanations for declining small-group membership",
+   "def": "Putnam attributes declining small-group membership to increased participation by women in the workforce, fewer marriages and more divorces, and technologies like the internet that make people feel connected without meeting."
+  },
+  {
+   "id": "c60",
+   "term": "Large impersonal groups versus small interactive groups",
+   "def": "Putnam contrasts large groups like Amnesty International or Greenpeace, whose members share values but never interact, with the church groups and bowling leagues Americans once joined."
+  },
+  {
+   "id": "c61",
+   "term": "What social capital includes",
+   "def": "Social capital includes networks of individuals, a sense of belonging to something larger than oneself, concern for the collective good and willingness to help, and the ability to trust and work with others."
+  },
+  {
+   "id": "c62",
+   "term": "The effect of declining social capital",
+   "def": "Putnam argues that the decline in social capital has hurt people's willingness and ability to engage in representative government, an unfortunate trend if his thesis is correct."
+  },
+  {
+   "id": "c63",
+   "term": "The technology counterargument to Putnam",
+   "def": "Some scholars suggest that technology has increased people's connectedness, but Putnam himself critiques online connections as not as deep as in-person connections."
+  },
+  {
+   "id": "c64",
+   "term": "How abolitionists show the power of ordinary people",
+   "def": "Slavery was outlawed because of abolitionists, most of them ordinary people, and White women and African Americans assisted the campaign even though, with few exceptions, they could not vote."
+  },
+  {
+   "id": "c65",
+   "term": "How activists won expanded voting rights",
+   "def": "Voting rights expanded only through people who marched, joined boycotts, delivered speeches, wrote letters to politicians, and risked arrest, tactics many activists still use today."
+  },
+  {
+   "id": "c66",
+   "term": "What civil rights legislation achieved beyond voting",
+   "def": "Civil rights legislation also integrated schools and public accommodations, prohibited discrimination in housing and employment, and increased access to higher education."
+  },
+  {
+   "id": "c67",
+   "term": "What women's rights activists won",
+   "def": "Activists for women's rights fought for and won greater reproductive freedom for women, better wages, and access to credit."
+  },
+  {
+   "id": "c68",
+   "term": "How LGBTQ rights have changed",
+   "def": "Homosexuality was once considered a mental disorder, but consensual same-sex intercourse is now legal everywhere, same-sex couples may marry, and LGBTQ people have better employment protection."
+  },
+  {
+   "id": "c69",
+   "term": "How local activism improves quality of life",
+   "def": "Local activism improves life by making cities clean up vacant lots, rehabilitate abandoned buildings, build parks and playgrounds, require people to curb their dogs, and ban late-night noise."
+  },
+  {
+   "id": "c70",
+   "term": "What engaged, informed citizens do",
+   "def": "Engaged citizens learn the key issues and candidates' plans, vote, raise funds or campaign, and inform representatives of their views, so that government actions accurately reflect the majority's interests."
+  },
+  {
+   "id": "c71",
+   "term": "Staying informed as the first step toward engagement",
+   "def": "Staying informed is one of the simplest forms of engagement, since \"awareness is the first step,\" using reputable sources such as the New York Times, PBS, NPR, and reputable websites."
+  },
+  {
+   "id": "c72",
+   "term": "Low-effort forms of individual engagement",
+   "def": "Individuals can engage by contacting leaders through email, social media, or phone, filing complaints with the city council, responding to opinion polls, or contributing to or starting political blogs."
+  },
+  {
+   "id": "c73",
+   "term": "Social media and engagement",
+   "def": "Social media engagement has exploded over the last ten years, but the self-selection of online friend groups and feeds mobilizes bias and fuels complaints about fake news."
+  },
+  {
+   "id": "c74",
+   "term": "Why individual votes matter",
+   "def": "Individual votes matter because council members, mayors, legislators, governors, and members of Congress are chosen by popular vote, and home-state votes determine how the Electoral College votes."
+  },
+  {
+   "id": "c75",
+   "term": "Other forms of individual political engagement",
+   "def": "Beyond voting, individuals can attend political rallies, donate money to campaigns, sign or start petitions, and take part in polls or surveys to make their voices heard."
+  },
+  {
+   "id": "c76",
+   "term": "Group forms of political engagement",
+   "def": "Group engagement includes hosting political discussion groups, working for campaigns by fundraising, distributing bumper stickers and buttons, registering voters, driving voters to polls, and joining interest groups."
+  },
+  {
+   "id": "c77",
+   "term": "How community volunteering helps government",
+   "def": "Because government lacks funds for every project, volunteers fill gaps by tending community gardens, building Habitat for Humanity houses, cleaning vacant lots, delivering meals to the elderly, and tutoring children."
+  },
+  {
+   "id": "c78",
+   "term": "Young Americans' preferred form of engagement",
+   "def": "Although young people often shy away from traditional political activities, they express deep concern for their communities and seek out volunteer opportunities, an important form of civic engagement."
+  },
+  {
+   "id": "c79",
+   "term": "Why college students won the vote at eighteen",
+   "def": "College students in the 1960s, especially young men facing the Vietnam draft, argued it was unfair to deny eighteen-year-olds a vote for those who could send them to war."
+  },
+  {
+   "id": "c80",
+   "term": "How partisanship discourages young Americans' engagement",
+   "def": "Committed partisanship alienates Americans who want representatives to vote for the nation's best interests, and when officials ignore everything but party positions, some voters become disheartened or polarized."
+  },
+  {
+   "id": "c81",
+   "term": "The root of most voter partisanship",
+   "def": "A recent study reveals that distrust of the opposing party, not ideological commitment to one's own party, is at the heart of most partisanship among voters."
+  },
+  {
+   "id": "c82",
+   "term": "How partisanship can encourage engagement",
+   "def": "According to the instructor, although partisanship alienates some Americans, the group influence of partisanship can also encourage some citizens to be more politically active."
+  },
+  {
+   "id": "c83",
+   "term": "Why young voters identify as Independents",
+   "def": "Many Americans under thirty identify as Independents and focus on specific issues such as same-sex marriage, and single-issue voters are unlikely to vote according to party affiliation."
+  },
+  {
+   "id": "c84",
+   "term": "Why young voters lose interest in campaigns",
+   "def": "Young voters lose interest when candidates stress issues like entitlements for seniors, but candidates addressing college costs in 2016 and student loan debt in 2020 drew youth participation."
+  },
+  {
+   "id": "c85",
+   "term": "Ideological polarization and young voters",
+   "def": "As some Republicans have become more conservative, opposing same-sex marriage, drug legalization, immigration reform, gun control, church-state separation, and abortion access, young partisans have tended to favor Democrats."
+  },
+  {
+   "id": "c86",
+   "term": "Young Republicans versus older Republicans",
+   "def": "Young Republicans are more liberal than older Republicans on issues such as same-sex marriage and immigration reform and are more willing to see similarities with Democrats."
+  },
+  {
+   "id": "c87",
+   "term": "Barriers that keep college students from voting",
+   "def": "College students attending school outside their home states may struggle to register, and where state IDs are required, students may lack one or be denied without proof of in-state tuition."
+  },
+  {
+   "id": "c88",
+   "term": "How wealth and education affect engagement",
+   "def": "The percentage of people reporting regular voting grows as income and education increase, and wealthier, more educated people are more likely to form intense preferences and act politically."
+  },
+  {
+   "id": "c89",
+   "term": "Latent preferences versus intense preferences in engagement",
+   "def": "Latent preferences are shallow and changeable, so they rarely motivate continued action, while intense preferences are strongly held over time and lead people to donate time and money or attend rallies."
+  },
+  {
+   "id": "c90",
+   "term": "Why public opinion polls can mislead politicians",
+   "def": "Public opinion polls, which politicians may rely on in making policy, capture only people's latent preferences, which may be formed on the spot and not reflect true feelings."
+  },
+  {
+   "id": "c91",
+   "term": "Why voting may reflect only a latent preference",
+   "def": "Voting itself may reflect merely a latent preference, because even people who do not feel strongly about a particular political candidate or issue still vote."
+  },
+  {
+   "id": "c92",
+   "term": "How feelings of lack of impact reduce engagement",
+   "def": "The instructor notes some citizens feel government does not represent them and their voice will have little impact, while others feel government barely affects their lives."
+  },
+  {
+   "id": "c93",
+   "term": "How media and mediation affect narratives",
+   "def": "Like the childhood telephone game, narratives can be altered by the channels and sources delivering them, so source credibility and the information process's integrity determine trustworthiness."
+  },
+  {
+   "id": "c94",
+   "term": "How flawed information harms civic engagement",
+   "def": "According to the instructor, flawed or incorrect information leads citizens toward poorly informed decisions or actions and can depress engagement when reality differs from an information bubble's portrayal."
+  },
+  {
+   "id": "c95",
+   "term": "Why accurate information is key to engagement",
+   "def": "The instructor stresses that accurate information is key for engaged citizens, because knowledgeable, active participation helps government actions more accurately reflect the population's interests and concerns."
+  },
+  {
+   "id": "c96",
+   "term": "The scope of modern media",
+   "def": "According to the instructor, media extend beyond traditional broadcast and print sources to include many other channels of communication and connection, especially technology and online sources."
+  },
+  {
+   "id": "c97",
+   "term": "Who is most and least likely to be engaged",
+   "def": "Wealthier, older, more highly educated citizens with intense preferences are the most likely to engage with government, yet younger, less wealthy people can still change their communities and country."
+  }
+ ]
+}

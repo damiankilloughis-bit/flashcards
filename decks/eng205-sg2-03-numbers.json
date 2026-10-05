@@ -1,0 +1,66 @@
+{
+ "id": "eng205-sg2-03-numbers",
+ "title": "ENG-205 Sir Gawain Part 2 — 3 Numbers & Dates",
+ "subject": "ENG-205",
+ "topic": "Sir Gawain Part 2 (Fitt III)",
+ "short": "3 Numbers & Dates",
+ "order": 3,
+ "count": 11,
+ "cards": [
+  {
+   "id": "c0",
+   "term": "Three days of parallel tests",
+   "def": "Fitt III runs three paired days of outdoor hunt and indoor temptation before Gawain leaves for the Green Chapel."
+  },
+  {
+   "id": "c1",
+   "term": "Day 1: deer hunt and one kiss",
+   "def": "On the first day Bertilak hunts deer (hinds and does) while Lady Bertilak wins one kiss from Gawain, which Gawain returns that evening."
+  },
+  {
+   "id": "c2",
+   "term": "Day 2: boar hunt and two kisses",
+   "def": "On the second day Bertilak kills a huge wild boar while Lady Bertilak wins two kisses, which Gawain courteously returns in exchange."
+  },
+  {
+   "id": "c3",
+   "term": "Day 3: fox hunt and three kisses plus girdle",
+   "def": "On the third day Bertilak takes a fox while Lady Bertilak wins three kisses and the secret green girdle, and Gawain returns only the three kisses."
+  },
+  {
+   "id": "c4",
+   "term": "One kiss returned (day 1)",
+   "def": "Gawain hugs Bertilak and kisses him in the comeliest way he could, calling it his one profit under the pact."
+  },
+  {
+   "id": "c5",
+   "term": "Two kisses returned (day 2)",
+   "def": "Gawain catches Bertilak by the neck and courteously kisses him, then a second time kisses him in a similar style, saying now we're even."
+  },
+  {
+   "id": "c6",
+   "term": "Three kisses returned (day 3)",
+   "def": "Gawain clasps Bertilak tight and kisses him three times with as much emotion as a man could muster, but does not hand over the girdle."
+  },
+  {
+   "id": "c7",
+   "term": "New Year's Eve stay",
+   "def": "After the second exchange Bertilak keeps Gawain one more night, swearing Gawain will find the Green Chapel long before dawn on New Year's Day."
+  },
+  {
+   "id": "c8",
+   "term": "\"I have tested you twice and found you truthful\"",
+   "def": "Bertilak's verdict after two honest exchanges, just before he warns that third time throw best."
+  },
+  {
+   "id": "c9",
+   "term": "Seven years of winter hunting",
+   "def": "Gawain praises the first day's deer haul as the hugest he has seen this seven years in the winter season."
+  },
+  {
+   "id": "c10",
+   "term": "Three long bare notes",
+   "def": "On the first morning the bugles blow three long, bare notes to start the hounds and open the deer hunt."
+  }
+ ]
+}

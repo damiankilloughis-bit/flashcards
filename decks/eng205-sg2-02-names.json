@@ -1,0 +1,51 @@
+{
+ "id": "eng205-sg2-02-names",
+ "title": "ENG-205 Sir Gawain Part 2 — 2 Names",
+ "subject": "ENG-205",
+ "topic": "Sir Gawain Part 2 (Fitt III)",
+ "short": "2 Names",
+ "order": 2,
+ "count": 8,
+ "cards": [
+  {
+   "id": "c0",
+   "term": "Gawain in the bedroom tests",
+   "def": "Gawain lies in bed while Lady Bertilak visits, counters her moves case by case, returns each day's kisses to Bertilak, yet secretly keeps the green girdle."
+  },
+  {
+   "id": "c1",
+   "term": "Lady Bertilak as tempter",
+   "def": "Lady Bertilak enters Gawain's bedroom on each of the three mornings, traps him with courtesy and love-talk, and on the third day presses the protective green girdle on him."
+  },
+  {
+   "id": "c2",
+   "term": "Bertilak as hunter",
+   "def": "Bertilak rises at dawn to hunt deer, then boar, then fox, and each evening presents his kill to Gawain under the exchange-of-winnings bargain."
+  },
+  {
+   "id": "c3",
+   "term": "Morgan le Faye at the castle",
+   "def": "Morgan le Faye is the ancient \"crone\" at Bertilak's court with whom Gawain sits in gladness between the bedroom tests, still unnamed as plotter within Fitt III itself."
+  },
+  {
+   "id": "c4",
+   "term": "The Green Chapel knight (awaited)",
+   "def": "The Green Chapel knight is the figure Gawain must meet at dawn on New Year's Day after the three days of hunts and temptations."
+  },
+  {
+   "id": "c5",
+   "term": "Reynard the fox",
+   "def": "Reynard is the wily fox of the third hunt, ambushed, killed, and stripped of his pelt, which Bertilak brings home as a foul-stinking match for Gawain's three kisses."
+  },
+  {
+   "id": "c6",
+   "term": "The castle priest",
+   "def": "The castle priest hears Gawain's full confession after Gawain hides the girdle and declares Gawain clean and pure enough for Doomsday."
+  },
+  {
+   "id": "c7",
+   "term": "Bertilak's huntsmen",
+   "def": "Bertilak's huntsmen and hounds drive the deer, bay the boar, and course the fox, filling each day with the ritual noise of the chase while Gawain is tested indoors."
+  }
+ ]
+}

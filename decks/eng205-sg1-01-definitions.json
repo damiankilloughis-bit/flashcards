@@ -1,0 +1,101 @@
+{
+ "id": "eng205-sg1-01-definitions",
+ "title": "ENG-205 Sir Gawain Part 1 — 1 Definitions",
+ "subject": "ENG-205",
+ "topic": "Sir Gawain Part 1 (Fitts I–II)",
+ "short": "1 Definitions",
+ "order": 1,
+ "count": 18,
+ "cards": [
+  {
+   "id": "c0",
+   "term": "Romance",
+   "def": "A late-medieval aristocratic narrative, in verse or prose, whose major themes concern love and its effects on human behavior, typically moving through social integration, disintegration by tests and marvels, and reintegration."
+  },
+  {
+   "id": "c1",
+   "term": "Chivalry",
+   "def": "The medieval ideals of knighthood, including bravery, courtesy, honor, and gallantry toward women, whose essence in this poem is truth as proclaimed by the pentangle on Gawain's shield."
+  },
+  {
+   "id": "c2",
+   "term": "Courtesy (gentilesse)",
+   "def": "Refinement and behavior from good breeding, the courtly skills of temperance, reverence for women, and manners that a romance hero must add to valor, generosity, loyalty, honor, and skill in battle."
+  },
+  {
+   "id": "c3",
+   "term": "Trouthe (truth / troth)",
+   "def": "In fourteenth-century English, not only truthfulness but also \"troth,\" fidelity pledged by one's word and owed to a lord, a spouse, or anyone to whom one has an obligation."
+  },
+  {
+   "id": "c4",
+   "term": "Courtly love",
+   "def": "An ennobling love, often modeled on feudal service, in which a knight serves his lady with the obedience and loyalty he owes his liege lord, whether or not the love is consummated or returned."
+  },
+  {
+   "id": "c5",
+   "term": "Pentangle",
+   "def": "A five-pointed star Solomon set as a token of fidelity, called in England the endless knot because each line overlaps and links with the last so the figure is ever eternal."
+  },
+  {
+   "id": "c6",
+   "term": "Endless knot",
+   "def": "The English name for the pentangle, a five-pointed form that never fails, never stronger to one side or slack at the other, but unbroken from beginning to end."
+  },
+  {
+   "id": "c7",
+   "term": "Token of truth",
+   "def": "The pentangle's meaning as the virtue the Green Knight tests, the fidelity Gawain's shield proclaims."
+  },
+  {
+   "id": "c8",
+   "term": "Bob and wheel",
+   "def": "The poem's stanza ending of a short \"bob\" line followed by a four-line rhymed \"wheel,\" joining long alliterative lines to end-rhyme."
+  },
+  {
+   "id": "c9",
+   "term": "Alliterative revival",
+   "def": "The fourteenth-century Middle English return to long alliterative lines, the prosody of Sir Gawain and the Green Knight together with its bob and wheel."
+  },
+  {
+   "id": "c10",
+   "term": "Christmas game (beheading game)",
+   "def": "The Green Knight's challenge that one stroke be struck and another returned after one year and one day, with the axe given to whoever accepts."
+  },
+  {
+   "id": "c11",
+   "term": "Exchange of winnings",
+   "def": "A bargain to swap daily gains so that what one party wins outdoors is traded for what the other gains indoors."
+  },
+  {
+   "id": "c12",
+   "term": "Translatio imperii",
+   "def": "The opening transfer of empire that traces power from fallen Troy through Aeneas, Romulus, and Felix Brutus to Britain and Arthur."
+  },
+  {
+   "id": "c13",
+   "term": "Effictio",
+   "def": "An elaborate formal description of a person's appearance."
+  },
+  {
+   "id": "c14",
+   "term": "Sir Gawain and the Green Knight",
+   "def": "An Arthurian chivalric romance from the alliterative revival, considered a masterpiece of Middle English about knightly deeds, sexual enticement, and wild landscapes."
+  },
+  {
+   "id": "c15",
+   "term": "Holly stem",
+   "def": "The evergreen sprig the Green Knight holds in one hand to show he means peace and no malice when he enters Arthur's hall."
+  },
+  {
+   "id": "c16",
+   "term": "Mother of all axes",
+   "def": "The huge green-steel axe the Green Knight offers as the weapon of the Christmas game."
+  },
+  {
+   "id": "c17",
+   "term": "Round Table",
+   "def": "Arthur's fellowship of the most chivalrous and courteous knights known to Christendom, gathered at Camelot."
+  }
+ ]
+}

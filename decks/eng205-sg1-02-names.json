@@ -1,0 +1,91 @@
+{
+ "id": "eng205-sg1-02-names",
+ "title": "ENG-205 Sir Gawain Part 1 — 2 Names",
+ "subject": "ENG-205",
+ "topic": "Sir Gawain Part 1 (Fitts I–II)",
+ "short": "2 Names",
+ "order": 2,
+ "count": 16,
+ "cards": [
+  {
+   "id": "c0",
+   "term": "Felix Brutus",
+   "def": "Felix Brutus, descended from the Trojan line after Aeneas and Romulus, founds Britain on broad banks and begins the royal line that leads to Arthur."
+  },
+  {
+   "id": "c1",
+   "term": "Aeneas",
+   "def": "Aeneas, after Troy fell, went conquering abroad with his noble warriors and laid claim to the crowns of the wealthiest western kingdoms."
+  },
+  {
+   "id": "c2",
+   "term": "Arthur",
+   "def": "Arthur is the most regal of rulers in Britain's royal line, the most courteous of British kings, who will not eat at the New Year feast until a marvel or challenge appears."
+  },
+  {
+   "id": "c3",
+   "term": "Guinevere",
+   "def": "Guinevere sits gloriously framed on the dais at Camelot, and Gawain seats himself beside her before the Green Knight arrives."
+  },
+  {
+   "id": "c4",
+   "term": "Gawain",
+   "def": "Gawain is Arthur's nephew, seated by Guinevere, who claims the Christmas game because he is \"weakest of your warriors and feeblest of wit,\" so loss of his life would be least lamented."
+  },
+  {
+   "id": "c5",
+   "term": "The Green Knight",
+   "def": "The Green Knight is an entirely emerald-green warrior who rides into Camelot with a holly stem and a huge axe, mocks the Round Table, and demands the beheading game."
+  },
+  {
+   "id": "c6",
+   "term": "Bertilak",
+   "def": "Bertilak is the red-bearded lord of the commanding castle where Gawain shelters at Christmas, who welcomes Gawain and proposes the exchange-of-winnings wager."
+  },
+  {
+   "id": "c7",
+   "term": "Lady Bertilak",
+   "def": "Lady Bertilak is Bertilak's young wife, fairer than Guinevere in Gawain's eyes, who exchanges courtesies with Gawain in the castle church and will later tempt him."
+  },
+  {
+   "id": "c8",
+   "term": "Morgan le Faye",
+   "def": "Morgan le Faye appears in Fitt II as the ancient dame hand in hand with Lady Bertilak, a withered matriarch veiled to the brows whom Gawain salutes with a long, low bow."
+  },
+  {
+   "id": "c9",
+   "term": "Gringolet",
+   "def": "Gringolet is Gawain's warhorse, whom Gawain girds and rides from Camelot through winter wilderness until he finds Bertilak's castle."
+  },
+  {
+   "id": "c10",
+   "term": "Camelot",
+   "def": "Camelot is King Arthur's court, where Christmas revels fill a fortnight and one day and the Green Knight lays down his New Year challenge."
+  },
+  {
+   "id": "c11",
+   "term": "The Green Chapel",
+   "def": "The Green Chapel is the place the Green Knight charges Gawain to find so that as New Year dawns Gawain will rightfully receive the return blow."
+  },
+  {
+   "id": "c12",
+   "term": "Bishop Baldwin",
+   "def": "Bishop Baldwin sits at the head of Arthur's board at the New Year feast when the Green Knight bursts in."
+  },
+  {
+   "id": "c13",
+   "term": "Agravain the Hard Hand",
+   "def": "Agravain the Hard Hand sits on Gawain's other side at the feast, both of them nephews of Arthur and notable knights."
+  },
+  {
+   "id": "c14",
+   "term": "Ywain, son of Urien",
+   "def": "Ywain, son of Urien, eats beside Bishop Baldwin at Arthur's top table when the Green Knight arrives."
+  },
+  {
+   "id": "c15",
+   "term": "The Round Table knights",
+   "def": "The Round Table knights are Arthur's fellowship, called the strongest and worthiest in the world, whose reputation the Green Knight scorns when none at first dares take his game."
+  }
+ ]
+}

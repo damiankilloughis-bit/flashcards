@@ -1,0 +1,71 @@
+{
+ "id": "eng205-sg3-03-numbers",
+ "title": "ENG-205 Sir Gawain Part 3 — 3 Numbers & Dates",
+ "subject": "ENG-205",
+ "topic": "Sir Gawain Part 3 (Fitt IV)",
+ "short": "3 Numbers & Dates",
+ "order": 3,
+ "count": 12,
+ "cards": [
+  {
+   "id": "c0",
+   "term": "New Year's Day at the Green Chapel",
+   "def": "Night passes and New Year draws near; Gawain rises before dawn, keeps the appointment, and the Green Knight says that with New Year come Gawain is called to account."
+  },
+  {
+   "id": "c1",
+   "term": "Three axe swings",
+   "def": "The Green Knight raises the axe three times: first a feint when Gawain flinches, second a withheld stroke when Gawain stands still, and third the nick that draws blood."
+  },
+  {
+   "id": "c2",
+   "term": "First swing = flinch feint",
+   "def": "The first blow is stopped after Gawain shrinks at the shoulders, and the Green Knight goads that this is not the Gawain who never blinked when his own head flew."
+  },
+  {
+   "id": "c3",
+   "term": "Second swing = unscathed miss",
+   "def": "The second launch leaves Gawain untouched because he stands stone-still like a tree stump, matching the morning he kissed Bertilak's wife then kindly kissed Bertilak."
+  },
+  {
+   "id": "c4",
+   "term": "Third swing = nick for the girdle",
+   "def": "The third blow skews aside, skims the skin, and snicks the flesh because the third time Gawain strayed by keeping the belt, so he feels the blade therefore."
+  },
+  {
+   "id": "c5",
+   "term": "One strike promised",
+   "def": "After the nick the Green Knight says one strike was promised—consider yourself well paid—and from any lingering loyalties Gawain is hereby released."
+  },
+  {
+   "id": "c6",
+   "term": "Twelvemonths ago",
+   "def": "The Green Knight reminds Gawain that twelvemonths ago at this time Gawain took what was his, so the return blow is now due."
+  },
+  {
+   "id": "c7",
+   "term": "Four times any fighting knight",
+   "def": "The guide claims the wildman is more powerful than any person alive and four times the figure of any fighting knight in Arthur's house, Hector, or any other hero."
+  },
+  {
+   "id": "c8",
+   "term": "Four-footer axe",
+   "def": "The Green Knight whirls into view with a Danish-style axe whose shining lace marks a blade at least four foot long, filed on a stone."
+  },
+  {
+   "id": "c9",
+   "term": "Spear's length leap",
+   "def": "Seeing his blood on the snow, Gawain leaps forward a spear's length at least, rams on his helmet, and brandishes his sword to end the game."
+  },
+  {
+   "id": "c10",
+   "term": "Twice about with the belt",
+   "def": "Before leaving the castle Gawain bound himself twice about with the lady's lace girdle, wearing it to save his skin rather than for beauty."
+  },
+  {
+   "id": "c11",
+   "term": "Court-wide green belts",
+   "def": "Arthur's whole court agrees that every knight of the Table should bear such a bright green belt worn obliquely to the body, crosswise like a sash, for Gawain's sake."
+  }
+ ]
+}

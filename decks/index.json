@@ -3,7 +3,7 @@
   {
    "name": "ENG-205",
    "slug": "eng205",
-   "count": 578,
+   "count": 651,
    "topics": [
     {
      "name": "Beowulf Part 1 (to Another Attack)",
@@ -299,6 +299,53 @@
        "order": 5,
        "count": 12,
        "file": "eng205-sg2-05-qa.json"
+      }
+     ]
+    },
+    {
+     "name": "Sir Gawain Part 3 (Fitt IV)",
+     "slug": "sir-gawain-part-3",
+     "count": 73,
+     "decks": [
+      {
+       "id": "eng205-sg3-01-definitions",
+       "title": "ENG-205 Sir Gawain Part 3 — 1 Definitions",
+       "short": "1 Definitions",
+       "order": 1,
+       "count": 13,
+       "file": "eng205-sg3-01-definitions.json"
+      },
+      {
+       "id": "eng205-sg3-02-names",
+       "title": "ENG-205 Sir Gawain Part 3 — 2 Names",
+       "short": "2 Names",
+       "order": 2,
+       "count": 9,
+       "file": "eng205-sg3-02-names.json"
+      },
+      {
+       "id": "eng205-sg3-03-numbers",
+       "title": "ENG-205 Sir Gawain Part 3 — 3 Numbers & Dates",
+       "short": "3 Numbers & Dates",
+       "order": 3,
+       "count": 12,
+       "file": "eng205-sg3-03-numbers.json"
+      },
+      {
+       "id": "eng205-sg3-04-main-ideas",
+       "title": "ENG-205 Sir Gawain Part 3 — 4 Main Ideas",
+       "short": "4 Main Ideas",
+       "order": 4,
+       "count": 25,
+       "file": "eng205-sg3-04-main-ideas.json"
+      },
+      {
+       "id": "eng205-sg3-05-qa",
+       "title": "ENG-205 Sir Gawain Part 3 — 5 Q&A",
+       "short": "5 Q&A",
+       "order": 5,
+       "count": 14,
+       "file": "eng205-sg3-05-qa.json"
       }
      ]
     }
@@ -879,6 +926,66 @@
    "subjectSlug": "eng205",
    "topic": "Sir Gawain Part 2 (Fitt III)",
    "topicSlug": "sir-gawain-part-2"
+  },
+  {
+   "id": "eng205-sg3-01-definitions",
+   "title": "ENG-205 Sir Gawain Part 3 — 1 Definitions",
+   "short": "1 Definitions",
+   "order": 1,
+   "count": 13,
+   "file": "eng205-sg3-01-definitions.json",
+   "subject": "ENG-205",
+   "subjectSlug": "eng205",
+   "topic": "Sir Gawain Part 3 (Fitt IV)",
+   "topicSlug": "sir-gawain-part-3"
+  },
+  {
+   "id": "eng205-sg3-02-names",
+   "title": "ENG-205 Sir Gawain Part 3 — 2 Names",
+   "short": "2 Names",
+   "order": 2,
+   "count": 9,
+   "file": "eng205-sg3-02-names.json",
+   "subject": "ENG-205",
+   "subjectSlug": "eng205",
+   "topic": "Sir Gawain Part 3 (Fitt IV)",
+   "topicSlug": "sir-gawain-part-3"
+  },
+  {
+   "id": "eng205-sg3-03-numbers",
+   "title": "ENG-205 Sir Gawain Part 3 — 3 Numbers & Dates",
+   "short": "3 Numbers & Dates",
+   "order": 3,
+   "count": 12,
+   "file": "eng205-sg3-03-numbers.json",
+   "subject": "ENG-205",
+   "subjectSlug": "eng205",
+   "topic": "Sir Gawain Part 3 (Fitt IV)",
+   "topicSlug": "sir-gawain-part-3"
+  },
+  {
+   "id": "eng205-sg3-04-main-ideas",
+   "title": "ENG-205 Sir Gawain Part 3 — 4 Main Ideas",
+   "short": "4 Main Ideas",
+   "order": 4,
+   "count": 25,
+   "file": "eng205-sg3-04-main-ideas.json",
+   "subject": "ENG-205",
+   "subjectSlug": "eng205",
+   "topic": "Sir Gawain Part 3 (Fitt IV)",
+   "topicSlug": "sir-gawain-part-3"
+  },
+  {
+   "id": "eng205-sg3-05-qa",
+   "title": "ENG-205 Sir Gawain Part 3 — 5 Q&A",
+   "short": "5 Q&A",
+   "order": 5,
+   "count": 14,
+   "file": "eng205-sg3-05-qa.json",
+   "subject": "ENG-205",
+   "subjectSlug": "eng205",
+   "topic": "Sir Gawain Part 3 (Fitt IV)",
+   "topicSlug": "sir-gawain-part-3"
   },
   {
    "id": "his201-ch1-01-definitions",

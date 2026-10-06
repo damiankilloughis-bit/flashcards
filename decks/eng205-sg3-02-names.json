@@ -1,0 +1,56 @@
+{
+ "id": "eng205-sg3-02-names",
+ "title": "ENG-205 Sir Gawain Part 3 — 2 Names",
+ "subject": "ENG-205",
+ "topic": "Sir Gawain Part 3 (Fitt IV)",
+ "short": "2 Names",
+ "order": 2,
+ "count": 9,
+ "cards": [
+  {
+   "id": "c0",
+   "term": "Gawain at the Green Chapel",
+   "def": "Gawain refuses the guide's escape offer, faces three axe swings, flinches once, takes the nick, confesses cowardice and covetousness, and later wears the lace as a baldric of shame."
+  },
+  {
+   "id": "c1",
+   "term": "The Green Knight / Bertilak de Hautdesert",
+   "def": "The green warrior who delivers three swings, then reveals he is Bertilak de Hautdesert, that the hunts tested Gawain, and that the girdle belongs to him because his wife wove it."
+  },
+  {
+   "id": "c2",
+   "term": "The guide (servant)",
+   "def": "The man who rides with Gawain toward the chapel, warns of a merciless wildman, offers to hide the truth if Gawain flees, then gallops home when Gawain refuses."
+  },
+  {
+   "id": "c3",
+   "term": "Morgan le Fay",
+   "def": "The mighty enchantress in Bertilak's manor who learned magic from Merlin, guided the Green Knight's guise to put Round Table pride on trial, and is Arthur's half sister and Gawain's aunt."
+  },
+  {
+   "id": "c4",
+   "term": "Lady Bertilak (as Bertilak's agent)",
+   "def": "Bertilak's wife who wove the green belt and whom Bertilak sent to test Gawain; after the reveal Bertilak invites Gawain home to find in her a friend and not a foe."
+  },
+  {
+   "id": "c5",
+   "term": "Guinevere (Morgan's intended victim)",
+   "def": "Arthur's queen whom Morgan imagined would go to her grave at the sight of a specter making ghostly speeches with his head in his hands before the high table."
+  },
+  {
+   "id": "c6",
+   "term": "Arthur and the Camelot court",
+   "def": "Arthur and Guinevere kiss the returning Gawain, hear his tale of fault, and lead the Round Table in adopting the slanting green belt as their shared sign of honor."
+  },
+  {
+   "id": "c7",
+   "term": "Merlin",
+   "def": "The master of mystery from whom Morgan le Fay learned the dark arts in earlier times when she was intimately entwined with that knowledgeable man."
+  },
+  {
+   "id": "c8",
+   "term": "Gringolet",
+   "def": "Gawain's great horse, stabled in comfort, then ridden from the castle through snow and wilds to the Green Chapel and finally back to Camelot."
+  }
+ ]
+}

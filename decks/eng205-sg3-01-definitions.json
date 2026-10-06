@@ -1,0 +1,76 @@
+{
+ "id": "eng205-sg3-01-definitions",
+ "title": "ENG-205 Sir Gawain Part 3 — 1 Definitions",
+ "subject": "ENG-205",
+ "topic": "Sir Gawain Part 3 (Fitt IV)",
+ "short": "1 Definitions",
+ "order": 1,
+ "count": 13,
+ "cards": [
+  {
+   "id": "c0",
+   "term": "Baldric",
+   "def": "A slantwise sash worn from shoulder to side, the way the green belt is bound after the chapel so the lace marks the stain on honor."
+  },
+  {
+   "id": "c1",
+   "term": "Green lace (as badge of fault)",
+   "def": "The gold-hemmed girdle kept as a sad reminder of cowardice, covetousness, and untruth, later draped across the chest and adopted by Arthur's court as a slanting green stripe."
+  },
+  {
+   "id": "c2",
+   "term": "Nick (to the neck)",
+   "def": "The third axe blow that only skims the skin and snicks the fat of the flesh so bright red blood shoots onto the snow, the mark for the one failure of trouthe."
+  },
+  {
+   "id": "c3",
+   "term": "Feint (axe stroke)",
+   "def": "A withheld first or second swing that does not fracture flesh, used to match the earlier truthful days before the nick of the third."
+  },
+  {
+   "id": "c4",
+   "term": "Green Chapel (as found)",
+   "def": "Not a built church but a bald knoll or mound on a brook, hole-ended and moss-walled like an old cave or crevice, more like the devil's lair than a kirk."
+  },
+  {
+   "id": "c5",
+   "term": "HONY SOYT QUI MAL PENCE",
+   "def": "The poem's closing motto after the Camelot return, the French challenge \"shame on him who thinks evil of it\" that seals the green-lace badge."
+  },
+  {
+   "id": "c6",
+   "term": "Loyalty that was lacked",
+   "def": "The small failing of trouthe that comes not from wickedness or womanizing but from loving one's own life enough to keep the protective girdle secret."
+  },
+  {
+   "id": "c7",
+   "term": "Cowardice and covetousness",
+   "def": "The twin vices that breed villainy and vice, destroy all virtue, and drive the dread of the death blow and the greedy keeping of the lace."
+  },
+  {
+   "id": "c8",
+   "term": "Penance at the point of the axe",
+   "def": "Open confession of failings under the return blow that purges fault and leaves a knight polished and pure as the day he was born."
+  },
+  {
+   "id": "c9",
+   "term": "Guide's silence offer",
+   "def": "A pledge to swear by God and all saints that a fleeing knight's secret is safe and not a soul will know he fled in fear from the Green Chapel."
+  },
+  {
+   "id": "c10",
+   "term": "Keepsake girdle",
+   "def": "The gold-hemmed girdle presented back as gift, green like the giver's gown, to remind the wearer of the chapel challenge among princes and kings."
+  },
+  {
+   "id": "c11",
+   "term": "Untruth / breach of faith",
+   "def": "The public name for the fault confirmed by the neck scar as a badge of blame and by the lace as the token of being tainted by untruth."
+  },
+  {
+   "id": "c12",
+   "term": "Frailty of the flesh",
+   "def": "The reading of the lace as proof that man's biggest fault is how the touch of filth taints his tender frame and how love of life can undo knightly fidelity."
+  }
+ ]
+}

@@ -5,117 +5,157 @@
  "topic": "Sir Gawain Part 2 (Fitt III)",
  "short": "4 Main Ideas",
  "order": 4,
- "count": 22,
+ "count": 30,
  "cards": [
   {
    "id": "c0",
-   "term": "How the first morning hunt begins",
-   "def": "As morning lifts its lamp, Bertilak and his huntsmen ride high on horseback, and bugles blow three long bare notes while hounds bay through the trees."
+   "term": "Part 2 summary: where things stand",
+   "def": "Gawain is spending the last days before New Year at Bertilak's castle near the Green Chapel, dreading the return blow he must take on New Year's Day and bound by his promise to trade each evening whatever he gains indoors for whatever Bertilak wins hunting."
   },
   {
    "id": "c1",
-   "term": "Why only female deer are killed",
-   "def": "Bertilak has laid down a law that man should not maim the male in close season, so stags and bucks pass while hinds and does are driven and shot."
+   "term": "Part 2 summary: three days of hunts and temptations",
+   "def": "On three mornings Bertilak hunts in the woods while Lady Bertilak slips into Gawain's bedroom to seduce him, and Gawain, trying to stay both courteous and chaste, lets her give him only kisses, which he hands over to Bertilak each night."
   },
   {
    "id": "c2",
-   "term": "How Lady Bertilak enters on day 1",
-   "def": "While Gawain slumbers, Lady Bertilak slyly opens the door, creeps inside the curtains, sits at his bedside, and waits until he stirs from false sleep."
+   "term": "Part 2 summary: the green girdle",
+   "def": "On the third morning Gawain accepts Lady Bertilak's green silk girdle because she says it protects its wearer from any blow, promises to hide it from her husband, and that night gives Bertilak only three kisses, breaking the bargain just before he leaves for the Green Chapel."
   },
   {
    "id": "c3",
-   "term": "Lady Bertilak's day-1 invitation",
-   "def": "Alone with the door barred, Lady Bertilak tells Gawain he is free to have her all, do with her what he will, and she will come just as he calls."
+   "term": "The three hunts and the three temptations",
+   "def": "Fitt III alternates outdoor hunts with indoor temptations in order, the deer hunt with the first bedroom visit, the boar hunt with the second, and the fox hunt with the third, and each day ends with an exchange of winnings at the castle."
   },
   {
    "id": "c4",
-   "term": "How Gawain handles the first temptation",
-   "def": "Gawain acts graciously and remains on guard, countering every move case by case, cool in his conduct because he foresees the strike he must receive."
+   "term": "Lady Bertilak's three bedroom visits",
+   "def": "On the first morning Lady Bertilak offers herself and wins a kiss by doubting Gawain's courtesy, on the second she begs him to teach her about love, and on the third she presses for his love and a keepsake until he takes her girdle."
   },
   {
    "id": "c5",
-   "term": "Why Lady Bertilak rebukes Gawain's name",
-   "def": "Lady Bertilak says a good man like Gawain, the embodiment of courtliness to the bones of his being, could never linger so long without craving a kiss as politeness requires."
+   "term": "The three evening exchanges of winnings",
+   "def": "Each evening Bertilak gives Gawain his kill, a pile of deer, then a boar, then a fox pelt, and Gawain gives back his gains as kisses, one, then two, then three, while secretly keeping the girdle on the last night."
   },
   {
    "id": "c6",
-   "term": "The first evening exchange",
-   "def": "Bertilak gives Gawain the whole deer haul as the contract claims, and Gawain returns one kiss but refuses to confess by what wit he won it, saying that wasn't our pact, so don't pry."
+   "term": "Why Gawain accepts the green girdle",
+   "def": "Gawain refuses Lady Bertilak's gold ring and at first her girdle, but accepts the girdle once she claims no one can slay its wearer, because he thinks it might save him from the axe at the Green Chapel."
   },
   {
    "id": "c7",
-   "term": "How the second day's boar hunt ends",
-   "def": "The boar stands at bay until Bertilak wades through water, knives the boar's neck, nails his prey, and bursts the hog's heart, then the head is borne before the lord."
+   "term": "How Gawain breaks the bargain",
+   "def": "By promising Lady Bertilak to keep the girdle secret and giving Bertilak only three kisses, Gawain keeps his chastity and courtesy but fails the exchange of winnings, which is his test of trouthe."
   },
   {
    "id": "c8",
-   "term": "Lady Bertilak's day-2 love lesson",
-   "def": "Lady Bertilak asks how the most notable knight can sit twice at her side without speaking the smallest syllable which belongs to love, urging him to lead her as pupil in love's art."
+   "term": "How Bertilak's first hunt begins",
+   "def": "At dawn on the first day, after mass and a quick meal, Bertilak rides out with about a hundred hunters and their hounds to the sound of bugles, starting the deer hunt that runs alongside Gawain's first temptation."
   },
   {
    "id": "c9",
-   "term": "How Gawain answers the love challenge",
-   "def": "Gawain praises her insight, declines to explain true love to someone more skilled than he, yet vows to the best of his ability to do her bidding as her servant."
+   "term": "How Lady Bertilak enters Gawain's room on the first morning",
+   "def": "While Bertilak hunts, Lady Bertilak quietly enters Gawain's bedroom and sits on his bed while he pretends to sleep, and when he finally wakes and crosses himself she laughs that he is \"tricked and trapped.\""
   },
   {
    "id": "c10",
-   "term": "The second evening exchange",
-   "def": "Bertilak gives Gawain the boar as the wager warranted, and Gawain returns two kisses, so Bertilak says he has tested Gawain twice and found him truthful."
+   "term": "How Gawain handles Lady Bertilak's first-morning offer",
+   "def": "When Lady Bertilak, with her husband away and the door bolted, offers herself to Gawain, he answers with modest compliments and vows to be her servant, countering her every move \"case by case.\""
   },
   {
    "id": "c11",
-   "term": "Why Bertilak keeps Gawain for a third day",
-   "def": "Gawain pleads to leave so he can honor his Green Chapel treaty, but Bertilak swears the chapel is near and tells him to think tomorrow third time throw best."
+   "term": "Why Gawain stays cool with Lady Bertilak",
+   "def": "On the first morning Gawain stays gracious but on guard with Lady Bertilak because his mind is on the strike he must receive at the Green Chapel."
   },
   {
    "id": "c12",
-   "term": "How the third-day fox hunt runs",
-   "def": "Hounds fall on a fox's scent and chase crafty Reynard through mountains until midafternoon, when Bertilak heaves the fox up and the red fur is prised from its pelt."
+   "term": "How the first kiss happens",
+   "def": "As she leaves on the first morning, Lady Bertilak says the real Gawain would never stay so long with a lady without claiming a kiss, so Gawain agrees to kiss at her command and she kisses him."
   },
   {
    "id": "c13",
-   "term": "Lady Bertilak's third-day pressure",
-   "def": "Lady Bertilak says Gawain shall bear the blame if he feels no love for the lady he lies with, unless another lady already holds a bond that will not break."
+   "term": "What happens to the deer after the first hunt",
+   "def": "At the end of the first day Bertilak's hunters ritually butcher, or \"dress,\" the deer, share out portions to every man and feed the hounds, then carry the meat home to the castle."
   },
   {
    "id": "c14",
-   "term": "Gawain's claim of no other lady",
-   "def": "Gawain smiles and swears by Saint John there is no other one, nor will be for this while, which Lady Bertilak calls the worst of all answers."
+   "term": "The first evening exchange",
+   "def": "Bertilak gives Gawain the venison, Gawain repays him with one kiss, and when Bertilak asks where Gawain won it Gawain replies that wasn't part of their pact, so they renew the deal for the next day."
   },
   {
    "id": "c15",
-   "term": "How the green girdle is offered",
-   "def": "After Gawain refuses a rich red-gold ring, Lady Bertilak unbuckles her green silk girdle trimmed with gold and begs him to receive it in spite of its slightness."
+   "term": "How Bertilak kills the boar on the second day",
+   "def": "The huge old boar wounds hounds and men and turns away arrows until Bertilak wades into the stream alone and kills it with his sword in the water."
   },
   {
    "id": "c16",
-   "term": "What power Lady Bertilak claims for the girdle",
-   "def": "Lady Bertilak says the body bound within this green belt, as long as it is buckled robustly about him, will be safe against anyone who seeks to strike him, and all the slyness on earth wouldn't see him slain."
+   "term": "Lady Bertilak's second-morning complaint",
+   "def": "On the second morning Lady Bertilak reminds Gawain of yesterday's lesson about kissing and asks why a famous knight, whose chivalry should mean loyalty in love, has not said one word about love to her."
   },
   {
    "id": "c17",
-   "term": "Why Gawain finally takes the girdle",
-   "def": "Gawain mulls that it might be the jewel for the jeopardy he faces and save him from the strike at the chapel, so with luck it might let him escape with his life."
+   "term": "How Gawain answers Lady Bertilak's request to teach love",
+   "def": "Gawain tells Lady Bertilak it would be presumptuous to explain love to a lady more skilled in it than he, but promises to serve her, so she leaves after two kisses with no sin on either side."
   },
   {
    "id": "c18",
-   "term": "The secrecy condition on the girdle",
-   "def": "Lady Bertilak begs Gawain not to whisper a word of this gift to her husband, and Gawain agrees that those words within those walls should stay."
+   "term": "The second evening exchange",
+   "def": "Bertilak gives Gawain the boar, and Gawain repays him with two kisses, so Bertilak swears by Saint Giles that Gawain is the best man he knows."
   },
   {
    "id": "c19",
-   "term": "How Gawain hides the love-lace",
-   "def": "After the third kiss he stows the love-lace safely aside, hiding it away from all hands and eyes, then goes to confess to the priest."
+   "term": "Why Gawain stays a third day",
+   "def": "When Gawain asks to leave so he can reach the Green Chapel in time, Bertilak swears Gawain will get there before dawn on New Year's Day and persuades him to play the game one more day."
   },
   {
    "id": "c20",
-   "term": "The third evening's incomplete exchange",
-   "def": "Gawain returns three kisses as presents perfect and true, while Bertilak offers only a foul-stinking fox and never receives the girdle Gawain gained."
+   "term": "How the fox hunt runs on the third day",
+   "def": "On the frosty third morning the hounds chase a crafty fox, Reynard, who doubles back and hides all day until Bertilak finally takes it from the hounds and it is skinned."
   },
   {
    "id": "c21",
+   "term": "Why the third morning is the most dangerous",
+   "def": "On the third morning Lady Bertilak comes in a revealing gown while Gawain is dreaming of the death blow, and he feels real passion, so he must either accept her love or rudely refuse it."
+  },
+  {
+   "id": "c22",
+   "term": "Gawain's answer to Lady Bertilak about another lady",
+   "def": "When Lady Bertilak says Gawain must already love another lady, Gawain swears to her by Saint John there is no other, which she calls the worst answer of all before asking him for a keepsake such as a glove."
+  },
+  {
+   "id": "c23",
+   "term": "How Lady Bertilak offers the ring and the girdle",
+   "def": "When Gawain says he has nothing fine enough to give, Lady Bertilak offers him a rich gold ring, which he refuses because he has nothing to give in return, and then her green silk girdle, which he also refuses at first."
+  },
+  {
+   "id": "c24",
+   "term": "The secrecy promise and the third kiss",
+   "def": "Once Gawain accepts the girdle, Lady Bertilak begs him not to tell her husband about it, Gawain agrees, and she gives him a third kiss and leaves."
+  },
+  {
+   "id": "c25",
+   "term": "What Gawain does after taking the girdle",
+   "def": "Gawain hides the \"love-lace\" from all eyes, confesses his sins to the castle priest, who declares him clean enough for Doomsday, and is merrier that evening than ever before."
+  },
+  {
+   "id": "c26",
+   "term": "The third evening's incomplete exchange",
+   "def": "Gawain greets Bertilak first with three kisses, while Bertilak apologizes that he has only a \"foul-stinking fox\" to offer, and the girdle is never mentioned."
+  },
+  {
+   "id": "c27",
    "term": "How the hunt-temptation structure tests trouthe",
-   "def": "Each day's more cunning quarry (deer, boar, fox) mirrors a sharper bedroom test, until the fox-day secrecy breaks the exchange-of-winnings bargain even as courtesy and chastity largely hold."
+   "def": "Each day's more cunning quarry, deer, then boar, then fox, mirrors a sharper bedroom test, until the fox-day secrecy breaks the exchange of winnings even though Gawain's courtesy and chastity largely hold."
+  },
+  {
+   "id": "c28",
+   "term": "The conflict between courtesy and loyalty in the bedroom",
+   "def": "On the third morning Gawain must avoid being rude to Lady Bertilak while also guarding his soul from sin and avoiding being counted a betrayer by his host, showing how courtly manners and loyalty to a lord pull against each other."
+  },
+  {
+   "id": "c29",
+   "term": "Why keeping the girdle is a lapse in trouthe",
+   "def": "Gawain had pledged to trade everything he gained at the castle, yet he holds back the girdle because he hopes it will save his life, so his word fails at the one point where his own survival is at stake."
   }
  ]
 }

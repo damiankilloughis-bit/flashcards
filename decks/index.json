@@ -3,7 +3,7 @@
   {
    "name": "ENG-205",
    "slug": "eng205",
-   "count": 651,
+   "count": 667,
    "topics": [
     {
      "name": "Beowulf Part 1 (to Another Attack)",
@@ -211,7 +211,7 @@
     {
      "name": "Sir Gawain Part 1 (Fitts I–II)",
      "slug": "sir-gawain-part-1",
-     "count": 90,
+     "count": 92,
      "decks": [
       {
        "id": "eng205-sg1-01-definitions",
@@ -242,7 +242,7 @@
        "title": "ENG-205 Sir Gawain Part 1 — 4 Main Ideas",
        "short": "4 Main Ideas",
        "order": 4,
-       "count": 29,
+       "count": 31,
        "file": "eng205-sg1-04-main-ideas.json"
       },
       {
@@ -258,7 +258,7 @@
     {
      "name": "Sir Gawain Part 2 (Fitt III)",
      "slug": "sir-gawain-part-2",
-     "count": 65,
+     "count": 73,
      "decks": [
       {
        "id": "eng205-sg2-01-definitions",
@@ -289,7 +289,7 @@
        "title": "ENG-205 Sir Gawain Part 2 — 4 Main Ideas",
        "short": "4 Main Ideas",
        "order": 4,
-       "count": 22,
+       "count": 30,
        "file": "eng205-sg2-04-main-ideas.json"
       },
       {
@@ -305,7 +305,7 @@
     {
      "name": "Sir Gawain Part 3 (Fitt IV)",
      "slug": "sir-gawain-part-3",
-     "count": 73,
+     "count": 79,
      "decks": [
       {
        "id": "eng205-sg3-01-definitions",
@@ -336,7 +336,7 @@
        "title": "ENG-205 Sir Gawain Part 3 — 4 Main Ideas",
        "short": "4 Main Ideas",
        "order": 4,
-       "count": 25,
+       "count": 31,
        "file": "eng205-sg3-04-main-ideas.json"
       },
       {
@@ -848,7 +848,7 @@
    "title": "ENG-205 Sir Gawain Part 1 — 4 Main Ideas",
    "short": "4 Main Ideas",
    "order": 4,
-   "count": 29,
+   "count": 31,
    "file": "eng205-sg1-04-main-ideas.json",
    "subject": "ENG-205",
    "subjectSlug": "eng205",
@@ -908,7 +908,7 @@
    "title": "ENG-205 Sir Gawain Part 2 — 4 Main Ideas",
    "short": "4 Main Ideas",
    "order": 4,
-   "count": 22,
+   "count": 30,
    "file": "eng205-sg2-04-main-ideas.json",
    "subject": "ENG-205",
    "subjectSlug": "eng205",
@@ -968,7 +968,7 @@
    "title": "ENG-205 Sir Gawain Part 3 — 4 Main Ideas",
    "short": "4 Main Ideas",
    "order": 4,
-   "count": 25,
+   "count": 31,
    "file": "eng205-sg3-04-main-ideas.json",
    "subject": "ENG-205",
    "subjectSlug": "eng205",

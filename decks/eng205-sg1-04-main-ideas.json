@@ -5,150 +5,160 @@
  "topic": "Sir Gawain Part 1 (Fitts I–II)",
  "short": "4 Main Ideas",
  "order": 4,
- "count": 29,
+ "count": 31,
  "cards": [
   {
    "id": "c0",
-   "term": "How the poem opens with translatio imperii",
-   "def": "After Troy falls, Aeneas conquers in the west, Romulus founds Rome, and Felix Brutus founds Britain, so Arthur's story is framed as the latest wonder in that imperial line."
+   "term": "Part 1 summary: how the story starts",
+   "def": "At Christmas in Camelot, King Arthur's famously courteous Round Table court is feasting when a giant, entirely green knight rides into the hall on New Year's Day and dares anyone to strike him with his axe and take the same blow back in one year and one day."
   },
   {
    "id": "c1",
-   "term": "Why Britain is a land of wonders",
-   "def": "After Brutus founded Britain, a bold race bred there, and through history more strangeness has happened in Britain than anywhere else on Earth."
+   "term": "Part 1 summary: the beheading and Gawain's promise",
+   "def": "When the court hesitates and Arthur grabs the axe himself, Sir Gawain takes the game in his uncle's place and beheads the Green Knight, who picks up his own head and orders Gawain to the Green Chapel next New Year, so Gawain's life and honor now hang on his word."
   },
   {
    "id": "c2",
-   "term": "Arthur's New Year custom",
-   "def": "Arthur will take no portion from his plate on a special day until a far-fetched yarn ringing with truth is told, or until some chancer challenges his chosen knight."
+   "term": "Part 1 summary: Gawain sets out and finds a castle",
+   "def": "After All Saints' Day Gawain rides alone through a brutal winter, reaches a magnificent castle on Christmas Eve whose lord (Bertilak) says the Green Chapel is nearby, and agrees to trade each day's winnings with him, which sets up the hidden test of Part 2."
   },
   {
    "id": "c3",
-   "term": "How the Green Knight first appears",
-   "def": "Barely had the starters been served when a fearful form appeared framed in the door, a mountain of a man entirely emerald green on a green horse."
+   "term": "The opening frame from Troy to Arthur",
+   "def": "The poem opens with translatio imperii, tracing power from fallen Troy through Aeneas, Romulus, and Felix Brutus, who founds Britain, so Arthur's story is framed as the latest wonder in a land where more strangeness has happened than anywhere else."
   },
   {
    "id": "c4",
-   "term": "What the Green Knight carries",
-   "def": "The Green Knight wears no armor and swings no sword, but holds a sprig of holly, of all the evergreens the greenest ever, and in the other hand the mother of all axes."
+   "term": "The Green Knight's challenge at Camelot",
+   "def": "At Arthur's New Year feast a huge green knight carrying a holly sprig and an enormous axe offers a Christmas game in which he takes one stroke now and gives the return stroke in one year and one day, testing whether the Round Table deserves its reputation."
   },
   {
    "id": "c5",
-   "term": "Why the Green Knight claims peaceful intent",
-   "def": "Holding the holly stem, the Green Knight says he means no menace and expects no malice, because he is clothed for peace, not kitted out for conflict."
+   "term": "Gawain takes Arthur's place in the game",
+   "def": "Gawain, Arthur's nephew, claims the game so the king will not risk himself, beheads the Green Knight with one stroke, and is left bound by his sworn promise to receive the return blow at the Green Chapel next New Year."
   },
   {
    "id": "c6",
-   "term": "The Christmas challenge stated",
-   "def": "At Christmas the Green Knight lays down a challenge: strike him one stroke and be struck in return, keep the axe, and after twelve months of peace meet the duty in one year and one day."
+   "term": "Gawain's arming and the pentangle shield",
+   "def": "Before leaving Camelot Gawain is armed and given a scarlet shield painted with a gold pentangle, the endless knot of fidelity that suits him because he is \"fully faithful in five ways five times over,\" with Mary's image inside so his courage would not crack."
   },
   {
    "id": "c7",
-   "term": "How the Green Knight mocks Camelot",
-   "def": "When the court stays silent, the Green Knight scoffs that the towering reputation of the Round Table is skittled and scuppered by a stranger, and Arthur sees red."
+   "term": "Gawain's lonely winter journey",
+   "def": "Gawain rides alone through north Wales and the Wirral asking everyone about a Green Chapel, fights serpents, wolves, wodwos, bulls, bears, boars, and giants, and suffers even more from sleet and cold until Christmas Eve."
   },
   {
    "id": "c8",
-   "term": "Why Gawain takes the game",
-   "def": "Gawain asks Arthur to stand aside because such a foolish affair is unfitting for a king, and because Gawain is weakest and feeblest of wit, so loss of his life would be least lamented."
+   "term": "The two promises Gawain makes at Bertilak's castle",
+   "def": "At Bertilak's castle Gawain swears to obey his host's will (\"You may trust my tongue\") and agrees to a bargain in which whatever the lord wins hunting in the woods is traded each evening for whatever Gawain gains at the castle."
   },
   {
    "id": "c9",
-   "term": "The beheading at Camelot",
-   "def": "Gawain cleaves the Green Knight's spinal cord so the handsome head tumbles onto the earth, yet the Green Knight does not stagger, cops hold of his head, and hoists it high."
+   "term": "How the Green Knight appears at Camelot",
+   "def": "At Camelot's New Year feast, just as the starters are served and Arthur is still waiting for a marvel before he will eat, a huge but handsome knight who is entirely emerald green, on a green horse, appears in the doorway and leaves the court speechless."
   },
   {
    "id": "c10",
-   "term": "The Green Knight's parting charge",
-   "def": "The severed head tells Gawain to keep his word, get to the Green Chapel, and reap what he has sown as New Year dawns, or be called a coward forever."
+   "term": "Why the Green Knight says he comes in peace",
+   "def": "At Camelot the Green Knight wears no armor and points to his holly stem as proof he means \"no menace,\" saying he is \"clothed for peace, not kitted out for conflict\" and only wants a game."
   },
   {
    "id": "c11",
-   "term": "How Arthur treats the marvel",
-   "def": "Though awestruck at heart, Arthur tells Guinevere not to be daunted, saying such strangeness should occur at Christmas, then hangs up the axe as evidence of the event."
+   "term": "How the Green Knight mocks the Round Table",
+   "def": "When no knight at Camelot answers his challenge, the Green Knight scoffs that the Round Table's towering reputation has been \"skittled and scuppered\" by a stranger and laughs until Arthur, red with anger, seizes the axe himself."
   },
   {
    "id": "c12",
-   "term": "The turning of the year before Gawain rides",
-   "def": "After lavish Christmas come Lent, spring, summer, and autumn, until winter returns and Michaelmas warns Gawain to ride, yet he stays until All Saints' Day."
+   "term": "How Gawain asks Arthur for the game",
+   "def": "Seated beside Guinevere, Gawain asks his uncle Arthur to step aside, calling himself the weakest knight whose loss would be \"least lamented\" and saying such a foolish affair is unfitting for a king, and the whole court agrees."
   },
   {
    "id": "c13",
-   "term": "How Gawain is armed",
-   "def": "At Camelot Gawain is armed in gleaming gear and shown the shining scarlet shield with its pentangle painted in pure gold."
+   "term": "The terms Gawain repeats before striking",
+   "def": "Before the blow at Camelot, the Green Knight makes Gawain state his name and swear to seek him out himself for the return blow, but refuses to say where he lives until after he has been struck."
   },
   {
    "id": "c14",
-   "term": "Why the pentangle suits Gawain",
-   "def": "The pentangle suits Gawain because he is fully faithful in five ways five times over, as good as the purest gold, devoid of vices but virtuous, loyal and kind, a prince who talked the truth."
+   "term": "What happens after the beheading at Camelot",
+   "def": "Gawain's stroke cuts clean through the Green Knight's neck so the head rolls across the floor, yet the Green Knight does not stagger, picks up his head by the hair, and swings back into the saddle."
   },
   {
    "id": "c15",
-   "term": "Mary's image on the shield",
-   "def": "Inside Gawain's shield is the shape of Mary's image, so by catching her eye his courage would not crack."
+   "term": "The Green Knight's parting charge to Gawain",
+   "def": "Holding up his severed head at Camelot, the Green Knight tells Gawain to keep his word and come to the Green Chapel as New Year dawns, where men know him as the Green Chapel knight, or \"be called a coward forever.\""
   },
   {
    "id": "c16",
-   "term": "Gawain's winter journey",
-   "def": "Nearly slain by sleet, Gawain sleeps in his armor among bare rocks while birds pipe pitifully into the piercing cold, fighting wodwos, bulls, bears, boars, and giants."
+   "term": "How Arthur treats the marvel",
+   "def": "Though awestruck, Arthur tells Guinevere not to be daunted because such strangeness suits Christmas, has Gawain hang up the axe behind the dais as evidence of the event, and finally eats."
   },
   {
    "id": "c17",
-   "term": "How Gawain finds Bertilak's castle",
-   "def": "On Christmas Eve Gawain prays to Mary for a house where mass might be heard, signs Christ's cross three times, and then sees the most commanding castle a knight ever kept."
+   "term": "The turning of the year before Gawain rides",
+   "def": "Fitt II opens with the year passing through Lent, spring, summer, and autumn until winter returns, and as Gawain prepares to leave the Camelot court hides its sadness by making jokes."
   },
   {
    "id": "c18",
-   "term": "How Bertilak welcomes Gawain",
-   "def": "Bertilak greets Gawain saying behave in my house as your heart pleases, to whatever you want you are welcome, do what you will, and they fall arm into arm like good friends."
+   "term": "Gawain's reply to the worried Camelot knights",
+   "def": "When the knights of Camelot grieve that Gawain must take a blow without striking back, Gawain calmly answers them that whether fate is kind or cruel, a man must still try."
   },
   {
    "id": "c19",
-   "term": "The two ladies at the castle",
-   "def": "In church Gawain meets Lady Bertilak, more glorious than Guinevere to his eye, hand in hand with Morgan le Faye, one woman young and one withered by years."
+   "term": "Why Camelot thinks Gawain's quest is a mistake",
+   "def": "As Gawain rides away, the court whispers that it would have been wiser to make him a duke than let him be beheaded by an ogre through \"headstrong pride,\" and questions the king's judgment over a Christmas game."
   },
   {
    "id": "c20",
-   "term": "Why Gawain must leave after Christmas",
-   "def": "Gawain tells Bertilak he is summoned to seek a green chapel and its green guardian by the first of the year, bound by a bond, and would rather drop dead than default from duty."
+   "term": "How Gawain finds the castle on Christmas Eve",
+   "def": "Lost in a frozen forest on Christmas Eve, Gawain prays to Mary for a house where he can hear mass, crosses himself three times, and immediately sees a castle so perfect it looks cut from paper."
   },
   {
    "id": "c21",
-   "term": "How Bertilak keeps Gawain at the castle",
-   "def": "Bertilak laughs and says stay longer, promising a guide will get Gawain to the Green Chapel at dawn on New Year's Day, since the place is two miles at most away."
+   "term": "How the castle lord welcomes Gawain",
+   "def": "The castle's red-bearded lord (later named Bertilak) tells Gawain to do whatever he pleases in his house, and when the household learns its guest is the famous Gawain they expect to learn perfect manners and \"love's tender language\" from him."
   },
   {
    "id": "c22",
-   "term": "The exchange-of-winnings bargain",
-   "def": "Bertilak proposes a wager: what I win in the woods will be yours, and what you gain while I'm gone you will give to me; let a bargain be a bargain, for better or worse."
+   "term": "The two ladies Gawain meets in the castle chapel",
+   "def": "At evensong in the castle chapel Gawain meets the lord's young wife, lovelier than Guinevere in his eyes, hand in hand with an ugly ancient lady (later revealed as Morgan le Faye), and he bows low to the old one and courteously kisses the young one."
   },
   {
    "id": "c23",
-   "term": "Gawain's oath to serve Bertilak",
-   "def": "When Bertilak asks if Gawain will hold his oath to serve whatever Bertilak instructs, Gawain answers, \"You may trust my tongue,\" for within these walls he is servant to Bertilak's will."
+   "term": "Gawain and Lady Bertilak during the Christmas feasting",
+   "def": "Through the Christmas feasting at the castle Gawain and Lady Bertilak sit together enjoying whispered, refined conversation \"free from foulness,\" which foreshadows the bedroom tests of Part 2."
   },
   {
    "id": "c24",
+   "term": "Why Gawain tells Bertilak he must leave",
+   "def": "When Bertilak asks what drove him from Camelot in midwinter, Gawain explains to him that he must find the Green Chapel and its green guardian by New Year's Day and would \"rather drop dead than default from duty.\""
+  },
+  {
+   "id": "c25",
+   "term": "How Bertilak keeps Gawain at the castle",
+   "def": "Bertilak laughs and tells Gawain the Green Chapel is nearby and a guide will take him there on New Year's morning, so Gawain can rest in bed while Bertilak hunts and Lady Bertilak keeps Gawain company."
+  },
+  {
+   "id": "c26",
    "term": "Romance versus epic heroism",
    "def": "Where Beowulf gave the epitome of the Germanic hero, Gawain is the ultimate romance hero in the chivalric sense, tested in manners, wit, and fidelity as much as in arms."
   },
   {
-   "id": "c25",
+   "id": "c27",
    "term": "What Gawain's adventure really tests",
    "def": "Gawain's adventure tests not only his own knighthood but Arthur's court and, in a larger sense, the worth of chivalry itself."
   },
   {
-   "id": "c26",
+   "id": "c28",
    "term": "Where civilization's source seems to lie",
    "def": "The plot suggests that the source of civilization lies in the heroism not of strong arms but of good manners, wit, and elegance."
   },
   {
-   "id": "c27",
+   "id": "c29",
    "term": "How trouthe will be tested unexpectedly",
-   "def": "Gawain is anxious to demonstrate his fidelity, but his troth will be tested in ways he does not expect, so when he faces what he thought the real test, the real test is already partly over."
+   "def": "Gawain sets out eager to prove his fidelity at the Green Chapel, but his troth will be tested in ways he does not expect, so by the time he faces what he thinks is the real test, that test is already partly over."
   },
   {
-   "id": "c28",
+   "id": "c30",
    "term": "Effictio portraits in Fitts I–II",
    "def": "The poem uses long effictio for the Green Knight's green appearance, for Gawain in his armor, and for Lady Bertilak together with Morgan le Faye."
   }

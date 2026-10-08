@@ -5,7 +5,7 @@
  "topic": "Sir Gawain Part 3 (Fitt IV)",
  "short": "5 Q&A",
  "order": 5,
- "count": 14,
+ "count": 25,
  "cards": [
   {
    "id": "c0",
@@ -76,6 +76,61 @@
    "id": "c13",
    "term": "How does Camelot respond to Gawain's shame, and how does the poem close?",
    "def": "The king comforts him and the whole Table laughs in accord that every knight should bear such a green belt as their sign, and the poem ends HONY SOYT QUI MAL PENCE."
+  },
+  {
+   "id": "c14",
+   "term": "What time and place make up the setting of Fitt IV?",
+   "def": "Fitt IV begins before dawn on New Year's Day in sleet and drifting snow at Bertilak's castle, moves to the Green Chapel, a grassy mound beside a boiling brook in a wild valley, and ends with Gawain's return to Arthur's court."
+  },
+  {
+   "id": "c15",
+   "term": "What sound does Gawain hear at the Green Chapel, and what does Gawain take it to mean?",
+   "def": "Gawain hears a blood-chilling noise \"like the scream of a scythe being ground on a stone\" and cries, \"that grinding is a greeting. My arrival is honored with the honing of an axe\" (line 2205)."
+  },
+  {
+   "id": "c16",
+   "term": "How does Gawain answer the Green Knight's mockery after flinching at the first swing?",
+   "def": "Gawain admits to the Green Knight, \"I flinched at first, but will not fail,\" because once his head is unhitched \"it's off once and for all,\" and Gawain promises to stand the next stroke without shiver or shudder."
+  },
+  {
+   "id": "c17",
+   "term": "How does the Green Knight rank Gawain among knights after the nick?",
+   "def": "The Green Knight calls Gawain \"the most faultless fellow on earth\" and says that \"as a pearl is more prized than a pea which is white,\" so is Gawain among gallant knights (line 2364)."
+  },
+  {
+   "id": "c18",
+   "term": "What does Gawain do with the girdle once the Green Knight reveals he knew about it?",
+   "def": "Gawain unties the girdle's knot and flings it in fury at the Green Knight, calling it \"my downfall and undoing; let the devil take it\" (line 2378)."
+  },
+  {
+   "id": "c19",
+   "term": "Which men does Gawain name as undone by women, and by which women?",
+   "def": "Gawain says \"Adam fell because of a woman,\" Solomon because of several, Samson because Delilah was his downfall, and David because he was bamboozled by Bathsheba (lines 2416-2419), excusing himself as one more man charmed by \"wily womankind.\""
+  },
+  {
+   "id": "c20",
+   "term": "Why does Gawain say he will keep wearing the girdle?",
+   "def": "Gawain tells the Green Knight he will wear the girdle not for its gold, silks, or workmanship but as \"a sign of my sin,\" so that when praise for his prowess swells his pride, \"one look at this love-lace will lessen my ardor.\""
+  },
+  {
+   "id": "c21",
+   "term": "Who does Bertilak reveal the ancient woman in his home to be?",
+   "def": "Bertilak reveals that \"that ancient woman who inhabits my home\" is Morgan le Fay, Gawain's aunt and Arthur's half sister, the daughter of the duchess of Tintagel, who through Uther was mother to Arthur (lines 2463-2466)."
+  },
+  {
+   "id": "c22",
+   "term": "What name does Bertilak give Morgan le Fay to show her power?",
+   "def": "Bertilak announces Morgan le Fay as \"Morgan the Goddess,\" saying \"there is no nobleness she cannot take and tame\" (line 2452)."
+  },
+  {
+   "id": "c23",
+   "term": "What does Gawain tell Arthur's court about sin when he shows them the girdle?",
+   "def": "Gawain tells Arthur's court he must wear the girdle for life because \"man's crimes can be covered but never made clean; once sin is entwined it is attached for all time\" (lines 2511-2512)."
+  },
+  {
+   "id": "c24",
+   "term": "How do the poem's last lines echo its opening?",
+   "def": "The poem closes by recalling that \"fearless Brutus first set foot on these shores\" after the siege of Troy ended, looping back to the Trojan founders of the opening, then prays that the thorn-crowned Lord bring us to perfect peace."
   }
  ]
 }

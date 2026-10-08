@@ -5,7 +5,7 @@
  "topic": "Sir Gawain Part 2 (Fitt III)",
  "short": "3 Numbers & Dates",
  "order": 3,
- "count": 11,
+ "count": 12,
  "cards": [
   {
    "id": "c0",
@@ -61,6 +61,11 @@
    "id": "c10",
    "term": "Three long bare notes",
    "def": "On the first morning the bugles blow three long, bare notes to start the hounds and open the deer hunt."
+  },
+  {
+   "id": "c11",
+   "term": "Day 3 falls on New Year's Eve (line 1669)",
+   "def": "On the second evening Bertilak and Gawain speak of \"the night to come next, which was New Year's Eve,\" so the fox hunt, the green girdle, and the three kisses all fall on the last day of the year, just before Gawain's New Year's Day appointment."
   }
  ]
 }

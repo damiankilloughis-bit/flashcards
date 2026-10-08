@@ -1,0 +1,526 @@
+{
+ "id": "eng205-litdev-02-norton-glossary",
+ "title": "ENG-205 Literary Devices — Norton Glossary: Poetry, Meter & Devices",
+ "subject": "ENG-205",
+ "topic": "Literary Devices",
+ "short": "Norton Glossary",
+ "order": 2,
+ "count": 103,
+ "cards": [
+  {
+   "id": "c0",
+   "term": "Accent (stress)",
+   "def": "A term of rhythm meaning the special force given to voicing one syllable in a word over the others, as in the noun \"accent,\" where the accent, or stress, falls on the first syllable."
+  },
+  {
+   "id": "c1",
+   "term": "Accentual meter",
+   "def": "Verse determined by the number of accents, or stresses, in each line, with a variable number of syllables, as in Old English poetry and some Middle English alliterative verse."
+  },
+  {
+   "id": "c2",
+   "term": "Accentual-syllabic meter",
+   "def": "Verse determined by the number of accents but with a regular pattern of stressed and unstressed syllables, so each line has a regular number of syllables, which has been the main English meter since Chaucer."
+  },
+  {
+   "id": "c3",
+   "term": "Alexandrine",
+   "def": "A term of meter for a twelve-syllable line in French verse and, by analogy, a six-stress line in English verse (a hexameter)."
+  },
+  {
+   "id": "c4",
+   "term": "Allegory",
+   "def": "A figure of thought (Greek \"saying otherwise\") that says one thing, the \"vehicle,\" and means another, the \"tenor,\" either briefly, as in the metaphor \"John is a lion,\" or as the basis of a whole narrative, as in Bunyan's Pilgrim's Progress."
+  },
+  {
+   "id": "c5",
+   "term": "Allusion",
+   "def": "A passing but illuminating reference within a literary text to another well-known text, often biblical or classical."
+  },
+  {
+   "id": "c6",
+   "term": "Anagnorisis (recognition)",
+   "def": "Greek for \"recognition,\" the moment in a narrative when the protagonist recognizes the truth, which is often also the moment of moral understanding."
+  },
+  {
+   "id": "c7",
+   "term": "Anaphora",
+   "def": "A figure of speech that repeats the same words or groups of words at the beginning of consecutive sentences, clauses, or phrases, as in Blake's \"In every cry of every Man, / In every Infant's cry of fear.\""
+  },
+  {
+   "id": "c8",
+   "term": "Antithesis (juxtaposition of opposites)",
+   "def": "A figure of thought (Greek \"placing against\"): the juxtaposition of opposed terms in clauses or sentences that are next to or near each other, as when Milton's fallen angels who \"seemed / In bigness to surpass Earth's giant sons\" are \"Now less than smallest dwarfs.\""
+  },
+  {
+   "id": "c9",
+   "term": "Apostrophe",
+   "def": "A figure of thought (Greek \"turning away\") in which the speaker addresses someone or something, often an absent person, a force, or a quality, as when a poet calls on a Muse for inspiration."
+  },
+  {
+   "id": "c10",
+   "term": "Apposition",
+   "def": "A term of syntax, especially important in Old English poetry, that repeats elements serving the same grammatical function in one sentence, slowing the sentence but adding extra shades of meaning, as when Caedmon's Hymn says to praise \"heaven-kingdom's Guardian,\" \"the Measurer's might,\" and \"his mind-plans.\""
+  },
+  {
+   "id": "c11",
+   "term": "Assonance",
+   "def": "A figure of speech that repeats identical or nearly identical stressed vowel sounds in words whose final consonants differ, producing half-rhyme, as in Tennyson's \"His broad clear brow in sunlight glowed.\""
+  },
+  {
+   "id": "c12",
+   "term": "Aubade",
+   "def": "A poetry genre (from Spanish \"alba,\" dawn): a lover's dawn song or lyric lamenting the arrival of day and the lovers' necessary separation, as in Donne's \"The Sun Rising.\""
+  },
+  {
+   "id": "c13",
+   "term": "Ballad stanza",
+   "def": "A verse form, usually a quatrain of alternating iambic tetrameter and iambic trimeter lines rhyming abcb, as in \"Sir Patrick Spens.\""
+  },
+  {
+   "id": "c14",
+   "term": "Ballade",
+   "def": "A verse form from French medieval poetry, usually three stanzas plus a four-line envoi (French \"send-off\"), in which the last line of the first stanza becomes a refrain repeated at the end of each stanza, as in Chaucer's \"Complaint of Chaucer to His Purse.\""
+  },
+  {
+   "id": "c15",
+   "term": "Bathos",
+   "def": "A figure of thought (Greek \"depth\"): a sudden and sometimes ridiculous drop in tone, as in Pope's shrieks for when \"husbands, or when lapdogs breathe their last.\""
+  },
+  {
+   "id": "c16",
+   "term": "Blank verse",
+   "def": "A verse form of unrhymed iambic pentameter lines with no stanzas, broken instead into uneven verse paragraphs by sense, the standard form of most of Shakespeare's plays and the line Milton used for epic."
+  },
+  {
+   "id": "c17",
+   "term": "Blazon",
+   "def": "A topos, named for a heraldic shield, in which each part of a beloved's face and body is singled out for hyperbolic (exaggerated) praise, a convention Shakespeare turns upside down in Sonnet 130."
+  },
+  {
+   "id": "c18",
+   "term": "Chiasmus",
+   "def": "A figure of speech (Greek \"crosswise\"): reversing an order that has just been set up, either by echoing words, as in Pope's \"The crime was common, common be the pain,\" or by flipping the syntax."
+  },
+  {
+   "id": "c19",
+   "term": "Climax",
+   "def": "A moment of great intensity and structural change, especially in drama, and also a figure of speech in which linked clauses build so that each one is of greater consequence than the one before."
+  },
+  {
+   "id": "c20",
+   "term": "Connotation",
+   "def": "The associations a word evokes beyond its basic meaning, so the clinical-sounding \"depression\" and the poetic \"the blues\" share a concept but have different connotations."
+  },
+  {
+   "id": "c21",
+   "term": "Consonance",
+   "def": "A figure of speech that repeats the final consonants in words or stressed syllables whose vowel sounds differ, as in Herbert's \"Consort, both heart and lute.\""
+  },
+  {
+   "id": "c22",
+   "term": "Couplet (heroic couplet, distich)",
+   "def": "A verse form of two consecutive rhyming lines, usually with the same number of stresses, whose iambic pentameter version Chaucer brought into English and which became the heroic couplet in imitations of classical epic, while a distich is a couplet that makes complete sense on its own."
+  },
+  {
+   "id": "c23",
+   "term": "Decorum",
+   "def": "A rhetorical principle (Latin \"that which is fitting\") that every formal aspect of a work should be in keeping with its subject matter and/or audience."
+  },
+  {
+   "id": "c24",
+   "term": "Denotation",
+   "def": "A word's basic, factual meaning before the associations it connotes, so \"steed\" may call to mind a warhorse in battle gear but simply denotes \"horse.\""
+  },
+  {
+   "id": "c25",
+   "term": "Denouement",
+   "def": "French for \"unknotting,\" the point at which a narrative can be resolved and so ended."
+  },
+  {
+   "id": "c26",
+   "term": "Diction (lexis)",
+   "def": "The actual words used in any speech, writing, or literary work, whose choice contributes significantly to the work's style."
+  },
+  {
+   "id": "c27",
+   "term": "Dimeter",
+   "def": "A term of meter for a two-stress line, rarely used for whole poems but common for single lines, as in Herbert's \"O my God.\""
+  },
+  {
+   "id": "c28",
+   "term": "Dramatic monologue",
+   "def": "A poetry genre in which the voice of a historical or fictional character speaks, with no narrator in between, to an implied but silent audience, as in Tennyson's \"Ulysses.\""
+  },
+  {
+   "id": "c29",
+   "term": "Ecphrasis",
+   "def": "A topos (Greek \"speaking out\") in which a work of visual art is represented in a literary work, as in Auden's \"Musée des Beaux Arts.\""
+  },
+  {
+   "id": "c30",
+   "term": "Emblem",
+   "def": "A figure of thought: a picture that expresses a moral allegorically, or a word-picture open to that kind of interpretation."
+  },
+  {
+   "id": "c31",
+   "term": "End-stopping",
+   "def": "Placing a complete syntactic unit inside one complete poetic line, so the sense ends where the line and its meter end, as in \"Earth, receive an honoured guest\"; the opposite of enjambment."
+  },
+  {
+   "id": "c32",
+   "term": "Enjambment",
+   "def": "The opposite of end-stopping: the sentence or phrase does not end with the line, so the sense overflows the meter and the line break, as in \"Let the Irish vessel lie / Emptied of its poetry.\""
+  },
+  {
+   "id": "c33",
+   "term": "Epic (heroic poetry)",
+   "def": "An extended narrative poem celebrating martial heroes that invokes divine inspiration, begins in medias res, is written in a high style with epic similes, and is divided into long narrative sequences, modeled on Homer's Iliad and Virgil's Aeneid."
+  },
+  {
+   "id": "c34",
+   "term": "Epic simile (extended simile)",
+   "def": "A simile drawn out in extended form over several lines, a frequent feature of epic poetry's high style, as in Milton's Paradise Lost."
+  },
+  {
+   "id": "c35",
+   "term": "Epigram",
+   "def": "A poetry genre: a short, pithy poem wittily expressed, often meant to wound, as in Jonson's Epigrams."
+  },
+  {
+   "id": "c36",
+   "term": "Epithalamion",
+   "def": "A poetry genre (Greek \"concerning the bridal chamber\"): a wedding poem that celebrates the marriage and wishes the couple good fortune, as in Spenser's Epithalamion."
+  },
+  {
+   "id": "c37",
+   "term": "Epyllion (little epic)",
+   "def": "A poetry genre: a relatively short poem written in the meter of epic poetry, as in Marlowe's Hero and Leander."
+  },
+  {
+   "id": "c38",
+   "term": "Euphemism",
+   "def": "A figure of thought (Greek \"sweet saying\") that describes something distasteful in alternative, less repugnant terms, like \"he passed away.\""
+  },
+  {
+   "id": "c39",
+   "term": "Exemplum",
+   "def": "Latin for \"example,\" an example inserted into a usually nonfiction work, such as a sermon or essay, to give extra force to an abstract point."
+  },
+  {
+   "id": "c40",
+   "term": "Feminine rhyme",
+   "def": "Full rhyme on syllables that are followed by unaccented syllables, as in \"fountains\" / \"mountains.\""
+  },
+  {
+   "id": "c41",
+   "term": "Figures of speech (schemes)",
+   "def": "Patterns in literary language that the eye or ear can perceive, such as alliteration, rhyme, and anaphora, which classical rhetoric called \"schemes.\""
+  },
+  {
+   "id": "c42",
+   "term": "Figures of thought (tropes, conceits)",
+   "def": "Language patterned conceptually, bending its normal rules, such as metaphor, irony, and hyperbole, also called \"tropes\" (Greek \"twisting\") or \"conceits\" because only the mind can perceive them (not to be confused with topos)."
+  },
+  {
+   "id": "c43",
+   "term": "First-person narration",
+   "def": "A narrative whose narrating voice refers to itself as \"I,\" \"me,\" \"my\" (or \"we,\" \"us,\" \"our\"), so the story is limited to what that voice can know, as in Frankenstein."
+  },
+  {
+   "id": "c44",
+   "term": "Frame narrative",
+   "def": "An outer story that explains how the main story or stories came about or gives a perspective on them, as in Chaucer's Canterbury Tales."
+  },
+  {
+   "id": "c45",
+   "term": "Hexameter",
+   "def": "A term of meter for a six-stress line, the meter of classical Latin epic, found in English in the last line of a Spenserian stanza and in Yeats's \"I will arise and go now, and go to Innisfree.\""
+  },
+  {
+   "id": "c46",
+   "term": "High, middle, and low style",
+   "def": "The classical and medieval names for registers of formality: high style is formal, elevated language (as in epic), low style is informal or colloquial language (as in fabliau), and middle style is the style fit for narrative, which does not draw attention to itself."
+  },
+  {
+   "id": "c47",
+   "term": "Homophone",
+   "def": "A figure of speech: a word that sounds identical to another word but has a different meaning, like \"bear\" / \"bare.\""
+  },
+  {
+   "id": "c48",
+   "term": "Hyperbaton",
+   "def": "A term of syntax for rearranging or inverting the expected word order in a sentence or clause, as in Gray's \"If Memory o'er their tomb no trophies raise.\""
+  },
+  {
+   "id": "c49",
+   "term": "Hypermetrical",
+   "def": "A term of meter describing a line that breaks the expected metrical pattern with at least one extra syllable."
+  },
+  {
+   "id": "c50",
+   "term": "Hypotaxis (subordination)",
+   "def": "A term of syntax for building a sentence by subordinating its parts to a single main verb with subordinate clauses, the opposite of parataxis."
+  },
+  {
+   "id": "c51",
+   "term": "Internal rhyme",
+   "def": "Full rhyme within a single line, as in Coleridge's \"The guests are met, the feast is set.\""
+  },
+  {
+   "id": "c52",
+   "term": "Irony",
+   "def": "A figure of thought (Greek \"dissimulation\"): an inconsistency between a statement and a context that undermines it, like saying \"It's a beautiful day\" in terrible weather, so that, strictly, irony says one thing and means its opposite."
+  },
+  {
+   "id": "c53",
+   "term": "Lexical set",
+   "def": "A group of words that habitually occur together, like January, February, March, or red, white, and blue."
+  },
+  {
+   "id": "c54",
+   "term": "Lyric",
+   "def": "A short poetic form, originally a song (from Greek \"lyre\") and without restriction of meter, that puts the expression of personal emotion, often by a first-person voice, ahead of narrative sequence, as in \"The Wife's Lament.\""
+  },
+  {
+   "id": "c55",
+   "term": "Masculine rhyme",
+   "def": "Full rhyme on the final syllable of the line, as in \"decays\" / \"days.\""
+  },
+  {
+   "id": "c56",
+   "term": "Mise-en-abyme",
+   "def": "French for \"cast into the abyss,\" the effect when a work represents itself inside itself, and that copy represents itself, and so on endlessly, as when Hoccleve's Complaint shows a depressed man reading about a depressed man."
+  },
+  {
+   "id": "c57",
+   "term": "Mock epic",
+   "def": "A parodic, burlesque form of epic that turns epic's precise repertoire of high-style resources to comic ends, as in Pope's The Rape of the Lock."
+  },
+  {
+   "id": "c58",
+   "term": "Monometer",
+   "def": "A term of meter for an entire line with just one stress, like Sir Gawain's line 15, \"most grand,\" a one-stress \"bob\" line."
+  },
+  {
+   "id": "c59",
+   "term": "Occupatio (praeteritio)",
+   "def": "A figure of thought: saying that you will not discuss a subject while actually discussing it, as Chaucer's Nun's Priest does."
+  },
+  {
+   "id": "c60",
+   "term": "Ode",
+   "def": "A lyric poem in an elevated, or high, style, often addressed to a natural force, a person, or an abstract quality, whose Pindaric type has stanzas of unequal length and whose Horatian type has stanzas of equal length."
+  },
+  {
+   "id": "c61",
+   "term": "Off rhyme (half, near, or slant rhyme)",
+   "def": "Rhyme that differs from perfect rhyme by changing the vowel sound and/or the final consonants, as in \"most\" / \"lost.\""
+  },
+  {
+   "id": "c62",
+   "term": "Omniscient narrator",
+   "def": "An \"all-knowing\" narrator who has complete access to both the deeds and the thoughts of all the characters in the narrative."
+  },
+  {
+   "id": "c63",
+   "term": "Onomatopoeia",
+   "def": "A figure of speech (Greek \"name making\"): words whose sounds imitate and evoke the sounds they name, as in Hopkins's \"Hack and rack the growing green!\""
+  },
+  {
+   "id": "c64",
+   "term": "Order (natural vs. artificial)",
+   "def": "A narrator who tells events in the sequence they happened follows the natural order, while one who begins in the middle (in medias res) or at the end follows an artificial order."
+  },
+  {
+   "id": "c65",
+   "term": "Ottava rima",
+   "def": "A verse form: an eight-line iambic pentameter stanza rhyming abababcc, derived from the Italian poet Boccaccio and used by Byron in Don Juan."
+  },
+  {
+   "id": "c66",
+   "term": "Oxymoron",
+   "def": "A figure of thought (Greek \"sharp blunt\"): joining normally incompatible terms, as in Milton's \"darkness visible.\""
+  },
+  {
+   "id": "c67",
+   "term": "Paradox",
+   "def": "A figure of thought (Greek \"contrary to received opinion\"): an apparent contradiction that requires thought to reveal an inner consistency, as in Chaucer's \"O sweete harm.\""
+  },
+  {
+   "id": "c68",
+   "term": "Pararhyme",
+   "def": "Rhyme in which the stressed vowel sounds differ but are flanked by identical or similar consonants, as in \"simmer\" / \"summer.\""
+  },
+  {
+   "id": "c69",
+   "term": "Parataxis (coordination)",
+   "def": "A term of syntax for joining several main clauses in one sentence with coordinating conjunctions like \"and\" and \"so,\" as in Malory's \"So Sir Lancelot departed and took his sword under his arm, and so he walked,\" the opposite of hypotaxis."
+  },
+  {
+   "id": "c70",
+   "term": "Pathetic fallacy",
+   "def": "Attributing feelings to natural things as if they sympathized with human feelings, as in Milton's flowers that \"hang the pensive head,\" a term coined by Ruskin."
+  },
+  {
+   "id": "c71",
+   "term": "Periphrasis",
+   "def": "A figure of thought (Greek \"declaring around\"): circumlocution, using many words to say what could be said in a few words or one."
+  },
+  {
+   "id": "c72",
+   "term": "Persona",
+   "def": "Originally the mask worn in Roman theater to magnify an actor's voice, now the narrator or speaker of a text, whose voice is coherent but need have no relation to the actual author."
+  },
+  {
+   "id": "c73",
+   "term": "Petrarchan sonnet (octave + sestet)",
+   "def": "A sonnet formed by an octave, an eight-line stanza often split into two quatrains rhyming abba abba, followed by a sestet, a six-line stanza typically rhyming cdecde or cdcdcd."
+  },
+  {
+   "id": "c74",
+   "term": "Plot",
+   "def": "The sequence of events in a story as narrated, as distinct from story, the sequence of events as we reconstruct it from the plot."
+  },
+  {
+   "id": "c75",
+   "term": "Pun",
+   "def": "A figure of thought: a sometimes unresolvable doubleness of meaning in one word or expression, as in Shakespeare's \"thou hast thy Will.\""
+  },
+  {
+   "id": "c76",
+   "term": "Quantitative verse",
+   "def": "Verse determined by the quantities of syllables, meaning set patterns of long and short syllables, as in Latin and Greek poetry."
+  },
+  {
+   "id": "c77",
+   "term": "Refrain",
+   "def": "Usually a single line repeated as the last line of consecutive stanzas, sometimes with subtly different wording and meaning as the poem progresses."
+  },
+  {
+   "id": "c78",
+   "term": "Rhyme",
+   "def": "A figure of speech that repeats identical vowel sounds in stressed syllables whose initial consonants differ, like \"dead\" / \"head,\" often linking the end of one line of poetry with another."
+  },
+  {
+   "id": "c79",
+   "term": "Rhyme riche",
+   "def": "Rhyming on homophones, words that sound the same but mean different things, as in Chaucer's \"seeke\" (seek) / \"seke\" (sick)."
+  },
+  {
+   "id": "c80",
+   "term": "Rhyme royal",
+   "def": "A verse form: a stanza of seven iambic pentameter lines rhyming ababbcc, first introduced by Chaucer and called \"royal\" because James I of Scotland used it for his Kingis Quair."
+  },
+  {
+   "id": "c81",
+   "term": "Rhythm",
+   "def": "The pattern of sounds within the feet of verse lines and the combination of those feet, which is more fluid than meter, so a pentameter poem regularly uses an iambic rhythm but single lines may vary it."
+  },
+  {
+   "id": "c82",
+   "term": "Romance",
+   "def": "The main European narrative genre from the twelfth to the sixteenth century, in verse or prose, usually set among aristocrats and built on social integration, then disintegration through moral tests and marvelous events, then reintegration in a happy ending, as in Sir Gawain and the Green Knight."
+  },
+  {
+   "id": "c83",
+   "term": "Sarcasm",
+   "def": "A figure of thought (Greek \"flesh tearing\"): a wounding expression, often expressed ironically."
+  },
+  {
+   "id": "c84",
+   "term": "Shakespearean sonnet",
+   "def": "A sonnet formed by three quatrains rhyming abab cdcd efef followed by a couplet rhyming gg."
+  },
+  {
+   "id": "c85",
+   "term": "Sonnet",
+   "def": "A verse form: a fourteen-line poem, usually in rhyming iambic pentameter, brought into English from Petrarch's Italian poetry by Wyatt and first used mainly for unrequited love."
+  },
+  {
+   "id": "c86",
+   "term": "Spenserian stanza",
+   "def": "A verse form Spenser developed for The Faerie Queene: nine iambic lines, eight pentameters followed by one hexameter, rhyming ababbcbcc."
+  },
+  {
+   "id": "c87",
+   "term": "Stanza",
+   "def": "Italian for \"room,\" a grouping of two or more lines, usually at least four, often joined by rhyme, in which each group shares the same metrical pattern and rhyme scheme."
+  },
+  {
+   "id": "c88",
+   "term": "Story",
+   "def": "A narrative's sequence of events as we reconstruct it from the way the narrator recounts them (the plot)."
+  },
+  {
+   "id": "c89",
+   "term": "Style (and tone)",
+   "def": "The manner in which something is expressed, which shapes its meaning, as \"sun\" and \"heaven's golden orb\" name the same thing in different styles, and the effect of a work's style is its tone."
+  },
+  {
+   "id": "c90",
+   "term": "Syllabic verse",
+   "def": "Verse determined by a fixed number of syllables in each line, as in French and Italian poetry."
+  },
+  {
+   "id": "c91",
+   "term": "Syllable",
+   "def": "The smallest unit of sound in a pronounced word, and the syllable that receives the greatest stress is called the tonic syllable."
+  },
+  {
+   "id": "c92",
+   "term": "Tercet",
+   "def": "A verse form: a stanza or group of three lines, used in larger forms such as terza rima, the Petrarchan sonnet, and the villanelle."
+  },
+  {
+   "id": "c93",
+   "term": "Terza rima",
+   "def": "A verse form: a sequence of tercets linked by rhyme as aba bcb cdc, and so on, first used extensively by Dante in The Divine Comedy."
+  },
+  {
+   "id": "c94",
+   "term": "Third-person narration",
+   "def": "A narration in which the narrator tells about characters referred to as \"he,\" \"she,\" and so on, without the limitations of a first-person narration."
+  },
+  {
+   "id": "c95",
+   "term": "Topographical poem",
+   "def": "A poetry genre (Greek \"place writing\") devoted to the meditative description of particular places."
+  },
+  {
+   "id": "c96",
+   "term": "Topos (commonplace)",
+   "def": "A commonplace in the content of a kind of literature, such as medieval narrative poems beginning with a description of spring, as Chaucer does at the opening of The Canterbury Tales."
+  },
+  {
+   "id": "c97",
+   "term": "Triplet",
+   "def": "A verse form: a tercet in which all three lines rhyme on the same sound, which Pope inserts among heroic couplets to emphasize a thought."
+  },
+  {
+   "id": "c98",
+   "term": "Type (typology)",
+   "def": "A figure of thought from Christian reading of the Old Testament, in which a pre-Christian figure is seen as a \"type,\" or foreshadowing, of Christ, as the virtuous plowman in Piers Plowman becomes a type of Christ."
+  },
+  {
+   "id": "c99",
+   "term": "Verse form",
+   "def": "The larger grouping that lines of verse combine into, in the first instance stanzas, so a certain meter plus a certain stanza shape makes up a verse form."
+  },
+  {
+   "id": "c100",
+   "term": "Villanelle",
+   "def": "A French-derived fixed verse form of usually five tercets and a quatrain using only two rhyme sounds, aba in the tercets and abaa in the quatrain, with two refrains, as in Thomas's \"Do Not Go Gentle into That Good Night.\""
+  },
+  {
+   "id": "c101",
+   "term": "Volta (turn)",
+   "def": "The sharp turn in a sonnet's argument, often at the shift from octave to sestet in a Petrarchan sonnet or in the final couplet of a Shakespearean sonnet, introducing a cutting counterstatement."
+  },
+  {
+   "id": "c102",
+   "term": "Zeugma",
+   "def": "A figure of thought (Greek \"a yoking\") in which one word applies to two or more words in surprising ways, as in Pope's \"Dost sometimes counsel take—and sometimes tea.\""
+  }
+ ]
+}

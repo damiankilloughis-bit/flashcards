@@ -10,12 +10,12 @@
   {
    "id": "c0",
    "term": "Alliteration",
-   "def": "The repetition of the same first sound in nearby stressed words, which binds each line of Old English poetry together in place of rhyme."
+   "def": "A figure of speech: the repetition of an initial consonant sound or consonant cluster in consecutive or closely positioned words, which is part of the basic meter of all Old English poetry and some Middle English poetry, as in Gawain's first line, \"Once the siege and assault of Troy had ceased.\""
   },
   {
    "id": "c1",
    "term": "Caesura",
-   "def": "A pause in the middle of an Old English line that splits it into two half-lines linked by alliteration."
+   "def": "A term of meter for a pause or breathing space within a line of verse, generally falling between syntactic units, like the pause that splits each Old English line into two half-lines linked by alliteration."
   },
   {
    "id": "c2",
@@ -40,7 +40,7 @@
   {
    "id": "c6",
    "term": "Metaphor",
-   "def": "A comparison that says one thing is another, without using \"like\" or \"as.\""
+   "def": "One of the most significant figures of thought: identifying, outright or by implication, one thing with another it cannot literally be, without using \"like\" or \"as,\" as in Blake's soldier's sigh that \"Runs in blood down Palace walls.\""
   },
   {
    "id": "c7",
@@ -50,12 +50,12 @@
   {
    "id": "c8",
    "term": "Personification",
-   "def": "Giving human actions or feelings to something that is not human, as when a wood \"waits and keeps watch.\""
+   "def": "Also called prosopopoeia (\"person making\"), a figure of thought that attributes human qualities to nonhuman forces or objects, as when a wood \"waits and keeps watch.\""
   },
   {
    "id": "c9",
    "term": "Synecdoche",
-   "def": "Using a part of something to stand for the whole, like \"keel\" for a ship."
+   "def": "A figure of thought that uses a part to express the whole, or the whole to express a part, like \"all hands on deck\" or \"keel\" for a ship, closely related to metonymy."
   },
   {
    "id": "c10",
@@ -65,7 +65,7 @@
   {
    "id": "c11",
    "term": "Symbolism",
-   "def": "The use of an object, person, or event to stand for a larger idea."
+   "def": "The use of symbols, things that stand for something else and seem necessarily to evoke that other thing, with meanings supposedly built into them, unlike allegory, whose links are agreed by convention or made explicit."
   },
   {
    "id": "c12",
@@ -80,7 +80,7 @@
   {
    "id": "c14",
    "term": "Dramatic irony",
-   "def": "A situation in which the audience knows something that the characters do not."
+   "def": "A feature of narrative and drama in which the audience knows that the outcome of an action will be the opposite of what a character intends."
   },
   {
    "id": "c15",
@@ -95,7 +95,7 @@
   {
    "id": "c17",
    "term": "In medias res",
-   "def": "Latin for \"in the middle of things,\" meaning that a story opens in the middle of the action."
+   "def": "Latin for \"in the middle of the matter\" (often \"in the middle of things\"), meaning the narrator begins in the middle of events, an artificial rather than natural order that epics use."
   },
   {
    "id": "c18",
@@ -110,7 +110,7 @@
   {
    "id": "c20",
    "term": "Elegy",
-   "def": "A meditative poem or passage that mourns the dead."
+   "def": "A poetry genre written in classical times in elegiac couplets (a hexameter followed by a pentameter) on many topics, which by the later seventeenth century came to mean the poetry of loss, especially through the death of a loved person."
   },
   {
    "id": "c21",
@@ -125,12 +125,12 @@
   {
    "id": "c23",
    "term": "Register (shift in register)",
-   "def": "The level of formality and tone in a passage's language, so a shift in register is a sudden change, such as from elevated courtly speech to blunt, coarse, or slangy speech."
+   "def": "A word's stylistic level of technicality or formality, like a chemist's \"sodium chloride\" versus a cook's \"salt,\" or formal \"Mr. President\" versus informal \"the boss,\" so a shift in register is a sudden change between levels, such as from high courtly speech to low, blunt speech."
   },
   {
    "id": "c24",
    "term": "Meter",
-   "def": "The regular pattern of stressed and unstressed syllables in a line of poetry, named by its kind of foot and the number of feet per line, as in iambic trimeter."
+   "def": "The regularly recurring sound pattern of verse lines (Greek \"measure\"), whose unit is the foot, and in English the number of feet in a line equals its number of stresses, so iambic trimeter has three stresses."
   },
   {
    "id": "c25",
@@ -140,47 +140,47 @@
   {
    "id": "c26",
    "term": "Iamb (iambic)",
-   "def": "A foot of one unstressed syllable followed by one stressed syllable, da-DUM, as in \"be-FORE.\""
+   "def": "The basic foot of English verse: one unstressed syllable then one stressed syllable, da-DUM, which gives a rising effect, as in \"Vermont.\""
   },
   {
    "id": "c27",
    "term": "Trochee (trochaic)",
-   "def": "A foot of one stressed syllable followed by one unstressed syllable, DUM-da, as in \"GAR-den.\""
+   "def": "A two-syllable foot of one stressed syllable then one unstressed syllable, DUM-da, which gives a falling effect, as in \"Texas.\""
   },
   {
    "id": "c28",
    "term": "Spondee (spondaic)",
-   "def": "A foot of two stressed syllables in a row, DUM-DUM, as in \"HEART-BREAK.\""
+   "def": "A two-syllable foot of two stressed syllables, DUM-DUM, as in \"Utah.\""
   },
   {
    "id": "c29",
    "term": "Anapest (anapestic)",
-   "def": "A foot of two unstressed syllables followed by one stressed syllable, da-da-DUM, as in \"un-der-STAND.\""
+   "def": "A three-syllable foot of two unstressed syllables then one stressed syllable, da-da-DUM, as in \"Illinois.\""
   },
   {
    "id": "c30",
    "term": "Dactyl (dactylic)",
-   "def": "A foot of one stressed syllable followed by two unstressed syllables, DUM-da-da, as in \"MER-ri-ly.\""
+   "def": "A three-syllable foot (Greek \"finger,\" for its three joints) of one stressed syllable then two unstressed syllables, DUM-da-da, as in \"Oregon.\""
   },
   {
    "id": "c31",
    "term": "Trimeter",
-   "def": "A line of three metrical feet, so iambic trimeter is da-DUM da-DUM da-DUM."
+   "def": "A line with three stresses (three feet), as in \"Throw away thy rod,\" so iambic trimeter is da-DUM da-DUM da-DUM, like the three-stress \"wheel\" lines in Sir Gawain."
   },
   {
    "id": "c32",
    "term": "Tetrameter",
-   "def": "A line of four metrical feet, so iambic tetrameter is da-DUM da-DUM da-DUM da-DUM."
+   "def": "A line with four stresses (four feet), as in the iambic tetrameter \"She stole along, she nothing spoke,\" da-DUM da-DUM da-DUM da-DUM."
   },
   {
    "id": "c33",
    "term": "Pentameter",
-   "def": "A line of five metrical feet, so iambic pentameter is da-DUM da-DUM da-DUM da-DUM da-DUM."
+   "def": "A line with five stresses (five feet), usually iambic, which was the basic line of English verse from the late fourteenth to the nineteenth century, used by Chaucer, Shakespeare, Milton, and Wordsworth."
   },
   {
    "id": "c34",
    "term": "Quatrain",
-   "def": "A stanza or group of four lines, often rhymed, as in an abab rhyme scheme."
+   "def": "A stanza of four lines, usually rhyming abcb, abab, or abba."
   }
  ]
 }

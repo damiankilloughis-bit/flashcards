@@ -5,7 +5,7 @@
  "topic": "Sir Gawain Part 1 (Fitts I–II)",
  "short": "5 Q&A",
  "order": 5,
- "count": 12,
+ "count": 13,
  "cards": [
   {
    "id": "c0",
@@ -66,6 +66,11 @@
    "id": "c11",
    "term": "How far is the Green Chapel from Bertilak's castle?",
    "def": "Bertilak says the place is near, two miles at most away."
+  },
+  {
+   "id": "c12",
+   "term": "Which founders does the poem's opening name before Arthur?",
+   "def": "After Troy falls, Aeneas conquers abroad, Romulus founds Rome, Ticius builds towns in Tuscany, Langobard builds homes in Lombardy, and Felix Brutus founds Britain."
   }
  ]
 }

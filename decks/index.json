@@ -3,7 +3,7 @@
   {
    "name": "ENG-205",
    "slug": "eng205",
-   "count": 592,
+   "count": 593,
    "topics": [
     {
      "name": "Beowulf Part 1 (to Another Attack)",
@@ -211,7 +211,7 @@
     {
      "name": "Sir Gawain Part 1 (Fitts I–II)",
      "slug": "sir-gawain-part-1",
-     "count": 67,
+     "count": 68,
      "decks": [
       {
        "id": "eng205-sg1-01-definitions",
@@ -250,7 +250,7 @@
        "title": "ENG-205 Sir Gawain Part 1 — 5 Q&A",
        "short": "5 Q&A",
        "order": 5,
-       "count": 12,
+       "count": 13,
        "file": "eng205-sg1-05-qa.json"
       }
      ]
@@ -860,7 +860,7 @@
    "title": "ENG-205 Sir Gawain Part 1 — 5 Q&A",
    "short": "5 Q&A",
    "order": 5,
-   "count": 12,
+   "count": 13,
    "file": "eng205-sg1-05-qa.json",
    "subject": "ENG-205",
    "subjectSlug": "eng205",

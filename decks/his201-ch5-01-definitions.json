@@ -1,0 +1,171 @@
+{
+ "id": "his201-ch5-01-definitions",
+ "title": "HIS-201 Ch. 5 — 1 Definitions",
+ "subject": "HIS-201",
+ "topic": "Chapter 5: The Mosaic of Eighteenth-Century America",
+ "short": "1 Definitions",
+ "order": 1,
+ "count": 32,
+ "cards": [
+  {
+   "id": "c0",
+   "term": "Presidio",
+   "def": "A Spanish military garrison, the defensive outpost that held a frontier region such as Texas or California alongside the missions."
+  },
+  {
+   "id": "c1",
+   "term": "Mission (Spanish Franciscan)",
+   "def": "A Franciscan community meant to gather Indians into an orderly, regimented life, shielded from outside influence, and teach them to be \"industrious and devout.\""
+  },
+  {
+   "id": "c2",
+   "term": "Dowry",
+   "def": "Sums of money a bride brought to her marriage, meant to help the young couple get established."
+  },
+  {
+   "id": "c3",
+   "term": "Paraphernalia",
+   "def": "A widow's own clothes, jewelry and similar personal items, which English law let her keep."
+  },
+  {
+   "id": "c4",
+   "term": "Pays d'en haut",
+   "def": "The French \"upper country\": the Great Lakes, north to Lakes Manitoba and Winnipeg, and south along the Mississippi basin."
+  },
+  {
+   "id": "c5",
+   "term": "Middle ground",
+   "def": "A scholar's term for the creative compromises the French and Indians worked out when their customs, especially their laws, clashed."
+  },
+  {
+   "id": "c6",
+   "term": "King William's War",
+   "def": "The colonial fighting, with Indian allies on both sides, of the European war in which England joined the Netherlands and the League of Augsburg against France."
+  },
+  {
+   "id": "c7",
+   "term": "Queen Anne's War",
+   "def": "The second colonial war between England and France and their Indian allies, the American side of the War of the Spanish Succession."
+  },
+  {
+   "id": "c8",
+   "term": "Natural increase",
+   "def": "Population growth that comes from births outnumbering deaths, rather than from immigration."
+  },
+  {
+   "id": "c9",
+   "term": "Indentures",
+   "def": "Contracts to work as a servant in America for a set term in order to pay for the Atlantic passage."
+  },
+  {
+   "id": "c10",
+   "term": "Steerage",
+   "def": "The cramped, airless between-decks \"upper hold\" where poor passengers and servants crossed the Atlantic."
+  },
+  {
+   "id": "c11",
+   "term": "Backcountry",
+   "def": "The frontier region west of the settled seaboard, from western Pennsylvania south into Virginia and the Carolinas."
+  },
+  {
+   "id": "c12",
+   "term": "Negro election day",
+   "def": "A northern seaport festival in which black residents paraded in their masters' clothes and elected their own \"kings, governors, and judges\" to settle minor disputes."
+  },
+  {
+   "id": "c13",
+   "term": "Impressment",
+   "def": "Forcing colonial men into service in the British navy, usually by \"press gangs.\""
+  },
+  {
+   "id": "c14",
+   "term": "Task system",
+   "def": "A rice-country labor system in which each slave worked an assigned daily task, after which the master felt no right to call on him."
+  },
+  {
+   "id": "c15",
+   "term": "Maroon communities",
+   "def": "Settlements of runaway slaves, usually recently arrived Africans who fled inland together."
+  },
+  {
+   "id": "c16",
+   "term": "\"Weapons of the weak\"",
+   "def": "Everyday quiet resistance by slaves, such as faking illness, feigning stupidity or laziness, breaking tools, pilfering and hiding in the woods."
+  },
+  {
+   "id": "c17",
+   "term": "Enlightenment",
+   "def": "An intellectual movement that started in Europe in the 1600s and stressed the power of human reason to promote progress by revealing the laws that governed nature and society."
+  },
+  {
+   "id": "c18",
+   "term": "Natural law",
+   "def": "The fixed laws governing nature and society that Enlightenment thinkers believed human reason could discover."
+  },
+  {
+   "id": "c19",
+   "term": "Divine providence",
+   "def": "The belief that events happen by God's direct will, the traditional explanation of the world that most colonists kept instead of natural law."
+  },
+  {
+   "id": "c20",
+   "term": "Rational Christianity",
+   "def": "An Enlightenment-inspired faith in a benevolent God who offers salvation to everyone, with reason as God's greatest gift for following Jesus's moral teachings."
+  },
+  {
+   "id": "c21",
+   "term": "Deism",
+   "def": "A belief that rejected the divinity of Jesus and looked to nature rather than the Bible, seeing God as a \"Supreme Architect\" who made the world and withdrew, leaving natural law."
+  },
+  {
+   "id": "c22",
+   "term": "Great Awakening",
+   "def": "The mid-1700s religious revival whose emotional preaching called on people to experience a \"new birth\" through conversion."
+  },
+  {
+   "id": "c23",
+   "term": "Evangelical",
+   "def": "Preaching that stresses the need for a \"new birth\" through religious conversion."
+  },
+  {
+   "id": "c24",
+   "term": "Itinerants",
+   "def": "Traveling ministers who preached wherever crowds gathered rather than serving one church."
+  },
+  {
+   "id": "c25",
+   "term": "Exhorting",
+   "def": "Lay people, including women and enslaved or common black people, preaching to any audience that would listen."
+  },
+  {
+   "id": "c26",
+   "term": "Consumer revolution",
+   "def": "The surge in demand for British-made goods that let people of ordinary means own small luxuries like tea, gloves and soap."
+  },
+  {
+   "id": "c27",
+   "term": "Middling sort",
+   "def": "The middle class of people of moderate means, between the rich and the struggling poor."
+  },
+  {
+   "id": "c28",
+   "term": "Balanced constitution",
+   "def": "England's government in theory, balancing the Crown (monarchy), the House of Lords (aristocracy) and the House of Commons (the people)."
+  },
+  {
+   "id": "c29",
+   "term": "Patronage",
+   "def": "Rewarding supporters with government offices and contracts to buy their loyalty."
+  },
+  {
+   "id": "c30",
+   "term": "Bicameral legislature",
+   "def": "A lawmaking body with two houses, here an elected lower house or assembly and an upper house or council."
+  },
+  {
+   "id": "c31",
+   "term": "Benign neglect",
+   "def": "The book's term for Britain's loose, hands-off rule of its colonies before 1760, which left colonists a great deal of freedom."
+  }
+ ]
+}

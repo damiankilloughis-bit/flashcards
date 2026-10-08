@@ -4,58 +4,28 @@
 # title: HIS-201 Ch. 4 — 2 Names
 # short: 2 Names
 # order: 2
-# expect: 54
-Micmacs	The Micmacs were a northern Indian people whose story of "bears on floating islands" recalled their first sight of a European ship and its hairy, bearded sailors.
+# expect: 24
 Jacques Cartier	Jacques Cartier led the first official French expedition to what the French called Canada, sailing through the Gulf of St. Lawrence.
 Samuel de Champlain	Samuel de Champlain founded Quebec far up the St. Lawrence to trade furs with less European competition and bound New France to the Montagnais, Algonquins and Hurons.
 Hurons	The Hurons were a confederacy of farmers 20,000 strong near Georgian Bay, France's chief fur-trade allies until smallpox and Iroquois attacks destroyed them.
-Montagnais and Algonquins	The Montagnais and Algonquins were Indian peoples who, with the Hurons, allied with Champlain and supplied the French with furs in return for European goods.
 Iroquois League	The Iroquois League was a confederacy of five nations, the Mohawks, Oneidas, Onondagas, Cayugas and Senecas, that used Dutch trade guns to wage the Beaver Wars.
 Mohawks	The Mohawks were the Iroquois nation that took over the Dutch fur trade at Fort Orange, giving the Iroquois the tools and guns to attack their northern enemies.
-Petuns, Eries and Neutrals	The Petuns, Eries and Neutrals were Iroquoian-speaking peoples the Iroquois scattered after the Hurons, easy to absorb into Iroquois communities because they spoke related languages.
 Jesuits	The Jesuits, or Society of Jesus, were Catholic missionaries fired by the Counter-Reformation whom French authorities sent to live among Indian allies and convert them.
-Kateri Tekakwitha	Kateri Tekakwitha was a Mohawk woman, her vision impaired by childhood smallpox, who converted after meeting French Jesuits and was later made a saint, her life reflecting the chaos the fur trade set off.
 Huguenots	The Huguenots were French Protestants, France's most obvious emigrants, whom French monarchs barred from Canada because they insisted New France stay Catholic.
-Dutch West India Company	The Dutch West India Company ran Dutch trading posts and forts from Africa to New Netherland, profiting from furs but later ruling New Netherland through corrupt, dictatorial governors.
-Henry Hudson	Henry Hudson was the Englishman who explored the Hudson River for the Dutch, giving the Dutch their claim to the river later named for him.
-Fort Orange	Fort Orange, present-day Albany, was the Dutch fur post 150 miles up the Hudson where the Mohawks traded pelts for Dutch goods and guns.
-New Amsterdam	New Amsterdam was the Dutch fort and fur-trading town on Manhattan at the mouth of the Hudson, renamed New York after the English took it.
 René Robert Cavelier, Sieur de La Salle	La Salle was the first European to travel down the Mississippi to the Gulf of Mexico, extending French claims and alliances into the Mississippi valley.
-James I	James I, who succeeded Elizabeth I, vowed to purge England of Puritan reformers and refused the stronger church reforms they demanded.
-Puritans	The Puritans were radical English Protestant reformers who followed Calvin and wanted to purify the Church of England of Catholic "corruptions" and limit church membership to the godly.
-Presbyterians	Presbyterians were Puritans whose congregations were guided by higher governing bodies of ministers and laypersons.
+Puritans	The Puritans were radical English Protestant reformers who followed Calvin and wanted to purify the Church of England, split into Presbyterians, whose congregations answered to higher bodies of ministers and laypersons, and Congregationalists.
 Congregationalists	Congregationalists were Puritans whose congregations ran their own affairs independently, and most of them still believed the Church of England could be reformed from within.
 Separatists	Separatists were devout Congregationalists who concluded the Church of England was too corrupt to reform, so they left it and worshiped secretly in small congregations.
 Pilgrims	The Pilgrims were the Separatists who sailed on the Mayflower and founded Plymouth Colony after first trying exile in Holland.
-William Bradford	William Bradford was the leader of the Pilgrims at Plymouth, who wrote of the "savage hue" of the New England wilderness.
-Wampanoags	The Wampanoags were the Indian people who dominated the Plymouth area, helped the starving Pilgrims, and were later crushed in Metacom's War.
 Massasoit	Massasoit was the Wampanoag chief who, weakened by epidemic and eager for trade goods and help against native enemies, agreed to help the starving Plymouth colonists.
 Squanto	Squanto was a Wampanoag kidnapped by English sailors and taught English in Europe, who returned in time to serve as the go-between for the Pilgrims and Massasoit.
-Plymouth	Plymouth was the Pilgrims' colony in southeastern Massachusetts, built on Patuxet, an Indian village emptied by epidemic.
-Charles I	Charles I dissolved Parliament, ruled without it and moved against the Puritans, whose persecution swelled the Great Migration to Massachusetts Bay.
-Massachusetts Bay Company	The Massachusetts Bay Company was organized by Puritan merchants, gentlemen and lawyers who used its royal charter to found a godly colony around Boston.
 John Winthrop	John Winthrop was the lawyer and first governor of Massachusetts Bay who founded Boston and wanted a godly "city on a hill" whose settlers would be "knit together" as one.
-Thomas Hooker	Thomas Hooker was the Cambridge minister who led part of his congregation to found Connecticut, with looser church-membership rules and a vote not limited to church members.
 Roger Williams	Roger Williams was a Salem minister who called for separation from the Church of England and of church and state, denied the king's right to Indian land, and founded Providence.
 Anne Hutchinson	Anne Hutchinson was a Boston midwife whose sermon discussions and controversial doctrine led ministers to accuse her of heresy and the colony to expel her.
-Increase Mather	Increase Mather was a learned Boston minister who published a book of supernatural "wonders" and later, with fourteen other ministers, helped stop the Salem witch trials.
 Salem	Salem was the Massachusetts town where accusations by a group of afflicted adolescent girls in Salem Village led to the largest witchcraft trials and twenty executions in New England.
-John Proctor	John Proctor was a Salem tavern owner accused and tried as a witch, who protested his innocence and the torture of the accused, the model for Arthur Miller's The Crucible.
-Pequots	The Pequots controlled Connecticut territory until colonists and their Narragansett allies burned the main Pequot village, killing hundreds of men, women and children.
-Narragansetts	The Narragansetts were New England Indians who joined the colonists against the Pequots but were later bullied into giving up land by the English and the Mohegans.
-Mohegans	The Mohegans were Indian allies of the English who helped intimidate the Narragansetts and sided with the colonists against Metacom.
-John Eliot	John Eliot was a Puritan minister who preached in Algonquian, published Scripture in Algonquian, trained native ministers and set up seven praying towns.
 Metacom (King Philip)	Metacom, Massasoit's son whom the English called King Philip, led southern New England's Indians in a war against the colonists that ended in his death and his people's ruin.
-Charles II	Charles II granted New Netherland to his brother James and Pennsylvania to William Penn, and gave Connecticut and Rhode Island their own charters.
-James, Duke of York	James, Duke of York, received New Netherland by royal grant from his brother Charles II, sent the fleet that took it, renamed it New York, and gave New Jersey away.
-James II	James II, formerly Duke of York, created the Dominion of New England and abolished colonial assemblies, but his Catholicism and contempt for Parliament got him overthrown.
-Lord Berkeley and Sir George Carteret	Lord Berkeley and Sir George Carteret were the Duke of York's favorites who received New Jersey and offered land, religious freedom and an assembly for a small quitrent.
+James II (Duke of York)	As Duke of York, James took New Netherland and renamed it New York, and as King James II he created the Dominion of New England and abolished colonial assemblies until Parliament overthrew him.
 William Penn	William Penn, son of an admiral, was a Quaker leader who founded Pennsylvania as a refuge for Quakers with freedom of worship and fair dealing with the Indians.
 Quakers (Society of Friends)	The Quakers, formally the Society of Friends, dressed plainly, refused oaths, war and bows to superiors, let women preach, and found refuge in Pennsylvania and New Jersey.
-Lenni Lenapes (Delawares)	The Lenni Lenapes, called Delawares by the English, were the coastal Indians who lived at peace with Penn's Quakers until later settlers pushed them west.
 Philadelphia	Philadelphia, on a superb harbor where the Delaware and Schuylkill Rivers meet, was Pennsylvania's trade center and became the commercial and cultural center of England's North American empire.
-Germans and Scots-Irish	The Germans and Scots-Irish filled Pennsylvania's interior and, lacking Quaker ideas about Indian land rights, pushed the Lenapes and others farther west.
 William and Mary	William of Orange and Mary, James II's Protestant daughter, took the throne in the Glorious Revolution, agreed to rule with Parliament, and restored colonial assemblies.
-Lords of Trade	The Lords of Trade were the English body overseeing colonial trade that, urged by James II, combined the northern colonies into the Dominion of New England.
-Board of Trade	The Board of Trade was the body King William created to replace the Lords of Trade and oversee closer regulation of colonial trade.
-Louis XIV	Louis XIV was the French king who used France's mighty army against his neighbors four times, keeping the French imperial threat alive for England.

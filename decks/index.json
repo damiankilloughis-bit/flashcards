@@ -362,7 +362,7 @@
   {
    "name": "HIS-201",
    "slug": "his201",
-   "count": 1031,
+   "count": 817,
    "topics": [
     {
      "name": "Chapter 1: The First Civilizations of North America",
@@ -508,14 +508,14 @@
     {
      "name": "Chapter 4: Colonization and Conflict in the North",
      "slug": "chapter-4",
-     "count": 215,
+     "count": 100,
      "decks": [
       {
        "id": "his201-ch4-01-definitions",
        "title": "HIS-201 Ch. 4 — 1 Definitions",
        "short": "1 Definitions",
        "order": 1,
-       "count": 32,
+       "count": 22,
        "file": "his201-ch4-01-definitions.json"
       },
       {
@@ -523,7 +523,7 @@
        "title": "HIS-201 Ch. 4 — 2 Names",
        "short": "2 Names",
        "order": 2,
-       "count": 54,
+       "count": 24,
        "file": "his201-ch4-02-names.json"
       },
       {
@@ -531,7 +531,7 @@
        "title": "HIS-201 Ch. 4 — 3 Numbers & Dates",
        "short": "3 Numbers & Dates",
        "order": 3,
-       "count": 61,
+       "count": 17,
        "file": "his201-ch4-03-numbers.json"
       },
       {
@@ -547,7 +547,7 @@
        "title": "HIS-201 Ch. 4 — 5 Q&A",
        "short": "5 Q&A",
        "order": 5,
-       "count": 61,
+       "count": 30,
        "file": "his201-ch4-05-qa.json"
       }
      ]
@@ -555,14 +555,14 @@
     {
      "name": "Chapter 5: The Mosaic of Eighteenth-Century America",
      "slug": "chapter-5",
-     "count": 194,
+     "count": 95,
      "decks": [
       {
        "id": "his201-ch5-01-definitions",
        "title": "HIS-201 Ch. 5 — 1 Definitions",
        "short": "1 Definitions",
        "order": 1,
-       "count": 32,
+       "count": 23,
        "file": "his201-ch5-01-definitions.json"
       },
       {
@@ -570,7 +570,7 @@
        "title": "HIS-201 Ch. 5 — 2 Names",
        "short": "2 Names",
        "order": 2,
-       "count": 34,
+       "count": 20,
        "file": "his201-ch5-02-names.json"
       },
       {
@@ -578,7 +578,7 @@
        "title": "HIS-201 Ch. 5 — 3 Numbers & Dates",
        "short": "3 Numbers & Dates",
        "order": 3,
-       "count": 51,
+       "count": 17,
        "file": "his201-ch5-03-numbers.json"
       },
       {
@@ -594,7 +594,7 @@
        "title": "HIS-201 Ch. 5 — 5 Q&A",
        "short": "5 Q&A",
        "order": 5,
-       "count": 71,
+       "count": 29,
        "file": "his201-ch5-05-qa.json"
       }
      ]
@@ -1286,7 +1286,7 @@
    "title": "HIS-201 Ch. 4 — 1 Definitions",
    "short": "1 Definitions",
    "order": 1,
-   "count": 32,
+   "count": 22,
    "file": "his201-ch4-01-definitions.json",
    "subject": "HIS-201",
    "subjectSlug": "his201",
@@ -1298,7 +1298,7 @@
    "title": "HIS-201 Ch. 4 — 2 Names",
    "short": "2 Names",
    "order": 2,
-   "count": 54,
+   "count": 24,
    "file": "his201-ch4-02-names.json",
    "subject": "HIS-201",
    "subjectSlug": "his201",
@@ -1310,7 +1310,7 @@
    "title": "HIS-201 Ch. 4 — 3 Numbers & Dates",
    "short": "3 Numbers & Dates",
    "order": 3,
-   "count": 61,
+   "count": 17,
    "file": "his201-ch4-03-numbers.json",
    "subject": "HIS-201",
    "subjectSlug": "his201",
@@ -1334,7 +1334,7 @@
    "title": "HIS-201 Ch. 4 — 5 Q&A",
    "short": "5 Q&A",
    "order": 5,
-   "count": 61,
+   "count": 30,
    "file": "his201-ch4-05-qa.json",
    "subject": "HIS-201",
    "subjectSlug": "his201",
@@ -1346,7 +1346,7 @@
    "title": "HIS-201 Ch. 5 — 1 Definitions",
    "short": "1 Definitions",
    "order": 1,
-   "count": 32,
+   "count": 23,
    "file": "his201-ch5-01-definitions.json",
    "subject": "HIS-201",
    "subjectSlug": "his201",
@@ -1358,7 +1358,7 @@
    "title": "HIS-201 Ch. 5 — 2 Names",
    "short": "2 Names",
    "order": 2,
-   "count": 34,
+   "count": 20,
    "file": "his201-ch5-02-names.json",
    "subject": "HIS-201",
    "subjectSlug": "his201",
@@ -1370,7 +1370,7 @@
    "title": "HIS-201 Ch. 5 — 3 Numbers & Dates",
    "short": "3 Numbers & Dates",
    "order": 3,
-   "count": 51,
+   "count": 17,
    "file": "his201-ch5-03-numbers.json",
    "subject": "HIS-201",
    "subjectSlug": "his201",
@@ -1394,7 +1394,7 @@
    "title": "HIS-201 Ch. 5 — 5 Q&A",
    "short": "5 Q&A",
    "order": 5,
-   "count": 71,
+   "count": 29,
    "file": "his201-ch5-05-qa.json",
    "subject": "HIS-201",
    "subjectSlug": "his201",

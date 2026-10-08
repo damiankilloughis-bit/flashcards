@@ -5,177 +5,107 @@
  "topic": "Chapter 5: The Mosaic of Eighteenth-Century America",
  "short": "2 Names",
  "order": 2,
- "count": 34,
+ "count": 20,
  "cards": [
   {
    "id": "c0",
-   "term": "Jean L'Archevêque",
-   "def": "Jean L'Archevêque was a tattooed Frenchman who helped kill La Salle in Texas, became a trusted settler of Spanish New Mexico, and died fighting Pawnees for Spain."
-  },
-  {
-   "id": "c1",
    "term": "Don Pedro de Villasur",
    "def": "Don Pedro de Villasur was New Mexico's lieutenant governor who led Spanish soldiers and Pueblo Indians onto the Plains to confront the French and was killed by Pawnees."
   },
   {
-   "id": "c2",
-   "term": "Pawnees",
-   "def": "The Pawnees were Plains Indians armed with French guns who raided the Apaches and destroyed Villasur's Spanish expedition on the Platte River."
-  },
-  {
-   "id": "c3",
-   "term": "Caddos",
-   "def": "The Caddos were sedentary farmers of east Texas who tattooed L'Archevêque, barely tolerated Spanish missions, and preferred trading with the French of Louisiana."
-  },
-  {
-   "id": "c4",
-   "term": "La Salle",
-   "def": "La Salle was the French explorer who tried to plant a colony near the Mississippi's mouth, landed in Texas instead, and was killed by his own colonists, alarming Spain."
-  },
-  {
-   "id": "c5",
+   "id": "c1",
    "term": "Apaches",
    "def": "The Apaches were the first great Indian threat to Spanish Texas and New Mexico, raiding herds and settlements until the Comanches drove most of them off the Plains."
   },
   {
-   "id": "c6",
+   "id": "c2",
    "term": "Comanches",
    "def": "The Comanches, who called themselves Numunuu (\"the People\"), became mounted warriors with European horses and French guns and dominated the southern Plains."
   },
   {
-   "id": "c7",
-   "term": "Ecueracapa",
-   "def": "Ecueracapa was the Comanche leader who helped broker peace with Spain, after which the allies pressed other Indians into peace and New Mexico prospered."
-  },
-  {
-   "id": "c8",
-   "term": "Gaspar de Portolá",
-   "def": "Gaspar de Portolá was the pragmatic military commander who, with Junípero Serra, led the expedition that founded Spanish California's first presidios and missions."
-  },
-  {
-   "id": "c9",
+   "id": "c3",
    "term": "Junípero Serra",
-   "def": "Fray Junípero Serra was the iron-willed Franciscan who led the missionary side of the expedition that founded San Diego and Monterey in California."
+   "def": "Fray Junípero Serra was the iron-willed Franciscan who, with the soldier Gaspar de Portolá, founded Spanish California's first presidios and missions at San Diego and Monterey."
   },
   {
-   "id": "c10",
-   "term": "Le Pesant",
-   "def": "Le Pesant was an Ottawa leader whose followers killed a priest and a French soldier near Fort Detroit, settled by a staged trial and escape that became a model compromise."
-  },
-  {
-   "id": "c11",
-   "term": "Ottawas",
-   "def": "The Ottawas were Algonquian-speaking allies of New France who offered Indian slaves to \"raise\" the dead in the Le Pesant case, as their custom required."
-  },
-  {
-   "id": "c12",
+   "id": "c4",
    "term": "Jesuits",
    "def": "The Jesuits were Catholic priests whose missions lined the St. Lawrence and who, with French officers and officials, mediated conflicts between Indian nations to keep them allied to France."
   },
   {
-   "id": "c13",
+   "id": "c5",
    "term": "Pierre Le Moyne d'Iberville",
    "def": "Pierre Le Moyne d'Iberville was the veteran French sailor and soldier who founded Louisiana with a post at Biloxi Bay."
   },
   {
-   "id": "c14",
-   "term": "Company of the Indies",
-   "def": "The Company of the Indies managed France's slave trade and brought nearly 6,000 slaves, mostly men, directly from Africa to Louisiana."
-  },
-  {
-   "id": "c15",
+   "id": "c6",
    "term": "Natchez",
    "def": "The Natchez were Louisiana Indians who rose against French encroachment, joined by newly arrived slaves, killing or capturing about 500 colonists before the French crushed them."
   },
   {
-   "id": "c16",
+   "id": "c7",
    "term": "Choctaws",
    "def": "The Choctaws were rivals of the Natchez who helped the French, along with enslaved blacks promised freedom, crush the Natchez uprising."
   },
   {
-   "id": "c17",
+   "id": "c8",
    "term": "Scots-Irish",
    "def": "The Scots-Irish were descendants of Scots who had settled northern Ireland, about 250,000 of whom came to the colonies and pushed into the backcountry."
   },
   {
-   "id": "c18",
+   "id": "c9",
    "term": "Germans",
    "def": "About 135,000 Germans, many fleeing war and persecution, settled the colonies, especially Pennsylvania's backcountry, where they kept their own language and customs."
   },
   {
-   "id": "c19",
+   "id": "c10",
    "term": "Benjamin Franklin",
    "def": "Benjamin Franklin of Philadelphia, entrepreneur, inventor and politician, was the leading American champion of the Enlightenment's useful knowledge and experimentation, inventing an efficient stove and the lightning rod."
   },
   {
-   "id": "c20",
-   "term": "What Franklin thought of the backcountry and the Germans",
-   "def": "Benjamin Franklin saw the backcountry as draining off surplus eastern people but feared seaboard-backcountry discord and warned that Germans would overrun English Pennsylvania."
-  },
-  {
-   "id": "c21",
-   "term": "Charles Woodmason",
-   "def": "Charles Woodmason was an Anglican missionary in the Carolina backcountry who scorned the Scots-Irish as \"Ignorant, mean, worthless, beggarly Irish Presbyterians.\""
-  },
-  {
-   "id": "c22",
+   "id": "c11",
    "term": "Philadelphia",
    "def": "Philadelphia was the grandest and most populous colonial seaport, the largest city in the colonies and the second largest in the British Empire."
   },
   {
-   "id": "c23",
+   "id": "c12",
    "term": "Great Wagon Road",
    "def": "The Great Wagon Road ran from Philadelphia through western Pennsylvania, Maryland and Virginia into the Carolinas, carrying Scots-Irish and German settlers into the backcountry."
   },
   {
-   "id": "c24",
+   "id": "c13",
    "term": "Jemmy",
    "def": "Jemmy was the enslaved man who led nearly 100 Africans in South Carolina's Stono Rebellion, the largest slave revolt of the colonial period."
   },
   {
-   "id": "c25",
+   "id": "c14",
    "term": "Philosophes",
    "def": "The philosophes were the leading Enlightenment thinkers, who stressed the power of human reason to reveal the laws of nature and society and promote progress."
   },
   {
-   "id": "c26",
+   "id": "c15",
    "term": "Jonathan Edwards",
    "def": "Jonathan Edwards was a Calvinist Congregational pastor in Northampton, Massachusetts, whose Great Awakening sermons paired God's grace with terrifying pictures of sinners held over hell."
   },
   {
-   "id": "c27",
+   "id": "c16",
    "term": "George Whitefield",
    "def": "George Whitefield was the dramatic English \"boy preacher\" whose two-year tour from Georgia to New Hampshire turned local revivals into the Great Awakening."
   },
   {
-   "id": "c28",
+   "id": "c17",
    "term": "Baptists",
    "def": "The Baptists were the warmest champions of the Great Awakening, drawing its most radical converts and growing in the South and backcountry despite Anglican persecution."
   },
   {
-   "id": "c29",
-   "term": "Presbyterians",
-   "def": "The Presbyterians were a leading northern denomination that split over the Great Awakening yet spread new churches through the South and backcountry."
+   "id": "c18",
+   "term": "Presbyterians and Congregationalists",
+   "def": "The Presbyterians and Congregationalists, the largest northern churches, both split into factions over the Great Awakening, while Presbyterians also spread new churches through the South and backcountry."
   },
   {
-   "id": "c30",
-   "term": "Congregationalists",
-   "def": "The Congregationalists, with the Presbyterians the largest northern churchgoing group, split into factions over the Great Awakening."
-  },
-  {
-   "id": "c31",
-   "term": "Quakers and Anglicans",
-   "def": "The Quakers and Anglicans shunned the Great Awakening, and Anglican parsons in the South pushed officials to harass Baptist ministers."
-  },
-  {
-   "id": "c32",
+   "id": "c19",
    "term": "Parliament",
    "def": "Before 1760 Parliament made no effort to assert its authority over the colonies beyond occasional laws on trade, manufacturing and money, simply assuming its sovereignty covered the empire."
-  },
-  {
-   "id": "c33",
-   "term": "John Dickinson",
-   "def": "John Dickinson was a young Pennsylvania law student in London, scandalized when the king's ministers spent over 100,000 pounds and got voters \"dead drunk\" to win an election."
   }
  ]
 }

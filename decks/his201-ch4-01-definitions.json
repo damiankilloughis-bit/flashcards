@@ -5,7 +5,7 @@
  "topic": "Chapter 4: Colonization and Conflict in the North",
  "short": "1 Definitions",
  "order": 1,
- "count": 32,
+ "count": 22,
  "cards": [
   {
    "id": "c0",
@@ -19,151 +19,101 @@
   },
   {
    "id": "c2",
-   "term": "Comptoir",
-   "def": "A storehouse for the skins of dead animals, the insulting name rival Europeans gave New France because it lived on furs."
-  },
-  {
-   "id": "c3",
    "term": "Coureurs de bois",
    "def": "\"Runners in the woods,\" French traders who lived among Indian peoples and learned their languages and customs to carry on the fur trade."
   },
   {
-   "id": "c4",
+   "id": "c3",
    "term": "Counter-Reformation",
    "def": "A movement by devout Catholics to correct those abuses that had prompted the Protestant Reformation."
   },
   {
-   "id": "c5",
-   "term": "Pays d'en haut",
-   "def": "The French name for the Western Great Lakes region."
-  },
-  {
-   "id": "c6",
+   "id": "c4",
    "term": "Beaver Wars",
    "def": "A series of wars in which the Iroquois attacked the Hurons and dozens of other Indian peoples to win new beaver hunting grounds and captives to replace their dead."
   },
   {
-   "id": "c7",
+   "id": "c5",
    "term": "Predestination",
    "def": "The Calvinist idea of divine sovereignty: that an all-powerful God ordained the outcome of history, including each person's eternal fate, and directed individuals, nations and all creation."
   },
   {
-   "id": "c8",
+   "id": "c6",
    "term": "Mayflower Compact",
    "def": "The framework of government the Pilgrims drew up aboard the Mayflower before landing, providing a governor and assistants elected each year by Plymouth's adult males."
   },
   {
-   "id": "c9",
+   "id": "c7",
    "term": "Freemen",
    "def": "In Massachusetts Bay, the men entitled to vote for the governor and assistants, at first the company's stockholders and later every adult male church member."
   },
   {
-   "id": "c10",
-   "term": "General Court",
-   "def": "Massachusetts Bay's governing body of the governor, assistants and freemen (later town deputies), which passed laws, levied taxes, set up courts and made war and peace."
-  },
-  {
-   "id": "c11",
+   "id": "c8",
    "term": "Great Migration",
    "def": "The large wave of Puritan family migration from England to New England that ended when the English Civil War began."
   },
   {
-   "id": "c12",
+   "id": "c9",
    "term": "\"City on a hill\"",
    "def": "John Winthrop's phrase for the godly Massachusetts Bay society he meant to build as an example to the whole world."
   },
   {
-   "id": "c13",
+   "id": "c10",
    "term": "Conversion (Puritan church membership)",
    "def": "A genuine spiritual rebirth that a person had to convince a Puritan minister and congregation of before being admitted as a church member."
   },
   {
-   "id": "c14",
+   "id": "c11",
    "term": "Natural increase",
    "def": "Population growth that comes from births outnumbering deaths, as in New England's low death rates and high birthrates, rather than from new immigrants."
   },
   {
-   "id": "c15",
-   "term": "Bicameral legislature",
-   "def": "A lawmaking body with two houses, an upper house or council and a lower house or assembly, as in New England's colony governments."
-  },
-  {
-   "id": "c16",
-   "term": "Enchanted universe",
-   "def": "The New England belief that invisible forces and supernatural beings, God's wonders and the devil's wiles, could interrupt the natural order at any time."
-  },
-  {
-   "id": "c17",
-   "term": "Helpmeet",
-   "def": "The Puritan ideal of a woman as a chaste, submissive helper who served God by serving men."
-  },
-  {
-   "id": "c18",
-   "term": "Witch (New England belief)",
-   "def": "A person believed to have gained supernatural powers by signing a compact with Satan."
-  },
-  {
-   "id": "c19",
+   "id": "c12",
    "term": "Sachem (or sagamore)",
    "def": "The leader of an Algonquian village, who directed economic life, administered justice and negotiated with outsiders, and whose power depended on keeping the people's trust and consent."
   },
   {
-   "id": "c20",
+   "id": "c13",
    "term": "Praying towns",
    "def": "Separate towns set up by the Puritan minister John Eliot for Indians who had converted to Christianity."
   },
   {
-   "id": "c21",
+   "id": "c14",
    "term": "Quitrent",
    "def": "An annual fee for the use of the land, paid by settlers to a colony's owners."
   },
   {
-   "id": "c22",
+   "id": "c15",
    "term": "Light Within",
    "def": "The Quaker belief that all men and women share equally in an inner spiritual light, the root of Quaker egalitarian ideals."
   },
   {
-   "id": "c23",
-   "term": "Pacifism",
-   "def": "The refusal to make war or take part in violence."
-  },
-  {
-   "id": "c24",
+   "id": "c16",
    "term": "Frame of Government",
    "def": "William Penn's plan for Pennsylvania, which created a representative assembly and guaranteed basic English civil liberties and complete freedom of worship."
   },
   {
-   "id": "c25",
-   "term": "Charter of Privileges",
-   "def": "Pennsylvania's new constitution that stripped the council of lawmaking power and left an elected one-house assembly in control."
-  },
-  {
-   "id": "c26",
-   "term": "Unicameral assembly",
-   "def": "A legislature with only one house."
-  },
-  {
-   "id": "c27",
+   "id": "c17",
    "term": "Navigation Acts",
    "def": "Laws passed by the English Parliament to regulate colonial trade so that it profited England, for example through customs duties on colonial tobacco."
   },
   {
-   "id": "c28",
+   "id": "c18",
    "term": "Dominion of New England",
    "def": "A single royal government with a royal governor, an appointed council and no elected assemblies, combining the New England colonies and later New York and New Jersey."
   },
   {
-   "id": "c29",
+   "id": "c19",
    "term": "Glorious Revolution",
    "def": "The quick, bloodless coup in which Parliament forced the Catholic Stuart king James II into exile and raised his daughter Mary and her Dutch husband William of Orange to the throne, and Mary agreed to rule with Parliament."
   },
   {
-   "id": "c30",
+   "id": "c20",
    "term": "Vice-admiralty courts",
    "def": "Colonial courts without juries, run by royally appointed judges, that prosecuted smugglers."
   },
   {
-   "id": "c31",
+   "id": "c21",
    "term": "Royal colony",
    "def": "A colony whose governor, and usually its council, were appointed by the monarch."
   }

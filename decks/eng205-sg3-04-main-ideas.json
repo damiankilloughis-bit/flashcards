@@ -5,162 +5,32 @@
  "topic": "Sir Gawain Part 3 (Fitt IV)",
  "short": "4 Main Ideas",
  "order": 4,
- "count": 31,
+ "count": 5,
  "cards": [
   {
    "id": "c0",
-   "term": "Part 3 summary: where things stand",
-   "def": "On New Year's Day Gawain leaves Bertilak's castle before dawn in a snowstorm, secretly wearing Lady Bertilak's green girdle with his armor, while a servant guides him to the Green Chapel to take the Green Knight's return blow."
+   "term": "The guide's offer to let Gawain flee",
+   "def": "On New Year's Day Gawain, secretly wearing the girdle, refuses the guide's offer to keep quiet if Gawain rides away, saying \"I'd be christened a coward,\" so Gawain keeps his word and faces the Green Chapel even while relying on the girdle to save him."
   },
   {
    "id": "c1",
-   "term": "Part 3 summary: the Green Chapel and the axe",
-   "def": "At the Green Chapel, a grassy mound in a wild valley, Gawain bares his neck to the Green Knight, who swings three times, holding back twice and the third time only nicking Gawain's neck."
+   "term": "The three axe swings",
+   "def": "At the Green Chapel the Green Knight feints once when Gawain flinches, holds back once when Gawain stands still, and only nicks Gawain's neck the third time, and the Green Knight later explains that the two harmless swings repay the two days Gawain honestly traded his winnings while the nick is for the third day, when \"you strayed.\""
   },
   {
    "id": "c2",
-   "term": "Part 3 summary: the reveal and the return to Camelot",
-   "def": "The Green Knight reveals he is Bertilak, that the hunts and temptations were his test arranged by Morgan le Fay, and that the nick punishes the hidden girdle, so Gawain returns ashamed to Camelot wearing the girdle, which Arthur's court adopts as a badge of honor."
+   "term": "The Green Knight's verdict on Gawain",
+   "def": "Revealing that he is Bertilak and sent his wife to test Gawain, the Green Knight calls Gawain \"the most faultless fellow on earth,\" like a pearl beside a white pea, but says \"it was loyalty that you lacked\" because \"you loved your own life,\" which shows the real test was in the castle all along and Gawain only partly failed it."
   },
   {
    "id": "c3",
-   "term": "Gawain's answer to the guide's offer to let him flee",
-   "def": "When the servant guiding him to the Green Chapel offers to keep it secret if Gawain rides away, Gawain answers the guide that fleeing would make him \"christened a coward,\" so he will go on and trust that God saves those who serve Him."
+   "term": "Morgan le Fay's test of the Round Table",
+   "def": "Bertilak reveals that Morgan le Fay, Arthur's half sister and Gawain's aunt, sent him to Camelot in green \"to put pride on trial\" and test \"what distinction and trust the Round Table deserves,\" so the whole adventure tested Arthur's court and chivalry itself, not only Gawain."
   },
   {
    "id": "c4",
-   "term": "What the Green Chapel turns out to be",
-   "def": "Instead of a church, the Green Chapel is a hollow, moss-covered mound beside a boiling stream, which Gawain calls the devil's lair, and from behind a rock he hears the Green Knight sharpening his axe."
-  },
-  {
-   "id": "c5",
-   "term": "The three axe swings",
-   "def": "At the Green Chapel the Green Knight first stops his swing when Gawain flinches, second holds back while Gawain stands still, and third lightly nicks Gawain's neck so his blood falls on the snow."
-  },
-  {
-   "id": "c6",
-   "term": "The four revelations at the Green Chapel",
-   "def": "The Green Knight reveals that the three swings matched Gawain's three evenings of exchange, that he sent his wife to tempt Gawain and the girdle is his, that his name is Bertilak de Hautdesert, and that Morgan le Fay sent him to Camelot in green."
-  },
-  {
-   "id": "c7",
-   "term": "The two meanings of the green girdle at the end",
-   "def": "To Gawain the girdle becomes a lifelong sign of his cowardice, covetousness, and untruth, but Arthur's court laughs and adopts a green sash for his sake, so it becomes an honored sign of the Round Table."
-  },
-  {
-   "id": "c8",
-   "term": "The New Year's morning storm",
-   "def": "On New Year's morning cold rain, sleet, and snow-driving wind batter the land around Bertilak's castle while Gawain lies awake, hearing each cock crow bring his appointment closer."
-  },
-  {
-   "id": "c9",
-   "term": "How Gawain dresses for the Green Chapel",
-   "def": "Before dawn at Bertilak's castle Gawain puts on his polished armor and wraps Lady Bertilak's green girdle twice around his waist, wearing it not for its beauty but in hope it will save his life."
-  },
-  {
-   "id": "c10",
-   "term": "Gawain's blessing on Bertilak's household",
-   "def": "As Gringolet is brought out, Gawain blesses the castle's courteous household and Bertilak's lady and vows to repay their kindness for as long as he lives, and the porter prays God keep Gawain."
-  },
-  {
-   "id": "c11",
-   "term": "The guide's warning about the Green Chapel's keeper",
-   "def": "Near the Green Chapel the guide warns Gawain that its keeper is a brutal wildman, larger than any knight in Arthur's house, who kills everyone who passes without mercy."
-  },
-  {
-   "id": "c12",
-   "term": "How the guide leaves Gawain",
-   "def": "After Gawain refuses to flee, the guide points him down a rocky ravine to a clearing on the left and gallops home, refusing to go one step farther, and Gawain vows not to cry but to trust God's grace."
-  },
-  {
-   "id": "c13",
-   "term": "The sound that greets Gawain at the Green Chapel",
-   "def": "At the mound Gawain hears a grinding like a scythe on a whetstone and realizes his arrival is being \"honored with the honing of an axe,\" yet he calls out for whoever has business with him to appear."
-  },
-  {
-   "id": "c14",
-   "term": "How the Green Knight greets Gawain",
-   "def": "The Green Knight, as green as a year ago, vaults the stream on his axe handle, praises Gawain for keeping his appointment like \"a true traveler,\" and tells him to take his blow as calmly as he himself did at Camelot."
-  },
-  {
-   "id": "c15",
-   "term": "How the Green Knight taunts Gawain after the first swing",
-   "def": "When Gawain shrinks at the shoulders under the first swing, the Green Knight stops and says this cannot be the famous Gawain, since he himself never flinched when his head flew off at Camelot."
-  },
-  {
-   "id": "c16",
-   "term": "Gawain's answer to the Green Knight's taunt",
-   "def": "Gawain answers the Green Knight that he flinched once but will not again, and tells the Green Knight to strike quickly, since once Gawain's head is off it cannot be put back."
-  },
-  {
-   "id": "c17",
-   "term": "What happens around the second swing",
-   "def": "On the second swing Gawain stands as still as a tree stump and the Green Knight holds back and mocks him, so Gawain angrily tells the Green Knight his threats are hollow and to strike."
-  },
-  {
-   "id": "c18",
-   "term": "How Gawain reacts to the nick",
-   "def": "Seeing his blood on the snow, Gawain leaps away, grabs his helmet, shield, and sword, and tells the Green Knight he has taken his one blow and will fight back if struck again."
-  },
-  {
-   "id": "c19",
-   "term": "Why the Green Knight says the game is over",
-   "def": "Leaning on his axe and admiring Gawain's courage, the Green Knight tells Gawain he has now received the one blow promised, is released from his bond, and could have been hurt far worse."
-  },
-  {
-   "id": "c20",
-   "term": "How the Green Knight judges Gawain",
-   "def": "The Green Knight calls Gawain the most faultless knight on earth, worth more than other knights as a pearl is worth more than a white pea, but says his one lack was loyalty, caused by love of his own life, so the Green Knight blames Gawain less."
-  },
-  {
-   "id": "c21",
-   "term": "How Gawain reacts to the reveal",
-   "def": "Burning with shame, Gawain curses cowardice and covetousness, flings the girdle at the Green Knight, and confesses that fear of the death blow led him into \"treachery and untruth.\""
-  },
-  {
-   "id": "c22",
-   "term": "How the Green Knight forgives Gawain",
-   "def": "The Green Knight laughs that Gawain's confession and penance at the axe leave him as pure as the day he was born, gives him the girdle as a keepsake of the chapel, and invites him back to the castle."
-  },
-  {
-   "id": "c23",
-   "term": "The four men Gawain tells Bertilak were ruined by women",
-   "def": "Refusing to return to the castle, Gawain tells Bertilak that if Adam, Solomon, Samson (by Delilah), and David (by Bathsheba) were ruined by women's wiles, he should be forgiven for being fooled by the two ladies."
-  },
-  {
-   "id": "c24",
-   "term": "Why Gawain tells Bertilak he will keep the girdle",
-   "def": "Gawain tells Bertilak he will wear the girdle not for its gold or beauty but as a sign of his sin, to remind him of the frailty of the flesh whenever pride in his prowess grows."
-  },
-  {
-   "id": "c25",
-   "term": "Morgan le Fay's plan",
-   "def": "Bertilak tells Gawain that Morgan le Fay, who learned magic from Merlin, sent him in green to Camelot to test the Round Table's pride and hoped the speaking, head-carrying specter would frighten Guinevere to death."
-  },
-  {
-   "id": "c26",
-   "term": "Morgan le Fay's kinship to Gawain",
-   "def": "Bertilak tells Gawain that the old lady at his castle is Morgan, Gawain's aunt and Arthur's half sister through their mother, the duchess of Tintagel, but Gawain refuses to go back and greet her."
-  },
-  {
-   "id": "c27",
-   "term": "What Gawain tells the court at Camelot",
-   "def": "Back at Camelot, wearing the girdle like a baldric, Gawain tells the whole story, shows his scar, and calls the girdle the \"symbol of sin\" he will wear till death, since sin can be covered but never made clean."
-  },
-  {
-   "id": "c28",
-   "term": "How the poem's ending echoes its opening",
-   "def": "The poem closes by recalling Brutus landing in Britain after the siege of Troy, just as it began, then prays for peace and ends with the motto HONY SOYT QUI MAL PENCE."
-  },
-  {
-   "id": "c29",
-   "term": "Who judges Gawain's fault and how",
-   "def": "The Green Knight calls Gawain the best of knights with a small fault and Camelot treats the girdle as an honor, but Gawain sees a lasting sin, and the course notes say critics are divided."
-  },
-  {
-   "id": "c30",
-   "term": "How Gawain is reborn through failure",
-   "def": "Gawain is absolved, and his failure brings him to humility, so he is in a sense reborn with a new awareness of his vulnerability to pride and self-deception, a potential pitfall of the chivalry he aspired to."
+   "term": "The two meanings of the green girdle",
+   "def": "Ashamed, Gawain curses his \"cowardice and covetousness\" and wears the girdle home as \"the symbol of sin\" to humble his pride, but Arthur's court laughs and adopts green sashes as an honor, so the poem ends with Gawain humbled and reborn while readers still debate whether he failed or is the best of knights."
   }
  ]
 }

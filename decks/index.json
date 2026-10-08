@@ -362,7 +362,7 @@
   {
    "name": "HIS-201",
    "slug": "his201",
-   "count": 622,
+   "count": 837,
    "topics": [
     {
      "name": "Chapter 1: The First Civilizations of North America",
@@ -502,6 +502,53 @@
        "order": 5,
        "count": 26,
        "file": "his201-ch3-05-qa.json"
+      }
+     ]
+    },
+    {
+     "name": "Chapter 4: Colonization and Conflict in the North",
+     "slug": "chapter-4",
+     "count": 215,
+     "decks": [
+      {
+       "id": "his201-ch4-01-definitions",
+       "title": "HIS-201 Ch. 4 — 1 Definitions",
+       "short": "1 Definitions",
+       "order": 1,
+       "count": 32,
+       "file": "his201-ch4-01-definitions.json"
+      },
+      {
+       "id": "his201-ch4-02-names",
+       "title": "HIS-201 Ch. 4 — 2 Names",
+       "short": "2 Names",
+       "order": 2,
+       "count": 54,
+       "file": "his201-ch4-02-names.json"
+      },
+      {
+       "id": "his201-ch4-03-numbers",
+       "title": "HIS-201 Ch. 4 — 3 Numbers & Dates",
+       "short": "3 Numbers & Dates",
+       "order": 3,
+       "count": 61,
+       "file": "his201-ch4-03-numbers.json"
+      },
+      {
+       "id": "his201-ch4-04-main-ideas",
+       "title": "HIS-201 Ch. 4 — 4 Main Ideas",
+       "short": "4 Main Ideas",
+       "order": 4,
+       "count": 7,
+       "file": "his201-ch4-04-main-ideas.json"
+      },
+      {
+       "id": "his201-ch4-05-qa",
+       "title": "HIS-201 Ch. 4 — 5 Q&A",
+       "short": "5 Q&A",
+       "order": 5,
+       "count": 61,
+       "file": "his201-ch4-05-qa.json"
       }
      ]
     }
@@ -1186,6 +1233,66 @@
    "subjectSlug": "his201",
    "topic": "Chapter 3: Colonization and Conflict in the South",
    "topicSlug": "chapter-3"
+  },
+  {
+   "id": "his201-ch4-01-definitions",
+   "title": "HIS-201 Ch. 4 — 1 Definitions",
+   "short": "1 Definitions",
+   "order": 1,
+   "count": 32,
+   "file": "his201-ch4-01-definitions.json",
+   "subject": "HIS-201",
+   "subjectSlug": "his201",
+   "topic": "Chapter 4: Colonization and Conflict in the North",
+   "topicSlug": "chapter-4"
+  },
+  {
+   "id": "his201-ch4-02-names",
+   "title": "HIS-201 Ch. 4 — 2 Names",
+   "short": "2 Names",
+   "order": 2,
+   "count": 54,
+   "file": "his201-ch4-02-names.json",
+   "subject": "HIS-201",
+   "subjectSlug": "his201",
+   "topic": "Chapter 4: Colonization and Conflict in the North",
+   "topicSlug": "chapter-4"
+  },
+  {
+   "id": "his201-ch4-03-numbers",
+   "title": "HIS-201 Ch. 4 — 3 Numbers & Dates",
+   "short": "3 Numbers & Dates",
+   "order": 3,
+   "count": 61,
+   "file": "his201-ch4-03-numbers.json",
+   "subject": "HIS-201",
+   "subjectSlug": "his201",
+   "topic": "Chapter 4: Colonization and Conflict in the North",
+   "topicSlug": "chapter-4"
+  },
+  {
+   "id": "his201-ch4-04-main-ideas",
+   "title": "HIS-201 Ch. 4 — 4 Main Ideas",
+   "short": "4 Main Ideas",
+   "order": 4,
+   "count": 7,
+   "file": "his201-ch4-04-main-ideas.json",
+   "subject": "HIS-201",
+   "subjectSlug": "his201",
+   "topic": "Chapter 4: Colonization and Conflict in the North",
+   "topicSlug": "chapter-4"
+  },
+  {
+   "id": "his201-ch4-05-qa",
+   "title": "HIS-201 Ch. 4 — 5 Q&A",
+   "short": "5 Q&A",
+   "order": 5,
+   "count": 61,
+   "file": "his201-ch4-05-qa.json",
+   "subject": "HIS-201",
+   "subjectSlug": "his201",
+   "topic": "Chapter 4: Colonization and Conflict in the North",
+   "topicSlug": "chapter-4"
   },
   {
    "id": "psc201-m2-01-definitions",

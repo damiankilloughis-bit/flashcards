@@ -1,0 +1,316 @@
+{
+ "id": "his201-ch4-03-numbers",
+ "title": "HIS-201 Ch. 4 — 3 Numbers & Dates",
+ "subject": "HIS-201",
+ "topic": "Chapter 4: Colonization and Conflict in the North",
+ "short": "3 Numbers & Dates",
+ "order": 3,
+ "count": 61,
+ "cards": [
+  {
+   "id": "c0",
+   "term": "When the Iroquois League formed",
+   "def": "In the late 1500s five nations, the Mohawks, Oneidas, Onondagas, Cayugas and Senecas, formed the Iroquois League confederacy."
+  },
+  {
+   "id": "c1",
+   "term": "When Cartier first sailed to Canada",
+   "def": "In 1535 Jacques Cartier made the first official French voyage to Canada, through the Gulf of St. Lawrence."
+  },
+  {
+   "id": "c2",
+   "term": "When France founded its first permanent colony",
+   "def": "In 1605 the French founded Port Royal in Acadia (Nova Scotia), their first permanent colony in North America."
+  },
+  {
+   "id": "c3",
+   "term": "When Champlain founded Quebec",
+   "def": "In 1608, three years after Port Royal, Samuel de Champlain founded Quebec up the St. Lawrence to trade furs with less European competition."
+  },
+  {
+   "id": "c4",
+   "term": "When Champlain shot the Mohawk chiefs",
+   "def": "In 1609 Champlain shot dead two Mohawk chiefs in what is now upstate New York, letting his Indian allies drive off 200 Mohawk warriors."
+  },
+  {
+   "id": "c5",
+   "term": "When Henry Hudson explored the Hudson River",
+   "def": "In 1609 the Englishman Henry Hudson explored the Hudson River for the Dutch, giving them their claim there."
+  },
+  {
+   "id": "c6",
+   "term": "How much a beaver hat cost in the 1610s",
+   "def": "As early as the 1610s a beaver hat sold for ten times the price of a wool hat, because Europeans had trapped their own beavers nearly to extinction."
+  },
+  {
+   "id": "c7",
+   "term": "When the Dutch founded New Netherland",
+   "def": "In 1624 the Dutch founded New Netherland around the Hudson, Connecticut and Delaware Rivers."
+  },
+  {
+   "id": "c8",
+   "term": "When the Mohawks took over the Fort Orange trade",
+   "def": "By 1630 the Mohawks had pushed aside rivals and dominated the Dutch fur trade at Fort Orange."
+  },
+  {
+   "id": "c9",
+   "term": "How many Hurons smallpox killed, 1634 to 1640",
+   "def": "From 1634 to 1640 smallpox killed more than 10,000 Hurons, cutting their population in half."
+  },
+  {
+   "id": "c10",
+   "term": "When the Iroquois destroyed the Hurons",
+   "def": "In 1648 and 1649 well-armed Iroquois warriors destroyed Huron towns, and the Hurons burned their remaining towns and abandoned their homeland for good."
+  },
+  {
+   "id": "c11",
+   "term": "When the Beaver Wars began",
+   "def": "The Beaver Wars began in the 1640s and went on in fits and starts for the rest of the 1600s."
+  },
+  {
+   "id": "c12",
+   "term": "How the Beaver Wars hurt New France by 1666",
+   "def": "About 300 Frenchmen were killed or captured in the Beaver Wars, cutting New France's small population in half by 1666."
+  },
+  {
+   "id": "c13",
+   "term": "When La Salle reached the mouth of the Mississippi",
+   "def": "In 1682 La Salle became the first European to travel down the Mississippi to its mouth at the Gulf of Mexico."
+  },
+  {
+   "id": "c14",
+   "term": "How big New France was in 1700",
+   "def": "In 1700 New France had about 15,000 people, three modest towns (Quebec, Montreal and Trois-Rivières) and scores of simple missions."
+  },
+  {
+   "id": "c15",
+   "term": "When James I became king",
+   "def": "In 1603 James I succeeded Elizabeth I and vowed to purge England of Puritan reformers."
+  },
+  {
+   "id": "c16",
+   "term": "When the Separatists moved to Holland",
+   "def": "By 1608 some English Separatists had moved to Holland for its complete religious freedom."
+  },
+  {
+   "id": "c17",
+   "term": "When epidemic devastated coastal New England",
+   "def": "From 1616 to 1618 a massive epidemic struck coastal New England, cutting the native population by as much as 90 percent."
+  },
+  {
+   "id": "c18",
+   "term": "When and how many Pilgrims landed at Plymouth",
+   "def": "In November 1620 about 88 Separatist Pilgrims anchored at Plymouth, sick with scurvy and weak from malnutrition."
+  },
+  {
+   "id": "c19",
+   "term": "How many Pilgrims died by spring 1621",
+   "def": "By spring 1621 half of the Plymouth immigrants had died, because they arrived too late to plant and lacked food."
+  },
+  {
+   "id": "c20",
+   "term": "When the Pilgrims held their harvest feast",
+   "def": "In 1621 the Pilgrims invited Wampanoag leaders to a feast for their first successful harvest, the origin of the \"First Thanksgiving\" story."
+  },
+  {
+   "id": "c21",
+   "term": "When Charles I dissolved Parliament",
+   "def": "In 1629 Charles I dissolved Parliament and ruled without it, then moved against the Puritans."
+  },
+  {
+   "id": "c22",
+   "term": "When the Massachusetts Bay Company was organized",
+   "def": "In 1629 Puritan merchants, gentlemen and lawyers organized the Massachusetts Bay Company, and advance parties founded Salem."
+  },
+  {
+   "id": "c23",
+   "term": "When Winthrop founded Boston",
+   "def": "In 1630 John Winthrop's fleet arrived in Massachusetts Bay and founded Boston."
+  },
+  {
+   "id": "c24",
+   "term": "When church members became freemen in Massachusetts",
+   "def": "In 1631 Massachusetts Bay made every adult male church member a freeman with the vote."
+  },
+  {
+   "id": "c25",
+   "term": "How many came in the Great Migration",
+   "def": "About 21,000 Puritan immigrants came to New England between 1630 and 1642, until the English Civil War cut off arrivals."
+  },
+  {
+   "id": "c26",
+   "term": "How long first-generation New Englanders lived",
+   "def": "First-generation New Englanders lived to an average age of 70, nearly twice as long as Virginians and ten years longer than people in England."
+  },
+  {
+   "id": "c27",
+   "term": "How many New England children survived",
+   "def": "About 90 percent of New England children reached adulthood, and a typical family raised seven or eight children to maturity."
+  },
+  {
+   "id": "c28",
+   "term": "How fast New England's population doubled",
+   "def": "New England's population doubled about every 27 years through natural increase, while Europe and the Chesapeake barely reproduced themselves."
+  },
+  {
+   "id": "c29",
+   "term": "How many people New England and the Chesapeake had in 1700",
+   "def": "By 1700 New England and the Chesapeake each had about 100,000 people, but New England grew by natural increase and the Chesapeake by importing servants."
+  },
+  {
+   "id": "c30",
+   "term": "How much land a New England family received",
+   "def": "Each New England family received a house lot and about 150 acres in nearby fields, leaving much uncultivated for future generations."
+  },
+  {
+   "id": "c31",
+   "term": "When Hooker founded Connecticut",
+   "def": "In 1636 Thomas Hooker led part of his Cambridge congregation to Connecticut, the first English settlement there."
+  },
+  {
+   "id": "c32",
+   "term": "When Roger Williams founded Providence",
+   "def": "In 1636 Roger Williams, fleeing deportation, founded Providence, later part of Rhode Island."
+  },
+  {
+   "id": "c33",
+   "term": "When Anne Hutchinson was expelled",
+   "def": "In 1638 Massachusetts Bay expelled Anne Hutchinson and her followers for sedition."
+  },
+  {
+   "id": "c34",
+   "term": "When the Pequot War was fought",
+   "def": "In 1637 colonists and Narragansett allies fought the Pequot War, burning the main Pequot village and killing hundreds."
+  },
+  {
+   "id": "c35",
+   "term": "How many Algonquins lived in New England at contact",
+   "def": "About 100,000 Algonquin people lived from the Kennebec River in Maine to Cape Cod when the English arrived."
+  },
+  {
+   "id": "c36",
+   "term": "How many New Englanders were charged with witchcraft",
+   "def": "In the first colonial century 344 New Englanders were charged with witchcraft, and more than three-quarters of them were women."
+  },
+  {
+   "id": "c37",
+   "term": "When the Salem witch trials took place",
+   "def": "In 1692 the Salem witchcraft trials led to twenty executions before Increase Mather and fourteen other ministers warned against them."
+  },
+  {
+   "id": "c38",
+   "term": "When John Eliot began preaching to the Indians",
+   "def": "In the 1640s John Eliot began preaching in Algonquian, and he later set up seven praying towns for Christian Indians."
+  },
+  {
+   "id": "c39",
+   "term": "When Metacom's War was fought",
+   "def": "Metacom's War (King Philip's War) was fought in 1675 and 1676, ending with Metacom's death in the summer of 1676."
+  },
+  {
+   "id": "c40",
+   "term": "How close Metacom's warriors came to Boston",
+   "def": "By spring 1676 Metacom's warriors had wasted more than two dozen Plymouth Colony towns and were raiding within 20 miles of Boston."
+  },
+  {
+   "id": "c41",
+   "term": "How deadly Metacom's War was",
+   "def": "In proportion to population, Metacom's War caused twice the casualties for New England that the whole United States later suffered in the Civil War."
+  },
+  {
+   "id": "c42",
+   "term": "When the Dutch West India Company went bankrupt",
+   "def": "In 1654 the Dutch West India Company went bankrupt and virtually abandoned New Netherland."
+  },
+  {
+   "id": "c43",
+   "term": "When the English took New Netherland",
+   "def": "In 1664 the Duke of York's invading fleet made the Dutch surrender New Netherland, which became New York."
+  },
+  {
+   "id": "c44",
+   "term": "How many colonists New York had in 1664 and 1698",
+   "def": "The Duke of York inherited about 9,000 colonists in 1664, but political strife kept New York to only 18,000 people by 1698."
+  },
+  {
+   "id": "c45",
+   "term": "When New Jersey was founded",
+   "def": "In 1664 the Duke of York gave about 5 million acres between the Hudson and Delaware Rivers to Berkeley and Carteret, founding New Jersey."
+  },
+  {
+   "id": "c46",
+   "term": "When New Jersey became a royal colony",
+   "def": "In 1702 the Crown reunited East and West Jersey as one royal colony."
+  },
+  {
+   "id": "c47",
+   "term": "How many Quakers England had by 1660",
+   "def": "By 1660 about 40,000 English merchants, artisans and farmers were Quakers, and many suffered fines, prison and beatings."
+  },
+  {
+   "id": "c48",
+   "term": "When William Penn received Pennsylvania",
+   "def": "In 1681 Charles II granted William Penn all the land between New Jersey and Maryland."
+  },
+  {
+   "id": "c49",
+   "term": "When Penn annexed Delaware",
+   "def": "In 1682 Penn bought and annexed the Three Lower Counties (later Delaware), home to about 1,000 Dutch, Swedes and Finns."
+  },
+  {
+   "id": "c50",
+   "term": "How many people Pennsylvania had by 1700",
+   "def": "By 1700 Pennsylvania had about 21,000 people, a migration matched in size only by Puritan New England."
+  },
+  {
+   "id": "c51",
+   "term": "What share of Pennsylvania settlers were servants",
+   "def": "About half of Pennsylvania's settlers were indentured servants, and the rest were families of free farmers and artisans."
+  },
+  {
+   "id": "c52",
+   "term": "When Pennsylvania adopted the Charter of Privileges",
+   "def": "In 1701 Penn's Charter of Privileges took lawmaking power from the council and left the elected one-house assembly in control."
+  },
+  {
+   "id": "c53",
+   "term": "When Parliament passed the first Navigation Act",
+   "def": "In 1651 Parliament passed the first Navigation Act; before it England had no coherent policy for regulating colonial trade."
+  },
+  {
+   "id": "c54",
+   "term": "When the Dominion of New England was created",
+   "def": "In 1686 the Lords of Trade combined the New England colonies under a royal governor, and in 1688 they added New York and New Jersey."
+  },
+  {
+   "id": "c55",
+   "term": "When the Glorious Revolution happened",
+   "def": "In 1688 Parliament forced James II into exile and made William and Mary monarchs in the Glorious Revolution."
+  },
+  {
+   "id": "c56",
+   "term": "When Massachusetts got its new charter",
+   "def": "In 1691 Massachusetts received a new charter making it a royal colony, joined with Plymouth and Maine."
+  },
+  {
+   "id": "c57",
+   "term": "When England tightened colonial trade enforcement",
+   "def": "In 1696 Parliament added customs officials and vice-admiralty courts in the colonies, and the king created the Board of Trade."
+  },
+  {
+   "id": "c58",
+   "term": "Which colonies were royal by 1700",
+   "def": "By 1700 Virginia, New York, Massachusetts and New Hampshire had royal governments, with New Jersey, the Carolinas and Georgia soon to follow."
+  },
+  {
+   "id": "c59",
+   "term": "How many British, French and Spanish colonists there were in 1720",
+   "def": "In 1720 the British had nearly 400,000 colonists, the French about 25,000 and the Spanish about 5,000, yet Indians still controlled over 90 percent of the land."
+  },
+  {
+   "id": "c60",
+   "term": "How often Louis XIV went to war",
+   "def": "Louis XIV sent France's army against its neighbors four times between 1667 and 1714."
+  }
+ ]
+}

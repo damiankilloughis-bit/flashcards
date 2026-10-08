@@ -5,7 +5,7 @@
  "topic": "Literary Devices",
  "short": "Definitions",
  "order": 1,
- "count": 22,
+ "count": 35,
  "cards": [
   {
    "id": "c0",
@@ -116,6 +116,71 @@
    "id": "c21",
    "term": "Ubi sunt",
    "def": "Latin for \"where are they?\", the name for a passage that mourns vanished people and the passing of glory."
+  },
+  {
+   "id": "c22",
+   "term": "Juxtaposition",
+   "def": "Placing two contrasting things side by side so that each one's qualities stand out more sharply against the other."
+  },
+  {
+   "id": "c23",
+   "term": "Register (shift in register)",
+   "def": "The level of formality and tone in a passage's language, so a shift in register is a sudden change, such as from elevated courtly speech to blunt, coarse, or slangy speech."
+  },
+  {
+   "id": "c24",
+   "term": "Meter",
+   "def": "The regular pattern of stressed and unstressed syllables in a line of poetry, named by its kind of foot and the number of feet per line, as in iambic trimeter."
+  },
+  {
+   "id": "c25",
+   "term": "Foot",
+   "def": "One repeating unit of meter, a small group of syllables with a set stress pattern, such as da-DUM."
+  },
+  {
+   "id": "c26",
+   "term": "Iamb (iambic)",
+   "def": "A foot of one unstressed syllable followed by one stressed syllable, da-DUM, as in \"be-FORE.\""
+  },
+  {
+   "id": "c27",
+   "term": "Trochee (trochaic)",
+   "def": "A foot of one stressed syllable followed by one unstressed syllable, DUM-da, as in \"GAR-den.\""
+  },
+  {
+   "id": "c28",
+   "term": "Spondee (spondaic)",
+   "def": "A foot of two stressed syllables in a row, DUM-DUM, as in \"HEART-BREAK.\""
+  },
+  {
+   "id": "c29",
+   "term": "Anapest (anapestic)",
+   "def": "A foot of two unstressed syllables followed by one stressed syllable, da-da-DUM, as in \"un-der-STAND.\""
+  },
+  {
+   "id": "c30",
+   "term": "Dactyl (dactylic)",
+   "def": "A foot of one stressed syllable followed by two unstressed syllables, DUM-da-da, as in \"MER-ri-ly.\""
+  },
+  {
+   "id": "c31",
+   "term": "Trimeter",
+   "def": "A line of three metrical feet, so iambic trimeter is da-DUM da-DUM da-DUM."
+  },
+  {
+   "id": "c32",
+   "term": "Tetrameter",
+   "def": "A line of four metrical feet, so iambic tetrameter is da-DUM da-DUM da-DUM da-DUM."
+  },
+  {
+   "id": "c33",
+   "term": "Pentameter",
+   "def": "A line of five metrical feet, so iambic pentameter is da-DUM da-DUM da-DUM da-DUM da-DUM."
+  },
+  {
+   "id": "c34",
+   "term": "Quatrain",
+   "def": "A stanza or group of four lines, often rhymed, as in an abab rhyme scheme."
   }
  ]
 }

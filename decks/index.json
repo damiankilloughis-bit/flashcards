@@ -3,7 +3,7 @@
   {
    "name": "ENG-205",
    "slug": "eng205",
-   "count": 616,
+   "count": 648,
    "topics": [
     {
      "name": "Beowulf Part 1 (to Another Attack)",
@@ -149,14 +149,14 @@
     {
      "name": "Literary Devices",
      "slug": "literary-devices",
-     "count": 22,
+     "count": 35,
      "decks": [
       {
        "id": "eng205-litdev-01-definitions",
        "title": "ENG-205 Literary Devices — Definitions",
        "short": "Definitions",
        "order": 1,
-       "count": 22,
+       "count": 35,
        "file": "eng205-litdev-01-definitions.json"
       }
      ]
@@ -211,7 +211,7 @@
     {
      "name": "Sir Gawain Part 1 (Fitts I–II)",
      "slug": "sir-gawain-part-1",
-     "count": 68,
+     "count": 74,
      "decks": [
       {
        "id": "eng205-sg1-01-definitions",
@@ -250,7 +250,7 @@
        "title": "ENG-205 Sir Gawain Part 1 — 5 Q&A",
        "short": "5 Q&A",
        "order": 5,
-       "count": 13,
+       "count": 19,
        "file": "eng205-sg1-05-qa.json"
       }
      ]
@@ -258,7 +258,7 @@
     {
      "name": "Sir Gawain Part 2 (Fitt III)",
      "slug": "sir-gawain-part-2",
-     "count": 60,
+     "count": 62,
      "decks": [
       {
        "id": "eng205-sg2-01-definitions",
@@ -297,7 +297,7 @@
        "title": "ENG-205 Sir Gawain Part 2 — 5 Q&A",
        "short": "5 Q&A",
        "order": 5,
-       "count": 22,
+       "count": 24,
        "file": "eng205-sg2-05-qa.json"
       }
      ]
@@ -305,7 +305,7 @@
     {
      "name": "Sir Gawain Part 3 (Fitt IV)",
      "slug": "sir-gawain-part-3",
-     "count": 65,
+     "count": 76,
      "decks": [
       {
        "id": "eng205-sg3-01-definitions",
@@ -344,7 +344,7 @@
        "title": "ENG-205 Sir Gawain Part 3 — 5 Q&A",
        "short": "5 Q&A",
        "order": 5,
-       "count": 25,
+       "count": 36,
        "file": "eng205-sg3-05-qa.json"
       }
      ]
@@ -740,7 +740,7 @@
    "title": "ENG-205 Literary Devices — Definitions",
    "short": "Definitions",
    "order": 1,
-   "count": 22,
+   "count": 35,
    "file": "eng205-litdev-01-definitions.json",
    "subject": "ENG-205",
    "subjectSlug": "eng205",
@@ -860,7 +860,7 @@
    "title": "ENG-205 Sir Gawain Part 1 — 5 Q&A",
    "short": "5 Q&A",
    "order": 5,
-   "count": 13,
+   "count": 19,
    "file": "eng205-sg1-05-qa.json",
    "subject": "ENG-205",
    "subjectSlug": "eng205",
@@ -920,7 +920,7 @@
    "title": "ENG-205 Sir Gawain Part 2 — 5 Q&A",
    "short": "5 Q&A",
    "order": 5,
-   "count": 22,
+   "count": 24,
    "file": "eng205-sg2-05-qa.json",
    "subject": "ENG-205",
    "subjectSlug": "eng205",
@@ -980,7 +980,7 @@
    "title": "ENG-205 Sir Gawain Part 3 — 5 Q&A",
    "short": "5 Q&A",
    "order": 5,
-   "count": 25,
+   "count": 36,
    "file": "eng205-sg3-05-qa.json",
    "subject": "ENG-205",
    "subjectSlug": "eng205",

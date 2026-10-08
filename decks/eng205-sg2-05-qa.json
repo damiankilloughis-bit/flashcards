@@ -5,7 +5,7 @@
  "topic": "Sir Gawain Part 2 (Fitt III)",
  "short": "5 Q&A",
  "order": 5,
- "count": 22,
+ "count": 24,
  "cards": [
   {
    "id": "c0",
@@ -116,6 +116,16 @@
    "id": "c21",
    "term": "Why does Gawain finally accept the green girdle after first refusing it?",
    "def": "Gawain first says he will take \"neither gold nor girdle\" until his challenge is achieved, but after Lady Bertilak describes its power Gawain thinks \"it might just be the jewel for the jeopardy he faced\" and could save him from the strike at the Green Chapel (line 1856)."
+  },
+  {
+   "id": "c22",
+   "term": "Which saint does Bertilak swear by after the second exchange, and what does Bertilak say?",
+   "def": "\"By Saint Giles,\" Bertilak tells Gawain after receiving two kisses for the boar, \"You're now the best I know. By wagering this way your gains will grow and grow\" (lines 1644-1647)."
+  },
+  {
+   "id": "c23",
+   "term": "How is Lady Bertilak dressed when she comes to Gawain's room on the third morning?",
+   "def": "Lady Bertilak rushes in wearing a flowing, fur-lined robe that reaches the floor, her head unhooded with gems entwined in her tresses \"in clusters of twenty,\" her face and neck bare and her shoulders \"bare to both back and breast,\" and she throws the window wide open (lines 1735-1743)."
   }
  ]
 }

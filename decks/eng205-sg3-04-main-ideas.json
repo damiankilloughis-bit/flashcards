@@ -5,32 +5,37 @@
  "topic": "Sir Gawain Part 3 (Fitt IV)",
  "short": "4 Main Ideas",
  "order": 4,
- "count": 5,
+ "count": 6,
  "cards": [
   {
    "id": "c0",
-   "term": "The guide's offer to let Gawain flee",
-   "def": "On New Year's Day Gawain, secretly wearing the girdle, refuses the guide's offer to keep quiet if Gawain rides away, saying \"I'd be christened a coward,\" so Gawain keeps his word and faces the Green Chapel even while relying on the girdle to save him."
+   "term": "1. Riding to the Green Chapel",
+   "def": "Still hiding the girdle from Bertilak, Gawain sets out on New Year's Day and refuses his guide's offer to let him run away, saying he would be \"christened a coward.\""
   },
   {
    "id": "c1",
-   "term": "The three axe swings",
-   "def": "At the Green Chapel the Green Knight feints once when Gawain flinches, holds back once when Gawain stands still, and only nicks Gawain's neck the third time, and the Green Knight later explains that the two harmless swings repay the two days Gawain honestly traded his winnings while the nick is for the third day, when \"you strayed.\""
+   "term": "2. The three axe swings",
+   "def": "At the Green Chapel the Green Knight fakes the first swing when Gawain flinches, holds back on the second, and only nicks Gawain's neck with the third."
   },
   {
    "id": "c2",
-   "term": "The Green Knight's verdict on Gawain",
-   "def": "Revealing that he is Bertilak and sent his wife to test Gawain, the Green Knight calls Gawain \"the most faultless fellow on earth,\" like a pearl beside a white pea, but says \"it was loyalty that you lacked\" because \"you loved your own life,\" which shows the real test was in the castle all along and Gawain only partly failed it."
+   "term": "3. Why only a nick",
+   "def": "The Green Knight reveals he is the castle's lord and that the two harmless swings repaid Gawain's two honest trades, while the nick punished the girdle Gawain hid to save his life."
   },
   {
    "id": "c3",
-   "term": "Morgan le Fay's test of the Round Table",
-   "def": "Bertilak reveals that Morgan le Fay, Arthur's half sister and Gawain's aunt, sent him to Camelot in green \"to put pride on trial\" and test \"what distinction and trust the Round Table deserves,\" so the whole adventure tested Arthur's court and chivalry itself, not only Gawain."
+   "term": "4. Gawain's shame",
+   "def": "Ashamed of his cowardice and broken promise, Gawain confesses and the Green Knight forgives him, but Gawain chooses to wear the girdle forever as a reminder of his sin."
   },
   {
    "id": "c4",
-   "term": "The two meanings of the green girdle",
-   "def": "Ashamed, Gawain curses his \"cowardice and covetousness\" and wears the girdle home as \"the symbol of sin\" to humble his pride, but Arthur's court laughs and adopts green sashes as an honor, so the poem ends with Gawain humbled and reborn while readers still debate whether he failed or is the best of knights."
+   "term": "5. Who planned the test",
+   "def": "The Green Knight then names himself Bertilak and explains that Morgan le Fay, Gawain's aunt who learned magic from Merlin, sent him to test the Round Table's pride and frighten Guinevere."
+  },
+  {
+   "id": "c5",
+   "term": "6. Back at Camelot",
+   "def": "When Gawain returns and confesses everything, Arthur's court laughs and every knight takes up a green sash for Gawain's sake, turning his sign of shame into a badge of honor."
   }
  ]
 }

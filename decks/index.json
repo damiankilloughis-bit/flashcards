@@ -362,7 +362,7 @@
   {
    "name": "HIS-201",
    "slug": "his201",
-   "count": 817,
+   "count": 890,
    "topics": [
     {
      "name": "Chapter 1: The First Civilizations of North America",
@@ -596,6 +596,21 @@
        "order": 5,
        "count": 29,
        "file": "his201-ch5-05-qa.json"
+      }
+     ]
+    },
+    {
+     "name": "Exam I: Unit One Study Guide",
+     "slug": "exam-1",
+     "count": 73,
+     "decks": [
+      {
+       "id": "his201-exam1-01-study-guide-terms",
+       "title": "HIS-201 Exam I — Study Guide Terms",
+       "short": "Study Guide Terms",
+       "order": 1,
+       "count": 73,
+       "file": "his201-exam1-01-study-guide-terms.json"
       }
      ]
     }
@@ -1400,6 +1415,18 @@
    "subjectSlug": "his201",
    "topic": "Chapter 5: The Mosaic of Eighteenth-Century America",
    "topicSlug": "chapter-5"
+  },
+  {
+   "id": "his201-exam1-01-study-guide-terms",
+   "title": "HIS-201 Exam I — Study Guide Terms",
+   "short": "Study Guide Terms",
+   "order": 1,
+   "count": 73,
+   "file": "his201-exam1-01-study-guide-terms.json",
+   "subject": "HIS-201",
+   "subjectSlug": "his201",
+   "topic": "Exam I: Unit One Study Guide",
+   "topicSlug": "exam-1"
   },
   {
    "id": "psc201-m2-01-definitions",

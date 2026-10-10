@@ -5,7 +5,7 @@
  "topic": "Exam I: Unit One Study Guide",
  "short": "Study Guide Terms",
  "order": 1,
- "count": 73,
+ "count": 74,
  "cards": [
   {
    "id": "c0",
@@ -371,6 +371,11 @@
    "id": "c72",
    "term": "Balanced constitution",
    "def": "The balanced constitution was England's government of Crown (monarchy), Lords (aristocracy) and Commons (people), which colonists praised as the basis of their liberty but which patronage and bribery corrupted, while colonial governments copied it with a governor, council and elected assembly. (Ch. 5)"
+  },
+  {
+   "id": "c73",
+   "term": "Shaman",
+   "def": "A band's spiritual leader and dream interpreter, so some Great Basin, Plains and far-northern bands were led \"by the most skillful hunter or the most powerful shaman,\" and Micmac shamans interpreted dreams before Europeans arrived. (Ch. 1, 4)"
   }
  ]
 }

@@ -362,7 +362,7 @@
   {
    "name": "HIS-201",
    "slug": "his201",
-   "count": 890,
+   "count": 891,
    "topics": [
     {
      "name": "Chapter 1: The First Civilizations of North America",
@@ -602,14 +602,14 @@
     {
      "name": "Exam I: Unit One Study Guide",
      "slug": "exam-1",
-     "count": 73,
+     "count": 74,
      "decks": [
       {
        "id": "his201-exam1-01-study-guide-terms",
        "title": "HIS-201 Exam I — Study Guide Terms",
        "short": "Study Guide Terms",
        "order": 1,
-       "count": 73,
+       "count": 74,
        "file": "his201-exam1-01-study-guide-terms.json"
       }
      ]
@@ -1421,7 +1421,7 @@
    "title": "HIS-201 Exam I — Study Guide Terms",
    "short": "Study Guide Terms",
    "order": 1,
-   "count": 73,
+   "count": 74,
    "file": "his201-exam1-01-study-guide-terms.json",
    "subject": "HIS-201",
    "subjectSlug": "his201",

@@ -262,7 +262,10 @@ async function openDeck(id) {
   S.prog = loadProgress(id);
   // Drop stale ids (deck edited since progress was saved)
   if (S.prog.round && S.prog.round.queue.some(cid => !S.byId[cid])) S.prog.round = null;
-  if (!S.prog.round) { startRound(deck.cards.map(c => c.id), S.settings.shuffle, 1); }
+  if (!S.prog.round) {
+    const isMisses = S.deck.id === 'misses';
+    startRound(deck.cards.map(c => c.id), isMisses ? false : S.settings.shuffle, 1);
+  }
   $('#study-deck-title').textContent = deck.short || deck.title;
   $('#study-deck-title').title = deck.title;
   $('#sum-deck-title').textContent = deck.short || deck.title;

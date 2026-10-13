@@ -9,128 +9,128 @@
  "cards": [
   {
    "id": "c0",
-   "term": "1. Ice Age migrants arrive (Ch. 1)",
-   "def": "Ice Age hunters from Asia followed megafauna across the Beringia land bridge or down the Pacific coast, so people first settled the Americas."
+   "term": "1. Ice Age hunters reach America (Ch. 1)",
+   "def": "During the Ice Age, hunters from Asia followed big game across the Beringia land bridge or down the Pacific coast, so people first settled the Americas."
   },
   {
    "id": "c1",
-   "term": "2. Farming builds civilizations (Ch. 1)",
-   "def": "After the megafauna died out, Mesoamerican farmers domesticated squash, beans and maize, which let them settle down and build cities like the Olmec, Maya and Aztec."
+   "term": "2. Farming builds American civilizations (Ch. 1)",
+   "def": "When that big game died out, the hunters' descendants in Mexico learned to farm squash, beans and maize, and the stored food let them build great cities like those of the Maya and Aztecs."
   },
   {
    "id": "c2",
-   "term": "3. Americans have no immunity (Ch. 1)",
-   "def": "Because those farming peoples had few domestic animals, they never caught livestock diseases, which left them with no immunity when Europeans arrived."
+   "term": "3. A hidden weakness (Ch. 1)",
+   "def": "Because these farming peoples kept few domestic animals, they never caught animal-born diseases like smallpox, so they had no immunity when Europeans finally arrived."
   },
   {
    "id": "c3",
-   "term": "4. Europe looks outward (Ch. 2)",
-   "def": "Meanwhile, after the Black Death eased population pressure, Europeans sought Asian riches without Muslim middlemen, to spread Christianity and to win glory for rival monarchs."
+   "term": "4. Europe recovers from the plague (Ch. 2)",
+   "def": "At the same time, across the ocean, a plague called the Black Death killed a quarter of Europe in the 1340s and 1350s, leaving survivors with more land and money to spend on ships and trade."
   },
   {
    "id": "c4",
-   "term": "5. Portugal invents the plantation model (Ch. 2)",
-   "def": "Portugal used caravels and astrolabes to reach the Atlantic islands, where sugar plantations worked by enslaved Africans became the model for the Americas."
+   "term": "5. Europe wants a sea route to Asia (Ch. 2)",
+   "def": "With that new money, Europeans wanted to buy Asia's riches directly instead of paying Muslim traders in the middle, and to spread Christianity and win glory for their kings."
   },
   {
    "id": "c5",
-   "term": "6. Columbus links two worlds (Ch. 2)",
-   "def": "Looking for Asia in 1492, Christopher Columbus instead connected two hemispheres that had developed apart for thousands of years."
+   "term": "6. Portugal invents the plantation (Ch. 2)",
+   "def": "Searching for that sea route, Portugal built better ships and grew sugar on Atlantic islands with enslaved Africans, creating the plantation model later used in America."
   },
   {
    "id": "c6",
-   "term": "7. Spain conquers the Aztecs and Incas (Ch. 2)",
-   "def": "Because of the missing immunity from card 3, smallpox, Indian allies, and Spanish guns and horses let Hernán Cortés and the Spanish conquer the Aztec and Inca empires quickly."
+   "term": "7. Columbus joins the two worlds (Ch. 2)",
+   "def": "Spain then sent Christopher Columbus west to reach Asia in 1492, but he landed in the Americas and connected the two separate worlds from cards 1 and 4."
   },
   {
    "id": "c7",
-   "term": "8. Silver and the Columbian Exchange (Ch. 2)",
-   "def": "The conquest made Spain rich on American silver, while the Columbian Exchange swapped crops, animals and diseases between the hemispheres."
+   "term": "8. Spain conquers and gets rich (Ch. 2)",
+   "def": "Because Native Americans had no immunity (card 3), smallpox, Indian allies and Spanish guns let Hernán Cortés conquer the Aztecs, and their silver made Spain the richest power in Europe."
   },
   {
    "id": "c8",
-   "term": "9. The Reformation turns rivalry religious (Ch. 2)",
-   "def": "Martin Luther's Reformation split Europe, so Protestant England and Catholic Spain treated colonies as outposts of their faiths."
+   "term": "9. Religion splits Europe's rivals (Ch. 2)",
+   "def": "Meanwhile Martin Luther's Reformation split Christians into Catholics and Protestants, so Protestant England saw Catholic Spain's American empire as a religious enemy to challenge."
   },
   {
    "id": "c9",
-   "term": "10. England's first try fails at Roanoke (Ch. 2)",
-   "def": "Elizabeth's England, fearing Spain, sent Walter Raleigh's Roanoke colony, which failed when the colonists abused Wingina's people and the Spanish Armada cut off supplies."
+   "term": "10. England's first try fails (Ch. 2)",
+   "def": "To compete with Spain, Walter Raleigh started the Roanoke colony, but it failed because the colonists mistreated the local Indians and Spain's Armada cut off their supplies."
   },
   {
    "id": "c10",
-   "term": "11. Spain holds the borderlands (Ch. 3)",
-   "def": "Spain guarded Florida and New Mexico with Franciscan missions and soldiers, until forced labor and religious repression triggered the 1680 Pueblo Revolt."
+   "term": "11. Spain guards its northern edge (Ch. 3)",
+   "def": "Spain protected its empire from rivals like England with Franciscan missions and soldiers in Florida and New Mexico, but forced labor and religious repression caused the 1680 Pueblo Revolt."
   },
   {
    "id": "c11",
-   "term": "12. Jamestown nearly starves (Ch. 3)",
-   "def": "England tried again in 1607 at Jamestown, where gentlemen who would not farm survived mainly because Powhatan wanted English trade goods and weapons."
+   "term": "12. Jamestown barely survives (Ch. 3)",
+   "def": "Learning from Roanoke's failure, England founded Jamestown in 1607, where settlers who would not farm survived only because Powhatan wanted their trade goods and guns."
   },
   {
    "id": "c12",
-   "term": "13. Tobacco saves Virginia (Ch. 3)",
-   "def": "John Rolfe's tobacco and the headright system made Virginia profitable, so planters imported indentured servants and seized Powhatan land, causing Indian wars."
+   "term": "13. Tobacco makes Virginia rich (Ch. 3)",
+   "def": "John Rolfe's tobacco finally made Jamestown profitable, so planters brought indentured servants for land under the headright system and kept taking Powhatan land."
   },
   {
    "id": "c13",
-   "term": "14. Bacon's Rebellion (Ch. 3)",
-   "def": "Falling tobacco prices under the Navigation Acts left freed servants landless, so in 1676 Nathaniel Bacon led them against Governor Berkeley."
+   "term": "14. Poor servants revolt (Ch. 3)",
+   "def": "When tobacco prices fell under England's Navigation Acts, freed servants had no land, so in 1676 Nathaniel Bacon led them in rebellion against Governor Berkeley."
   },
   {
    "id": "c14",
-   "term": "15. Slavery replaces servitude (Ch. 3)",
-   "def": "After Bacon's Rebellion, planters turned to enslaved Africans and passed slave codes, which united whites of all classes against the Black population."
+   "term": "15. Slaves replace servants (Ch. 3)",
+   "def": "Frightened by Bacon's Rebellion, planters switched from servants to enslaved Africans and passed slave codes that united poor and rich whites against Black people."
   },
   {
    "id": "c15",
-   "term": "16. Sugar, rice and the Carolinas (Ch. 3)",
-   "def": "Caribbean sugar planters from Barbados founded South Carolina on rice and slaves, and its Indian slave trade provoked the 1715 Yamasee War."
+   "term": "16. The plantation model spreads to Carolina (Ch. 3)",
+   "def": "Sugar planters from Barbados carried this slave system to South Carolina to grow rice, and their trade in Indian slaves sparked the 1715 Yamasee War."
   },
   {
    "id": "c16",
-   "term": "17. France builds a fur empire (Ch. 4)",
-   "def": "In the north, Samuel de Champlain's French built a thinly settled fur-trading empire along the St. Lawrence, relying on Huron allies for beaver pelts and Jesuits for converts."
+   "term": "17. France takes the north instead (Ch. 4)",
+   "def": "While England built plantations in the south, France under Samuel de Champlain built a fur-trading empire along the St. Lawrence, using Huron allies to trap beaver."
   },
   {
    "id": "c17",
-   "term": "18. The Beaver Wars (Ch. 4)",
-   "def": "Competition for those furs, with Dutch guns arming the Iroquois, destroyed the Hurons and pushed the French toward the Mississippi."
+   "term": "18. Furs cause the Beaver Wars (Ch. 4)",
+   "def": "Fighting over those beaver furs, Iroquois armed with Dutch guns destroyed the Hurons, which pushed the French west toward the Mississippi."
   },
   {
    "id": "c18",
-   "term": "19. Puritans settle New England (Ch. 4)",
-   "def": "Unlike the Chesapeake's single young men, persecuted Puritans came in families, with Separatist Pilgrims at Plymouth and John Winthrop's Massachusetts Bay as a \"city upon a hill.\""
+   "term": "19. Puritans come for faith (Ch. 4)",
+   "def": "Unlike the fur traders and the Chesapeake's single young men, Puritans fled England's religious persecution in families to build John Winthrop's godly \"city upon a hill\" in Massachusetts."
   },
   {
    "id": "c19",
-   "term": "20. Stable but strict New England (Ch. 4)",
-   "def": "Shared faith and long lives made New England stable, but dissent drove out Roger Williams and Anne Hutchinson, and land hunger led to Metacom's War in 1675."
+   "term": "20. Strong faith, harsh limits (Ch. 4)",
+   "def": "Shared faith and family life made New England stable, but it banished dissenters like Roger Williams and Anne Hutchinson, and its hunger for Indian land caused Metacom's War in 1675."
   },
   {
    "id": "c20",
-   "term": "21. The diverse mid-Atlantic and 1688 (Ch. 4)",
-   "def": "Conquered Dutch New York and William Penn's Quaker Pennsylvania mixed many peoples, and after the 1688 Glorious Revolution ended James II's Dominion, the colonies were permanent and firmly rooted."
+   "term": "21. The colonies put down roots (Ch. 4)",
+   "def": "Between New England and the south, Dutch New York and William Penn's Quaker Pennsylvania mixed many peoples, and after the 1688 Glorious Revolution all these colonies were permanent, self-governing societies."
   },
   {
    "id": "c21",
    "term": "22. Spain and France stay thin (Ch. 5)",
-   "def": "In the 1700s Spain pushed presidios and missions into Texas and California as buffers, while New France, with few colonists, relied on alliances with Indians."
+   "def": "In the 1700s Spain and France still had few settlers, so Spain guarded Texas and California with forts and missions while New France relied on Indian allies."
   },
   {
    "id": "c22",
    "term": "23. British colonies boom and divide (Ch. 5)",
-   "def": "British colonies grew by natural increase, immigration and slave imports, but Scots-Irish backcountry settlers, seaports and the 1739 Stono Rebellion split colonists by region, class and race."
+   "def": "British colonies instead grew fast through births, immigrants and slaves, but that growth split colonists by region and race, as the 1739 Stono slave rebellion showed."
   },
   {
    "id": "c23",
-   "term": "24. Enlightenment versus Awakening (Ch. 5)",
-   "def": "Religion divided them further, as Benjamin Franklin's Enlightenment reason clashed with George Whitefield's Great Awakening, which spread Presbyterians and Baptists."
+   "term": "24. Reason versus revival (Ch. 5)",
+   "def": "Religion divided them further, as Benjamin Franklin's Enlightenment trusted human reason while George Whitefield's Great Awakening stirred emotional revivals that split churches."
   },
   {
    "id": "c24",
-   "term": "25. Proud to be English (Ch. 5)",
-   "def": "Despite these divisions, most white colonists were proud to be English because Britain's benign neglect gave them more land, opportunity and self-government than people in England had."
+   "term": "25. Still proud to be English (Ch. 5)",
+   "def": "Despite all these divisions, most white colonists were proud to be English because Britain's loose \"benign neglect\" gave them more land, chances and self-rule than people in England had."
   }
  ]
 }

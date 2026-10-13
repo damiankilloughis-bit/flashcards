@@ -362,7 +362,7 @@
   {
    "name": "HIS-201",
    "slug": "his201",
-   "count": 891,
+   "count": 948,
    "topics": [
     {
      "name": "Chapter 1: The First Civilizations of North America",
@@ -611,6 +611,29 @@
        "order": 1,
        "count": 74,
        "file": "his201-exam1-01-study-guide-terms.json"
+      }
+     ]
+    },
+    {
+     "name": "Unit One Exam Pack",
+     "slug": "unit-1",
+     "count": 57,
+     "decks": [
+      {
+       "id": "his201-unit1-01-main-ideas-pathway",
+       "title": "HIS-201 Unit 1 — 1 Main Ideas Pathway",
+       "short": "1 Pathway",
+       "order": 1,
+       "count": 25,
+       "file": "his201-unit1-01-main-ideas-pathway.json"
+      },
+      {
+       "id": "his201-unit1-02-high-yield-qa",
+       "title": "HIS-201 Unit 1 — 2 High-Yield Q&A",
+       "short": "2 Q&A",
+       "order": 2,
+       "count": 32,
+       "file": "his201-unit1-02-high-yield-qa.json"
       }
      ]
     }
@@ -1427,6 +1450,30 @@
    "subjectSlug": "his201",
    "topic": "Exam I: Unit One Study Guide",
    "topicSlug": "exam-1"
+  },
+  {
+   "id": "his201-unit1-01-main-ideas-pathway",
+   "title": "HIS-201 Unit 1 — 1 Main Ideas Pathway",
+   "short": "1 Pathway",
+   "order": 1,
+   "count": 25,
+   "file": "his201-unit1-01-main-ideas-pathway.json",
+   "subject": "HIS-201",
+   "subjectSlug": "his201",
+   "topic": "Unit One Exam Pack",
+   "topicSlug": "unit-1"
+  },
+  {
+   "id": "his201-unit1-02-high-yield-qa",
+   "title": "HIS-201 Unit 1 — 2 High-Yield Q&A",
+   "short": "2 Q&A",
+   "order": 2,
+   "count": 32,
+   "file": "his201-unit1-02-high-yield-qa.json",
+   "subject": "HIS-201",
+   "subjectSlug": "his201",
+   "topic": "Unit One Exam Pack",
+   "topicSlug": "unit-1"
   },
   {
    "id": "psc201-m2-01-definitions",

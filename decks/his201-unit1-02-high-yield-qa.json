@@ -5,7 +5,7 @@
  "topic": "Unit One Exam Pack",
  "short": "2 Q&A",
  "order": 2,
- "count": 32,
+ "count": 40,
  "cards": [
   {
    "id": "c0",
@@ -166,6 +166,46 @@
    "id": "c31",
    "term": "What does \"natural increase\" mean?",
    "def": "Natural increase means births outnumbered deaths, which was the main reason British colonial population grew."
+  },
+  {
+   "id": "c32",
+   "term": "Who was Captain John Smith?",
+   "def": "Captain John Smith briefly imposed order on early Jamestown and bullied Indians for food before returning to England in 1609."
+  },
+  {
+   "id": "c33",
+   "term": "Who was Pocahontas?",
+   "def": "Pocahontas was Powhatan's favorite child, whose 1614 marriage to John Rolfe strengthened Powhatan's relationship with the English."
+  },
+  {
+   "id": "c34",
+   "term": "What was the House of Burgesses?",
+   "def": "Virginia's House of Burgesses, first meeting in 1619, made laws and began a strong tradition of representative government."
+  },
+  {
+   "id": "c35",
+   "term": "What was mercantilism?",
+   "def": "Mercantilism was state regulation and protection of industry and commerce to win a favorable balance of trade."
+  },
+  {
+   "id": "c36",
+   "term": "What was life like for women in the 17th-century Chesapeake?",
+   "def": "Because men outnumbered women six to one, surviving Chesapeake women could improve their status through marriage."
+  },
+  {
+   "id": "c37",
+   "term": "What did indentured servants receive?",
+   "def": "Indentured servants received paid passage to America in exchange for about seven years of labor."
+  },
+  {
+   "id": "c38",
+   "term": "Where did most slaves in the English mainland colonies come from after 1680?",
+   "def": "After 1680, more than 80 percent of new slaves entering the Chesapeake and mainland North America came directly from Africa."
+  },
+  {
+   "id": "c39",
+   "term": "Why was Georgia founded?",
+   "def": "James Oglethorpe's trustees founded Georgia in 1732 as a buffer against Spanish Florida and a refuge for the worthy poor, banning slavery and hard liquor."
   }
  ]
 }

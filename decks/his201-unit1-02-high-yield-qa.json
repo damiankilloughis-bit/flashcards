@@ -5,7 +5,7 @@
  "topic": "Unit One Exam Pack",
  "short": "2 Q&A",
  "order": 2,
- "count": 40,
+ "count": 48,
  "cards": [
   {
    "id": "c0",
@@ -206,6 +206,46 @@
    "id": "c39",
    "term": "Why was Georgia founded?",
    "def": "James Oglethorpe's trustees founded Georgia in 1732 as a buffer against Spanish Florida and a refuge for the worthy poor, banning slavery and hard liquor."
+  },
+  {
+   "id": "c40",
+   "term": "Who was Prince Henry \"the Navigator\"?",
+   "def": "Prince Henry \"the Navigator\" promoted Portuguese voyages, Catholicism and opposition to Islam, funding a maritime school that sent caravels down Africa's west coast."
+  },
+  {
+   "id": "c41",
+   "term": "Who sponsored Columbus and why did they wait?",
+   "def": "Ferdinand and Isabella of Spain first rejected Columbus while finishing the reconquista against Granada, then accepted his proposal in 1492."
+  },
+  {
+   "id": "c42",
+   "term": "Why did Columbus think he could reach Asia by sailing west?",
+   "def": "Columbus's globe was too small, so he underestimated the distance to China, as Portuguese experts correctly warned."
+  },
+  {
+   "id": "c43",
+   "term": "How many voyages did Columbus make to the Americas?",
+   "def": "Columbus made four voyages to the Americas, in 1492, 1493, 1498 and 1502."
+  },
+  {
+   "id": "c44",
+   "term": "How did America get its name?",
+   "def": "Amerigo Vespucci called the lands Mundus Novus (\"New World\"), and a German mapmaker named them America in his honor."
+  },
+  {
+   "id": "c45",
+   "term": "What did John Cabot seek and what happened to him?",
+   "def": "Sailing for Henry VII, John Cabot reached a \"new-found\" island in 1497, then disappeared in 1498 seeking a Northwest Passage to Asia."
+  },
+  {
+   "id": "c46",
+   "term": "What did John Calvin teach?",
+   "def": "John Calvin taught predestination, that God had chosen the \"elect\" for salvation, and urged Christians to work at a calling and reshape society by biblical law."
+  },
+  {
+   "id": "c47",
+   "term": "What precedent did England's conquest of Ireland set?",
+   "def": "England's brutal conquest of Catholic Ireland set a precedent for treating \"savage\" peoples more harshly than Europeans, which Gilbert and Raleigh carried to America."
   }
  ]
 }

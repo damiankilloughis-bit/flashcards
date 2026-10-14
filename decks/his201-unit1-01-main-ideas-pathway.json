@@ -9,128 +9,128 @@
  "cards": [
   {
    "id": "c0",
-   "term": "1. Ice Age hunters reach America (Ch. 1)",
-   "def": "During the Ice Age, hunters from Asia followed big game across the Beringia land bridge or down the Pacific coast, so people first settled the Americas."
+   "term": "1. Migration via Beringia (Ch. 1)",
+   "def": "Ice Age hunters from Asia followed megafauna across Beringia or down the Pacific coast, settling the Americas."
   },
   {
    "id": "c1",
-   "term": "2. Farming builds American civilizations (Ch. 1)",
-   "def": "When that big game died out, the hunters' descendants in Mexico learned to farm squash, beans and maize, and the stored food let them build great cities like those of the Maya and Aztecs."
+   "term": "2. Agricultural revolution (Ch. 1)",
+   "def": "As megafauna died out, Mesoamericans domesticated squash, beans and maize, and stored food let the Olmecs, Maya and Aztecs build cities."
   },
   {
    "id": "c2",
-   "term": "3. A hidden weakness (Ch. 1)",
-   "def": "Because these farming peoples kept few domestic animals, they never caught animal-borne diseases like smallpox, so they had no immunity when Europeans finally arrived."
+   "term": "3. No immunity (Ch. 1)",
+   "def": "Few domestic animals meant no exposure to livestock diseases like smallpox, leaving Native Americans without immunity."
   },
   {
    "id": "c3",
-   "term": "4. Europe recovers from the plague (Ch. 2)",
-   "def": "At the same time, across the ocean, a plague called the Black Death killed a quarter of Europe in the 1340s and 1350s, leaving survivors with more land and money to spend on ships and trade."
+   "term": "4. Black Death (Ch. 2)",
+   "def": "Meanwhile the Black Death killed a quarter of Europe in the 1340s–1350s, leaving survivors richer and freeing capital for trade and ships."
   },
   {
    "id": "c4",
-   "term": "5. Europe wants a sea route to Asia (Ch. 2)",
-   "def": "With that new money, Europeans wanted to buy Asia's riches directly instead of paying Muslim traders in the middle, and to spread Christianity and win glory for their kings."
+   "term": "5. Motives for exploration (Ch. 2)",
+   "def": "With that capital, Europeans sought Asian riches without Muslim middlemen, plus gold, converts to Christianity and glory for their monarchs."
   },
   {
    "id": "c5",
-   "term": "6. Portugal invents the plantation (Ch. 2)",
-   "def": "Searching for that sea route, Portugal built better ships and grew sugar on Atlantic islands with enslaved Africans, creating the plantation model later used in America."
+   "term": "6. Sugar plantations (Ch. 2)",
+   "def": "Seeking a sea route, Portugal used caravels and astrolabes and built Atlantic-island sugar plantations worked by enslaved Africans, the model for American slavery."
   },
   {
    "id": "c6",
-   "term": "7. Columbus joins the two worlds (Ch. 2)",
-   "def": "Spain then sent Christopher Columbus west to reach Asia in 1492, but he landed in the Americas and connected the two separate worlds from cards 1 and 4."
+   "term": "7. Columbus, 1492 (Ch. 2)",
+   "def": "Sailing west for Asia, Christopher Columbus reached the Taino in the Caribbean, joining the hemispheres of cards 1 and 4."
   },
   {
    "id": "c7",
-   "term": "8. Spain conquers and gets rich (Ch. 2)",
-   "def": "Because Native Americans had no immunity (card 3), smallpox, Indian allies and Spanish guns let Hernán Cortés conquer the Aztecs, and their silver made Spain enormously rich."
+   "term": "8. Conquest and silver (Ch. 2)",
+   "def": "Lacking immunity (card 3), the Aztecs fell to Hernán Cortés through smallpox, Indian allies and guns, and American silver made Spain enormously rich through the Columbian Exchange."
   },
   {
    "id": "c8",
-   "term": "9. Religion splits Europe's rivals (Ch. 2)",
-   "def": "Meanwhile Martin Luther's Reformation split Christians into Catholics and Protestants, so Protestant England saw Catholic Spain's American empire as a religious enemy to challenge."
+   "term": "9. Reformation (Ch. 2)",
+   "def": "Martin Luther's Reformation split Europe, so Protestant England treated Catholic Spain's American empire as a religious rival."
   },
   {
    "id": "c9",
-   "term": "10. England's first try fails (Ch. 2)",
-   "def": "To compete with Spain, Walter Raleigh started the Roanoke colony, but it failed because the colonists mistreated the local Indians and Spain's Armada cut off their supplies."
+   "term": "10. Roanoke (Ch. 2)",
+   "def": "Challenging Spain, Walter Raleigh's Roanoke colony failed after colonists abused Wingina's people and the Spanish Armada cut off supplies."
   },
   {
    "id": "c10",
-   "term": "11. Spain guards its northern edge (Ch. 3)",
-   "def": "Spain protected its empire from rivals like England with Franciscan missions and soldiers in Florida and New Mexico, but forced labor and religious repression caused the 1680 Pueblo Revolt."
+   "term": "11. Franciscans and Pueblo Revolt (Ch. 3)",
+   "def": "Spain held Florida and New Mexico with Franciscan missions and soldiers until forced labor and religious repression sparked the 1680 Pueblo Revolt."
   },
   {
    "id": "c11",
-   "term": "12. Jamestown barely survives (Ch. 3)",
-   "def": "Learning from Roanoke's failure, England founded Jamestown in 1607, where settlers who would not farm survived only because Powhatan wanted their trade goods and guns."
+   "term": "12. Jamestown (Ch. 3)",
+   "def": "England's 1607 Jamestown nearly starved because gentlemen would not farm, surviving only because Powhatan wanted English goods and guns."
   },
   {
    "id": "c12",
-   "term": "13. Tobacco makes Virginia rich (Ch. 3)",
-   "def": "John Rolfe's tobacco finally made Jamestown profitable, so planters brought indentured servants for land under the headright system and kept taking Powhatan land."
+   "term": "13. Tobacco and headrights (Ch. 3)",
+   "def": "John Rolfe's tobacco made Virginia profitable, and the headright system brought indentured servants while planters seized Powhatan land."
   },
   {
    "id": "c13",
-   "term": "14. Poor servants revolt (Ch. 3)",
-   "def": "When tobacco prices fell under England's Navigation Acts, freed servants had no land, so in 1676 Nathaniel Bacon led them in rebellion against Governor Berkeley."
+   "term": "14. Bacon's Rebellion (Ch. 3)",
+   "def": "Under Charles II's Navigation Acts tobacco prices fell, leaving freed indentured servants landless, so Nathaniel Bacon led them against Governor Berkeley in 1676."
   },
   {
    "id": "c14",
-   "term": "15. Slaves replace servants (Ch. 3)",
-   "def": "Frightened by Bacon's Rebellion, planters switched from servants to enslaved Africans and passed slave codes that united poor and rich whites against Black people."
+   "term": "15. Slave codes (Ch. 3)",
+   "def": "After Bacon's Rebellion, planters shifted from indentured servants to enslaved Africans and passed slave codes uniting all whites against Blacks."
   },
   {
    "id": "c15",
-   "term": "16. The plantation model spreads to Carolina (Ch. 3)",
-   "def": "Sugar planters from Barbados carried this slave system to South Carolina to grow rice, and their trade in Indian slaves sparked the 1715 Yamasee War."
+   "term": "16. South Carolina and the Yamasee War (Ch. 3)",
+   "def": "Barbados sugar planters carried this plantation slavery to South Carolina's rice fields, and its Indian slave trade sparked the 1715 Yamasee War."
   },
   {
    "id": "c16",
-   "term": "17. France takes the north instead (Ch. 4)",
-   "def": "While England built plantations in the south, France under Samuel de Champlain built a fur-trading empire along the St. Lawrence, using Huron allies to trap beaver."
+   "term": "17. French fur trade (Ch. 4)",
+   "def": "While England planted the south, Samuel de Champlain's France traded for beaver along the St. Lawrence through Huron allies and Jesuit missionaries."
   },
   {
    "id": "c17",
-   "term": "18. Furs cause the Beaver Wars (Ch. 4)",
-   "def": "Fighting over those beaver furs, Iroquois armed with Dutch guns destroyed the Hurons, which pushed the French west toward the Mississippi."
+   "term": "18. Beaver Wars (Ch. 4)",
+   "def": "Competing for beaver, the Dutch-armed Iroquois destroyed the Hurons, pushing France toward the Mississippi."
   },
   {
    "id": "c18",
-   "term": "19. Puritans come for faith (Ch. 4)",
-   "def": "Unlike the fur traders and the Chesapeake's single young men, Puritans fled England's religious persecution in families to build John Winthrop's godly \"city upon a hill\" in Massachusetts."
+   "term": "19. Separatists and Puritans (Ch. 4)",
+   "def": "Unlike Chesapeake single men, persecuted Puritans came in families: Separatists signed the Mayflower Compact at Plymouth, and John Winthrop's Massachusetts Bay Colony aimed to be a \"city upon a hill.\""
   },
   {
    "id": "c19",
-   "term": "20. Strong faith, harsh limits (Ch. 4)",
-   "def": "Shared faith and family life made New England stable, but it banished dissenters like Roger Williams and Anne Hutchinson, and its hunger for Indian land caused Metacom's War in 1675."
+   "term": "20. Dissent and Metacom's War (Ch. 4)",
+   "def": "Shared faith kept New England stable, but it banished Roger Williams and Anne Hutchinson, saw the Salem witch trials, and land hunger caused Metacom's War in 1675."
   },
   {
    "id": "c20",
-   "term": "21. The colonies put down roots (Ch. 4)",
-   "def": "Between New England and the south, Dutch New York and William Penn's Quaker Pennsylvania mixed many peoples, and after the 1688 Glorious Revolution all these colonies were permanent, self-governing societies."
+   "term": "21. Mid-Atlantic and the Glorious Revolution (Ch. 4)",
+   "def": "New Netherland became New York and William Penn's Quakers founded Pennsylvania, and after the 1688 Glorious Revolution ended the Dominion of New England, the colonies were permanent and self-governing."
   },
   {
    "id": "c21",
-   "term": "22. Spain and France stay thin (Ch. 5)",
-   "def": "In the 1700s Spain and France still had few settlers, so Spain guarded Texas and California with forts and missions while New France relied on Indian allies."
+   "term": "22. Spanish and French borderlands (Ch. 5)",
+   "def": "Still thinly settled, Spain built presidios and missions in Texas and California, while New France relied on Indian alliances and Louisiana stopped slave imports after the 1729 Natchez uprising."
   },
   {
    "id": "c22",
-   "term": "23. British colonies boom and divide (Ch. 5)",
-   "def": "British colonies instead grew fast through births, immigrants and slaves, but that growth split colonists by region and race, as the 1739 Stono slave rebellion showed."
+   "term": "23. Growth and division (Ch. 5)",
+   "def": "British colonies boomed through natural increase, immigration and slave imports, but Scots-Irish in the backcountry, seaports and the 1739 Stono Rebellion divided colonists."
   },
   {
    "id": "c23",
-   "term": "24. Reason versus revival (Ch. 5)",
-   "def": "Religion divided them further, as Benjamin Franklin's Enlightenment trusted human reason while George Whitefield's Great Awakening stirred emotional revivals that split churches."
+   "term": "24. Enlightenment vs. Great Awakening (Ch. 5)",
+   "def": "Religion split them further: Benjamin Franklin's Enlightenment championed reason, while George Whitefield's Great Awakening split churches and grew Presbyterians and Baptists."
   },
   {
    "id": "c24",
-   "term": "25. Still proud to be English (Ch. 5)",
-   "def": "Despite all these divisions, most white colonists were proud to be English because Britain's loose \"benign neglect\" gave them more land, chances and self-rule than people in England had."
+   "term": "25. Benign neglect (Ch. 5)",
+   "def": "Despite these divisions, most white colonists were proud to be English because Britain's benign neglect gave them more land, opportunity and self-government than England had."
   }
  ]
 }

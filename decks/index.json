@@ -362,7 +362,7 @@
   {
    "name": "HIS-201",
    "slug": "his201",
-   "count": 948,
+   "count": 953,
    "topics": [
     {
      "name": "Chapter 1: The First Civilizations of North America",
@@ -617,14 +617,14 @@
     {
      "name": "Unit One Exam Pack",
      "slug": "unit-1",
-     "count": 57,
+     "count": 62,
      "decks": [
       {
        "id": "his201-unit1-01-main-ideas-pathway",
        "title": "HIS-201 Unit 1 — 1 Main Ideas Pathway",
        "short": "1 Pathway",
        "order": 1,
-       "count": 25,
+       "count": 30,
        "file": "his201-unit1-01-main-ideas-pathway.json"
       },
       {
@@ -1456,7 +1456,7 @@
    "title": "HIS-201 Unit 1 — 1 Main Ideas Pathway",
    "short": "1 Pathway",
    "order": 1,
-   "count": 25,
+   "count": 30,
    "file": "his201-unit1-01-main-ideas-pathway.json",
    "subject": "HIS-201",
    "subjectSlug": "his201",

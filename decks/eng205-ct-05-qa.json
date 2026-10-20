@@ -1,0 +1,341 @@
+{
+ "id": "eng205-ct-05-qa",
+ "title": "ENG-205 Canterbury Tales — 5 Q&A",
+ "subject": "ENG-205",
+ "topic": "Canterbury Tales",
+ "short": "5 Q&A",
+ "order": 5,
+ "count": 66,
+ "cards": [
+  {
+   "id": "c0",
+   "term": "What draws people to go on pilgrimages at the opening of the General Prologue (lines 1–18)?",
+   "def": "April's sweet showers and Zephyrus's breath renew the land and Nature pricks hearts, so folk long to go on pilgrimages, especially to Canterbury's \"holy blissful martyr.\""
+  },
+  {
+   "id": "c1",
+   "term": "Where do the pilgrims meet?",
+   "def": "They meet at the Tabard inn in Southwark, a London suburb south of the Thames."
+  },
+  {
+   "id": "c2",
+   "term": "What does the narrator promise to describe for each pilgrim (lines 38–41)?",
+   "def": "He promises to tell each pilgrim's condition, who they were, their degree, and what array they were in."
+  },
+  {
+   "id": "c3",
+   "term": "What does the Knight love, according to lines 45–46?",
+   "def": "The Knight loves chivalry, \"Trouth and honor, freedom and courtesy.\""
+  },
+  {
+   "id": "c4",
+   "term": "Why is the Knight's tunic stained (lines 75–77)?",
+   "def": "His fustian tunic is soiled by his mail coat because he has just come from his voyage and goes straight to his pilgrimage."
+  },
+  {
+   "id": "c5",
+   "term": "What details show the Prioress imitating court manners (lines 127–141)?",
+   "def": "She never lets a morsel fall or wets her fingers in sauce, wipes her lip so no grease shows in her cup, and strains to counterfeit court cheer and be thought worthy of reverence."
+  },
+  {
+   "id": "c6",
+   "term": "What French does the Prioress speak?",
+   "def": "She speaks French \"after the school of Stratford at the Bowe,\" for \"French of Paris was to her unknowe.\""
+  },
+  {
+   "id": "c7",
+   "term": "What shows the Prioress's \"conscience and tender herte\" (lines 142–150)?",
+   "def": "She weeps over a mouse caught in a trap and over her small dogs, which she feeds roast meat, milk and fine bread."
+  },
+  {
+   "id": "c8",
+   "term": "What is written on the Prioress's brooch (lines 160–162)?",
+   "def": "A crowned A and the Latin \"Amor vincit omnia,\" love conquers all."
+  },
+  {
+   "id": "c9",
+   "term": "Which two texts does the Monk not value \"a pulled hen\" (lines 177–182)?",
+   "def": "He scorns the text that says hunters are not holy men and the one that likens a monk out of his cloister to a fish out of water."
+  },
+  {
+   "id": "c10",
+   "term": "How does the Friar make penance easy (lines 223–232)?",
+   "def": "He gives easy penance where he expects a good gift, claiming that giving to a poor order proves a man has truly repented, so men give silver instead of weeping and prayers."
+  },
+  {
+   "id": "c11",
+   "term": "Why does the Friar avoid lepers and beggars (lines 240–248)?",
+   "def": "He thinks dealing with such poor people is not honest and brings no profit, so he deals only with the rich and sellers of food."
+  },
+  {
+   "id": "c12",
+   "term": "How does the Clerk spend whatever his friends give him (lines 299–302)?",
+   "def": "He spends it on books and learning and busily prays for the souls of those who gave it."
+  },
+  {
+   "id": "c13",
+   "term": "How is the Wife of Bath's skill at cloth-making described (lines 447–448)?",
+   "def": "She surpasses the cloth-makers of Ypres and Ghent."
+  },
+  {
+   "id": "c14",
+   "term": "What makes the Wife of Bath angry at church (lines 449–452)?",
+   "def": "If any wife goes to the offering before her, she becomes so angry that she is \"out of all charity.\""
+  },
+  {
+   "id": "c15",
+   "term": "Which shrines has the Wife of Bath visited (lines 463–466)?",
+   "def": "She has been to Jerusalem three times and to Rome, Boulogne, St. James in Galicia, and Cologne."
+  },
+  {
+   "id": "c16",
+   "term": "What does the Wife wear on her horse (lines 469–473)?",
+   "def": "She wears a wimple, a hat as broad as a shield, a foot-mantle about her large hips, and a pair of sharp spurs."
+  },
+  {
+   "id": "c17",
+   "term": "What figure does the Parson add to the Gospel (lines 499–504)?",
+   "def": "He asks \"if gold rust, what shall iron do?\", meaning a foul priest corrupts lay people, and calls it shameful to see \"a shiten shepherd and a clene sheep.\""
+  },
+  {
+   "id": "c18",
+   "term": "What does the Parson refuse to do with his benefice (lines 507–514)?",
+   "def": "He does not rent out his parish to seek a chantry or a brotherhood post in London but stays home to guard his fold, \"a shepherd and not a mercenary.\""
+  },
+  {
+   "id": "c19",
+   "term": "What does the Plowman do for the poor (lines 536–538)?",
+   "def": "He threshes, digs ditches and delves for every poor person, for Christ's sake, without pay."
+  },
+  {
+   "id": "c20",
+   "term": "How does the Miller cheat (lines 562–563)?",
+   "def": "He steals corn and takes toll three times, yet has \"a thumb of gold,\" an ironic twist on the proverb that an honest miller has a golden thumb."
+  },
+  {
+   "id": "c21",
+   "term": "What does the Miller do as the pilgrims leave (lines 565–566)?",
+   "def": "He plays his bagpipe and leads them out of town."
+  },
+  {
+   "id": "c22",
+   "term": "What song do the Pardoner and Summoner sing (lines 672–673)?",
+   "def": "The Pardoner sings \"Come hither, love, to me\" while the Summoner bears a stiff bass burden."
+  },
+  {
+   "id": "c23",
+   "term": "What fake relics does the Pardoner carry (lines 694–700)?",
+   "def": "He carries a pillowcase he calls Our Lady's veil, a piece of St. Peter's sail, a brass cross full of stones, and pigs' bones in a glass."
+  },
+  {
+   "id": "c24",
+   "term": "Why does the Pardoner sing the offertory so merrily (lines 710–714)?",
+   "def": "He knows that after it he must preach and sharpen his tongue to win silver."
+  },
+  {
+   "id": "c25",
+   "term": "Why does the narrator say he must repeat the pilgrims' rude words exactly (lines 731–742)?",
+   "def": "Whoever retells a tale must rehearse every word or else tell it untrue, for Christ spoke broadly and Plato says \"the words mote be cousin to the deed.\""
+  },
+  {
+   "id": "c26",
+   "term": "For what second fault does the narrator apologize (lines 743–746)?",
+   "def": "He apologizes for not setting the pilgrims in order of their degree, saying his wit is short."
+  },
+  {
+   "id": "c27",
+   "term": "What prize and penalty does the Host set for the game (lines 796–806)?",
+   "def": "The best teller wins a supper at everyone's cost, and whoever resists the Host's judgment pays all that is spent on the way."
+  },
+  {
+   "id": "c28",
+   "term": "What makes a tale best, by the Host's rule (line 798)?",
+   "def": "Tales \"of best sentence and most solace,\" meaning best meaning and most pleasure."
+  },
+  {
+   "id": "c29",
+   "term": "How is the first teller chosen, and who wins (lines 835–845)?",
+   "def": "At the watering of Saint Thomas the pilgrims draw cuts, and the shortest falls to the Knight."
+  },
+  {
+   "id": "c30",
+   "term": "Which literary device lets the narrator's admiring descriptions also criticize pilgrims?",
+   "def": "Irony, because the narrator praises with apparent naivete and leaves readers to draw out the criticism."
+  },
+  {
+   "id": "c31",
+   "term": "How does the Knight's Tale contrast with the Miller's Tale that follows it?",
+   "def": "Both turn on a love triangle, but the Knight's courtly romance is juxtaposed with the Miller's bawdy fabliau to bring out contrasts in style, genre and worldview."
+  },
+  {
+   "id": "c32",
+   "term": "What two sources of authority does the Wife set against each other (WBP lines 1–3)?",
+   "def": "She sets her own \"experience\" against \"authority,\" saying experience alone is enough to speak of woe in marriage."
+  },
+  {
+   "id": "c33",
+   "term": "What two Bible stories was the Wife told limit her to one husband (WBP lines 9–22)?",
+   "def": "Christ went to only one wedding, at Cana, and Christ rebuked the Samaritan woman who had had five husbands."
+  },
+  {
+   "id": "c34",
+   "term": "Which biblical men with many wives does the Wife cite (WBP lines 35–58)?",
+   "def": "She cites wise King Solomon, Abraham and Jacob, while dismissing the cursed Lamech."
+  },
+  {
+   "id": "c35",
+   "term": "How does the Wife answer Paul's praise of virginity (WBP lines 64–82)?",
+   "def": "She says Paul had no precept on virginity and only gave counsel, which is no commandment, for if God commanded virginity he would have damned marriage and no seed would grow."
+  },
+  {
+   "id": "c36",
+   "term": "What image does the Wife use for wives beside virgins (WBP lines 143–146)?",
+   "def": "Virgins may be bread of pure wheat and wives barley bread, yet Jesus fed many with barley bread."
+  },
+  {
+   "id": "c37",
+   "term": "What two things does the Wife say her husband shall be (WBP line 155)?",
+   "def": "He shall be both her debtor and her thrall."
+  },
+  {
+   "id": "c38",
+   "term": "Why does the Pardoner interrupt the Wife (WBP lines 163–168)?",
+   "def": "He says she is a noble preacher and that he was about to wed but now would rather not marry this year."
+  },
+  {
+   "id": "c39",
+   "term": "What were the Wife's first three husbands like (WBP lines 196–204)?",
+   "def": "They were good, rich and old, could barely pay the marriage debt, and had given her their land and treasure."
+  },
+  {
+   "id": "c40",
+   "term": "How did the Wife win every quarrel with her old husbands (WBP lines 379–392)?",
+   "def": "She falsely swore they had said antifeminist things while drunk, with Janekin and her niece as witnesses, and complained first so they excused themselves."
+  },
+  {
+   "id": "c41",
+   "term": "What three things does the Wife say God gave women by nature (WBP line 401)?",
+   "def": "\"Deceite, weeping, spinning.\""
+  },
+  {
+   "id": "c42",
+   "term": "Why does the Wife call herself her fourth husband's \"purgatory\" (WBP lines 481–489)?",
+   "def": "Because he kept a paramour, she made him fry in his own grease with anger and jealousy by flirting with others, though not with her body."
+  },
+  {
+   "id": "c43",
+   "term": "Where is the fourth husband buried (WBP lines 495–496)?",
+   "def": "He died when she came from Jerusalem and lies buried under the rood-beam."
+  },
+  {
+   "id": "c44",
+   "term": "Why does the Wife say she loved her fifth husband best (WBP lines 513–514)?",
+   "def": "Because he was \"daungerous,\" sparing with his love, and women desire whatever they cannot easily have."
+  },
+  {
+   "id": "c45",
+   "term": "What false dream did the Wife tell Jankin (WBP lines 575–582)?",
+   "def": "She claimed she dreamed he slew her and her bed was full of blood, which signifies gold, a trick her mother taught her."
+  },
+  {
+   "id": "c46",
+   "term": "How does the Wife explain her nature by the stars (WBP lines 609–616)?",
+   "def": "Venus gave her lust and Mars her sturdy hardiness, with Taurus as her ascendant and Mars in it."
+  },
+  {
+   "id": "c47",
+   "term": "What Roman examples did Jankin read to stop her wandering (WBP lines 642–649)?",
+   "def": "Simplicius Gallus left his wife for looking out bareheaded, and another Roman left his wife for going to a summer game without his knowledge."
+  },
+  {
+   "id": "c48",
+   "term": "What does \"Who paintede the leoun?\" mean (WBP line 692)?",
+   "def": "It means antifeminist books were written by men, and if women had written stories they would have written more wickedness of men."
+  },
+  {
+   "id": "c49",
+   "term": "Why, according to the Wife, do clerks never praise women (WBP lines 697–710)?",
+   "def": "Clerks are children of Mercury and women of Venus, planets that oppose each other, and old clerks who can no longer love write that women cannot keep marriage."
+  },
+  {
+   "id": "c50",
+   "term": "Which stories of wicked wives does Jankin read (WBP lines 715–764)?",
+   "def": "Eve, Delilah and Samson, Deianira and Hercules, Xantippe and Socrates, Pasiphae, Clytemnestra, Eriphyle and Amphiaraus, Livia and Lucia, and Latumius's tree where three wives hanged themselves."
+  },
+  {
+   "id": "c51",
+   "term": "What does the Wife do to Jankin's book, and what does he do (WBP lines 788–796)?",
+   "def": "She tears three leaves from it and strikes him into the fire, and he leaps up like a mad lion and strikes her on the head."
+  },
+  {
+   "id": "c52",
+   "term": "What does Jankin give the Wife after the fight (WBP lines 813–818)?",
+   "def": "He gives her the bridle, governance of house and land and of his tongue and hand, burns his book, and grants her all the sovereignty."
+  },
+  {
+   "id": "c53",
+   "term": "Why does the Wife say there are no more fairies (WBT lines 864–881)?",
+   "def": "Limitours and other friars now bless every place, so where an elf once walked, the limitour walks, and the only incubus is the friar."
+  },
+  {
+   "id": "c54",
+   "term": "What crime does the knight commit (WBT lines 882–888)?",
+   "def": "Riding alone from hawking, he sees a maiden and by force takes her maidenhead."
+  },
+  {
+   "id": "c55",
+   "term": "Which answers does the knight hear about what women love most (WBT lines 925–948)?",
+   "def": "Riches, honor, jollity, rich array, lust in bed, being widowed and wed often, flattery, freedom to do as they please, and being thought steadfast and able to keep secrets."
+  },
+  {
+   "id": "c56",
+   "term": "How does the Wife's Midas story differ from Ovid's?",
+   "def": "In the Wife's version Midas's wife tells the secret of his ass's ears to a marsh, while in Ovid a male servant who cut his hair discloses it."
+  },
+  {
+   "id": "c57",
+   "term": "What does the old wife ask in exchange for the answer (WBT lines 1009–1012)?",
+   "def": "She makes the knight pledge his truth to do the next thing she requires if it lies in his power."
+  },
+  {
+   "id": "c58",
+   "term": "What answer saves the knight (WBT lines 1037–1040)?",
+   "def": "\"Women desire to have sovereignty / As well over their husband as their love, / And for to been in maistrye him above.\""
+  },
+  {
+   "id": "c59",
+   "term": "What three faults does the knight find in his bride (WBT lines 1100–1101)?",
+   "def": "She is loathly, old, and of low birth."
+  },
+  {
+   "id": "c60",
+   "term": "What image does the old wife use to show gentilesse is not inherited (WBT lines 1139–1149)?",
+   "def": "Fire carried into the darkest house still burns as if twenty thousand men watched, but noble families do not always do gentle deeds as fire keeps its nature."
+  },
+  {
+   "id": "c61",
+   "term": "Which authorities does the old wife cite on gentilesse and poverty?",
+   "def": "She cites Dante, Valerius on Tullius Hostilius, Seneca, Boethius and Juvenal."
+  },
+  {
+   "id": "c62",
+   "term": "How does the old wife defend poverty (WBT lines 1177–1204)?",
+   "def": "Christ chose to live in poverty, the poor man can sing before thieves, and poverty teaches a man to know God and himself and shows his true friends."
+  },
+  {
+   "id": "c63",
+   "term": "What two choices does the old wife offer (WBT lines 1219–1226)?",
+   "def": "She can be foul and old but a true, humble wife, or young and fair with the risk of other men coming to his house."
+  },
+  {
+   "id": "c64",
+   "term": "What does the Wife pray for at the end of her tale (WBT lines 1258–1264)?",
+   "def": "She prays for meek, young husbands fresh in bed and grace to outlive them, short lives for husbands who will not be governed by their wives, and pestilence on old, angry misers."
+  },
+  {
+   "id": "c65",
+   "term": "What genre is the Wife of Bath's Tale, and what kind of story is it?",
+   "def": "It is a romance about a fairy bride who seeks out and tests a mortal lover."
+  }
+ ]
+}

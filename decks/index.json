@@ -3,7 +3,7 @@
   {
    "name": "ENG-205",
    "slug": "eng205",
-   "count": 751,
+   "count": 945,
    "topics": [
     {
      "name": "Beowulf Part 1 (to Another Attack)",
@@ -143,6 +143,53 @@
        "order": 5,
        "count": 5,
        "file": "eng205-bw3-05-qa.json"
+      }
+     ]
+    },
+    {
+     "name": "Canterbury Tales",
+     "slug": "canterbury-tales",
+     "count": 194,
+     "decks": [
+      {
+       "id": "eng205-ct-01-definitions",
+       "title": "ENG-205 Canterbury Tales — 1 Definitions & Notation",
+       "short": "1 Definitions & Notation",
+       "order": 1,
+       "count": 43,
+       "file": "eng205-ct-01-definitions.json"
+      },
+      {
+       "id": "eng205-ct-02-names",
+       "title": "ENG-205 Canterbury Tales — 2 Names",
+       "short": "2 Names",
+       "order": 2,
+       "count": 34,
+       "file": "eng205-ct-02-names.json"
+      },
+      {
+       "id": "eng205-ct-03-numbers",
+       "title": "ENG-205 Canterbury Tales — 3 Numbers & Formulas",
+       "short": "3 Numbers & Formulas",
+       "order": 3,
+       "count": 29,
+       "file": "eng205-ct-03-numbers.json"
+      },
+      {
+       "id": "eng205-ct-04-main-ideas",
+       "title": "ENG-205 Canterbury Tales — 4 Main Ideas",
+       "short": "4 Main Ideas",
+       "order": 4,
+       "count": 22,
+       "file": "eng205-ct-04-main-ideas.json"
+      },
+      {
+       "id": "eng205-ct-05-qa",
+       "title": "ENG-205 Canterbury Tales — 5 Q&A",
+       "short": "5 Q&A",
+       "order": 5,
+       "count": 66,
+       "file": "eng205-ct-05-qa.json"
       }
      ]
     },
@@ -874,6 +921,66 @@
    "subjectSlug": "eng205",
    "topic": "Beowulf Part 3 (to the end)",
    "topicSlug": "beowulf-part-3"
+  },
+  {
+   "id": "eng205-ct-01-definitions",
+   "title": "ENG-205 Canterbury Tales — 1 Definitions & Notation",
+   "short": "1 Definitions & Notation",
+   "order": 1,
+   "count": 43,
+   "file": "eng205-ct-01-definitions.json",
+   "subject": "ENG-205",
+   "subjectSlug": "eng205",
+   "topic": "Canterbury Tales",
+   "topicSlug": "canterbury-tales"
+  },
+  {
+   "id": "eng205-ct-02-names",
+   "title": "ENG-205 Canterbury Tales — 2 Names",
+   "short": "2 Names",
+   "order": 2,
+   "count": 34,
+   "file": "eng205-ct-02-names.json",
+   "subject": "ENG-205",
+   "subjectSlug": "eng205",
+   "topic": "Canterbury Tales",
+   "topicSlug": "canterbury-tales"
+  },
+  {
+   "id": "eng205-ct-03-numbers",
+   "title": "ENG-205 Canterbury Tales — 3 Numbers & Formulas",
+   "short": "3 Numbers & Formulas",
+   "order": 3,
+   "count": 29,
+   "file": "eng205-ct-03-numbers.json",
+   "subject": "ENG-205",
+   "subjectSlug": "eng205",
+   "topic": "Canterbury Tales",
+   "topicSlug": "canterbury-tales"
+  },
+  {
+   "id": "eng205-ct-04-main-ideas",
+   "title": "ENG-205 Canterbury Tales — 4 Main Ideas",
+   "short": "4 Main Ideas",
+   "order": 4,
+   "count": 22,
+   "file": "eng205-ct-04-main-ideas.json",
+   "subject": "ENG-205",
+   "subjectSlug": "eng205",
+   "topic": "Canterbury Tales",
+   "topicSlug": "canterbury-tales"
+  },
+  {
+   "id": "eng205-ct-05-qa",
+   "title": "ENG-205 Canterbury Tales — 5 Q&A",
+   "short": "5 Q&A",
+   "order": 5,
+   "count": 66,
+   "file": "eng205-ct-05-qa.json",
+   "subject": "ENG-205",
+   "subjectSlug": "eng205",
+   "topic": "Canterbury Tales",
+   "topicSlug": "canterbury-tales"
   },
   {
    "id": "eng205-litdev-01-definitions",

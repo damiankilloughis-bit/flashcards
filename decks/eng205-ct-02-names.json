@@ -1,0 +1,181 @@
+{
+ "id": "eng205-ct-02-names",
+ "title": "ENG-205 Canterbury Tales — 2 Names",
+ "subject": "ENG-205",
+ "topic": "Canterbury Tales",
+ "short": "2 Names",
+ "order": 2,
+ "count": 34,
+ "cards": [
+  {
+   "id": "c0",
+   "term": "Geoffrey Chaucer",
+   "def": "A wine merchant's son who served as page, soldier, diplomat and customs official and wrote The Canterbury Tales in English."
+  },
+  {
+   "id": "c1",
+   "term": "Why Chaucer matters to English",
+   "def": "Chaucer's choice to write in English, in the dialect that became the national standard, made later poets treat him as the model of the vernacular."
+  },
+  {
+   "id": "c2",
+   "term": "Chaucer the narrator",
+   "def": "The unnamed pilgrim who meets the company at the Tabard and describes each pilgrim with seemingly naive admiration, leaving the irony for readers."
+  },
+  {
+   "id": "c3",
+   "term": "Harry Bailly (the Host)",
+   "def": "The large, bold landlord of the Tabard, drawn from a real man, who proposes the tale-telling game and serves as its \"governour\" and judge."
+  },
+  {
+   "id": "c4",
+   "term": "Thomas à Becket",
+   "def": "The archbishop of Canterbury murdered in his cathedral, the \"holy blissful martyr\" whose shrine the pilgrims seek."
+  },
+  {
+   "id": "c5",
+   "term": "The Knight",
+   "def": "An ideal, \"very, perfect, gentle knight\" who loved chivalry, truth and honor, fought crusades across Christendom and heathendom, and rides in a rust-stained tunic straight from his voyage."
+  },
+  {
+   "id": "c6",
+   "term": "The Squire",
+   "def": "The Knight's twenty-year-old son, a curly-haired lover embroidered like a meadow, who sings all day and sleeps no more than a nightingale."
+  },
+  {
+   "id": "c7",
+   "term": "The Yeoman",
+   "def": "The Knight's servant, a forester in green carrying peacock arrows, a bow and a silver St. Christopher."
+  },
+  {
+   "id": "c8",
+   "term": "The Prioress (Madame Eglentine)",
+   "def": "The head of a convent who imitates court manners, sings through her nose, speaks the French of Stratford at the Bowe, weeps over a trapped mouse and wears a brooch reading \"Amor vincit omnia.\""
+  },
+  {
+   "id": "c9",
+   "term": "The Monk",
+   "def": "A fat, bald, hunting outrider who rejects the old strict Rule of Saint Benedict and Saint Maure, keeps greyhounds and fine horses, and loves a roast swan."
+  },
+  {
+   "id": "c10",
+   "term": "The Friar (Huberd)",
+   "def": "A merry limitour who sells easy penance for gifts, knows every tavern better than lepers or beggars, and is called the best beggar in his house."
+  },
+  {
+   "id": "c11",
+   "term": "The Merchant",
+   "def": "A forked-bearded trader who speaks solemnly of his profits and hides that he is in debt."
+  },
+  {
+   "id": "c12",
+   "term": "The Clerk of Oxford",
+   "def": "A lean, threadbare student of logic who would rather have twenty books of Aristotle than rich robes and who gladly learns and gladly teaches."
+  },
+  {
+   "id": "c13",
+   "term": "The Wife of Bath (Alisoun)",
+   "def": "A gap-toothed, somewhat deaf cloth-maker from beside Bath who has had five husbands at the church door, travels to many shrines and knows \"the olde dance\" of love."
+  },
+  {
+   "id": "c14",
+   "term": "The Parson",
+   "def": "A poor but holy parish priest who visits his far-flung flock on foot and \"first he wrought, and afterward he taught.\""
+  },
+  {
+   "id": "c15",
+   "term": "The Plowman",
+   "def": "The Parson's brother, a true laborer who loves God and his neighbor, threshes and digs for the poor without pay, and pays his tithes fully."
+  },
+  {
+   "id": "c16",
+   "term": "The Miller",
+   "def": "A stout, red-bearded wrestler with a wart on his nose who steals corn, has a \"thumb of gold,\" and plays the bagpipe to lead the pilgrims out of town."
+  },
+  {
+   "id": "c17",
+   "term": "The Reeve",
+   "def": "A slender, choleric estate manager and carpenter who cheats his lord and takes the Miller's Tale as a personal attack."
+  },
+  {
+   "id": "c18",
+   "term": "The Summoner",
+   "def": "A fire-red-faced officer of the church courts who takes bribes and tells sinners \"Purse is the Archedeacon's helle.\""
+  },
+  {
+   "id": "c19",
+   "term": "The Pardoner",
+   "def": "A beardless, goat-voiced seller of pardons \"from Rome all hot\" who uses fake relics to get more money in a day than a poor parson gets in two months."
+  },
+  {
+   "id": "c20",
+   "term": "St. Jerome",
+   "def": "The Church Father whose attack on Jovinian supplied the antifeminist authorities the Wife argues against."
+  },
+  {
+   "id": "c21",
+   "term": "Jovinian",
+   "def": "A monk who apparently presented marriage as a positive good, known only through Jerome's attack on him."
+  },
+  {
+   "id": "c22",
+   "term": "St. Paul (\"the Apostle\")",
+   "def": "The apostle whose letters the Wife cites, arguing he only counseled virginity and gave wives power over husbands' bodies."
+  },
+  {
+   "id": "c23",
+   "term": "Jankin",
+   "def": "The Wife's fifth husband, a twenty-year-old former Oxford clerk who reads her antifeminist tales nightly until their fight ends with him burning the book."
+  },
+  {
+   "id": "c24",
+   "term": "Alisoun (the gossip)",
+   "def": "The Wife's close friend in town, with whom Jankin boarded and to whom the Wife told all her husband's secrets."
+  },
+  {
+   "id": "c25",
+   "term": "Metellius",
+   "def": "The \"foule cherl\" who beat his wife to death with a staff for drinking wine, whose example the Wife says could not have stopped her."
+  },
+  {
+   "id": "c26",
+   "term": "The knight in the Wife's Tale",
+   "def": "A young knight of Arthur's court who rapes a maiden, must learn what women most desire to save his life, and is forced to marry the old wife."
+  },
+  {
+   "id": "c27",
+   "term": "The old wife",
+   "def": "The foul old woman who gives the knight the answer in return for his pledge, marries him, lectures him on gentilesse, and becomes fair and good once given mastery."
+  },
+  {
+   "id": "c28",
+   "term": "The queen in the Wife's Tale",
+   "def": "Arthur's queen, who with other ladies pleads for the knight's life and then sets him the question of what women most desire."
+  },
+  {
+   "id": "c29",
+   "term": "King Midas and his wife",
+   "def": "Midas hid his ass's ears from all but his wife, who could not keep the secret and whispered it into a marsh, the Wife's proof that women cannot hide a secret."
+  },
+  {
+   "id": "c30",
+   "term": "Dante",
+   "def": "The Italian poet whom the old wife cites to prove that prowess and gentilesse come from God, not ancestry."
+  },
+  {
+   "id": "c31",
+   "term": "Boccaccio",
+   "def": "The Italian writer whose Decameron is the most famous frame tale besides Chaucer's and whose works supplied plots for the Knight's Tale and Troilus."
+  },
+  {
+   "id": "c32",
+   "term": "John Gower",
+   "def": "Chaucer's contemporary whose Lover's Confession uses a frame in which a single speaker tells all the stories."
+  },
+  {
+   "id": "c33",
+   "term": "William Caxton",
+   "def": "The man who introduced printing to England and twice printed The Canterbury Tales."
+  }
+ ]
+}

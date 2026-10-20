@@ -1,0 +1,226 @@
+{
+ "id": "eng205-ct-01-definitions",
+ "title": "ENG-205 Canterbury Tales — 1 Definitions & Notation",
+ "subject": "ENG-205",
+ "topic": "Canterbury Tales",
+ "short": "1 Definitions & Notation",
+ "order": 1,
+ "count": 43,
+ "cards": [
+  {
+   "id": "c0",
+   "term": "The Canterbury Tales",
+   "def": "A frame-story collection of tales in verse and prose, told by a fictitious company of pilgrims riding to Canterbury."
+  },
+  {
+   "id": "c1",
+   "term": "Frame narrative (frame story)",
+   "def": "A surrounding story within which other stories are told, such as a pilgrimage in which each pilgrim tells tales."
+  },
+  {
+   "id": "c2",
+   "term": "The three estates",
+   "def": "The traditional medieval division of society into the nobility who ruled and defended, the church who cared for souls, and the laborers who provided physical needs."
+  },
+  {
+   "id": "c3",
+   "term": "Satire",
+   "def": "Writing that exposes and ridicules vice and folly as social commentary."
+  },
+  {
+   "id": "c4",
+   "term": "Estates satire",
+   "def": "A medieval genre that exposes and ridicules typical examples of corruption at every level of society, estate by estate."
+  },
+  {
+   "id": "c5",
+   "term": "Irony",
+   "def": "Saying one thing while implying another, so that apparent praise can carry criticism underneath."
+  },
+  {
+   "id": "c6",
+   "term": "Microcosm",
+   "def": "A small world that stands for the whole, as a group of pilgrims can stand for all of society."
+  },
+  {
+   "id": "c7",
+   "term": "Juxtaposition",
+   "def": "Placing contrasting things side by side so that each brings out the other's differences."
+  },
+  {
+   "id": "c8",
+   "term": "Code-switching",
+   "def": "Shifting between different idioms, genres, registers or voices within one work."
+  },
+  {
+   "id": "c9",
+   "term": "Pilgrimage",
+   "def": "A religious journey to a holy shrine."
+  },
+  {
+   "id": "c10",
+   "term": "Palmer",
+   "def": "An experienced pilgrim, traditionally one who has visited the Holy Land."
+  },
+  {
+   "id": "c11",
+   "term": "Fabliau",
+   "def": "A medieval genre of bawdy and humorous narrative, usually featuring commoners as protagonists."
+  },
+  {
+   "id": "c12",
+   "term": "Romance (genre)",
+   "def": "A courtly tale of knightly adventure and love, often with marvels such as a fairy bride."
+  },
+  {
+   "id": "c13",
+   "term": "Dream vision",
+   "def": "A poem framed as the poet's dream."
+  },
+  {
+   "id": "c14",
+   "term": "Links",
+   "def": "The interchanges between pilgrims that connect one tale to the next."
+  },
+  {
+   "id": "c15",
+   "term": "Middle English",
+   "def": "The form of English used in Chaucer's time, between Old English and Modern English."
+  },
+  {
+   "id": "c16",
+   "term": "Vernacular",
+   "def": "The everyday spoken language of a people, as opposed to learned Latin or fashionable French."
+  },
+  {
+   "id": "c17",
+   "term": "Iambic pentameter",
+   "def": "A line of five stresses in which each unstressed syllable is followed by a stressed one, x / x / x / x / x / with an optional final unstressed syllable."
+  },
+  {
+   "id": "c18",
+   "term": "Elision",
+   "def": "Running a word's final vowel into the first vowel of the next word so the two syllables count as one."
+  },
+  {
+   "id": "c19",
+   "term": "Indulgence (pardon)",
+   "def": "A remission of sins drawn from the Church's \"treasury of grace.\""
+  },
+  {
+   "id": "c20",
+   "term": "Relic",
+   "def": "An object venerated as the remains or belonging of a saint or holy figure."
+  },
+  {
+   "id": "c21",
+   "term": "Limitour",
+   "def": "A friar granted exclusive begging rights in a certain area, his \"limitacioun.\""
+  },
+  {
+   "id": "c22",
+   "term": "Benefice",
+   "def": "A church living, the paid position of a parish priest."
+  },
+  {
+   "id": "c23",
+   "term": "Chantry",
+   "def": "A foundation that paid a priest only to say masses for the souls of certain persons."
+  },
+  {
+   "id": "c24",
+   "term": "Gentilesse",
+   "def": "Nobility based on character and virtuous deeds rather than on birth or class."
+  },
+  {
+   "id": "c25",
+   "term": "Sovereignty (sovereinetee) and maistrye",
+   "def": "Mastery or rule over another, here a wife's control over her husband, his goods and his body."
+  },
+  {
+   "id": "c26",
+   "term": "Auctoritee",
+   "def": "Authority drawn from books and learned (usually male) writers."
+  },
+  {
+   "id": "c27",
+   "term": "Experience (in the Wife's Prologue)",
+   "def": "Knowledge gained from one's own lived life, which the Wife sets against bookish authority."
+  },
+  {
+   "id": "c28",
+   "term": "Misogyny (antifeminist tradition)",
+   "def": "The tradition holding that women are by nature irrational, morally weak and dominated by material forces."
+  },
+  {
+   "id": "c29",
+   "term": "Celibacy",
+   "def": "Living unmarried and sexually chaste, as monks and clerics were supposed to."
+  },
+  {
+   "id": "c30",
+   "term": "Marital debt",
+   "def": "The canon-law principle that each spouse owes a sexual obligation to the other."
+  },
+  {
+   "id": "c31",
+   "term": "Bigamy and octogamy (in the Wife's sense)",
+   "def": "Two or eight marriages entered one after another, not at the same time."
+  },
+  {
+   "id": "c32",
+   "term": "Ensample (exemplum)",
+   "def": "A short anecdote cited as proof of a moral point."
+  },
+  {
+   "id": "c33",
+   "term": "Purgatory",
+   "def": "The place where the souls of sinners suffer after death to expiate their sins before entering heaven."
+  },
+  {
+   "id": "c34",
+   "term": "Incubus",
+   "def": "A spirit that lies with mortal women."
+  },
+  {
+   "id": "c35",
+   "term": "The Knight's Tale",
+   "def": "A long, elevated courtly romance about two Theban cousins, Arcite and Palamon, who rival each other for Emily."
+  },
+  {
+   "id": "c36",
+   "term": "The Decameron",
+   "def": "Boccaccio's frame tale in which ten elite young narrators each tell a tale a day for ten days."
+  },
+  {
+   "id": "c37",
+   "term": "Romance of the Rose",
+   "def": "A long French dream allegory of a dreamer obsessively pursuing a rosebud, the source of many French poetic conventions."
+  },
+  {
+   "id": "c38",
+   "term": "Troilus and Criseyde",
+   "def": "Chaucer's longest completed poem, about two Trojans, Prince Troilus and the widow Criseyde, who fall in love during the Trojan War."
+  },
+  {
+   "id": "c39",
+   "term": "The Book of the Duchess",
+   "def": "Chaucer's first major poem, a dream vision lamenting a lost beloved."
+  },
+  {
+   "id": "c40",
+   "term": "Consolation of Philosophy",
+   "def": "Boethius's Latin prison book on Fortune's wheel and on how God's foreknowledge fits with human free will."
+  },
+  {
+   "id": "c41",
+   "term": "Against Jovinian",
+   "def": "St. Jerome's antifeminist attack on marriage and women, a main source of the bookish \"auctoritee\" the Wife argues against."
+  },
+  {
+   "id": "c42",
+   "term": "Jankin's \"book of wicked wives\" (Valerie and Theofrast)",
+   "def": "A single volume binding together antifeminist writings, including Jerome, Tertullian, the Parables of Solomon and Ovid's Art of Love."
+  }
+ ]
+}

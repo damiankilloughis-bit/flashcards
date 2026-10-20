@@ -1,0 +1,156 @@
+{
+ "id": "eng205-ct-03-numbers",
+ "title": "ENG-205 Canterbury Tales — 3 Numbers & Formulas",
+ "subject": "ENG-205",
+ "topic": "Canterbury Tales",
+ "short": "3 Numbers & Formulas",
+ "order": 3,
+ "count": 29,
+ "cards": [
+  {
+   "id": "c0",
+   "term": "Chaucer's life span",
+   "def": "Chaucer lived about 1340 to 1400."
+  },
+  {
+   "id": "c1",
+   "term": "1357",
+   "def": "A household account records an outfit given to Chaucer as a page, the first document of his life."
+  },
+  {
+   "id": "c2",
+   "term": "1359",
+   "def": "Chaucer was captured by the French and ransomed during the Hundred Years' War."
+  },
+  {
+   "id": "c3",
+   "term": "1372–73 and 1378",
+   "def": "Chaucer's diplomatic missions to Italy brought him into contact with the works of Dante, Petrarch and Boccaccio."
+  },
+  {
+   "id": "c4",
+   "term": "1374–85",
+   "def": "Chaucer served as controller of customs on wool, sheepskins and leather for the port of London."
+  },
+  {
+   "id": "c5",
+   "term": "1386",
+   "def": "The Canterbury Tales was perhaps first conceived, when Chaucer lived in Greenwich near the pilgrim road."
+  },
+  {
+   "id": "c6",
+   "term": "1170",
+   "def": "Thomas à Becket was murdered in Canterbury Cathedral, creating the shrine the pilgrims visit."
+  },
+  {
+   "id": "c7",
+   "term": "ca. 1353",
+   "def": "Boccaccio wrote the Decameron, the most famous medieval frame tale besides Chaucer's."
+  },
+  {
+   "id": "c8",
+   "term": "ca. 1385",
+   "def": "Chaucer completed Troilus and Criseyde, his longest finished poem."
+  },
+  {
+   "id": "c9",
+   "term": "1476",
+   "def": "William Caxton introduced printing to England and later printed The Canterbury Tales twice."
+  },
+  {
+   "id": "c10",
+   "term": "\"Well nine and twenty\" (line 24)",
+   "def": "The number of pilgrims who arrive at the Tabard in a company, which the narrator then joins."
+  },
+  {
+   "id": "c11",
+   "term": "Tales planned vs. written",
+   "def": "The Host's plan projects about 120 tales, two per pilgrim each way, but Chaucer finished only 22 plus the beginnings of two others."
+  },
+  {
+   "id": "c12",
+   "term": "Four tales per pilgrim (lines 791–794)",
+   "def": "The Host's rule that each pilgrim tells two tales on the way to Canterbury and two more on the way home."
+  },
+  {
+   "id": "c13",
+   "term": "More than eighty manuscripts",
+   "def": "The surviving copies of The Canterbury Tales, none from Chaucer's lifetime, which shows its popularity."
+  },
+  {
+   "id": "c14",
+   "term": "At least seven blocks",
+   "def": "The groups of tales into which the manuscripts fall, with the General Prologue block always first and the Parson's Tale block always last."
+  },
+  {
+   "id": "c15",
+   "term": "Fifteen mortal battles (line 61)",
+   "def": "The number of mortal battles the Knight has fought, besides three jousts at Tramissene where he always slew his foe."
+  },
+  {
+   "id": "c16",
+   "term": "Twenty years (line 82)",
+   "def": "The narrator's guess at the Squire's age."
+  },
+  {
+   "id": "c17",
+   "term": "Twenty books (line 294)",
+   "def": "The books of Aristotle the Clerk would rather have at his bed's head than rich robes or music."
+  },
+  {
+   "id": "c18",
+   "term": "Two months (lines 703–704)",
+   "def": "The Pardoner gets more money in one day than a poor parson gets in two months."
+  },
+  {
+   "id": "c19",
+   "term": "Five husbands (GP line 460; WBP line 6)",
+   "def": "The number of husbands the Wife has married at the church door."
+  },
+  {
+   "id": "c20",
+   "term": "Twelve years old (WBP line 4)",
+   "def": "The Wife's age at her first marriage, the legal age of consent for women."
+  },
+  {
+   "id": "c21",
+   "term": "Three times to Jerusalem (GP line 463)",
+   "def": "The number of the Wife's pilgrimages to Jerusalem, among many other shrines."
+  },
+  {
+   "id": "c22",
+   "term": "Ten pound (GP line 454)",
+   "def": "The narrator swears the Wife's Sunday kerchiefs weighed ten pounds."
+  },
+  {
+   "id": "c23",
+   "term": "Three good, two bad (WBP line 196)",
+   "def": "The Wife's count of her husbands: three good, rich and old, and two bad."
+  },
+  {
+   "id": "c24",
+   "term": "Forty and twenty (WBP lines 600–601)",
+   "def": "The Wife was forty and Jankin twenty when she fell for him at her fourth husband's funeral."
+  },
+  {
+   "id": "c25",
+   "term": "Three leaves (WBP line 790)",
+   "def": "The number of pages the Wife tears from Jankin's book before he strikes her."
+  },
+  {
+   "id": "c26",
+   "term": "A twelvemonth and a day (WBT line 909)",
+   "def": "The time the queen gives the knight to find what women most desire."
+  },
+  {
+   "id": "c27",
+   "term": "Four and twenty ladies (WBT line 992)",
+   "def": "The number, and more, of dancing ladies who vanish, leaving the old wife."
+  },
+  {
+   "id": "c28",
+   "term": "Two choices (WBT line 1219)",
+   "def": "The old wife offers to be foul, old and faithful or young, fair and a risk to his house."
+  }
+ ]
+}

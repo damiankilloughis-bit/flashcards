@@ -409,7 +409,7 @@
   {
    "name": "HIS-201",
    "slug": "his201",
-   "count": 969,
+   "count": 1188,
    "topics": [
     {
      "name": "Chapter 1: The First Civilizations of North America",
@@ -643,6 +643,100 @@
        "order": 5,
        "count": 29,
        "file": "his201-ch5-05-qa.json"
+      }
+     ]
+    },
+    {
+     "name": "Chapter 6: Imperial Triumph, Imperial Crisis, 1754-1776",
+     "slug": "chapter-6",
+     "count": 124,
+     "decks": [
+      {
+       "id": "his201-ch6-01-definitions",
+       "title": "HIS-201 Ch. 6 — 1 Definitions",
+       "short": "1 Definitions",
+       "order": 1,
+       "count": 29,
+       "file": "his201-ch6-01-definitions.json"
+      },
+      {
+       "id": "his201-ch6-02-names",
+       "title": "HIS-201 Ch. 6 — 2 Names",
+       "short": "2 Names",
+       "order": 2,
+       "count": 23,
+       "file": "his201-ch6-02-names.json"
+      },
+      {
+       "id": "his201-ch6-03-numbers",
+       "title": "HIS-201 Ch. 6 — 3 Numbers & Dates",
+       "short": "3 Numbers & Dates",
+       "order": 3,
+       "count": 21,
+       "file": "his201-ch6-03-numbers.json"
+      },
+      {
+       "id": "his201-ch6-04-main-ideas",
+       "title": "HIS-201 Ch. 6 — 4 Main Ideas",
+       "short": "4 Main Ideas",
+       "order": 4,
+       "count": 12,
+       "file": "his201-ch6-04-main-ideas.json"
+      },
+      {
+       "id": "his201-ch6-05-qa",
+       "title": "HIS-201 Ch. 6 — 5 Q&A",
+       "short": "5 Q&A",
+       "order": 5,
+       "count": 39,
+       "file": "his201-ch6-05-qa.json"
+      }
+     ]
+    },
+    {
+     "name": "Chapter 7: The American People and the American Revolution, 1775-1783",
+     "slug": "chapter-7",
+     "count": 95,
+     "decks": [
+      {
+       "id": "his201-ch7-01-definitions",
+       "title": "HIS-201 Ch. 7 — 1 Definitions",
+       "short": "1 Definitions",
+       "order": 1,
+       "count": 11,
+       "file": "his201-ch7-01-definitions.json"
+      },
+      {
+       "id": "his201-ch7-02-names",
+       "title": "HIS-201 Ch. 7 — 2 Names",
+       "short": "2 Names",
+       "order": 2,
+       "count": 22,
+       "file": "his201-ch7-02-names.json"
+      },
+      {
+       "id": "his201-ch7-03-numbers",
+       "title": "HIS-201 Ch. 7 — 3 Numbers & Dates",
+       "short": "3 Numbers & Dates",
+       "order": 3,
+       "count": 15,
+       "file": "his201-ch7-03-numbers.json"
+      },
+      {
+       "id": "his201-ch7-04-main-ideas",
+       "title": "HIS-201 Ch. 7 — 4 Main Ideas",
+       "short": "4 Main Ideas",
+       "order": 4,
+       "count": 8,
+       "file": "his201-ch7-04-main-ideas.json"
+      },
+      {
+       "id": "his201-ch7-05-qa",
+       "title": "HIS-201 Ch. 7 — 5 Q&A",
+       "short": "5 Q&A",
+       "order": 5,
+       "count": 39,
+       "file": "his201-ch7-05-qa.json"
       }
      ]
     },
@@ -1545,6 +1639,126 @@
    "subjectSlug": "his201",
    "topic": "Chapter 5: The Mosaic of Eighteenth-Century America",
    "topicSlug": "chapter-5"
+  },
+  {
+   "id": "his201-ch6-01-definitions",
+   "title": "HIS-201 Ch. 6 — 1 Definitions",
+   "short": "1 Definitions",
+   "order": 1,
+   "count": 29,
+   "file": "his201-ch6-01-definitions.json",
+   "subject": "HIS-201",
+   "subjectSlug": "his201",
+   "topic": "Chapter 6: Imperial Triumph, Imperial Crisis, 1754-1776",
+   "topicSlug": "chapter-6"
+  },
+  {
+   "id": "his201-ch6-02-names",
+   "title": "HIS-201 Ch. 6 — 2 Names",
+   "short": "2 Names",
+   "order": 2,
+   "count": 23,
+   "file": "his201-ch6-02-names.json",
+   "subject": "HIS-201",
+   "subjectSlug": "his201",
+   "topic": "Chapter 6: Imperial Triumph, Imperial Crisis, 1754-1776",
+   "topicSlug": "chapter-6"
+  },
+  {
+   "id": "his201-ch6-03-numbers",
+   "title": "HIS-201 Ch. 6 — 3 Numbers & Dates",
+   "short": "3 Numbers & Dates",
+   "order": 3,
+   "count": 21,
+   "file": "his201-ch6-03-numbers.json",
+   "subject": "HIS-201",
+   "subjectSlug": "his201",
+   "topic": "Chapter 6: Imperial Triumph, Imperial Crisis, 1754-1776",
+   "topicSlug": "chapter-6"
+  },
+  {
+   "id": "his201-ch6-04-main-ideas",
+   "title": "HIS-201 Ch. 6 — 4 Main Ideas",
+   "short": "4 Main Ideas",
+   "order": 4,
+   "count": 12,
+   "file": "his201-ch6-04-main-ideas.json",
+   "subject": "HIS-201",
+   "subjectSlug": "his201",
+   "topic": "Chapter 6: Imperial Triumph, Imperial Crisis, 1754-1776",
+   "topicSlug": "chapter-6"
+  },
+  {
+   "id": "his201-ch6-05-qa",
+   "title": "HIS-201 Ch. 6 — 5 Q&A",
+   "short": "5 Q&A",
+   "order": 5,
+   "count": 39,
+   "file": "his201-ch6-05-qa.json",
+   "subject": "HIS-201",
+   "subjectSlug": "his201",
+   "topic": "Chapter 6: Imperial Triumph, Imperial Crisis, 1754-1776",
+   "topicSlug": "chapter-6"
+  },
+  {
+   "id": "his201-ch7-01-definitions",
+   "title": "HIS-201 Ch. 7 — 1 Definitions",
+   "short": "1 Definitions",
+   "order": 1,
+   "count": 11,
+   "file": "his201-ch7-01-definitions.json",
+   "subject": "HIS-201",
+   "subjectSlug": "his201",
+   "topic": "Chapter 7: The American People and the American Revolution, 1775-1783",
+   "topicSlug": "chapter-7"
+  },
+  {
+   "id": "his201-ch7-02-names",
+   "title": "HIS-201 Ch. 7 — 2 Names",
+   "short": "2 Names",
+   "order": 2,
+   "count": 22,
+   "file": "his201-ch7-02-names.json",
+   "subject": "HIS-201",
+   "subjectSlug": "his201",
+   "topic": "Chapter 7: The American People and the American Revolution, 1775-1783",
+   "topicSlug": "chapter-7"
+  },
+  {
+   "id": "his201-ch7-03-numbers",
+   "title": "HIS-201 Ch. 7 — 3 Numbers & Dates",
+   "short": "3 Numbers & Dates",
+   "order": 3,
+   "count": 15,
+   "file": "his201-ch7-03-numbers.json",
+   "subject": "HIS-201",
+   "subjectSlug": "his201",
+   "topic": "Chapter 7: The American People and the American Revolution, 1775-1783",
+   "topicSlug": "chapter-7"
+  },
+  {
+   "id": "his201-ch7-04-main-ideas",
+   "title": "HIS-201 Ch. 7 — 4 Main Ideas",
+   "short": "4 Main Ideas",
+   "order": 4,
+   "count": 8,
+   "file": "his201-ch7-04-main-ideas.json",
+   "subject": "HIS-201",
+   "subjectSlug": "his201",
+   "topic": "Chapter 7: The American People and the American Revolution, 1775-1783",
+   "topicSlug": "chapter-7"
+  },
+  {
+   "id": "his201-ch7-05-qa",
+   "title": "HIS-201 Ch. 7 — 5 Q&A",
+   "short": "5 Q&A",
+   "order": 5,
+   "count": 39,
+   "file": "his201-ch7-05-qa.json",
+   "subject": "HIS-201",
+   "subjectSlug": "his201",
+   "topic": "Chapter 7: The American People and the American Revolution, 1775-1783",
+   "topicSlug": "chapter-7"
   },
   {
    "id": "his201-exam1-01-study-guide-terms",

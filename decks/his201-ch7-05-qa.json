@@ -1,0 +1,206 @@
+{
+ "id": "his201-ch7-05-qa",
+ "title": "HIS-201 Ch. 7 — 5 Q&A",
+ "subject": "HIS-201",
+ "topic": "Chapter 7: The American People and the American Revolution, 1775-1783",
+ "short": "5 Q&A",
+ "order": 5,
+ "count": 39,
+ "cards": [
+  {
+   "id": "c0",
+   "term": "What were the goals of the Second Continental Congress?",
+   "def": "It had to choose between reconciliation and independence, so it sent the Olive Branch Petition while creating the Continental Army and issuing paper money."
+  },
+  {
+   "id": "c1",
+   "term": "What made the Declaration a statement of colonial unity and intent?",
+   "def": "It announced that the colonies were no longer English and denied all British authority."
+  },
+  {
+   "id": "c2",
+   "term": "Why has the Declaration had a lasting impact?",
+   "def": "It put equality at the center of American national identity, starting a long debate over who \"all men\" included."
+  },
+  {
+   "id": "c3",
+   "term": "Whom did the Declaration blame?",
+   "def": "It blamed George III for a long list of grievances and mentioned Parliament only once."
+  },
+  {
+   "id": "c4",
+   "term": "Where was loyalist support strongest?",
+   "def": "Loyalists were strongest where earlier internal conflicts existed, as in New York, New Jersey, Pennsylvania and the Carolinas."
+  },
+  {
+   "id": "c5",
+   "term": "Who tended to be loyalists?",
+   "def": "Royal officials, big-city merchants tied to British trade, Anglicans outside the South, recent British immigrants and Highland Scots tended to be loyalists."
+  },
+  {
+   "id": "c6",
+   "term": "How did African Americans choose sides?",
+   "def": "About 10,000 joined the British under Dunmore's offer, about 5,000 served the rebels, and about 100,000 tried to escape."
+  },
+  {
+   "id": "c7",
+   "term": "How did Native Americans choose sides?",
+   "def": "Caught between rival powers, Indian nations split and sometimes switched sides to protect their interests."
+  },
+  {
+   "id": "c8",
+   "term": "How many Americans were patriots or neutral at first?",
+   "def": "In summer 1775, neutrals probably outnumbered either loyalists or rebels."
+  },
+  {
+   "id": "c9",
+   "term": "What were the main events leading to open warfare?",
+   "def": "Lexington and Concord led to the siege of Boston, Bunker Hill, the Second Continental Congress and Washington's appointment."
+  },
+  {
+   "id": "c10",
+   "term": "What was the significance of Bunker (Breed's) Hill?",
+   "def": "The battle showed Americans would fight and spurred war preparations across the colonies."
+  },
+  {
+   "id": "c11",
+   "term": "How did the Continental Army differ from the militia?",
+   "def": "The Continentals were long-term regulars under strict discipline, while the militia were local part-timers who turned out only when the British came near."
+  },
+  {
+   "id": "c12",
+   "term": "Why did Washington want a regular army?",
+   "def": "Washington needed a dependable army, though republican leaders feared standing armies and idealized citizen-soldiers."
+  },
+  {
+   "id": "c13",
+   "term": "What difficulties did male colonists face early in the war?",
+   "def": "Men faced shortages of supplies and pay, filthy camps, disease, and harassment by whichever side held their area."
+  },
+  {
+   "id": "c14",
+   "term": "What difficulties did female colonists face early in the war?",
+   "def": "Women ran farms and businesses alone, followed the army to cook and nurse for half rations, and suffered loneliness and grief."
+  },
+  {
+   "id": "c15",
+   "term": "How did Abigail Adams view women's rights?",
+   "def": "Abigail Adams wanted the new laws to protect women from husbands' unlimited power."
+  },
+  {
+   "id": "c16",
+   "term": "How did John Adams answer Abigail?",
+   "def": "John Adams laughed off her request and defended male authority."
+  },
+  {
+   "id": "c17",
+   "term": "What was Britain's strategy in the first year or two?",
+   "def": "Britain first tried to crush resistance in Massachusetts, then shifted to capturing cities like New York and destroying the Continental Army."
+  },
+  {
+   "id": "c18",
+   "term": "Was Britain's early strategy successful?",
+   "def": "No; it took New York and Philadelphia, but the Howes' caution let Washington escape and harsh occupation alienated civilians."
+  },
+  {
+   "id": "c19",
+   "term": "What mercenaries fought for Britain?",
+   "def": "About 30,000 Hessians from Germany fought for Britain."
+  },
+  {
+   "id": "c20",
+   "term": "Why were the Hessians recruited?",
+   "def": "The text only shows they enlarged Britain's force alongside 50,000 British troops and does not explain why they were recruited."
+  },
+  {
+   "id": "c21",
+   "term": "What happened to the Iroquois Confederacy during the war?",
+   "def": "The six tribes split, with most Oneidas and Tuscaroras neutral or pro-American and the rest following Joseph Brant to the British."
+  },
+  {
+   "id": "c22",
+   "term": "What was the Iroquois Confederacy left with after the war?",
+   "def": "Washington's troops burned 40 Iroquois towns, leaving the confederacy a shadow of its former power."
+  },
+  {
+   "id": "c23",
+   "term": "Why was Saratoga significant?",
+   "def": "Saratoga convinced France the Americans could win, bringing a French alliance that made the war global."
+  },
+  {
+   "id": "c24",
+   "term": "What impact did the fighting at New York have?",
+   "def": "Britain captured New York City and nearly destroyed Washington's army, driving him into retreat across New Jersey."
+  },
+  {
+   "id": "c25",
+   "term": "Why was Trenton a significant battle?",
+   "def": "Washington's surprise capture of the Hessian garrison revived rebel morale and won over neutrals and militia."
+  },
+  {
+   "id": "c26",
+   "term": "What was Washington's primary strategy?",
+   "def": "Washington fought defensively from fortifications to keep his army intact and avoid open battle against superior numbers."
+  },
+  {
+   "id": "c27",
+   "term": "Why was it important for Britain to win in the South?",
+   "def": "Britain saw the South as profitable, close to the West Indies and full of loyalists, so a win there could regain valuable colonies."
+  },
+  {
+   "id": "c28",
+   "term": "What was the significance of King's Mountain?",
+   "def": "This rebel militia victory helped persuade civilians that only the rebels could restore order."
+  },
+  {
+   "id": "c29",
+   "term": "What was the significance of Nathanael Greene?",
+   "def": "Greene used militia, restrained plundering, and divided his army, which wore out Cornwallis."
+  },
+  {
+   "id": "c30",
+   "term": "What was the significance of Cowpens?",
+   "def": "Daniel Morgan routed Tarleton at Cowpens, weakening Cornwallis's army."
+  },
+  {
+   "id": "c31",
+   "term": "What was the significance of Lord Cornwallis?",
+   "def": "Cornwallis led the failed southern campaign and surrendered at Yorktown, ending Britain's will to fight."
+  },
+  {
+   "id": "c32",
+   "term": "What was the significance of Yorktown?",
+   "def": "The decisive allied land and sea victory ended Britain's will to continue the war."
+  },
+  {
+   "id": "c33",
+   "term": "What was the war's main effect in the West?",
+   "def": "It contributed little militarily but caused two decades of Indian dislocation, worsened by smallpox."
+  },
+  {
+   "id": "c34",
+   "term": "What were the main points of the Treaty of Paris (1783)?",
+   "def": "Britain recognized American independence with borders at the Mississippi, the 31st parallel and Canada."
+  },
+  {
+   "id": "c35",
+   "term": "What were the war's results for America?",
+   "def": "America won independence and a wide territory."
+  },
+  {
+   "id": "c36",
+   "term": "What were the war's results for Great Britain?",
+   "def": "Britain lost its colonies and cut its losses because of setbacks around the world."
+  },
+  {
+   "id": "c37",
+   "term": "What were the war's results for France?",
+   "def": "France got its revenge for 1763, but the text names no new land for France."
+  },
+  {
+   "id": "c38",
+   "term": "What were the war's results for the Indians?",
+   "def": "The treaty text does not mention Indians, but the war left them divided, displaced and the Iroquois broken."
+  }
+ ]
+}

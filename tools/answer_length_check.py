@@ -5,10 +5,10 @@ Parses `const Q=[...];` (objects with q, c, a). T/F (2-choice) questions are ski
 Targets: strictly-longest rate <= ~1/N (+5pt), mean correct len within 15% of mean distractor len."""
 import json,re,sys,statistics as st
 def load(p):
-    t=open(p,encoding='utf-8').read();i=t.index('const Q=')+len('const Q=')
+    t=open(p,encoding='utf-8').read();m=re.search(r'const QB?=(?=\[)',t);i=m.end()
     return json.JSONDecoder().raw_decode(t[i:])[0]
 def report(p,verbose=False):
-    Q=load(p);mc=[(i,q) for i,q in enumerate(Q) if len(q['c'])>2]
+    Q=load(p);mc=[(i,q) for i,q in enumerate(Q) if len(q.get('c',[]))>2]
     n=len(mc);sl=lt=sh=0;cl=[];dl=[];flags=[];N=st.mean(len(q['c']) for _,q in mc) if n else 4
     for i,q in mc:
         L=[len(c) for c in q['c']];a=q['a'];ca=L[a];oth=[x for j,x in enumerate(L) if j!=a]

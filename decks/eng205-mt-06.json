@@ -1,0 +1,196 @@
+{
+ "id": "eng205-mt-06",
+ "title": "ENG-205 Midterm — 6 Examples",
+ "subject": "ENG-205",
+ "topic": "Midterm Review (in study-guide order)",
+ "short": "6 Examples",
+ "order": 6,
+ "count": 37,
+ "cards": [
+  {
+   "id": "c0",
+   "term": "01. Which language period? “Nu we sculon herigean / heofonrices weard, / meotodes meahte / ond his modgeþanc”",
+   "def": "OLD ENGLISH (Cædmon’s Hymn, quoted in the course reading). Tells: strange letters (þ, æ), Germanic words, alliteration (meotodes/meahte), a gap (caesura) splitting each line in half, and NO rhyme."
+  },
+  {
+   "id": "c1",
+   "term": "02. Translate the Cædmon’s Hymn line “Nu we sculon herigean heofonrices weard.” What does it show about English changing?",
+   "def": "“Now we must praise the Protector of the heavenly kingdom” (reading’s gloss). Some words barely changed (Nu = now, we = we), but most look foreign — Old English is the hardest period to read."
+  },
+  {
+   "id": "c2",
+   "term": "03. Which language? “HWÆT WE GARDE/na in geardagum, þeodcyninga / þrym gefrunon…”",
+   "def": "OLD ENGLISH — the first words of the Beowulf manuscript (Cotton Vitellius A.xv). Tells: æ and þ, alliteration (Garde-/gear-), no rhyme. Literally “How much we of Spear-Danes, in days gone by, of kings the glory have heard.”"
+  },
+  {
+   "id": "c3",
+   "term": "04. How does Heaney translate the same Beowulf opening? “So. The Spear-Danes in days gone by / And the kings who ruled them had courage and greatness.”",
+   "def": "Heaney turns “Hwæt!” into “So.” — same idea in modern English. Spot it as a MODERN TRANSLATION of an Old English poem: modern spelling, but still heavy alliteration and no rhyme."
+  },
+  {
+   "id": "c4",
+   "term": "05. Which language? “HONY SOYT QUI MAL PENCE” (the last line under Gawain in your Norton text)",
+   "def": "FRENCH (Anglo-Norman) — motto of the Order of the Garter: “Shame on him who thinks evil of it.” After the Norman Conquest of 1066, Norman French was the language of the rulers and court, and French words flooded into English (course reading)."
+  },
+  {
+   "id": "c5",
+   "term": "06. Which language? “Whan that Aprill with his shoures soote / The droghte of March hath perced to the roote”",
+   "def": "MIDDLE ENGLISH — Chaucer, General Prologue, lines 1-2 (as in the course reading). Gloss: “When April with its sweet showers has pierced the drought of March to the root.” Tells: readable but odd spelling, end RHYME (soote/roote) in couplets, ~5 stresses per line."
+  },
+  {
+   "id": "c6",
+   "term": "07. Which language? “Experience, though no authority / Were in this world, is right enough for me / To speak of woe that is in mariage”",
+   "def": "MIDDLE ENGLISH (Norton’s lightly modernized spelling) — the Wife of Bath’s Prologue, opening lines 1-3. She is setting her own EXPERIENCE against book AUTHORITY. Tells: rhymed couplets (authority/me; mariage/age in the next lines), five stresses, Chaucer’s spelling (“mariage”)."
+  },
+  {
+   "id": "c7",
+   "term": "08. Which language/where from? “medium (middle) and aevum (age)”",
+   "def": "LATIN — the word “medieval” comes from Latin medium + aevum (course reading). Latin was the language of the Church and of learned clerks (Alfred the Great encouraged study of Latin); clerks like Jankin read Latin authorities."
+  },
+  {
+   "id": "c8",
+   "term": "09. Order the three language periods the Norton describes.",
+   "def": "1) Old English (Germanic invaders) → 2) Anglo-Norman / Old French (after the Norman Conquest of 1066) → 3) Middle English (appears in the 12th century; Chaucer’s language). Course reading."
+  },
+  {
+   "id": "c9",
+   "term": "10. Old English vs. Middle English poetry: what are the tell-tale features of each?",
+   "def": "OLD ENGLISH (Beowulf): alliteration + strong mid-line pause (caesura), NO rhyme. MIDDLE ENGLISH (Chaucer): rhymed couplets with five stresses per line (study guide)."
+  },
+  {
+   "id": "c10",
+   "term": "11. Mark the caesura and the alliteration: “Hygelac’s kinsman kept him helplessly / Locked in a handgrip.”",
+   "def": "Hygelac’s KINSman KEPT him || HELPlessly — the k/h sounds alliterate and the pause splits the line in two. Heaney keeps Old English alliterative style in modern words (Beowulf vs. Grendel)."
+  },
+  {
+   "id": "c11",
+   "term": "12. Rhymed couplet example: “He is too great a nigard that will werne / A man to light a candle at his lanterne”",
+   "def": "A RHYMED COUPLET (werne/lanterne) — Chaucer’s Middle English form. Wife of Bath’s Prologue: her candle-and-lantern image — sharing herself costs a husband nothing, just as lighting another’s candle doesn’t dim your lantern."
+  },
+  {
+   "id": "c12",
+   "term": "13. Gawain (Armitage): “…then claim / the duty I deserve / in one year and one day. / Does no one have the nerve / to wager in this way?” Label the parts.",
+   "def": "BOB = “then claim” (very short line). WHEEL = the four short rhyming lines after it (deserve/nerve, day/way). The bob-and-wheel ends each Gawain stanza. Here the Green Knight sets his challenge."
+  },
+  {
+   "id": "c13",
+   "term": "14. Which poetic style is Sir Gawain written in?",
+   "def": "The ALLITERATIVE REVIVAL (14th-century Middle English): long unrhymed alliterative lines with a caesura, each stanza ending in a rhyming bob and wheel. You read it in Simon Armitage’s modern translation."
+  },
+  {
+   "id": "c14",
+   "term": "15. Kenning? “Beyond the whale-road had to yield to him / And begin to pay tribute.”",
+   "def": "KENNING: “whale-road” = the SEA. Beowulf (Heaney), opening, about Shield Sheafson — “That was one good king.”"
+  },
+  {
+   "id": "c15",
+   "term": "16. Kenning? “The leader of the troop unlocked his word-hoard”",
+   "def": "KENNING: “word-hoard” = his vocabulary / store of words. Beowulf (Heaney): Beowulf answers the Danish coast-guard."
+  },
+  {
+   "id": "c16",
+   "term": "17. Which work and moment? “Hygelac’s kinsman kept him helplessly / Locked in a handgrip… a tremendous wound / Appeared on his shoulder.”",
+   "def": "BEOWULF (Heaney) — fight 1: Beowulf vs. GRENDEL with bare hands; he tears off Grendel’s arm/shoulder, which hangs as a trophy in Heorot."
+  },
+  {
+   "id": "c17",
+   "term": "18. Who speaks? “Let whoever can / Win glory before death. When a warrior is gone, / That will be his best and only bulwark.”",
+   "def": "BEOWULF (Heaney), to Hrothgar after Grendel’s mother kills Aeschere. His view of GLORY: fame after death is a warrior’s only lasting protection — a HEROIC value."
+  },
+  {
+   "id": "c18",
+   "term": "19. Who speaks? “O flower of warriors, beware of that trap. / Choose, dear Beowulf, the better part, / Eternal rewards. Do not give way to pride.”",
+   "def": "HROTHGAR’S ADVICE (“sermon”) before Beowulf goes home (Heaney). Warns against pride; strength fades. CHRISTIAN values (eternal rewards, humility) set against heroic glory."
+  },
+  {
+   "id": "c19",
+   "term": "20. Which moment? “…that hand-picked troop / Broke ranks and ran for their lives / To the safety of the wood. But within one heart / Sorrow welled up”",
+   "def": "BEOWULF (Heaney) — the DRAGON fight: Beowulf’s chosen men flee; only WIGLAF (the one heart) stays to help — “The claims of kinship cannot be denied.”"
+  },
+  {
+   "id": "c20",
+   "term": "21. Which moment? “They said that of all the kings upon the earth / He was the man most gracious and fair-minded, / Kindest to his people and keenest to win fame.”",
+   "def": "The last lines of BEOWULF (Heaney): his FUNERAL — the Geats build his barrow and twelve warriors ride around it mourning. (The Geats fear attacks now that their king is gone.)"
+  },
+  {
+   "id": "c21",
+   "term": "22. Which work and moment? “I’ll kneel, bare my neck and take the first knock… and promise that twelve months will pass in peace”",
+   "def": "SIR GAWAIN (Armitage), Fitt I — the GREEN KNIGHT proposes the BEHEADING GAME at Christmas in Camelot: one free blow now, a return blow in a year and a day."
+  },
+  {
+   "id": "c22",
+   "term": "23. Which moment? “For the body which is bound within this green belt, / as long as it is buckled robustly about him, / will be safe against anyone who seeks to strike him”",
+   "def": "SIR GAWAIN (Armitage), Fitt III — the LADY offers the GREEN GIRDLE in the third bedroom scene, claiming it protects its wearer. Gawain keeps it and doesn’t give it to Bertilak in the exchange of winnings."
+  },
+  {
+   "id": "c23",
+   "term": "24. Which moment? “And graciously I shall give you my gains in exchange.” / “He catches him by the neck and courteously kisses him”",
+   "def": "SIR GAWAIN (Armitage), Fitt III — the EXCHANGE OF WINNINGS: Gawain pays Bertilak the lady’s kisses in return for the hunt’s spoils (he hides the girdle the last day)."
+  },
+  {
+   "id": "c24",
+   "term": "25. Which moment? “…now flinches with fear at the foretaste of harm. / Never could I hear of such cowardice from that knight.”",
+   "def": "SIR GAWAIN (Armitage), Fitt IV — the Green Knight mocks Gawain at the Green Chapel after he FLINCHES at the FIRST axe swing. Three swings = three days/three tests at the castle; only the third nicks his neck (for the girdle)."
+  },
+  {
+   "id": "c25",
+   "term": "26. Who speaks? “it was loyalty that you lacked: / not because you’re wicked, or a womanizer, or worse, / but you loved your own life; so I blame you less.”",
+   "def": "The GREEN KNIGHT/BERTILAK to Gawain (Armitage, Fitt IV), explaining the nick: Gawain failed only by keeping the girdle to save his life."
+  },
+  {
+   "id": "c26",
+   "term": "27. Who speaks? “A curse upon cowardice and covetousness. / They breed villainy and vice, and destroy all virtue.”",
+   "def": "GAWAIN (Armitage, Fitt IV), burning with SHAME after Bertilak reveals the truth; he throws the girdle back."
+  },
+  {
+   "id": "c27",
+   "term": "28. Which moment? “The king gave comfort, then the whole of the court / allow, as they laugh in lovely accord… every knight… should bear such a belt”",
+   "def": "SIR GAWAIN (Armitage), end of Fitt IV — ARTHUR’S COURT laughs and adopts the green belt as an honor, while Gawain sees it as “the symbol of sin.” Shame vs. the court’s light reaction."
+  },
+  {
+   "id": "c28",
+   "term": "29. Who speaks, and what is she arguing? “Experience, though no authority / Were in this world, is right enough for me”",
+   "def": "The WIFE OF BATH, Prologue lines 1-2: her own EXPERIENCE (five husbands) is enough to speak about marriage, even without bookish AUTHORITY."
+  },
+  {
+   "id": "c29",
+   "term": "30. Which moment? “Who paintede the leoun, tell me who? / By God, if women hadden written stories, / As clerkes have…”",
+   "def": "WIFE OF BATH’S PROLOGUE — about JANKIN’S BOOK of wicked wives. Aesop’s lion: a picture by a man isn’t proof men are stronger. If women wrote the stories, men would look worse."
+  },
+  {
+   "id": "c30",
+   "term": "31. Which moment? “All suddenly three leaves have I plight / Out of his book right as he read… That in oure fire he fell backward adoun.”",
+   "def": "WIFE OF BATH’S PROLOGUE — she rips three pages from her 5th husband JANKIN’S book; he hits her and she goes deaf in one ear. He later burns the book and gives her “maistrye.”"
+  },
+  {
+   "id": "c31",
+   "term": "32. Which work? “Venus me gave my lust, my likerousnesse, / And Mars gave me my sturdy hardinesse.”",
+   "def": "WIFE OF BATH’S PROLOGUE — she blames her stars: VENUS (love/desire) and MARS (boldness) shaped her nature."
+  },
+  {
+   "id": "c32",
+   "term": "33. Which moment? “This maketh that there been no fairies. / For thereas wont to walken was an elf / There walketh now the limitour himself”",
+   "def": "Opening of the WIFE OF BATH’S TALE: in King Arthur’s day the land was full of fairies; now they’re gone because friars (limitours) are everywhere — a dig at friars."
+  },
+  {
+   "id": "c33",
+   "term": "34. Which moment? “He saw a maide walking him biforn; / Of which maid anon, maugree her head, / By very force he reft her maidenhead”",
+   "def": "WIFE OF BATH’S TALE — the KNIGHT’S CRIME: he rapes a maiden. The queen spares his life if in a year he can say what women most desire."
+  },
+  {
+   "id": "c34",
+   "term": "35. Which moment? “Women desire to have sovereignty / As well over their husband as their love, / And for to been in maistrye him above.”",
+   "def": "WIFE OF BATH’S TALE — the KNIGHT gives the ANSWER (taught by the old wife) that saves his life: women want SOVEREIGNTY/mastery."
+  },
+  {
+   "id": "c35",
+   "term": "36. Which moment? “To han me foul and old till that I deye / And be to you a trewe humble wife… Or elles ye will han me young and fair”",
+   "def": "WIFE OF BATH’S TALE — the OLD WIFE’S CHOICE. The knight lets HER choose (“as you liketh it suffiseth me”), she gains “maistry,” and becomes both fair and good."
+  },
+  {
+   "id": "c36",
+   "term": "37. Heroic vs. Christian value? A) “Win glory before death.” B) “Choose… Eternal rewards. Do not give way to pride.”",
+   "def": "A = HEROIC (earthly fame, Beowulf speaking). B = CHRISTIAN (eternal reward, humility — Hrothgar’s advice). Both from Heaney’s Beowulf; the poem mixes the two."
+  }
+ ]
+}

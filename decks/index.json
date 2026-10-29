@@ -3,7 +3,7 @@
   {
    "name": "ENG-205",
    "slug": "eng205",
-   "count": 1085,
+   "count": 1122,
    "topics": [
     {
      "name": "Beowulf Part 1 (to Another Attack)",
@@ -313,7 +313,7 @@
     {
      "name": "Midterm Review (in study-guide order)",
      "slug": "midterm-review",
-     "count": 96,
+     "count": 133,
      "decks": [
       {
        "id": "eng205-mt-01",
@@ -354,6 +354,14 @@
        "order": 5,
        "count": 16,
        "file": "eng205-mt-05.json"
+      },
+      {
+       "id": "eng205-mt-06",
+       "title": "ENG-205 Midterm — 6 Examples",
+       "short": "6 Examples",
+       "order": 6,
+       "count": 37,
+       "file": "eng205-mt-06.json"
       }
      ]
     },
@@ -1369,6 +1377,18 @@
    "order": 5,
    "count": 16,
    "file": "eng205-mt-05.json",
+   "subject": "ENG-205",
+   "subjectSlug": "eng205",
+   "topic": "Midterm Review (in study-guide order)",
+   "topicSlug": "midterm-review"
+  },
+  {
+   "id": "eng205-mt-06",
+   "title": "ENG-205 Midterm — 6 Examples",
+   "short": "6 Examples",
+   "order": 6,
+   "count": 37,
+   "file": "eng205-mt-06.json",
    "subject": "ENG-205",
    "subjectSlug": "eng205",
    "topic": "Midterm Review (in study-guide order)",

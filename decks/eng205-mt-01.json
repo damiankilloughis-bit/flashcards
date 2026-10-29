@@ -1,0 +1,91 @@
+{
+ "id": "eng205-mt-01",
+ "title": "ENG-205 Midterm — 1 Middle Ages Intro",
+ "subject": "ENG-205",
+ "topic": "Midterm Review (in study-guide order)",
+ "short": "1 Middle Ages Intro",
+ "order": 1,
+ "count": 16,
+ "cards": [
+  {
+   "id": "c0",
+   "term": "01. Where the word \"medieval\" comes from",
+   "def": "From the Latin medium (middle) and aevum (age), so it means the \"middle age\" between the fall of Rome and the Renaissance."
+  },
+  {
+   "id": "c1",
+   "term": "02. Span of the Middle Ages in English literature",
+   "def": "From the collapse of Roman rule in Britain (about 450) to the start of the Renaissance (about 1485)."
+  },
+  {
+   "id": "c2",
+   "term": "03. Why Britain was open to invaders",
+   "def": "The Romans withdrew from Britain around 407-410, leaving a native Celtic population ill-prepared to defend itself."
+  },
+  {
+   "id": "c3",
+   "term": "04. Who settled England after the Romans left",
+   "def": "The Angles, Saxons, and Jutes, Germanic tribes who came as mercenaries and set up their own kingdoms."
+  },
+  {
+   "id": "c4",
+   "term": "05. Language the Anglo-Saxons spoke",
+   "def": "Old English, a Germanic language, rather than the Celtic of the natives or the Latin of the Romans."
+  },
+  {
+   "id": "c5",
+   "term": "06. The three language periods the Norton describes, in order",
+   "def": "First Old English (Anglo-Saxon), then Anglo-Norman French after the Norman Conquest of 1066, then Middle English, which displaced French by the end of the 1300s."
+  },
+  {
+   "id": "c6",
+   "term": "07. What came after Middle English",
+   "def": "Early Modern English, the language of Shakespeare, which grew into the English we speak now."
+  },
+  {
+   "id": "c7",
+   "term": "08. The Norman Conquest (1066)",
+   "def": "William the Conqueror's French-speaking Normans took England, so French ruled for about two centuries and poured thousands of French words into English."
+  },
+  {
+   "id": "c8",
+   "term": "09. Middle English",
+   "def": "The simplified, French-mixed English that re-emerged after the Conquest, the language of Chaucer and of Sir Gawain."
+  },
+  {
+   "id": "c9",
+   "term": "10. How Old English poetry sounds",
+   "def": "It relies on alliteration (repeated first consonant sounds) and a strong pause, the caesura, in the middle of each line, and it does not rhyme."
+  },
+  {
+   "id": "c10",
+   "term": "11. How Chaucer's Middle English poetry sounds",
+   "def": "It uses rhymed couplets, pairs of lines that rhyme, with five stresses per line (iambic pentameter)."
+  },
+  {
+   "id": "c11",
+   "term": "12. Caesura",
+   "def": "A strong pause in the middle of a line of poetry, splitting each Old English line into two half-lines."
+  },
+  {
+   "id": "c12",
+   "term": "13. Alliteration",
+   "def": "Repetition of the same first consonant sound in nearby words, the backbone of Old English verse."
+  },
+  {
+   "id": "c13",
+   "term": "14. Kenning",
+   "def": "A compound metaphor used in Old English poetry for a simple noun, like \"whale-road\" for the sea."
+  },
+  {
+   "id": "c14",
+   "term": "15. How to spot Old English on a test",
+   "def": "Strange letters like þ and æ, words such as \"Hwæt,\" and a text that is unreadable to a modern reader."
+  },
+  {
+   "id": "c15",
+   "term": "16. How to spot Middle English on a test",
+   "def": "Readable but odd spellings with final -e's and words like \"quod she,\" \"eek,\" and \"sith,\" usually in rhymed couplets (Chaucer)."
+  }
+ ]
+}

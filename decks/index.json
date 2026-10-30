@@ -511,7 +511,7 @@
   {
    "name": "HIS-201",
    "slug": "his201",
-   "count": 1188,
+   "count": 1462,
    "topics": [
     {
      "name": "Chapter 1: The First Civilizations of North America",
@@ -877,6 +877,45 @@
        "order": 2,
        "count": 48,
        "file": "his201-unit1-02-high-yield-qa.json"
+      }
+     ]
+    },
+    {
+     "name": "Unit Two Exam Pack (Ch. 6-9)",
+     "slug": "unit-2",
+     "count": 274,
+     "decks": [
+      {
+       "id": "his201-unit2-01-main-ideas-pathway",
+       "title": "HIS-201 Unit 2 — 1 Main Ideas Pathway (play in order)",
+       "short": "1 Pathway",
+       "order": 1,
+       "count": 25,
+       "file": "his201-unit2-01-main-ideas-pathway.json"
+      },
+      {
+       "id": "his201-unit2-02-qa",
+       "title": "HIS-201 Unit 2 — 2 Q&A (study-guide order)",
+       "short": "2 Q&A",
+       "order": 2,
+       "count": 128,
+       "file": "his201-unit2-02-qa.json"
+      },
+      {
+       "id": "his201-unit2-03-definitions",
+       "title": "HIS-201 Unit 2 — 3 Definitions & IDs",
+       "short": "3 Definitions",
+       "order": 3,
+       "count": 80,
+       "file": "his201-unit2-03-definitions.json"
+      },
+      {
+       "id": "his201-unit2-04-examples",
+       "title": "HIS-201 Unit 2 — 4 Examples (quotes, cases, laws)",
+       "short": "4 Examples",
+       "order": 4,
+       "count": 41,
+       "file": "his201-unit2-04-examples.json"
       }
      ]
     }
@@ -2029,6 +2068,54 @@
    "subjectSlug": "his201",
    "topic": "Unit One Exam Pack",
    "topicSlug": "unit-1"
+  },
+  {
+   "id": "his201-unit2-01-main-ideas-pathway",
+   "title": "HIS-201 Unit 2 — 1 Main Ideas Pathway (play in order)",
+   "short": "1 Pathway",
+   "order": 1,
+   "count": 25,
+   "file": "his201-unit2-01-main-ideas-pathway.json",
+   "subject": "HIS-201",
+   "subjectSlug": "his201",
+   "topic": "Unit Two Exam Pack (Ch. 6-9)",
+   "topicSlug": "unit-2"
+  },
+  {
+   "id": "his201-unit2-02-qa",
+   "title": "HIS-201 Unit 2 — 2 Q&A (study-guide order)",
+   "short": "2 Q&A",
+   "order": 2,
+   "count": 128,
+   "file": "his201-unit2-02-qa.json",
+   "subject": "HIS-201",
+   "subjectSlug": "his201",
+   "topic": "Unit Two Exam Pack (Ch. 6-9)",
+   "topicSlug": "unit-2"
+  },
+  {
+   "id": "his201-unit2-03-definitions",
+   "title": "HIS-201 Unit 2 — 3 Definitions & IDs",
+   "short": "3 Definitions",
+   "order": 3,
+   "count": 80,
+   "file": "his201-unit2-03-definitions.json",
+   "subject": "HIS-201",
+   "subjectSlug": "his201",
+   "topic": "Unit Two Exam Pack (Ch. 6-9)",
+   "topicSlug": "unit-2"
+  },
+  {
+   "id": "his201-unit2-04-examples",
+   "title": "HIS-201 Unit 2 — 4 Examples (quotes, cases, laws)",
+   "short": "4 Examples",
+   "order": 4,
+   "count": 41,
+   "file": "his201-unit2-04-examples.json",
+   "subject": "HIS-201",
+   "subjectSlug": "his201",
+   "topic": "Unit Two Exam Pack (Ch. 6-9)",
+   "topicSlug": "unit-2"
   },
   {
    "id": "psc201-m2-01-definitions",

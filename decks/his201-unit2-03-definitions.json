@@ -1,0 +1,411 @@
+{
+ "id": "his201-unit2-03-definitions",
+ "title": "HIS-201 Unit 2 — 3 Definitions & IDs",
+ "subject": "HIS-201",
+ "topic": "Unit Two Exam Pack (Ch. 6-9)",
+ "short": "3 Definitions",
+ "order": 3,
+ "count": 80,
+ "cards": [
+  {
+   "id": "c0",
+   "term": "Ch6: Ohio Country",
+   "def": "The contested land north of the Ohio River, a no-man's-land since the Beaver Wars that the Iroquois claimed by conquest but did not settle."
+  },
+  {
+   "id": "c1",
+   "term": "Ch6: Albany Congress (Albany Plan of Union)",
+   "def": "The wartime meeting where Benjamin Franklin's plan for a federal council of representatives from each colony to run common defense."
+  },
+  {
+   "id": "c2",
+   "term": "Ch6: Virtual representation",
+   "def": "The British idea that each member of Parliament stands for the whole empire, so colonists were represented without voting."
+  },
+  {
+   "id": "c3",
+   "term": "Ch6: Actual representation",
+   "def": "The colonial idea that people are represented only by officials they elect who answer to them."
+  },
+  {
+   "id": "c4",
+   "term": "Ch6: Proclamation of 1763",
+   "def": "A British order that stopped colonial settlement west of the Appalachians and made the western lands Indian territory."
+  },
+  {
+   "id": "c5",
+   "term": "Ch6: Stamp Act",
+   "def": "A direct tax for revenue on legal documents, customs papers, newspapers, almanacs, diplomas, playing cards and dice."
+  },
+  {
+   "id": "c6",
+   "term": "Ch6: Declaratory Act",
+   "def": "A law stating that Parliament could make laws for the colonies \"in all cases whatsoever,\" leaving unclear whether that included taxes."
+  },
+  {
+   "id": "c7",
+   "term": "Ch6: Townshend Acts",
+   "def": "Duties on imported lead, paint, paper, glass and tea whose revenue paid royal governors, judges and customs officers."
+  },
+  {
+   "id": "c8",
+   "term": "Ch6: Committees of correspondence",
+   "def": "An intercolonial network of committees that shared statements of rights and grievances and spread resistance into rural areas."
+  },
+  {
+   "id": "c9",
+   "term": "Ch6: Tea Act",
+   "def": "A law giving the bankrupt East India Company a monopoly on selling tea directly to America, making tea cheaper but still taxed."
+  },
+  {
+   "id": "c10",
+   "term": "Ch6: Coercive (Intolerable) Acts",
+   "def": "Four laws punishing Massachusetts: closing Boston's port, ending its self-government, letting officials be tried elsewhere, and quartering troops in private buildings."
+  },
+  {
+   "id": "c11",
+   "term": "Ch6: Quebec Act",
+   "def": "A law giving former French Canada a government with no elected assembly, recognizing the Catholic Church, and extending it to the land between the Mississippi and Ohio Rivers."
+  },
+  {
+   "id": "c12",
+   "term": "Ch6: Common Sense",
+   "def": "Thomas Paine's pamphlet attacking monarchy and arguing the colonies were destined for independence."
+  },
+  {
+   "id": "c13",
+   "term": "Ch6: William Pitt",
+   "def": "William Pitt took over the war, had Britain pay for it and respect colonial militias, and won Indian allies, turning defeat into victory."
+  },
+  {
+   "id": "c14",
+   "term": "Ch6: Pontiac",
+   "def": "Pontiac was the Ottawa chief who embraced Neolin's message and led the 1763 attacks that captured British forts west of Detroit."
+  },
+  {
+   "id": "c15",
+   "term": "Ch6: Patrick Henry",
+   "def": "Patrick Henry was a young Virginia Burgess who introduced the Virginia Resolves denying Parliament's right to tax."
+  },
+  {
+   "id": "c16",
+   "term": "Ch6: Sons of Liberty",
+   "def": "The Sons of Liberty were traders, lawyers and prosperous artisans who organized seaport crowds to intimidate stamp distributors and customs collectors."
+  },
+  {
+   "id": "c17",
+   "term": "Ch6: Samuel Adams",
+   "def": "Samuel Adams was a Massachusetts master organizer who sent the circular letter, started the committees of correspondence, and helped lead resistance in Boston."
+  },
+  {
+   "id": "c18",
+   "term": "Ch6: John Adams (1770)",
+   "def": "John Adams was a defense lawyer for the soldiers tried after the Boston Massacre."
+  },
+  {
+   "id": "c19",
+   "term": "Ch7: Continental Army",
+   "def": "The regular, long-term army that the Second Continental Congress created, led by Washington."
+  },
+  {
+   "id": "c20",
+   "term": "Ch7: Militia",
+   "def": "Local part-time citizen-soldiers who turned out only when the British came near."
+  },
+  {
+   "id": "c21",
+   "term": "Ch7: Loyalists (Tories)",
+   "def": "Americans who backed the king and Parliament."
+  },
+  {
+   "id": "c22",
+   "term": "Ch7: Hessians",
+   "def": "German mercenary soldiers hired by Britain."
+  },
+  {
+   "id": "c23",
+   "term": "Ch7: Mutiny",
+   "def": "An open revolt by soldiers against their officers."
+  },
+  {
+   "id": "c24",
+   "term": "Ch7: Partisan warfare",
+   "def": "Guerrilla-style fighting between rebel and loyalist bands."
+  },
+  {
+   "id": "c25",
+   "term": "Ch7: Olive Branch Petition",
+   "def": "A petition affirming loyalty to George III and asking him to disavow his ministers."
+  },
+  {
+   "id": "c26",
+   "term": "Ch7: Dunmore's Proclamation",
+   "def": "Lord Dunmore's offer of freedom to slaves who joined the British."
+  },
+  {
+   "id": "c27",
+   "term": "Ch7: Declaration of Independence",
+   "def": "The statement that all men are created equal with unalienable rights, that government rests on consent, and that George III's abuses justified breaking away."
+  },
+  {
+   "id": "c28",
+   "term": "Ch7: Provincial congress",
+   "def": "An elected body that replaced a royal colonial legislature and took over government."
+  },
+  {
+   "id": "c29",
+   "term": "Ch7: Valley Forge",
+   "def": "The Continental Army's winter camp near Philadelphia, marked by hunger, cold and disease."
+  },
+  {
+   "id": "c30",
+   "term": "Ch7: Thomas Jefferson",
+   "def": "Thomas Jefferson did most of the drafting of the Declaration of Independence."
+  },
+  {
+   "id": "c31",
+   "term": "Ch7: Lord Dunmore",
+   "def": "Lord Dunmore was Virginia's royal governor who offered freedom to slaves who joined the British and shelled Norfolk."
+  },
+  {
+   "id": "c32",
+   "term": "Ch7: Joseph Brant",
+   "def": "Joseph Brant was the bilingual, literate Mohawk leader of the Iroquois warriors who aided the British."
+  },
+  {
+   "id": "c33",
+   "term": "Ch7: Daniel Morgan",
+   "def": "Daniel Morgan led part of Greene's army and routed Tarleton at Cowpens."
+  },
+  {
+   "id": "c34",
+   "term": "Ch7: Thomas Paine",
+   "def": "The English-born writer of Common Sense, which attacked monarchy and urged independence in 1776."
+  },
+  {
+   "id": "c35",
+   "term": "Ch7: Battle of Saratoga",
+   "def": "The 1777 American victory where Burgoyne surrendered, convincing France to ally with the United States."
+  },
+  {
+   "id": "c36",
+   "term": "Ch7: Battle of Yorktown",
+   "def": "The 1781 French and American victory where Cornwallis surrendered, ending Britain's will to fight."
+  },
+  {
+   "id": "c37",
+   "term": "Ch8: Federalism",
+   "def": "The organization of a United States, dividing power between the national and state governments."
+  },
+  {
+   "id": "c38",
+   "term": "Ch8: Articles of Confederation",
+   "def": "The first national framework, which left the power of the purse and final lawmaking to the states."
+  },
+  {
+   "id": "c39",
+   "term": "Ch8: Anti-Federalists",
+   "def": "Opponents of the Constitution who pushed for a bill of rights."
+  },
+  {
+   "id": "c40",
+   "term": "Ch9: Semisubsistence economy",
+   "def": "A way of life in which farm families lived mainly on what their own land and labor produced, bartering any surplus locally."
+  },
+  {
+   "id": "c41",
+   "term": "Ch9: Commercial economy",
+   "def": "A way of life in which people sold goods or services in a wider market and lived on their earnings."
+  },
+  {
+   "id": "c42",
+   "term": "Ch9: Cabinet",
+   "def": "The president's advisers who head the executive departments, a system not mentioned in the Constitution."
+  },
+  {
+   "id": "c43",
+   "term": "Ch9: Funding",
+   "def": "Hamilton's plan to pay the whole federal debt in full."
+  },
+  {
+   "id": "c44",
+   "term": "Ch9: Assumption",
+   "def": "Hamilton's plan for the federal government to take over the states' debts."
+  },
+  {
+   "id": "c45",
+   "term": "Ch9: Bank of the United States",
+   "def": "A national bank chartered for 20 years in 1791 to hold government deposits and issue banknotes."
+  },
+  {
+   "id": "c46",
+   "term": "Ch9: Excise tax",
+   "def": "A tax on goods made at home, such as Hamilton's tax on whiskey."
+  },
+  {
+   "id": "c47",
+   "term": "Ch9: Strict construction",
+   "def": "Reading the Constitution narrowly so the federal government has only the powers expressly given to it."
+  },
+  {
+   "id": "c48",
+   "term": "Ch9: Implied powers (broad construction)",
+   "def": "The idea that the necessary and proper clause lets Congress use powers beyond those listed, such as chartering a bank."
+  },
+  {
+   "id": "c49",
+   "term": "Ch9: Whiskey Rebellion",
+   "def": "The 1794 uprising of western farmers against the whiskey excise tax."
+  },
+  {
+   "id": "c50",
+   "term": "Ch9: Neutral rights",
+   "def": "The right of nations not at war to trade with warring nations in nonmilitary goods."
+  },
+  {
+   "id": "c51",
+   "term": "Ch9: Impressment",
+   "def": "Britain's practice of forcing sailors, including Americans, into its navy."
+  },
+  {
+   "id": "c52",
+   "term": "Ch9: Jay's Treaty",
+   "def": "The 1795 treaty with Britain that removed British troops from the Northwest but won no other concessions."
+  },
+  {
+   "id": "c53",
+   "term": "Ch9: Federalists",
+   "def": "The party led by Hamilton favoring commerce, a strong government, order and ties to Britain."
+  },
+  {
+   "id": "c54",
+   "term": "Ch9: Republicans (Jeffersonians)",
+   "def": "The party led by Madison and Jefferson favoring agriculture, limited government, strict construction and France."
+  },
+  {
+   "id": "c55",
+   "term": "Ch9: Farewell Address",
+   "def": "Washington's 1796 statement warning against the dangers of political parties."
+  },
+  {
+   "id": "c56",
+   "term": "Ch9: XYZ Affair",
+   "def": "The French demand for a bribe from American envoys that sparked naval war with France."
+  },
+  {
+   "id": "c57",
+   "term": "Ch9: Alien and Sedition Acts",
+   "def": "The 1798 Federalist laws targeting immigrants and punishing criticism of the government."
+  },
+  {
+   "id": "c58",
+   "term": "Ch9: Virginia and Kentucky Resolutions",
+   "def": "Madison's and Jefferson's claims that states could interpose against unconstitutional federal laws."
+  },
+  {
+   "id": "c59",
+   "term": "Ch9: Interposition",
+   "def": "A state's claimed right to place its authority between its citizens and an unconstitutional federal law."
+  },
+  {
+   "id": "c60",
+   "term": "Ch9: Twelfth Amendment",
+   "def": "The 1804 amendment requiring electors to vote separately for president and vice president."
+  },
+  {
+   "id": "c61",
+   "term": "Ch9: Midnight appointments",
+   "def": "Adams's last-minute Federalist judges appointed under the Judiciary Act of 1801."
+  },
+  {
+   "id": "c62",
+   "term": "Ch9: Judicial review",
+   "def": "The power of courts to decide whether laws violate the Constitution."
+  },
+  {
+   "id": "c63",
+   "term": "Ch9: Marbury v. Madison",
+   "def": "The 1803 Supreme Court case in which John Marshall established judicial review."
+  },
+  {
+   "id": "c64",
+   "term": "Ch9: Republican motherhood",
+   "def": "An ideal Ch. 9 names as encouraging girls' academies; the book defines it in Ch. 8, which still needs to be pulled."
+  },
+  {
+   "id": "c65",
+   "term": "Ch9: Empire of liberty",
+   "def": "Jefferson's vision of the West as enough land for generations of independent farmers."
+  },
+  {
+   "id": "c66",
+   "term": "Ch9: Treaty of Greenville",
+   "def": "The 1795 treaty in which tribes ceded most of the land between Lake Erie and the Ohio River."
+  },
+  {
+   "id": "c67",
+   "term": "Ch9: Louisiana Purchase",
+   "def": "The 1803 purchase of Louisiana from France for about $15 million, doubling the nation's size."
+  },
+  {
+   "id": "c68",
+   "term": "Ch9: Corps of Discovery",
+   "def": "The Lewis and Clark expedition up the Missouri River to the Pacific."
+  },
+  {
+   "id": "c69",
+   "term": "Ch9: Camp meeting",
+   "def": "A multi-day outdoor revival where frontier crowds camped to hear preaching."
+  },
+  {
+   "id": "c70",
+   "term": "Ch9: Second Great Awakening",
+   "def": "The wave of religious revivals that swept the nation after 1800."
+  },
+  {
+   "id": "c71",
+   "term": "Ch9: Pan-Indian movement",
+   "def": "Tecumseh's effort to unite many tribes to protect Indian land."
+  },
+  {
+   "id": "c72",
+   "term": "Ch9: Peaceable coercion",
+   "def": "Jefferson's policy of protecting neutral rights through economic pressure instead of war."
+  },
+  {
+   "id": "c73",
+   "term": "Ch9: Embargo Act",
+   "def": "The 1807 law banning American ships from foreign ports and all American exports."
+  },
+  {
+   "id": "c74",
+   "term": "Ch9: War Hawks",
+   "def": "Young nationalist Republicans led by Henry Clay who pushed for war with Britain."
+  },
+  {
+   "id": "c75",
+   "term": "Ch9: Hartford Convention",
+   "def": "The 1814 meeting of New England Federalists opposing the war and proposing amendments."
+  },
+  {
+   "id": "c76",
+   "term": "Ch9: Treaty of Ghent",
+   "def": "The treaty ending the War of 1812 that left impressment and neutral rights unresolved."
+  },
+  {
+   "id": "c77",
+   "term": "Ch9: Missouri Compromise",
+   "def": "The 1820 deal admitting Missouri as a slave state and Maine as free and banning slavery north of 36°30′."
+  },
+  {
+   "id": "c78",
+   "term": "Ch9: Transcontinental Treaty",
+   "def": "The 1819 treaty in which Spain ceded Florida and set a boundary to the Pacific."
+  },
+  {
+   "id": "c79",
+   "term": "Ch9: Monroe Doctrine",
+   "def": "Monroe's 1823 warning that the Americas were closed to new European colonization."
+  }
+ ]
+}

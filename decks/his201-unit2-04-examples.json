@@ -5,7 +5,7 @@
  "topic": "Unit Two Exam Pack (Ch. 6-9)",
  "short": "4 Examples",
  "order": 4,
- "count": 41,
+ "count": 57,
  "cards": [
   {
    "id": "c0",
@@ -211,6 +211,86 @@
    "id": "c40",
    "term": "41. \"The American continents ... are henceforth not to be considered as subjects for future colonization by any European powers.\"",
    "def": "Monroe's December 2, 1823 message, later called the Monroe Doctrine."
+  },
+  {
+   "id": "c41",
+   "term": "42. Who said \"Virginia... is my country,\" and what does it show?",
+   "def": "Thomas Jefferson; it shows revolutionaries saw themselves as citizens of their states, not of a nation."
+  },
+  {
+   "id": "c42",
+   "term": "43. What did Boston King describe after the war, and what does it show?",
+   "def": "The terror enslaved people felt as owners came to New York to reclaim them; it shows Black freedom was uncertain in the new republic."
+  },
+  {
+   "id": "c43",
+   "term": "44. What case shows foreign pressure on the West in the 1780s?",
+   "def": "Spain closing the Mississippi to Americans in 1784; it showed westerners depended on the river and led to talk of seceding to Spain."
+  },
+  {
+   "id": "c44",
+   "term": "45. How did Alexander McGillivray use Spain?",
+   "def": "The Creek leader made a 1784 treaty with Spain to get trade goods and guns; it shows Indians used empires to defend their land."
+  },
+  {
+   "id": "c45",
+   "term": "46. What law shows an orderly plan for western expansion?",
+   "def": "The Northwest Ordinance of 1787; it set steps to statehood and banned slavery, becoming the model for adding new lands."
+  },
+  {
+   "id": "c46",
+   "term": "47. What does \"not worth a Continental\" show?",
+   "def": "By 1781 Congress's paper money had collapsed; it shows the war debt and inflation crisis of the Confederation."
+  },
+  {
+   "id": "c47",
+   "term": "48. How did New Jersey's constitution show a loophole in women's exclusion?",
+   "def": "Its \"all free inhabitants\" with property wording let propertied white women vote until 1807."
+  },
+  {
+   "id": "c48",
+   "term": "49. What does Eliza Wilkinson show about women in the war?",
+   "def": "By late in the war she said women could give opinions and she managed a plantation; it shows wartime work made women more confident."
+  },
+  {
+   "id": "c49",
+   "term": "50. What do Judith Sargent Murray and Benjamin Rush show?",
+   "def": "Both argued for educating women so they could raise informed citizens; it shows republican motherhood."
+  },
+  {
+   "id": "c50",
+   "term": "51. What did Richard Allen and Absalom Jones do, and what does it show?",
+   "def": "After being forced from their pews they left St. George's and founded independent Black churches; it shows growing free Black communities."
+  },
+  {
+   "id": "c51",
+   "term": "52. What does William Cooper show?",
+   "def": "A Quaker wheelwright who became a land developer and founded Cooperstown; it shows new men claiming an \"aristocracy of merit.\""
+  },
+  {
+   "id": "c52",
+   "term": "53. What does the Society of the Cincinnati case show?",
+   "def": "Officers were attacked for passing membership to eldest sons; it shows the Revolution's attack on hereditary privilege."
+  },
+  {
+   "id": "c53",
+   "term": "54. What does Shays's Rebellion show?",
+   "def": "Indebted farmers closed courts in 1786; it showed a state failing to protect property and pushed leaders toward the Convention."
+  },
+  {
+   "id": "c54",
+   "term": "55. What did Madison argue in Federalist No. 10?",
+   "def": "That a large republic's many factions check one another; it shows the Federalist answer to fears about a big republic."
+  },
+  {
+   "id": "c55",
+   "term": "56. What did \"Brutus\" argue?",
+   "def": "This Anti-Federalist said a free republic could not work over a vast, diverse country because representatives would be unknown and distrusted."
+  },
+  {
+   "id": "c56",
+   "term": "57. Why did Patrick Henry refuse to attend the Convention?",
+   "def": "He \"smelt a rat\"; it shows the state-first outlook of Anti-Federalists."
   }
  ]
 }

@@ -4,7 +4,7 @@
 # title: HIS-201 Unit 2 — 1 Main Ideas Pathway (play in order)
 # short: 1 Pathway
 # order: 1
-# expect: 25
+# expect: 33
 01. The Ohio Country spark (Ch. 6)	Because Britain and France both wanted the Ohio Country, Washington's 1754 clash with the French and surrender at Fort Necessity started the Seven Years' War.
 02. Pitt turns defeat into victory (Ch. 6)	After Braddock's 1755 defeat pushed Indians toward France, William Pitt paid for the war and won Indian allies, so Britain took Louisbourg, then Quebec.
 03. Victory creates new problems (Ch. 6)	The 1763 Treaty of Paris removed France, so Indians lost their counterweight, Pontiac rebelled, and Britain's Proclamation of 1763 closed western land colonists wanted.
@@ -17,16 +17,24 @@
 10. Saratoga makes a global war (Ch. 7)	Britain took cities but could not crush Washington, and Burgoyne's 1777 surrender at Saratoga convinced France to ally with the Americans, making the war worldwide.
 11. The southern strategy fails (Ch. 7)	Expecting loyalist help, Britain moved south, but partisan warfare and Greene's divided army wore down Cornwallis until he surrendered at Yorktown in 1781.
 12. Independence won (Ch. 7)	The 1783 Treaty of Paris recognized American independence with a border at the Mississippi, but left Indians divided and displaced and the Iroquois broken.
-13. Thirteen state republics (Ch. 8)	After independence, Americans first built 13 separate state republics, and the Articles of Confederation left the power of the purse and lawmaking to the states.
-14. Crisis of the Confederation (Ch. 8)	Western conflicts, the Jay-Gardoqui Treaty controversy and Shays's Rebellion exposed the Confederation's weakness, bringing the crisis to a head in the mid-1780s.
-15. A new Constitution (Ch. 8)	The 1787 Constitutional Convention created a truly national republic with separated powers, and Anti-Federalist pressure added a Bill of Rights by 1791.
-16. Two economies, two visions (Ch. 9)	The new nation split between commercial and semisubsistence ways of life, and these rival visions shaped the fight over the Constitution and then Washington's government.
-17. Hamilton's financial program (Ch. 9)	Hamilton's funding, assumption and national bank restored credit, but critics feared a financial aristocracy, so Jefferson and Madison argued strict construction against Hamilton's implied powers.
-18. Europe creates the parties (Ch. 9)	The French Revolution and Jay's Treaty split Americans, so Hamilton's Federalists and Madison and Jefferson's Republicans organized nationally despite Washington's warning against parties.
-19. Adams and suppression at home (Ch. 9)	The XYZ Affair led to naval war with France, Federalists passed the Alien and Sedition Acts, and Republicans answered with the Virginia and Kentucky Resolutions.
-20. The Revolution of 1800 and judicial review (Ch. 9)	Adams's peace with France split the Federalists, Jefferson won in 1800, and the Federalist judge John Marshall established judicial review in Marbury v. Madison.
-21. Jefferson in power (Ch. 9)	Jefferson cut taxes, the army and the navy but kept Hamilton's debt policies and bank, and bought Louisiana when Haiti's revolt wrecked Napoleon's American plans.
-22. Pressure on Indian lands (Ch. 9)	White expansion took over 100 million acres of Indian land, so the Prophet and his brother Tecumseh built a pan-Indian movement that Harrison's Tippecanoe victory weakened.
-23. The road to the War of 1812 (Ch. 9)	British and French attacks on neutral shipping led to Jefferson's failed Embargo, and War Hawks pushed Madison into declaring war on Britain in 1812.
-24. War and a new nationalism (Ch. 9)	Tecumseh died at the Thames, Jackson won at New Orleans, and the Hartford Convention destroyed the Federalists, bringing a surge of postwar nationalism.
-25. Monroe: sectional crisis and diplomacy (Ch. 9)	The Missouri Compromise eased the first sectional crisis over slavery, while Adams's treaties and the Monroe Doctrine expanded the nation and warned Europe away.
+13. States first, nation second (Ch. 8)	Revolutionaries saw themselves as citizens of their states, so the Declaration's "these United States" meant a federation of 13 republics, not one nation.
+14. Small republics and weak governors (Ch. 8)	Believing republics worked only in small territories and fearing executive abuse, states wrote constitutions with weak governors and powerful, annually elected legislatures.
+15. A nearly powerless Confederation (Ch. 8)	Written mid-war by jealous states, the Articles of Confederation gave Congress no power to tax or regulate trade, so the states kept the purse and final lawmaking.
+16. Western land and foreign pressure (Ch. 8)	As settlers poured west, Britain kept its Northwest forts and Spain closed the Mississippi in 1784, and the Confederation had no army to answer either.
+17. The Northwest Ordinance (Ch. 8)	To reassure speculators, the Northwest Ordinance of 1787 set orderly steps to statehood and banned slavery there, easing East-West tension but widening the North-South split.
+18. Slavery becomes sectional (Ch. 8)	Northern states moved to abolish slavery while no southern state did, so slavery grew in the Lower South and became the "peculiar institution" of one region.
+19. Debt, paper money and factions (Ch. 8)	War debt and collapsing paper money brought inflation, and with Congress powerless, state legislatures became battlegrounds of creditors, debtor farmers and artisans.
+20. Equality's limits in republican society (Ch. 8)	The Revolution's equality ideal emboldened artisans, westerners and women, but republican motherhood kept women at home and reformers attacked aristocracy rather than raising the bottom.
+21. Jay-Gardoqui and Shays's Rebellion (Ch. 8)	Jay's deal to give up Mississippi rights for 25 years and Shays's 1786 farmers' revolt convinced leaders that neither Congress nor the states could fix the crisis.
+22. The Great Compromise (Ch. 8)	At Philadelphia in 1787, Madison's Virginia Plan clashed with the New Jersey Plan until a compromise gave states equal Senate seats and the House representation by population.
+23. Ratification and the Bill of Rights (Ch. 8)	Federalists argued in the Federalist Papers that a large republic checks factions, and to win over Anti-Federalists Madison delivered the Bill of Rights by 1791.
+24. Two economies, two visions (Ch. 9)	The new nation split between commercial and semisubsistence ways of life, and these rival visions shaped the fight over the Constitution and then Washington's government.
+25. Hamilton's financial program (Ch. 9)	Hamilton's funding, assumption and national bank restored credit, but critics feared a financial aristocracy, so Jefferson and Madison argued strict construction against Hamilton's implied powers.
+26. Europe creates the parties (Ch. 9)	The French Revolution and Jay's Treaty split Americans, so Hamilton's Federalists and Madison and Jefferson's Republicans organized nationally despite Washington's warning against parties.
+27. Adams and suppression at home (Ch. 9)	The XYZ Affair led to naval war with France, Federalists passed the Alien and Sedition Acts, and Republicans answered with the Virginia and Kentucky Resolutions.
+28. The Revolution of 1800 and judicial review (Ch. 9)	Adams's peace with France split the Federalists, Jefferson won in 1800, and the Federalist judge John Marshall established judicial review in Marbury v. Madison.
+29. Jefferson in power (Ch. 9)	Jefferson cut taxes, the army and the navy but kept Hamilton's debt policies and bank, and bought Louisiana when Haiti's revolt wrecked Napoleon's American plans.
+30. Pressure on Indian lands (Ch. 9)	White expansion took over 100 million acres of Indian land, so the Prophet and his brother Tecumseh built a pan-Indian movement that Harrison's Tippecanoe victory weakened.
+31. The road to the War of 1812 (Ch. 9)	British and French attacks on neutral shipping led to Jefferson's failed Embargo, and War Hawks pushed Madison into declaring war on Britain in 1812.
+32. War and a new nationalism (Ch. 9)	Tecumseh died at the Thames, Jackson won at New Orleans, and the Hartford Convention destroyed the Federalists, bringing a surge of postwar nationalism.
+33. Monroe: sectional crisis and diplomacy (Ch. 9)	The Missouri Compromise eased the first sectional crisis over slavery, while Adams's treaties and the Monroe Doctrine expanded the nation and warned Europe away.

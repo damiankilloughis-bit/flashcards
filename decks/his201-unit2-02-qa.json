@@ -5,7 +5,7 @@
  "topic": "Unit Two Exam Pack (Ch. 6-9)",
  "short": "2 Q&A",
  "order": 2,
- "count": 128,
+ "count": 145,
  "cards": [
   {
    "id": "c0",
@@ -389,261 +389,346 @@
   },
   {
    "id": "c76",
-   "term": "Ch8: What were the first state governments like after independence?",
-   "def": "For a decade the revolutionaries organized 13 separate state republics, each dominated by a popularly elected legislature."
+   "term": "Ch8: What political concerns shaped the first state constitutions?",
+   "def": "Fear of executive abuse, the belief that republics work only in small territories, and a wish for written limits led states to weaken governors and strengthen legislatures."
   },
   {
    "id": "c77",
-   "term": "Ch8: What was the key weakness of the Articles of Confederation?",
-   "def": "The national legislature left the power of the purse and all final power to make and execute laws to the states."
+   "term": "Ch8: Why did the revolutionaries think of themselves as citizens of their states?",
+   "def": "Leaders like Jefferson called their state their country, and the Declaration's \"these United States\" described a federation of 13 republics, not one nation."
   },
   {
    "id": "c78",
-   "term": "Ch8: What two events brought the Confederation's crisis to a head?",
-   "def": "The controversy over the Jay-Gardoqui Treaty and Shays's Rebellion brought the crisis to a head in the mid-1780s."
+   "term": "Ch8: How did the state constitutions curb executive power?",
+   "def": "Governors could not call or dissolve legislatures, veto laws, grant land or run courts, and had few appointments, denying them patronage and corruption."
   },
   {
    "id": "c79",
-   "term": "Ch8: How did the Revolution affect the debate over slavery?",
-   "def": "Its equality principles sparked a debate that split North and South, as northern antislavery societies formed but no southern state abolished slavery."
+   "term": "Ch8: How did the state constitutions strengthen legislatures?",
+   "def": "They used annual elections, residency rules for candidates and voter instructions to representatives, and lowered the property requirements for voting."
   },
   {
    "id": "c80",
-   "term": "Ch8: What did the Constitutional Convention of 1787 create?",
-   "def": "It created a national republic with separation of powers among a judiciary, a two-house legislature and a strong executive."
+   "term": "Ch8: Why did Americans want written constitutions?",
+   "def": "They wanted a written contract above government as a yardstick, unlike Britons, who used \"constitution\" to mean the existing arrangement of laws and customs."
   },
   {
    "id": "c81",
-   "term": "Ch8: What did the Anti-Federalists win?",
-   "def": "The Anti-Federalists pushed for a bill of rights, which was added to the Constitution by 1791."
+   "term": "Ch8: What powers did Congress have under the Articles of Confederation?",
+   "def": "It could declare war, make peace, run diplomacy and Indian affairs, requisition men and coin or print money, but could not tax or regulate trade."
   },
   {
    "id": "c82",
+   "term": "Ch8: Why was the Confederation government so weak?",
+   "def": "It was written mid-war, leaders had thought little about federalism, the states were jealous, and people had just rebelled against distant central power."
+  },
+  {
+   "id": "c83",
+   "term": "Ch8: Why did Maryland delay ratifying the Articles until 1781?",
+   "def": "Maryland, a landless state, refused until landed states like Virginia ceded their western claims to the Confederation."
+  },
+  {
+   "id": "c84",
+   "term": "Ch8: What challenges did the West pose for the Confederation?",
+   "def": "Britain kept its Northwest forts, Spain closed the Mississippi in 1784 and armed Indians, and westerners talked of seceding, while Congress had no army."
+  },
+  {
+   "id": "c85",
+   "term": "Ch8: What did the Northwest Ordinance of 1787 provide?",
+   "def": "Appointed territorial officials, a legislature at 5,000 free men, statehood at 60,000, religious freedom, jury trial and public education, and it outlawed slavery."
+  },
+  {
+   "id": "c86",
+   "term": "Ch8: What did the Ordinance of 1785 do?",
+   "def": "It surveyed the Northwest into townships 6 miles square, each with 36 lots of one square mile, a grid later used to the Pacific."
+  },
+  {
+   "id": "c87",
+   "term": "Ch8: How did wartime disruption damage the economy?",
+   "def": "Americans lost British goods, markets and credit, and $400 million in paper money collapsed, causing inflation that hurt wage earners and small farmers."
+  },
+  {
+   "id": "c88",
+   "term": "Ch8: What economic factions fought in the state legislatures?",
+   "def": "Merchants wanted high taxes and hard money, western farmers wanted paper money and debt relief, and artisans wanted protection from imports."
+  },
+  {
+   "id": "c89",
+   "term": "Ch8: How did the Revolution alter society?",
+   "def": "Deference to elites declined as artisans, westerners and women claimed more standing, state churches were disestablished, and hereditary privilege was attacked."
+  },
+  {
+   "id": "c90",
+   "term": "Ch8: How did the Revolution affect women?",
+   "def": "Women ran farms and businesses in the war, and republican motherhood justified their education, but married women still could not own property or make contracts."
+  },
+  {
+   "id": "c91",
+   "term": "Ch8: Why wasn't the Revolution more revolutionary on equality?",
+   "def": "Republicans tied independence to property, so women and Blacks were left dependent, and reformers leveled the top rather than raising the bottom."
+  },
+  {
+   "id": "c92",
+   "term": "Ch8: How did the Revolution affect slavery?",
+   "def": "Northern states moved to end it and some Upper South planters freed slaves, but no southern state abolished it and slavery grew in the Lower South."
+  },
+  {
+   "id": "c93",
+   "term": "Ch8: What short-term crises led to the Constitutional Convention?",
+   "def": "The Jay-Gardoqui Treaty controversy and Shays's Rebellion showed that neither Congress nor the state legislatures could solve the nation's problems."
+  },
+  {
+   "id": "c94",
+   "term": "Ch8: What was Shays's Rebellion?",
+   "def": "In 1786 about 2,000 indebted western Massachusetts farmers under Daniel Shays closed courts to stop foreclosures until militia crushed them by February 1787."
+  },
+  {
+   "id": "c95",
+   "term": "Ch8: How did the Virginia and New Jersey Plans differ?",
+   "def": "Madison's Virginia Plan wanted a national government with population-based representation, while Paterson's New Jersey Plan kept a one-house Congress with equal state votes."
+  },
+  {
+   "id": "c96",
+   "term": "Ch8: What did the Great Compromise decide?",
+   "def": "Each state got two senators chosen by legislatures, while the House was by population, slaves counted three-fifths, and the slave trade could continue until 1808."
+  },
+  {
+   "id": "c97",
+   "term": "Ch8: What were the main arguments in the ratification debate?",
+   "def": "Anti-Federalists feared a distant government of new aristocrats, while Federalists argued that a large republic's competing factions would check one another."
+  },
+  {
+   "id": "c98",
+   "term": "Ch8: How was the Constitution ratified?",
+   "def": "Ratifying conventions approved it in all but two states by July 1788, and Rhode Island came last in 1790 after Madison kept his bill of rights pledge."
+  },
+  {
+   "id": "c99",
    "term": "Ch9: What was the most basic division in American society in 1789?",
    "def": "The split between semisubsistence farmers who lived off their own land and Americans tied to the commercial market economy."
   },
   {
-   "id": "c83",
+   "id": "c100",
    "term": "Ch9: How did the two economies line up on the Constitution?",
    "def": "Commercial merchants, workers and planters backed the Constitution, while semisubsistence farmers who feared concentrated power opposed it."
   },
   {
-   "id": "c84",
+   "id": "c101",
    "term": "Ch9: How did Washington shape the presidency?",
    "def": "Knowing everything he did would set precedent, Washington created a cabinet, led with Hamilton at Treasury and Jefferson at State, and later set the two-term precedent."
   },
   {
-   "id": "c85",
+   "id": "c102",
    "term": "Ch9: What did the Judiciary Act of 1789 do?",
    "def": "It set the Supreme Court at 6 members, created 13 district courts and 3 circuit courts, and let federal courts review state court decisions."
   },
   {
-   "id": "c86",
+   "id": "c103",
    "term": "Ch9: What were Hamilton's two goals?",
    "def": "Hamilton wanted to tie the wealthy to the new government and use federal power to encourage manufacturing and commerce."
   },
   {
-   "id": "c87",
+   "id": "c104",
    "term": "Ch9: What were funding and assumption?",
    "def": "Funding paid the $52 million federal debt in full, and assumption had the federal government take over $25 million in state debts."
   },
   {
-   "id": "c88",
+   "id": "c105",
    "term": "Ch9: What deal got funding and assumption passed?",
    "def": "Jefferson and Madison backed Hamilton's plan in exchange for placing the permanent capital in the South on the Potomac River."
   },
   {
-   "id": "c89",
+   "id": "c106",
    "term": "Ch9: Why did critics fear Hamilton's program?",
    "def": "Speculators and members of Congress who held government notes would profit, so critics feared a privileged financial aristocracy or even monarchy."
   },
   {
-   "id": "c90",
+   "id": "c107",
    "term": "Ch9: How did Jefferson and Hamilton argue over the bank?",
    "def": "Jefferson argued strict construction because the Constitution did not authorize a bank, while Hamilton cited implied powers in the necessary and proper clause."
   },
   {
-   "id": "c91",
+   "id": "c108",
    "term": "Ch9: Was Hamilton's program successful?",
    "def": "Economically yes: it restored the government's credit, ended inflation, and created a sound currency."
   },
   {
-   "id": "c92",
+   "id": "c109",
    "term": "Ch9: What caused the Whiskey Rebellion?",
    "def": "Western farmers who distilled grain into whiskey rebelled against the 1791 excise tax, and Washington crushed them with 13,000 men in 1794."
   },
   {
-   "id": "c93",
+   "id": "c110",
    "term": "Ch9: What social conditions encouraged political parties?",
    "def": "Broad suffrage, the world's highest literacy rate and many newspapers encouraged parties, and Revolutionary heroes led both sides."
   },
   {
-   "id": "c94",
+   "id": "c111",
    "term": "Ch9: How did Federalists and Republicans view the French Revolution?",
    "def": "Hamilton's Federalists saw it as anarchy and favored Britain, while Jefferson's Republicans saw France as a sister republic spreading liberty."
   },
   {
-   "id": "c95",
+   "id": "c112",
    "term": "Ch9: How did Washington respond to the war between Britain and France?",
    "def": "Washington issued a proclamation of neutrality and sent John Jay to negotiate with Britain."
   },
   {
-   "id": "c96",
+   "id": "c113",
    "term": "Ch9: What did Jay's Treaty achieve?",
    "def": "It got the British to withdraw troops from the Northwest but won no other concessions, and the Senate narrowly ratified it in 1795."
   },
   {
-   "id": "c97",
+   "id": "c114",
    "term": "Ch9: Who led each party?",
    "def": "Hamilton coordinated the Federalists with Washington as symbol, while Madison orchestrated the Republicans with Jefferson as symbolic head."
   },
   {
-   "id": "c98",
+   "id": "c115",
    "term": "Ch9: What did Washington's Farewell Address warn against?",
    "def": "Washington warned against the dangers of political parties and urged a return to nonpartisan government."
   },
   {
-   "id": "c99",
+   "id": "c116",
    "term": "Ch9: Why did the 1796 election make Adams president and Jefferson vice president?",
    "def": "Electors cast votes without separating president and vice president, so the top vote-getter, Adams, won and runner-up Jefferson became vice president."
   },
   {
-   "id": "c100",
+   "id": "c117",
    "term": "Ch9: Where was each party strongest?",
    "def": "Federalists were strongest in commercial New England, while Republicans were strongest in semisubsistence areas such as the West."
   },
   {
-   "id": "c101",
+   "id": "c118",
    "term": "Ch9: How did the parties differ in ideas?",
    "def": "Federalists favored an upper-class natural aristocracy and active economic government, while Republicans favored agriculture, individualism, equality for white men and limited government."
   },
   {
-   "id": "c102",
+   "id": "c119",
    "term": "Ch9: What was the XYZ Affair?",
    "def": "The French foreign minister demanded a bribe from three American envoys before talks, which outraged Americans and led to naval war with France."
   },
   {
-   "id": "c103",
+   "id": "c120",
    "term": "Ch9: What did the Alien and Sedition Acts do?",
    "def": "They let the president deport suspicious aliens, raised naturalization residence from 5 to 14 years, and punished false or malicious criticism of the government."
   },
   {
-   "id": "c104",
+   "id": "c121",
    "term": "Ch9: What did the Virginia and Kentucky Resolutions argue?",
    "def": "They argued the Constitution was a compact of sovereign states, so states could interpose when the federal government exceeded its powers."
   },
   {
-   "id": "c105",
+   "id": "c122",
    "term": "Ch9: Why did Adams lose in 1800?",
    "def": "Adams's peace treaty with France split the Federalist Party, driving Hamilton's pro-British wing into open opposition."
   },
   {
-   "id": "c106",
+   "id": "c123",
    "term": "Ch9: Why was the 1800 election deadlocked?",
    "def": "Jefferson and Burr tied in electoral votes, and the House chose Jefferson on the 36th ballot, which led to the Twelfth Amendment."
   },
   {
-   "id": "c107",
+   "id": "c124",
    "term": "Ch9: Why does Marbury v. Madison matter?",
    "def": "John Marshall ruled for Madison but established judicial review, the Supreme Court's power to decide whether laws violate the Constitution."
   },
   {
-   "id": "c108",
+   "id": "c125",
    "term": "Ch9: How did African Americans take part in the political culture?",
    "def": "Driven from Fourth of July events, free Black northerners held their own celebrations and published writings like Venture Smith's narrative to claim full citizenship."
   },
   {
-   "id": "c109",
+   "id": "c126",
    "term": "Ch9: How did women's civic role grow?",
    "def": "Women joined political festivals and attended new academies teaching academic subjects, which encouraged them to see themselves as independent citizens."
   },
   {
-   "id": "c110",
+   "id": "c127",
    "term": "Ch9: What did Jefferson change as president?",
    "def": "He cut spending, abolished internal taxes including the whiskey excise, cut the army to 3,000 men, and shrank the navy."
   },
   {
-   "id": "c111",
+   "id": "c128",
    "term": "Ch9: What did Jefferson keep from Hamilton?",
    "def": "He kept funding and assumption and even expanded the national bank, because practical politics triumphed over agrarian economics."
   },
   {
-   "id": "c112",
+   "id": "c129",
    "term": "Ch9: How did the Miami Confederacy resist and lose?",
    "def": "Little Turtle and Blue Jacket routed Harmar and St. Clair, but Wayne won at Fallen Timbers and the Treaty of Greenville ceded most of Ohio."
   },
   {
-   "id": "c113",
+   "id": "c130",
    "term": "Ch9: Why did Napoleon sell Louisiana?",
    "def": "Haiti's revolt led by Toussaint Louverture destroyed Napoleon's army, so without Saint-Domingue he gave up his American empire."
   },
   {
-   "id": "c114",
+   "id": "c131",
    "term": "Ch9: What did the Louisiana Purchase do?",
    "def": "For about $15 million it added some 830,000 square miles, doubling the nation's size."
   },
   {
-   "id": "c115",
+   "id": "c132",
    "term": "Ch9: What was the Lewis and Clark expedition's purpose?",
    "def": "It was to map the land, find a water route to the Pacific, make Indian diplomacy, and strengthen the American claim to Oregon."
   },
   {
-   "id": "c116",
+   "id": "c133",
    "term": "Ch9: What was Jefferson's Indian policy?",
    "def": "Indians must become farmers or move west, and Jefferson lured them into debt so they would cede land."
   },
   {
-   "id": "c117",
+   "id": "c134",
    "term": "Ch9: How did Tenskwatawa and Tecumseh differ?",
    "def": "The Prophet led a religious revival rejecting white goods, while his brother Tecumseh built a political and military alliance of tribes."
   },
   {
-   "id": "c118",
+   "id": "c135",
    "term": "Ch9: Why did Tecumseh's confederacy fail?",
    "def": "Tribes were asked to join old enemies, southern tribes refused, Harrison destroyed Prophetstown at Tippecanoe, and Tecumseh died at the Thames."
   },
   {
-   "id": "c119",
+   "id": "c136",
    "term": "Ch9: What was the Second Great Awakening's beginning?",
    "def": "Baptist and Methodist preachers held frontier camp meetings, most famously at Cane Ridge, Kentucky, in 1801, sparking a wave of revivals."
   },
   {
-   "id": "c120",
+   "id": "c137",
    "term": "Ch9: Why did the Embargo fail?",
    "def": "France did not need American trade and British ships took over the carrying trade, so American trade collapsed and New England protested."
   },
   {
-   "id": "c121",
+   "id": "c138",
    "term": "Ch9: Who were the War Hawks?",
    "def": "They were young, nationalistic, expansionist Republicans led by Henry Clay who drove Congress toward war with Britain."
   },
   {
-   "id": "c122",
+   "id": "c139",
    "term": "Ch9: What were the causes of the War of 1812?",
    "def": "Britain seized ships and impressed sailors, westerners wanted Canada and Florida and blamed Britain for Indian hostility, and War Hawks felt Britain still treated Americans as colonials."
   },
   {
-   "id": "c123",
+   "id": "c140",
    "term": "Ch9: What was the Hartford Convention?",
    "def": "New England Federalists met to oppose the war and propose amendments, but Jackson's victory and peace news made them look traitorous and killed the party."
   },
   {
-   "id": "c124",
+   "id": "c141",
    "term": "Ch9: What did the Treaty of Ghent decide?",
    "def": "It ended the war but left impressment, neutral rights and trade unresolved."
   },
   {
-   "id": "c125",
+   "id": "c142",
    "term": "Ch9: What was the Missouri Compromise?",
    "def": "Missouri entered as a slave state and Maine as a free state, and slavery was banned in the rest of the Louisiana Purchase north of 36°30′."
   },
   {
-   "id": "c126",
+   "id": "c143",
    "term": "Ch9: What did the Transcontinental Treaty do?",
    "def": "Spain ceded Florida and set the boundary to the Pacific, and the United States gave up its claim that Texas was in the Louisiana Purchase."
   },
   {
-   "id": "c127",
+   "id": "c144",
    "term": "Ch9: What was the Monroe Doctrine?",
    "def": "Monroe declared that the Americas were closed to new European colonization and that intervention in Latin America would be a hostile act."
   }

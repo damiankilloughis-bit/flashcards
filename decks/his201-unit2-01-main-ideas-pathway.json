@@ -5,7 +5,7 @@
  "topic": "Unit Two Exam Pack (Ch. 6-9)",
  "short": "1 Pathway",
  "order": 1,
- "count": 25,
+ "count": 33,
  "cards": [
   {
    "id": "c0",
@@ -69,67 +69,107 @@
   },
   {
    "id": "c12",
-   "term": "13. Thirteen state republics (Ch. 8)",
-   "def": "After independence, Americans first built 13 separate state republics, and the Articles of Confederation left the power of the purse and lawmaking to the states."
+   "term": "13. States first, nation second (Ch. 8)",
+   "def": "Revolutionaries saw themselves as citizens of their states, so the Declaration's \"these United States\" meant a federation of 13 republics, not one nation."
   },
   {
    "id": "c13",
-   "term": "14. Crisis of the Confederation (Ch. 8)",
-   "def": "Western conflicts, the Jay-Gardoqui Treaty controversy and Shays's Rebellion exposed the Confederation's weakness, bringing the crisis to a head in the mid-1780s."
+   "term": "14. Small republics and weak governors (Ch. 8)",
+   "def": "Believing republics worked only in small territories and fearing executive abuse, states wrote constitutions with weak governors and powerful, annually elected legislatures."
   },
   {
    "id": "c14",
-   "term": "15. A new Constitution (Ch. 8)",
-   "def": "The 1787 Constitutional Convention created a truly national republic with separated powers, and Anti-Federalist pressure added a Bill of Rights by 1791."
+   "term": "15. A nearly powerless Confederation (Ch. 8)",
+   "def": "Written mid-war by jealous states, the Articles of Confederation gave Congress no power to tax or regulate trade, so the states kept the purse and final lawmaking."
   },
   {
    "id": "c15",
-   "term": "16. Two economies, two visions (Ch. 9)",
-   "def": "The new nation split between commercial and semisubsistence ways of life, and these rival visions shaped the fight over the Constitution and then Washington's government."
+   "term": "16. Western land and foreign pressure (Ch. 8)",
+   "def": "As settlers poured west, Britain kept its Northwest forts and Spain closed the Mississippi in 1784, and the Confederation had no army to answer either."
   },
   {
    "id": "c16",
-   "term": "17. Hamilton's financial program (Ch. 9)",
-   "def": "Hamilton's funding, assumption and national bank restored credit, but critics feared a financial aristocracy, so Jefferson and Madison argued strict construction against Hamilton's implied powers."
+   "term": "17. The Northwest Ordinance (Ch. 8)",
+   "def": "To reassure speculators, the Northwest Ordinance of 1787 set orderly steps to statehood and banned slavery there, easing East-West tension but widening the North-South split."
   },
   {
    "id": "c17",
-   "term": "18. Europe creates the parties (Ch. 9)",
-   "def": "The French Revolution and Jay's Treaty split Americans, so Hamilton's Federalists and Madison and Jefferson's Republicans organized nationally despite Washington's warning against parties."
+   "term": "18. Slavery becomes sectional (Ch. 8)",
+   "def": "Northern states moved to abolish slavery while no southern state did, so slavery grew in the Lower South and became the \"peculiar institution\" of one region."
   },
   {
    "id": "c18",
-   "term": "19. Adams and suppression at home (Ch. 9)",
-   "def": "The XYZ Affair led to naval war with France, Federalists passed the Alien and Sedition Acts, and Republicans answered with the Virginia and Kentucky Resolutions."
+   "term": "19. Debt, paper money and factions (Ch. 8)",
+   "def": "War debt and collapsing paper money brought inflation, and with Congress powerless, state legislatures became battlegrounds of creditors, debtor farmers and artisans."
   },
   {
    "id": "c19",
-   "term": "20. The Revolution of 1800 and judicial review (Ch. 9)",
-   "def": "Adams's peace with France split the Federalists, Jefferson won in 1800, and the Federalist judge John Marshall established judicial review in Marbury v. Madison."
+   "term": "20. Equality's limits in republican society (Ch. 8)",
+   "def": "The Revolution's equality ideal emboldened artisans, westerners and women, but republican motherhood kept women at home and reformers attacked aristocracy rather than raising the bottom."
   },
   {
    "id": "c20",
-   "term": "21. Jefferson in power (Ch. 9)",
-   "def": "Jefferson cut taxes, the army and the navy but kept Hamilton's debt policies and bank, and bought Louisiana when Haiti's revolt wrecked Napoleon's American plans."
+   "term": "21. Jay-Gardoqui and Shays's Rebellion (Ch. 8)",
+   "def": "Jay's deal to give up Mississippi rights for 25 years and Shays's 1786 farmers' revolt convinced leaders that neither Congress nor the states could fix the crisis."
   },
   {
    "id": "c21",
-   "term": "22. Pressure on Indian lands (Ch. 9)",
-   "def": "White expansion took over 100 million acres of Indian land, so the Prophet and his brother Tecumseh built a pan-Indian movement that Harrison's Tippecanoe victory weakened."
+   "term": "22. The Great Compromise (Ch. 8)",
+   "def": "At Philadelphia in 1787, Madison's Virginia Plan clashed with the New Jersey Plan until a compromise gave states equal Senate seats and the House representation by population."
   },
   {
    "id": "c22",
-   "term": "23. The road to the War of 1812 (Ch. 9)",
-   "def": "British and French attacks on neutral shipping led to Jefferson's failed Embargo, and War Hawks pushed Madison into declaring war on Britain in 1812."
+   "term": "23. Ratification and the Bill of Rights (Ch. 8)",
+   "def": "Federalists argued in the Federalist Papers that a large republic checks factions, and to win over Anti-Federalists Madison delivered the Bill of Rights by 1791."
   },
   {
    "id": "c23",
-   "term": "24. War and a new nationalism (Ch. 9)",
-   "def": "Tecumseh died at the Thames, Jackson won at New Orleans, and the Hartford Convention destroyed the Federalists, bringing a surge of postwar nationalism."
+   "term": "24. Two economies, two visions (Ch. 9)",
+   "def": "The new nation split between commercial and semisubsistence ways of life, and these rival visions shaped the fight over the Constitution and then Washington's government."
   },
   {
    "id": "c24",
-   "term": "25. Monroe: sectional crisis and diplomacy (Ch. 9)",
+   "term": "25. Hamilton's financial program (Ch. 9)",
+   "def": "Hamilton's funding, assumption and national bank restored credit, but critics feared a financial aristocracy, so Jefferson and Madison argued strict construction against Hamilton's implied powers."
+  },
+  {
+   "id": "c25",
+   "term": "26. Europe creates the parties (Ch. 9)",
+   "def": "The French Revolution and Jay's Treaty split Americans, so Hamilton's Federalists and Madison and Jefferson's Republicans organized nationally despite Washington's warning against parties."
+  },
+  {
+   "id": "c26",
+   "term": "27. Adams and suppression at home (Ch. 9)",
+   "def": "The XYZ Affair led to naval war with France, Federalists passed the Alien and Sedition Acts, and Republicans answered with the Virginia and Kentucky Resolutions."
+  },
+  {
+   "id": "c27",
+   "term": "28. The Revolution of 1800 and judicial review (Ch. 9)",
+   "def": "Adams's peace with France split the Federalists, Jefferson won in 1800, and the Federalist judge John Marshall established judicial review in Marbury v. Madison."
+  },
+  {
+   "id": "c28",
+   "term": "29. Jefferson in power (Ch. 9)",
+   "def": "Jefferson cut taxes, the army and the navy but kept Hamilton's debt policies and bank, and bought Louisiana when Haiti's revolt wrecked Napoleon's American plans."
+  },
+  {
+   "id": "c29",
+   "term": "30. Pressure on Indian lands (Ch. 9)",
+   "def": "White expansion took over 100 million acres of Indian land, so the Prophet and his brother Tecumseh built a pan-Indian movement that Harrison's Tippecanoe victory weakened."
+  },
+  {
+   "id": "c30",
+   "term": "31. The road to the War of 1812 (Ch. 9)",
+   "def": "British and French attacks on neutral shipping led to Jefferson's failed Embargo, and War Hawks pushed Madison into declaring war on Britain in 1812."
+  },
+  {
+   "id": "c31",
+   "term": "32. War and a new nationalism (Ch. 9)",
+   "def": "Tecumseh died at the Thames, Jackson won at New Orleans, and the Hartford Convention destroyed the Federalists, bringing a surge of postwar nationalism."
+  },
+  {
+   "id": "c32",
+   "term": "33. Monroe: sectional crisis and diplomacy (Ch. 9)",
    "def": "The Missouri Compromise eased the first sectional crisis over slavery, while Adams's treaties and the Monroe Doctrine expanded the nation and warned Europe away."
   }
  ]

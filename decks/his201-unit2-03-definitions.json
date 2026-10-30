@@ -5,7 +5,7 @@
  "topic": "Unit Two Exam Pack (Ch. 6-9)",
  "short": "3 Definitions",
  "order": 3,
- "count": 80,
+ "count": 105,
  "cards": [
   {
    "id": "c0",
@@ -195,215 +195,340 @@
   {
    "id": "c37",
    "term": "Ch8: Federalism",
-   "def": "The organization of a United States, dividing power between the national and state governments."
+   "def": "Dividing power between the state governments and a national government, an idea leaders had given little thought to when writing the Articles."
   },
   {
    "id": "c38",
-   "term": "Ch8: Articles of Confederation",
-   "def": "The first national framework, which left the power of the purse and final lawmaking to the states."
+   "term": "Ch8: Civic virtue",
+   "def": "The people's capacity for the selfless pursuit of the general welfare, which revolutionaries relied on to keep powerful legislatures from turning tyrannical."
   },
   {
    "id": "c39",
-   "term": "Ch8: Anti-Federalists",
-   "def": "Opponents of the Constitution who pushed for a bill of rights."
+   "term": "Ch8: Articles of Confederation",
+   "def": "The first national framework (approved 1777, ratified 1781), with a one-house Congress that had no power to tax or regulate trade."
   },
   {
    "id": "c40",
+   "term": "Ch8: Power of the purse",
+   "def": "The power to tax and spend, which the Articles left with the states rather than Congress."
+  },
+  {
+   "id": "c41",
+   "term": "Ch8: Landed and landless states",
+   "def": "States with large western charter claims, like Virginia, versus states without them, like Maryland, which wanted Congress to control the West."
+  },
+  {
+   "id": "c42",
+   "term": "Ch8: Ordinance of 1785",
+   "def": "The law surveying the Northwest into townships 6 miles square, each divided into 36 lots of 640 acres."
+  },
+  {
+   "id": "c43",
+   "term": "Ch8: Northwest Ordinance (1787)",
+   "def": "The law setting territorial government and statehood steps for the Northwest, guaranteeing basic rights and outlawing slavery there."
+  },
+  {
+   "id": "c44",
+   "term": "Ch8: Manumission",
+   "def": "The freeing of an individual slave by the owner, made easier by liberalized laws in parts of the Upper South."
+  },
+  {
+   "id": "c45",
+   "term": "Ch8: Richard Allen and Absalom Jones",
+   "def": "Black Philadelphians who left St. George's Methodist Church after being forced from their pews and founded independent Black churches."
+  },
+  {
+   "id": "c46",
+   "term": "Ch8: Privateering",
+   "def": "Privately owned armed ships attacking enemy shipping, one way some Americans grew rich during the war."
+  },
+  {
+   "id": "c47",
+   "term": "Ch8: Mary Wollstonecraft",
+   "def": "English author of A Vindication of the Rights of Woman (1792), which called for women's equal education and political equality."
+  },
+  {
+   "id": "c48",
+   "term": "Ch8: Republican motherhood",
+   "def": "The idea, urged by Judith Sargent Murray and Benjamin Rush, that women's role was educating virtuous citizens, which justified female education."
+  },
+  {
+   "id": "c49",
+   "term": "Ch8: Judith Sargent Murray",
+   "def": "A writer who urged cultivating women's minds, helping shape the ideal of republican motherhood."
+  },
+  {
+   "id": "c50",
+   "term": "Ch8: Society of the Cincinnati",
+   "def": "A 1783 society of Continental Army officers attacked for passing membership to eldest sons, which looked like hereditary nobility."
+  },
+  {
+   "id": "c51",
+   "term": "Ch8: Disestablishment",
+   "def": "Ending government support for state churches, Anglican in New York and the South and Congregational in New England."
+  },
+  {
+   "id": "c52",
+   "term": "Ch8: Jay-Gardoqui Treaty",
+   "def": "The 1785-86 deal that would have given up Mississippi navigation for 25 years in return for trade privileges; it was never ratified."
+  },
+  {
+   "id": "c53",
+   "term": "Ch8: Shays's Rebellion",
+   "def": "The 1786 uprising of indebted western Massachusetts farmers under Daniel Shays that closed courts and was crushed by February 1787."
+  },
+  {
+   "id": "c54",
+   "term": "Ch8: Annapolis Convention",
+   "def": "The September 1786 meeting of five states that called for a broader meeting in Philadelphia to revise the Articles."
+  },
+  {
+   "id": "c55",
+   "term": "Ch8: Virginia Plan",
+   "def": "Madison's plan for a national republic with three branches, two houses and representation by population."
+  },
+  {
+   "id": "c56",
+   "term": "Ch8: New Jersey Plan",
+   "def": "William Paterson's plan for a one-house Congress with equal state votes, rejected within four days."
+  },
+  {
+   "id": "c57",
+   "term": "Ch8: Great Compromise",
+   "def": "The deal giving states equal representation in the Senate and representation by population in the House."
+  },
+  {
+   "id": "c58",
+   "term": "Ch8: Three-fifths clause",
+   "def": "The Convention's rule counting each enslaved person as three-fifths of a person for representation."
+  },
+  {
+   "id": "c59",
+   "term": "Ch8: Electoral College",
+   "def": "Electors, equal to each state's senators plus representatives, who choose the president indirectly."
+  },
+  {
+   "id": "c60",
+   "term": "Ch8: Separation of powers",
+   "def": "Dividing government among legislative, executive and judicial branches, which Madison saw as essential."
+  },
+  {
+   "id": "c61",
+   "term": "Ch8: Anti-Federalists",
+   "def": "Opponents of the Constitution who feared new aristocrats and a distant large republic, and who pushed for a bill of rights."
+  },
+  {
+   "id": "c62",
+   "term": "Ch8: Federalist Papers",
+   "def": "85 essays by Madison, Hamilton and Jay (1787-88) defending the Constitution's checks and balances."
+  },
+  {
+   "id": "c63",
+   "term": "Ch8: Federalist No. 10",
+   "def": "Madison's essay arguing that in a large republic many competing factions check one another so none dominates."
+  },
+  {
+   "id": "c64",
+   "term": "Ch8: Bill of Rights",
+   "def": "The first ten amendments, in effect by the end of 1791, protecting religion, speech, press, jury trial and other rights."
+  },
+  {
+   "id": "c65",
    "term": "Ch9: Semisubsistence economy",
    "def": "A way of life in which farm families lived mainly on what their own land and labor produced, bartering any surplus locally."
   },
   {
-   "id": "c41",
+   "id": "c66",
    "term": "Ch9: Commercial economy",
    "def": "A way of life in which people sold goods or services in a wider market and lived on their earnings."
   },
   {
-   "id": "c42",
+   "id": "c67",
    "term": "Ch9: Cabinet",
    "def": "The president's advisers who head the executive departments, a system not mentioned in the Constitution."
   },
   {
-   "id": "c43",
+   "id": "c68",
    "term": "Ch9: Funding",
    "def": "Hamilton's plan to pay the whole federal debt in full."
   },
   {
-   "id": "c44",
+   "id": "c69",
    "term": "Ch9: Assumption",
    "def": "Hamilton's plan for the federal government to take over the states' debts."
   },
   {
-   "id": "c45",
+   "id": "c70",
    "term": "Ch9: Bank of the United States",
    "def": "A national bank chartered for 20 years in 1791 to hold government deposits and issue banknotes."
   },
   {
-   "id": "c46",
+   "id": "c71",
    "term": "Ch9: Excise tax",
    "def": "A tax on goods made at home, such as Hamilton's tax on whiskey."
   },
   {
-   "id": "c47",
+   "id": "c72",
    "term": "Ch9: Strict construction",
    "def": "Reading the Constitution narrowly so the federal government has only the powers expressly given to it."
   },
   {
-   "id": "c48",
+   "id": "c73",
    "term": "Ch9: Implied powers (broad construction)",
    "def": "The idea that the necessary and proper clause lets Congress use powers beyond those listed, such as chartering a bank."
   },
   {
-   "id": "c49",
+   "id": "c74",
    "term": "Ch9: Whiskey Rebellion",
    "def": "The 1794 uprising of western farmers against the whiskey excise tax."
   },
   {
-   "id": "c50",
+   "id": "c75",
    "term": "Ch9: Neutral rights",
    "def": "The right of nations not at war to trade with warring nations in nonmilitary goods."
   },
   {
-   "id": "c51",
+   "id": "c76",
    "term": "Ch9: Impressment",
    "def": "Britain's practice of forcing sailors, including Americans, into its navy."
   },
   {
-   "id": "c52",
+   "id": "c77",
    "term": "Ch9: Jay's Treaty",
    "def": "The 1795 treaty with Britain that removed British troops from the Northwest but won no other concessions."
   },
   {
-   "id": "c53",
+   "id": "c78",
    "term": "Ch9: Federalists",
    "def": "The party led by Hamilton favoring commerce, a strong government, order and ties to Britain."
   },
   {
-   "id": "c54",
+   "id": "c79",
    "term": "Ch9: Republicans (Jeffersonians)",
    "def": "The party led by Madison and Jefferson favoring agriculture, limited government, strict construction and France."
   },
   {
-   "id": "c55",
+   "id": "c80",
    "term": "Ch9: Farewell Address",
    "def": "Washington's 1796 statement warning against the dangers of political parties."
   },
   {
-   "id": "c56",
+   "id": "c81",
    "term": "Ch9: XYZ Affair",
    "def": "The French demand for a bribe from American envoys that sparked naval war with France."
   },
   {
-   "id": "c57",
+   "id": "c82",
    "term": "Ch9: Alien and Sedition Acts",
    "def": "The 1798 Federalist laws targeting immigrants and punishing criticism of the government."
   },
   {
-   "id": "c58",
+   "id": "c83",
    "term": "Ch9: Virginia and Kentucky Resolutions",
    "def": "Madison's and Jefferson's claims that states could interpose against unconstitutional federal laws."
   },
   {
-   "id": "c59",
+   "id": "c84",
    "term": "Ch9: Interposition",
    "def": "A state's claimed right to place its authority between its citizens and an unconstitutional federal law."
   },
   {
-   "id": "c60",
+   "id": "c85",
    "term": "Ch9: Twelfth Amendment",
    "def": "The 1804 amendment requiring electors to vote separately for president and vice president."
   },
   {
-   "id": "c61",
+   "id": "c86",
    "term": "Ch9: Midnight appointments",
    "def": "Adams's last-minute Federalist judges appointed under the Judiciary Act of 1801."
   },
   {
-   "id": "c62",
+   "id": "c87",
    "term": "Ch9: Judicial review",
    "def": "The power of courts to decide whether laws violate the Constitution."
   },
   {
-   "id": "c63",
+   "id": "c88",
    "term": "Ch9: Marbury v. Madison",
    "def": "The 1803 Supreme Court case in which John Marshall established judicial review."
   },
   {
-   "id": "c64",
+   "id": "c89",
    "term": "Ch9: Republican motherhood",
-   "def": "An ideal Ch. 9 names as encouraging girls' academies; the book defines it in Ch. 8, which still needs to be pulled."
+   "def": "The ideal (defined in Ch. 8) that women should educate virtuous citizens; Ch. 9 says it encouraged girls' academies."
   },
   {
-   "id": "c65",
+   "id": "c90",
    "term": "Ch9: Empire of liberty",
    "def": "Jefferson's vision of the West as enough land for generations of independent farmers."
   },
   {
-   "id": "c66",
+   "id": "c91",
    "term": "Ch9: Treaty of Greenville",
    "def": "The 1795 treaty in which tribes ceded most of the land between Lake Erie and the Ohio River."
   },
   {
-   "id": "c67",
+   "id": "c92",
    "term": "Ch9: Louisiana Purchase",
    "def": "The 1803 purchase of Louisiana from France for about $15 million, doubling the nation's size."
   },
   {
-   "id": "c68",
+   "id": "c93",
    "term": "Ch9: Corps of Discovery",
    "def": "The Lewis and Clark expedition up the Missouri River to the Pacific."
   },
   {
-   "id": "c69",
+   "id": "c94",
    "term": "Ch9: Camp meeting",
    "def": "A multi-day outdoor revival where frontier crowds camped to hear preaching."
   },
   {
-   "id": "c70",
+   "id": "c95",
    "term": "Ch9: Second Great Awakening",
    "def": "The wave of religious revivals that swept the nation after 1800."
   },
   {
-   "id": "c71",
+   "id": "c96",
    "term": "Ch9: Pan-Indian movement",
    "def": "Tecumseh's effort to unite many tribes to protect Indian land."
   },
   {
-   "id": "c72",
+   "id": "c97",
    "term": "Ch9: Peaceable coercion",
    "def": "Jefferson's policy of protecting neutral rights through economic pressure instead of war."
   },
   {
-   "id": "c73",
+   "id": "c98",
    "term": "Ch9: Embargo Act",
    "def": "The 1807 law banning American ships from foreign ports and all American exports."
   },
   {
-   "id": "c74",
+   "id": "c99",
    "term": "Ch9: War Hawks",
    "def": "Young nationalist Republicans led by Henry Clay who pushed for war with Britain."
   },
   {
-   "id": "c75",
+   "id": "c100",
    "term": "Ch9: Hartford Convention",
    "def": "The 1814 meeting of New England Federalists opposing the war and proposing amendments."
   },
   {
-   "id": "c76",
+   "id": "c101",
    "term": "Ch9: Treaty of Ghent",
    "def": "The treaty ending the War of 1812 that left impressment and neutral rights unresolved."
   },
   {
-   "id": "c77",
+   "id": "c102",
    "term": "Ch9: Missouri Compromise",
    "def": "The 1820 deal admitting Missouri as a slave state and Maine as free and banning slavery north of 36°30′."
   },
   {
-   "id": "c78",
+   "id": "c103",
    "term": "Ch9: Transcontinental Treaty",
    "def": "The 1819 treaty in which Spain ceded Florida and set a boundary to the Pacific."
   },
   {
-   "id": "c79",
+   "id": "c104",
    "term": "Ch9: Monroe Doctrine",
    "def": "Monroe's 1823 warning that the Americas were closed to new European colonization."
   }

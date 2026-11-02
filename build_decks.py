@@ -99,6 +99,8 @@ def main():
             problems.append(f"{rel}: expected {meta['expect']} cards, got {len(cards)}")
         deck = {"id": deck_id, "title": title, "subject": subject, "topic": topic, "short": short,
                 "order": order, "count": len(cards), "cards": cards}
+        if meta.get("inorder", "").lower() in ("1", "true", "yes"):
+            deck["inOrder"] = True
         (OUT / f"{deck_id}.json").write_text(json.dumps(deck, ensure_ascii=False, indent=1), encoding="utf-8")
         decks.append((deck, subj_dir, topic_dir))
         print(f"  {deck_id:28s} {len(cards):3d} cards  [{subject} > {topic}] {title}")
@@ -125,7 +127,7 @@ def main():
             tused.add(t["slug"])
             entries = []
             for d in sorted(t["decks"], key=lambda d: (d["order"], d["id"])):
-                e = {k: d[k] for k in ("id", "title", "short", "order", "count")} | {"file": f"{d['id']}.json"}
+                e = {k: d[k] for k in ("id", "title", "short", "order", "count", "inOrder") if k in d} | {"file": f"{d['id']}.json"}
                 entries.append(e)
                 flat.append(e | {"subject": s["name"], "subjectSlug": s["slug"], "topic": t["name"], "topicSlug": t["slug"]})
             topics.append({"name": t["name"], "slug": t["slug"], "count": sum(e["count"] for e in entries), "decks": entries})

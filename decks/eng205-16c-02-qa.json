@@ -1,0 +1,151 @@
+{
+ "id": "eng205-16c-02-qa",
+ "title": "ENG-205 16th Century (1485-1603) — 2 Q&A (quiz-style)",
+ "subject": "ENG-205",
+ "topic": "Sixteenth Century Reading Quiz",
+ "short": "2 Q&A (quiz-style)",
+ "order": 2,
+ "count": 28,
+ "cards": [
+  {
+   "id": "c0",
+   "term": "In what year was Henry VII crowned, starting the Tudor dynasty and the sixteenth-century literary period?",
+   "def": "1485."
+  },
+  {
+   "id": "c1",
+   "term": "Which two royal houses fought the Wars of the Roses, and what were their emblems?",
+   "def": "York, whose emblem was the white rose, and Lancaster, whose emblem was the red rose."
+  },
+  {
+   "id": "c2",
+   "term": "At what battle did Yorkist King Richard III die, ending the Wars of the Roses?",
+   "def": "The battle of Bosworth Field."
+  },
+  {
+   "id": "c3",
+   "term": "How did Henry VII unite the rival houses of York and Lancaster?",
+   "def": "He married Elizabeth of York."
+  },
+  {
+   "id": "c4",
+   "term": "How much did London grow between 1520 and 1650?",
+   "def": "It grew from 60,000 people to 375,000, making it Europe's fastest-growing city."
+  },
+  {
+   "id": "c5",
+   "term": "What does the word \"Renaissance\" literally mean?",
+   "def": "Rebirth."
+  },
+  {
+   "id": "c6",
+   "term": "Which humanist changed outmoded school curricula to prepare young men for public service?",
+   "def": "Erasmus."
+  },
+  {
+   "id": "c7",
+   "term": "What subjects made up the medieval trivium?",
+   "def": "Grammar, logic, and rhetoric."
+  },
+  {
+   "id": "c8",
+   "term": "What subjects made up the medieval quadrivium?",
+   "def": "Arithmetic, geometry, astronomy, and music."
+  },
+  {
+   "id": "c9",
+   "term": "What were young aristocratic women taught?",
+   "def": "Modern languages, religion, music, and needlework, and increasingly to read, though not necessarily to write."
+  },
+  {
+   "id": "c10",
+   "term": "When and where did Martin Luther begin the Reformation?",
+   "def": "In Germany in November 1517, when he posted his Ninety-Five Theses protesting Catholic corruption."
+  },
+  {
+   "id": "c11",
+   "term": "What principally motivated England's Reformation, according to the notes?",
+   "def": "King Henry VIII's greed and his succession troubles, since Catherine of Aragon had not given him a legitimate son."
+  },
+  {
+   "id": "c12",
+   "term": "What did the Act of Supremacy declare?",
+   "def": "That King Henry VIII was Supreme Head of the Church of England."
+  },
+  {
+   "id": "c13",
+   "term": "What did Henry VIII do between 1536 and 1539?",
+   "def": "He seized the lands and wealth of England's Catholic religious houses and gave them to his followers."
+  },
+  {
+   "id": "c14",
+   "term": "Who wrote the Book of Common Prayer and the 42 articles of religion, and under which king?",
+   "def": "Archbishop of Canterbury Thomas Cranmer, during the reign of Edward VI."
+  },
+  {
+   "id": "c15",
+   "term": "Why was Mary I called \"Bloody\" Mary?",
+   "def": "Because she persecuted Protestants while restoring Roman Catholicism from 1553 to 1558."
+  },
+  {
+   "id": "c16",
+   "term": "Who were Recusants, and how did Elizabeth treat them?",
+   "def": "People who did not attend Anglican services, and Elizabeth fined them."
+  },
+  {
+   "id": "c17",
+   "term": "Which mythological and biblical figures did poets and painters compare Elizabeth to?",
+   "def": "The goddesses Diana, Astraea, and Cynthia, and the biblical heroine Deborah."
+  },
+  {
+   "id": "c18",
+   "term": "Who was Elizabeth's spymaster?",
+   "def": "Walsingham, who helped her run a massive spy network."
+  },
+  {
+   "id": "c19",
+   "term": "Who sent the Spanish Armada against England, and why?",
+   "def": "King Philip II of Spain, to reclaim England for the Catholic Church after Elizabeth beheaded Mary Queen of Scots."
+  },
+  {
+   "id": "c20",
+   "term": "Which king expelled the Jews from England, and when?",
+   "def": "King Edward I, in 1290."
+  },
+  {
+   "id": "c21",
+   "term": "What guild owned all printing presses?",
+   "def": "The Stationers' Company."
+  },
+  {
+   "id": "c22",
+   "term": "What is the most important piece of literary criticism of the sixteenth century?",
+   "def": "Philip Sidney's Defense of Poesy."
+  },
+  {
+   "id": "c23",
+   "term": "What seven literary modes does Sidney's Defense of Poesy name?",
+   "def": "Pastoral, heroic, lyric, satiric, elegiac, tragic, and comic."
+  },
+  {
+   "id": "c24",
+   "term": "Whose adoption of blank verse revolutionized theatrical expression?",
+   "def": "Christopher Marlowe's."
+  },
+  {
+   "id": "c25",
+   "term": "Who played female roles on the Elizabethan stage?",
+   "def": "Boy actors, since no women appeared on stage."
+  },
+  {
+   "id": "c26",
+   "term": "Which group especially opposed the theater, and why?",
+   "def": "Puritans, who charged that boys dressed as women would excite illicit sexual desire."
+  },
+  {
+   "id": "c27",
+   "term": "Who succeeded Elizabeth I in 1603?",
+   "def": "James VI of Scotland, son of Mary Queen of Scots, who ruled England as James I."
+  }
+ ]
+}

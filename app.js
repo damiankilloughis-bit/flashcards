@@ -264,7 +264,7 @@ async function openDeck(id) {
   if (S.prog.round && S.prog.round.queue.some(cid => !S.byId[cid])) S.prog.round = null;
   if (!S.prog.round) {
     const isMisses = S.deck.id === 'misses';
-    startRound(deck.cards.map(c => c.id), isMisses ? false : S.settings.shuffle, 1);
+    startRound(deck.cards.map(c => c.id), (isMisses || deck.inOrder) ? false : S.settings.shuffle, 1);
   }
   $('#study-deck-title').textContent = deck.short || deck.title;
   $('#study-deck-title').title = deck.title;
@@ -471,7 +471,7 @@ function keepGoing() {
 function restartDeck() {
   if (!S.deck) return;
   S.prog.status = {};
-  startRound(S.deck.cards.map(c => c.id), S.settings.shuffle, 1);
+  startRound(S.deck.cards.map(c => c.id), S.deck.inOrder ? false : S.settings.shuffle, 1);
   renderCard(); show('study');
   toast('Deck restarted');
 }

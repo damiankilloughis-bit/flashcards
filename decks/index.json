@@ -3,7 +3,7 @@
   {
    "name": "ENG-205",
    "slug": "eng205",
-   "count": 1122,
+   "count": 1284,
    "topics": [
     {
      "name": "Beowulf Part 1 (to Another Attack)",
@@ -237,6 +237,46 @@
        "order": 5,
        "count": 66,
        "file": "eng205-ct-05-qa.json"
+      }
+     ]
+    },
+    {
+     "name": "Early Seventeenth Century Reading Quiz",
+     "slug": "early-seventeenth-century",
+     "count": 83,
+     "decks": [
+      {
+       "id": "eng205-17c-01-main-ideas-pathway",
+       "title": "ENG-205 Early 17th Century (1603-1660) — 1 Main Ideas Pathway (play in order)",
+       "short": "1 Main Ideas Pathway (play in order)",
+       "order": 1,
+       "count": 16,
+       "inOrder": true,
+       "file": "eng205-17c-01-main-ideas-pathway.json"
+      },
+      {
+       "id": "eng205-17c-02-qa",
+       "title": "ENG-205 Early 17th Century (1603-1660) — 2 Q&A (quiz-style)",
+       "short": "2 Q&A (quiz-style)",
+       "order": 2,
+       "count": 34,
+       "file": "eng205-17c-02-qa.json"
+      },
+      {
+       "id": "eng205-17c-03-definitions",
+       "title": "ENG-205 Early 17th Century (1603-1660) — 3 Definitions",
+       "short": "3 Definitions",
+       "order": 3,
+       "count": 17,
+       "file": "eng205-17c-03-definitions.json"
+      },
+      {
+       "id": "eng205-17c-04-examples",
+       "title": "ENG-205 Early 17th Century (1603-1660) — 4 Examples (works, people, events)",
+       "short": "4 Examples (works, people, events)",
+       "order": 4,
+       "count": 16,
+       "file": "eng205-17c-04-examples.json"
       }
      ]
     },
@@ -503,6 +543,46 @@
        "order": 5,
        "count": 36,
        "file": "eng205-sg3-05-qa.json"
+      }
+     ]
+    },
+    {
+     "name": "Sixteenth Century Reading Quiz",
+     "slug": "sixteenth-century",
+     "count": 79,
+     "decks": [
+      {
+       "id": "eng205-16c-01-main-ideas-pathway",
+       "title": "ENG-205 16th Century (1485-1603) — 1 Main Ideas Pathway (play in order)",
+       "short": "1 Main Ideas Pathway (play in order)",
+       "order": 1,
+       "count": 16,
+       "inOrder": true,
+       "file": "eng205-16c-01-main-ideas-pathway.json"
+      },
+      {
+       "id": "eng205-16c-02-qa",
+       "title": "ENG-205 16th Century (1485-1603) — 2 Q&A (quiz-style)",
+       "short": "2 Q&A (quiz-style)",
+       "order": 2,
+       "count": 28,
+       "file": "eng205-16c-02-qa.json"
+      },
+      {
+       "id": "eng205-16c-03-definitions",
+       "title": "ENG-205 16th Century (1485-1603) — 3 Definitions",
+       "short": "3 Definitions",
+       "order": 3,
+       "count": 18,
+       "file": "eng205-16c-03-definitions.json"
+      },
+      {
+       "id": "eng205-16c-04-examples",
+       "title": "ENG-205 16th Century (1485-1603) — 4 Examples (works, people, events)",
+       "short": "4 Examples (works, people, events)",
+       "order": 4,
+       "count": 17,
+       "file": "eng205-16c-04-examples.json"
       }
      ]
     }
@@ -891,6 +971,7 @@
        "short": "1 Pathway",
        "order": 1,
        "count": 33,
+       "inOrder": true,
        "file": "his201-unit2-01-main-ideas-pathway.json"
       },
       {
@@ -1278,6 +1359,55 @@
    "topicSlug": "canterbury-tales"
   },
   {
+   "id": "eng205-17c-01-main-ideas-pathway",
+   "title": "ENG-205 Early 17th Century (1603-1660) — 1 Main Ideas Pathway (play in order)",
+   "short": "1 Main Ideas Pathway (play in order)",
+   "order": 1,
+   "count": 16,
+   "inOrder": true,
+   "file": "eng205-17c-01-main-ideas-pathway.json",
+   "subject": "ENG-205",
+   "subjectSlug": "eng205",
+   "topic": "Early Seventeenth Century Reading Quiz",
+   "topicSlug": "early-seventeenth-century"
+  },
+  {
+   "id": "eng205-17c-02-qa",
+   "title": "ENG-205 Early 17th Century (1603-1660) — 2 Q&A (quiz-style)",
+   "short": "2 Q&A (quiz-style)",
+   "order": 2,
+   "count": 34,
+   "file": "eng205-17c-02-qa.json",
+   "subject": "ENG-205",
+   "subjectSlug": "eng205",
+   "topic": "Early Seventeenth Century Reading Quiz",
+   "topicSlug": "early-seventeenth-century"
+  },
+  {
+   "id": "eng205-17c-03-definitions",
+   "title": "ENG-205 Early 17th Century (1603-1660) — 3 Definitions",
+   "short": "3 Definitions",
+   "order": 3,
+   "count": 17,
+   "file": "eng205-17c-03-definitions.json",
+   "subject": "ENG-205",
+   "subjectSlug": "eng205",
+   "topic": "Early Seventeenth Century Reading Quiz",
+   "topicSlug": "early-seventeenth-century"
+  },
+  {
+   "id": "eng205-17c-04-examples",
+   "title": "ENG-205 Early 17th Century (1603-1660) — 4 Examples (works, people, events)",
+   "short": "4 Examples (works, people, events)",
+   "order": 4,
+   "count": 16,
+   "file": "eng205-17c-04-examples.json",
+   "subject": "ENG-205",
+   "subjectSlug": "eng205",
+   "topic": "Early Seventeenth Century Reading Quiz",
+   "topicSlug": "early-seventeenth-century"
+  },
+  {
    "id": "eng205-litdev-01-definitions",
    "title": "ENG-205 Literary Devices — Definitions",
    "short": "Definitions",
@@ -1612,6 +1742,55 @@
    "subjectSlug": "eng205",
    "topic": "Sir Gawain Part 3 (Fitt IV)",
    "topicSlug": "sir-gawain-part-3"
+  },
+  {
+   "id": "eng205-16c-01-main-ideas-pathway",
+   "title": "ENG-205 16th Century (1485-1603) — 1 Main Ideas Pathway (play in order)",
+   "short": "1 Main Ideas Pathway (play in order)",
+   "order": 1,
+   "count": 16,
+   "inOrder": true,
+   "file": "eng205-16c-01-main-ideas-pathway.json",
+   "subject": "ENG-205",
+   "subjectSlug": "eng205",
+   "topic": "Sixteenth Century Reading Quiz",
+   "topicSlug": "sixteenth-century"
+  },
+  {
+   "id": "eng205-16c-02-qa",
+   "title": "ENG-205 16th Century (1485-1603) — 2 Q&A (quiz-style)",
+   "short": "2 Q&A (quiz-style)",
+   "order": 2,
+   "count": 28,
+   "file": "eng205-16c-02-qa.json",
+   "subject": "ENG-205",
+   "subjectSlug": "eng205",
+   "topic": "Sixteenth Century Reading Quiz",
+   "topicSlug": "sixteenth-century"
+  },
+  {
+   "id": "eng205-16c-03-definitions",
+   "title": "ENG-205 16th Century (1485-1603) — 3 Definitions",
+   "short": "3 Definitions",
+   "order": 3,
+   "count": 18,
+   "file": "eng205-16c-03-definitions.json",
+   "subject": "ENG-205",
+   "subjectSlug": "eng205",
+   "topic": "Sixteenth Century Reading Quiz",
+   "topicSlug": "sixteenth-century"
+  },
+  {
+   "id": "eng205-16c-04-examples",
+   "title": "ENG-205 16th Century (1485-1603) — 4 Examples (works, people, events)",
+   "short": "4 Examples (works, people, events)",
+   "order": 4,
+   "count": 17,
+   "file": "eng205-16c-04-examples.json",
+   "subject": "ENG-205",
+   "subjectSlug": "eng205",
+   "topic": "Sixteenth Century Reading Quiz",
+   "topicSlug": "sixteenth-century"
   },
   {
    "id": "his201-ch1-01-definitions",
@@ -2075,6 +2254,7 @@
    "short": "1 Pathway",
    "order": 1,
    "count": 33,
+   "inOrder": true,
    "file": "his201-unit2-01-main-ideas-pathway.json",
    "subject": "HIS-201",
    "subjectSlug": "his201",

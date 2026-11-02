@@ -1,0 +1,96 @@
+{
+ "id": "eng205-16c-04-examples",
+ "title": "ENG-205 16th Century (1485-1603) — 4 Examples (works, people, events)",
+ "subject": "ENG-205",
+ "topic": "Sixteenth Century Reading Quiz",
+ "short": "4 Examples (works, people, events)",
+ "order": 4,
+ "count": 17,
+ "cards": [
+  {
+   "id": "c0",
+   "term": "Thomas More, Utopia (1516)",
+   "def": "A book More began in 1515 on a diplomatic mission and first wrote in Latin, not English, for an international audience."
+  },
+  {
+   "id": "c1",
+   "term": "Erasmus, Praise of Folly (1511)",
+   "def": "A work by the humanist who reformed school curricula."
+  },
+  {
+   "id": "c2",
+   "term": "Tyndale's New Testament (1525)",
+   "def": "William Tyndale's English translation of the New Testament."
+  },
+  {
+   "id": "c3",
+   "term": "Castiglione, The Courtier (1528) and Machiavelli, The Prince (1532)",
+   "def": "Italian works on the courtier and the ruler listed in the timeline, The Prince having been written in 1513."
+  },
+  {
+   "id": "c4",
+   "term": "Tottel's Songs and Sonnets (1557)",
+   "def": "A printed collection of poems by Sir Thomas Wyatt, Henry Howard Earl of Surrey, and others, which had circulated in manuscript."
+  },
+  {
+   "id": "c5",
+   "term": "Gorboduc (1561 acted, 1565 printed)",
+   "def": "The first English blank-verse tragedy, by lawyers Thomas Norton and Thomas Sackville."
+  },
+  {
+   "id": "c6",
+   "term": "John Foxe, Acts and Monuments (1563)",
+   "def": "A Protestant work published early in Elizabeth's reign."
+  },
+  {
+   "id": "c7",
+   "term": "John Lyly, Euphues (1578)",
+   "def": "A fashionable prose fiction full of ornament, such as \"The freshest colors soonest fade, the keenest razor soonest turneth his edge.\""
+  },
+  {
+   "id": "c8",
+   "term": "Spenser, The Shepheardes Calender (1579) and The Faerie Queene (1590, 1596)",
+   "def": "Edmund Spenser's works, the Faerie Queene being a devoutly Christian epic still full of pagan gods."
+  },
+  {
+   "id": "c9",
+   "term": "Sidney, Arcadia, Astrophil and Stella, and The Defense of Poesy",
+   "def": "Sir Philip Sidney's works, all published after his death in the 1590s."
+  },
+  {
+   "id": "c10",
+   "term": "Marlowe, Tamburlaine (ca. 1587-90)",
+   "def": "Christopher Marlowe's play acted about when Shakespeare began his career."
+  },
+  {
+   "id": "c11",
+   "term": "Shakespeare, Sonnet 73",
+   "def": "An example of ornamented imagery: \"That time of year thou may'st in me behold / When yellow leaves, or none, or few, do hang.\""
+  },
+  {
+   "id": "c12",
+   "term": "The Theatre (1576) and the Globe (1599)",
+   "def": "James Burbage's Theatre was the first permanent round playhouse in London, and the Globe opened in 1599."
+  },
+  {
+   "id": "c13",
+   "term": "Lady Jane Grey (1553-54)",
+   "def": "A Protestant whom some tried to put on the throne after Edward VI died, and who was executed at seventeen."
+  },
+  {
+   "id": "c14",
+   "term": "Cranmer, Latimer, and Ridley (1555-56)",
+   "def": "Protestant churchmen burned at the stake under Mary I."
+  },
+  {
+   "id": "c15",
+   "term": "Drake's circumnavigation (1577-80)",
+   "def": "Sir Francis Drake's voyage around the globe."
+  },
+  {
+   "id": "c16",
+   "term": "Ralegh and Virginia (1584-87)",
+   "def": "Sir Walter Ralegh's earliest attempts to colonize Virginia."
+  }
+ ]
+}

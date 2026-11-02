@@ -1,0 +1,92 @@
+{
+ "id": "eng205-16c-01-main-ideas-pathway",
+ "title": "ENG-205 16th Century (1485-1603) — 1 Main Ideas Pathway (play in order)",
+ "subject": "ENG-205",
+ "topic": "Sixteenth Century Reading Quiz",
+ "short": "1 Main Ideas Pathway (play in order)",
+ "order": 1,
+ "count": 16,
+ "cards": [
+  {
+   "id": "c0",
+   "term": "01. Tudor start (Notes: Overview)",
+   "def": "Henry VII's crowning in 1485 began both the Tudor dynasty and this literary period, in which English grew from a language without international prestige into one enriched by Shakespeare, Marlowe, and Bible translators."
+  },
+  {
+   "id": "c1",
+   "term": "02. Peace through marriage (Court and City)",
+   "def": "The Wars of the Roses between York (white rose) and Lancaster (red rose) ended when Richard III died at Bosworth Field, and Henry VII married Elizabeth of York to unite the rival houses."
+  },
+  {
+   "id": "c2",
+   "term": "03. Power moves to court (Court and City)",
+   "def": "Because the wars had impoverished many aristocrats, Henry VII centralized power in a court where ambition, elegance, and decoding double meanings shaped the nation's taste in poetry, music, and theater."
+  },
+  {
+   "id": "c3",
+   "term": "04. Print and literacy spread (Court and City)",
+   "def": "Printing with moveable metal type made books cheaper while manuscripts kept prestige, and literacy rose because Protestants expected ordinary lay people to read the Bible themselves."
+  },
+  {
+   "id": "c4",
+   "term": "05. Rebirth of the classics (Humanism)",
+   "def": "The Renaissance, literally \"rebirth,\" revived ancient Greek and Roman texts, taught that man could fashion himself, and led humanists like Erasmus to reform schooling around Latin for public service."
+  },
+  {
+   "id": "c5",
+   "term": "06. English in its own right (Humanism)",
+   "def": "Admiration for classical authors and new national pride in vernacular English led to many English translations of classical texts."
+  },
+  {
+   "id": "c6",
+   "term": "07. Luther starts the Reformation (Reformation)",
+   "def": "In 1517 Martin Luther protested Catholic corruption and launched a movement built on sola scriptura (Scripture alone has authority) and sola fide (faith alone saves)."
+  },
+  {
+   "id": "c7",
+   "term": "08. England breaks with Rome for a son (Reformation)",
+   "def": "Because the pope would not let Henry VIII divorce Catherine of Aragon, who had no surviving son, Henry married Anne Boleyn, was excommunicated, and made himself Supreme Head of the Church of England."
+  },
+  {
+   "id": "c8",
+   "term": "09. The religion whiplash (Reformation)",
+   "def": "England's official faith swung from Catholicism under the pope, to Catholicism under the king, to Protestantism under Edward VI, to Catholicism under \"Bloody\" Mary, and back to Protestantism under Elizabeth."
+  },
+  {
+   "id": "c9",
+   "term": "10. A queen in a man's world (Female Monarch)",
+   "def": "Since reason was linked to men, Elizabeth justified her rule through precedent like the biblical Deborah, the legal idea of the queen's two bodies, and her people's love, and she played suitors' factions against each other."
+  },
+  {
+   "id": "c10",
+   "term": "11. The kingdom in danger (Kingdom in Danger)",
+   "def": "After Elizabeth beheaded Catholic rival Mary Queen of Scots, Philip II of Spain sent the Spanish Armada to retake England for Catholicism, but the English fought it at sea and a storm destroyed it."
+  },
+  {
+   "id": "c11",
+   "term": "12. Defining \"us\" by \"others\" (Otherness)",
+   "def": "Tudor events made the English proud of their national identity, so they newly defined foreigners, the Welsh, Scots, Irish, Puritans, Jews, and Black people as outsiders."
+  },
+  {
+   "id": "c12",
+   "term": "13. Writing was not a career (Writers, Printers, Patrons)",
+   "def": "With no copyright, no royalties, no free press, and all presses controlled by the licensed Stationers' Company, writers depended on wealthy patrons whom they praised in dedications."
+  },
+  {
+   "id": "c13",
+   "term": "14. Ornament over realism (Tudor Style)",
+   "def": "Renaissance literature came from a rhetoric-loving culture that prized intricate, regular ornament and figures of speech, aiming to draw readers in through workmanship rather than realism."
+  },
+  {
+   "id": "c14",
+   "term": "15. The public theater is born (Elizabethan Theater)",
+   "def": "Permanent public theaters appeared only in Shakespeare's lifetime, where competing playhouses outside London's limits bought new plays and Marlowe's blank verse transformed stage speech."
+  },
+  {
+   "id": "c15",
+   "term": "16. Surprised by time (Ending)",
+   "def": "Elizabeth I died in 1603 and was succeeded by James VI of Scotland, son of Mary Queen of Scots, which began the Stuart dynasty as James I."
+  }
+ ],
+ "inOrder": true
+}

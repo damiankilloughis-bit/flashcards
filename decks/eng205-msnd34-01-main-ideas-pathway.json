@@ -1,0 +1,42 @@
+{
+ "id": "eng205-msnd34-01-main-ideas-pathway",
+ "title": "ENG-205 Midsummer Acts 3–4 — 1 Main Ideas Pathway (play in order)",
+ "subject": "ENG-205",
+ "topic": "Midsummer Acts 3–4",
+ "short": "1 Main Ideas Pathway (play in order)",
+ "order": 1,
+ "count": 6,
+ "cards": [
+  {
+   "id": "c0",
+   "term": "Story so far (Acts 1–2)",
+   "def": "Theseus will marry Hippolyta in four days, but Hermia refuses her father Egeus's demand that she marry Demetrius, so she and Lysander flee into the wood, followed by Demetrius and by Helena, who loves him. Oberon quarrels with Titania over a changeling Indian boy and has Puck fetch love-in-idleness to make her dote on a vile creature and to make Demetrius love Helena, but Puck anoints the wrong Athenian, Lysander, who wakes and pursues Helena."
+  },
+  {
+   "id": "c1",
+   "term": "1. Bottom translated",
+   "def": "Because Puck finds the mechanicals rehearsing near Titania's sleeping bower, he fixes an ass's nole on Bottom, and when Titania wakes she loves the first creature she sees."
+  },
+  {
+   "id": "c2",
+   "term": "2. The wrong Athenian",
+   "def": "When Hermia still enters with Demetrius, Oberon sees that Puck anointed the wrong man, so he charms Demetrius's eyes and sends Puck to bring Helena."
+  },
+  {
+   "id": "c3",
+   "term": "3. Both men woo Helena",
+   "def": "Because both Lysander and the newly charmed Demetrius now vow love to Helena, she thinks they are mocking her, and the four lovers fall into insults and a threatened duel."
+  },
+  {
+   "id": "c4",
+   "term": "4. Jack shall have Jill",
+   "def": "To stop the fight, Oberon has Puck lead the men astray in fog until they sleep, then crush a remedy into Lysander's eye so that, on waking, Jack shall have Jill."
+  },
+  {
+   "id": "c5",
+   "term": "5. Morning in the wood",
+   "def": "Once Titania, still charmed, gives Oberon the changeling boy, he releases her with Dian's bud, Theseus overbears Egeus and will marry the three couples, and Bottom wakes thinking the night was a dream."
+  }
+ ],
+ "inOrder": true
+}

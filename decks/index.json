@@ -3,7 +3,7 @@
   {
    "name": "ENG-205",
    "slug": "eng205",
-   "count": 1284,
+   "count": 1440,
    "topics": [
     {
      "name": "Beowulf Part 1 (to Another Attack)",
@@ -347,6 +347,102 @@
        "order": 5,
        "count": 26,
        "file": "eng205-05-qa.json"
+      }
+     ]
+    },
+    {
+     "name": "Midsummer Act 5",
+     "slug": "midsummer-act-5",
+     "count": 74,
+     "decks": [
+      {
+       "id": "eng205-msnd5-01-main-ideas-pathway",
+       "title": "ENG-205 Midsummer Act 5 — 1 Main Ideas Pathway (play in order)",
+       "short": "1 Main Ideas Pathway (play in order)",
+       "order": 1,
+       "count": 6,
+       "inOrder": true,
+       "file": "eng205-msnd5-01-main-ideas-pathway.json"
+      },
+      {
+       "id": "eng205-msnd5-02-qa",
+       "title": "ENG-205 Midsummer Act 5 — 2 Q&A (quiz-style)",
+       "short": "2 Q&A (quiz-style)",
+       "order": 2,
+       "count": 24,
+       "file": "eng205-msnd5-02-qa.json"
+      },
+      {
+       "id": "eng205-msnd5-03-definitions",
+       "title": "ENG-205 Midsummer Act 5 — 3 Definitions",
+       "short": "3 Definitions",
+       "order": 3,
+       "count": 16,
+       "file": "eng205-msnd5-03-definitions.json"
+      },
+      {
+       "id": "eng205-msnd5-04-names",
+       "title": "ENG-205 Midsummer Act 5 — 4 Names",
+       "short": "4 Names",
+       "order": 4,
+       "count": 14,
+       "file": "eng205-msnd5-04-names.json"
+      },
+      {
+       "id": "eng205-msnd5-05-examples",
+       "title": "ENG-205 Midsummer Act 5 — 5 Examples (quotes)",
+       "short": "5 Examples (quotes)",
+       "order": 5,
+       "count": 14,
+       "file": "eng205-msnd5-05-examples.json"
+      }
+     ]
+    },
+    {
+     "name": "Midsummer Acts 3–4",
+     "slug": "midsummer-acts-3-4",
+     "count": 82,
+     "decks": [
+      {
+       "id": "eng205-msnd34-01-main-ideas-pathway",
+       "title": "ENG-205 Midsummer Acts 3–4 — 1 Main Ideas Pathway (play in order)",
+       "short": "1 Main Ideas Pathway (play in order)",
+       "order": 1,
+       "count": 6,
+       "inOrder": true,
+       "file": "eng205-msnd34-01-main-ideas-pathway.json"
+      },
+      {
+       "id": "eng205-msnd34-02-qa",
+       "title": "ENG-205 Midsummer Acts 3–4 — 2 Q&A (quiz-style)",
+       "short": "2 Q&A (quiz-style)",
+       "order": 2,
+       "count": 28,
+       "file": "eng205-msnd34-02-qa.json"
+      },
+      {
+       "id": "eng205-msnd34-03-definitions",
+       "title": "ENG-205 Midsummer Acts 3–4 — 3 Definitions",
+       "short": "3 Definitions",
+       "order": 3,
+       "count": 16,
+       "file": "eng205-msnd34-03-definitions.json"
+      },
+      {
+       "id": "eng205-msnd34-04-names",
+       "title": "ENG-205 Midsummer Acts 3–4 — 4 Names",
+       "short": "4 Names",
+       "order": 4,
+       "count": 18,
+       "file": "eng205-msnd34-04-names.json"
+      },
+      {
+       "id": "eng205-msnd34-05-examples",
+       "title": "ENG-205 Midsummer Acts 3–4 — 5 Examples (quotes)",
+       "short": "5 Examples (quotes)",
+       "order": 5,
+       "count": 14,
+       "file": "eng205-msnd34-05-examples.json"
       }
      ]
     },
@@ -1602,6 +1698,128 @@
    "subjectSlug": "eng205",
    "topic": "Middle Ages Intro",
    "topicSlug": "middle-ages-intro"
+  },
+  {
+   "id": "eng205-msnd5-01-main-ideas-pathway",
+   "title": "ENG-205 Midsummer Act 5 — 1 Main Ideas Pathway (play in order)",
+   "short": "1 Main Ideas Pathway (play in order)",
+   "order": 1,
+   "count": 6,
+   "inOrder": true,
+   "file": "eng205-msnd5-01-main-ideas-pathway.json",
+   "subject": "ENG-205",
+   "subjectSlug": "eng205",
+   "topic": "Midsummer Act 5",
+   "topicSlug": "midsummer-act-5"
+  },
+  {
+   "id": "eng205-msnd5-02-qa",
+   "title": "ENG-205 Midsummer Act 5 — 2 Q&A (quiz-style)",
+   "short": "2 Q&A (quiz-style)",
+   "order": 2,
+   "count": 24,
+   "file": "eng205-msnd5-02-qa.json",
+   "subject": "ENG-205",
+   "subjectSlug": "eng205",
+   "topic": "Midsummer Act 5",
+   "topicSlug": "midsummer-act-5"
+  },
+  {
+   "id": "eng205-msnd5-03-definitions",
+   "title": "ENG-205 Midsummer Act 5 — 3 Definitions",
+   "short": "3 Definitions",
+   "order": 3,
+   "count": 16,
+   "file": "eng205-msnd5-03-definitions.json",
+   "subject": "ENG-205",
+   "subjectSlug": "eng205",
+   "topic": "Midsummer Act 5",
+   "topicSlug": "midsummer-act-5"
+  },
+  {
+   "id": "eng205-msnd5-04-names",
+   "title": "ENG-205 Midsummer Act 5 — 4 Names",
+   "short": "4 Names",
+   "order": 4,
+   "count": 14,
+   "file": "eng205-msnd5-04-names.json",
+   "subject": "ENG-205",
+   "subjectSlug": "eng205",
+   "topic": "Midsummer Act 5",
+   "topicSlug": "midsummer-act-5"
+  },
+  {
+   "id": "eng205-msnd5-05-examples",
+   "title": "ENG-205 Midsummer Act 5 — 5 Examples (quotes)",
+   "short": "5 Examples (quotes)",
+   "order": 5,
+   "count": 14,
+   "file": "eng205-msnd5-05-examples.json",
+   "subject": "ENG-205",
+   "subjectSlug": "eng205",
+   "topic": "Midsummer Act 5",
+   "topicSlug": "midsummer-act-5"
+  },
+  {
+   "id": "eng205-msnd34-01-main-ideas-pathway",
+   "title": "ENG-205 Midsummer Acts 3–4 — 1 Main Ideas Pathway (play in order)",
+   "short": "1 Main Ideas Pathway (play in order)",
+   "order": 1,
+   "count": 6,
+   "inOrder": true,
+   "file": "eng205-msnd34-01-main-ideas-pathway.json",
+   "subject": "ENG-205",
+   "subjectSlug": "eng205",
+   "topic": "Midsummer Acts 3–4",
+   "topicSlug": "midsummer-acts-3-4"
+  },
+  {
+   "id": "eng205-msnd34-02-qa",
+   "title": "ENG-205 Midsummer Acts 3–4 — 2 Q&A (quiz-style)",
+   "short": "2 Q&A (quiz-style)",
+   "order": 2,
+   "count": 28,
+   "file": "eng205-msnd34-02-qa.json",
+   "subject": "ENG-205",
+   "subjectSlug": "eng205",
+   "topic": "Midsummer Acts 3–4",
+   "topicSlug": "midsummer-acts-3-4"
+  },
+  {
+   "id": "eng205-msnd34-03-definitions",
+   "title": "ENG-205 Midsummer Acts 3–4 — 3 Definitions",
+   "short": "3 Definitions",
+   "order": 3,
+   "count": 16,
+   "file": "eng205-msnd34-03-definitions.json",
+   "subject": "ENG-205",
+   "subjectSlug": "eng205",
+   "topic": "Midsummer Acts 3–4",
+   "topicSlug": "midsummer-acts-3-4"
+  },
+  {
+   "id": "eng205-msnd34-04-names",
+   "title": "ENG-205 Midsummer Acts 3–4 — 4 Names",
+   "short": "4 Names",
+   "order": 4,
+   "count": 18,
+   "file": "eng205-msnd34-04-names.json",
+   "subject": "ENG-205",
+   "subjectSlug": "eng205",
+   "topic": "Midsummer Acts 3–4",
+   "topicSlug": "midsummer-acts-3-4"
+  },
+  {
+   "id": "eng205-msnd34-05-examples",
+   "title": "ENG-205 Midsummer Acts 3–4 — 5 Examples (quotes)",
+   "short": "5 Examples (quotes)",
+   "order": 5,
+   "count": 14,
+   "file": "eng205-msnd34-05-examples.json",
+   "subject": "ENG-205",
+   "subjectSlug": "eng205",
+   "topic": "Midsummer Acts 3–4",
+   "topicSlug": "midsummer-acts-3-4"
   },
   {
    "id": "eng205-mt-01",

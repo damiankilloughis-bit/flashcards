@@ -1,0 +1,91 @@
+{
+ "id": "eng205-msnd34-03-definitions",
+ "title": "ENG-205 Midsummer Acts 3–4 — 3 Definitions",
+ "subject": "ENG-205",
+ "topic": "Midsummer Acts 3–4",
+ "short": "3 Definitions",
+ "order": 3,
+ "count": 16,
+ "cards": [
+  {
+   "id": "c0",
+   "term": "comedy",
+   "def": "A dramatic genre of humorously confusing, sometimes ridiculous situations that ends happily, often in one or more marriages."
+  },
+  {
+   "id": "c1",
+   "term": "comic mode",
+   "def": "A mode in which a work ends happily, justice is done, the ravages of time are arrested, and that which is lost is found."
+  },
+  {
+   "id": "c2",
+   "term": "dramatic irony",
+   "def": "A feature of drama in which the audience knows that the outcome of an action will be the opposite of that intended by a character."
+  },
+  {
+   "id": "c3",
+   "term": "blank verse",
+   "def": "Unrhymed iambic pentameter lines, broken into verse paragraphs by sense rather than stanza form."
+  },
+  {
+   "id": "c4",
+   "term": "prose",
+   "def": "A more straightforward form of expression, distinguished from verse, which is more compressed and shaped by metrical norms."
+  },
+  {
+   "id": "c5",
+   "term": "register",
+   "def": "The stylistic level of words, including their degree of formality, chosen according to audience and situation, from high style to informal or colloquial low style."
+  },
+  {
+   "id": "c6",
+   "term": "soliloquy",
+   "def": "A dramatic topos in which a character, alone or thinking to be alone on stage, speaks so as to give the audience access to his or her private thoughts."
+  },
+  {
+   "id": "c7",
+   "term": "metaphor",
+   "def": "A figure of thought that identifies, or implicitly identifies, one thing with another with which it is not literally identifiable."
+  },
+  {
+   "id": "c8",
+   "term": "simile",
+   "def": "A figure of thought that compares one thing with another, usually using \"like\" or \"as.\""
+  },
+  {
+   "id": "c9",
+   "term": "personification",
+   "def": "A figure of thought that attributes human qualities to nonhuman forces or objects."
+  },
+  {
+   "id": "c10",
+   "term": "allusion",
+   "def": "A passing but illuminating reference within a literary text to another, well-known text, often biblical or classical."
+  },
+  {
+   "id": "c11",
+   "term": "pun",
+   "def": "A figure of thought in which a single word or expression has a sometimes irresolvable doubleness of meaning."
+  },
+  {
+   "id": "c12",
+   "term": "couplet",
+   "def": "Two consecutive rhyming lines that usually contain the same number of stresses."
+  },
+  {
+   "id": "c13",
+   "term": "farce",
+   "def": "A play designed to provoke laughter through the often humiliating antics of stock characters."
+  },
+  {
+   "id": "c14",
+   "term": "denouement",
+   "def": "The point at which a narrative can be resolved and so ended."
+  },
+  {
+   "id": "c15",
+   "term": "anagnorisis",
+   "def": "The moment of a protagonist's recognition in a narrative, which is also often the moment of moral understanding."
+  }
+ ]
+}

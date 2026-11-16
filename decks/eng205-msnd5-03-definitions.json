@@ -1,0 +1,91 @@
+{
+ "id": "eng205-msnd5-03-definitions",
+ "title": "ENG-205 Midsummer Act 5 — 3 Definitions",
+ "subject": "ENG-205",
+ "topic": "Midsummer Act 5",
+ "short": "3 Definitions",
+ "order": 3,
+ "count": 16,
+ "cards": [
+  {
+   "id": "c0",
+   "term": "comedy",
+   "def": "A dramatic genre of humorously confusing, sometimes ridiculous situations that ends happily, often in one or more marriages."
+  },
+  {
+   "id": "c1",
+   "term": "tragedy",
+   "def": "A dramatic representation of the fall of kings or nobles, beginning in happiness and ending in catastrophe, the opposite of comedy."
+  },
+  {
+   "id": "c2",
+   "term": "oxymoron",
+   "def": "A figure of thought that conjoins normally incompatible terms."
+  },
+  {
+   "id": "c3",
+   "term": "parody",
+   "def": "A work that uses the conventions of a particular genre in order to mock, comically, a topos, a genre, or a particular exponent of a genre."
+  },
+  {
+   "id": "c4",
+   "term": "bathos",
+   "def": "A figure of thought that makes a sudden and sometimes ridiculous descent of tone."
+  },
+  {
+   "id": "c5",
+   "term": "apostrophe",
+   "def": "A figure of thought that addresses an absent person, a force, or a quality."
+  },
+  {
+   "id": "c6",
+   "term": "allusion",
+   "def": "A passing but illuminating reference within a literary text to another, well-known text, often biblical or classical."
+  },
+  {
+   "id": "c7",
+   "term": "pun",
+   "def": "A figure of thought in which a single word or expression has a sometimes irresolvable doubleness of meaning."
+  },
+  {
+   "id": "c8",
+   "term": "dramatic irony",
+   "def": "A feature of drama in which the audience knows that the outcome of an action will be the opposite of that intended by a character."
+  },
+  {
+   "id": "c9",
+   "term": "satire",
+   "def": "A genre that complains of contemporary ills, often with a first-person speaker, topical reference, and invective."
+  },
+  {
+   "id": "c10",
+   "term": "masque",
+   "def": "A costly court entertainment involving dance, song, speech, and elaborate stage effects, in which courtiers themselves participated."
+  },
+  {
+   "id": "c11",
+   "term": "catastrophe",
+   "def": "The decisive turn in tragedy by which the plot is resolved and, usually, the protagonist dies."
+  },
+  {
+   "id": "c12",
+   "term": "denouement",
+   "def": "The point at which a narrative can be resolved and so ended."
+  },
+  {
+   "id": "c13",
+   "term": "blazon",
+   "def": "A topos in which the individual elements of a beloved's face and body are singled out for hyperbolic admiration."
+  },
+  {
+   "id": "c14",
+   "term": "register",
+   "def": "The stylistic level of words, including their degree of formality, chosen according to audience and situation."
+  },
+  {
+   "id": "c15",
+   "term": "blank verse",
+   "def": "Unrhymed iambic pentameter lines, broken into verse paragraphs by sense rather than stanza form."
+  }
+ ]
+}

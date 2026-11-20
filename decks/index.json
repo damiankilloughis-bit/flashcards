@@ -687,7 +687,7 @@
   {
    "name": "HIS-201",
    "slug": "his201",
-   "count": 1937,
+   "count": 1964,
    "topics": [
     {
      "name": "Chapter 10: The Opening of America, 1815-1850",
@@ -804,7 +804,7 @@
     {
      "name": "Chapter 12: Afire with Faith, 1820-1850",
      "slug": "chapter-12",
-     "count": 107,
+     "count": 119,
      "decks": [
       {
        "id": "his201-ch12-01-definitions",
@@ -844,7 +844,7 @@
        "title": "HIS-201 Ch. 12 — 5 Q&A",
        "short": "5 Q&A",
        "order": 5,
-       "count": 22,
+       "count": 34,
        "file": "his201-ch12-05-qa.json"
       },
       {
@@ -860,7 +860,7 @@
     {
      "name": "Chapter 13: The Old South, 1820-1860",
      "slug": "chapter-13",
-     "count": 99,
+     "count": 114,
      "decks": [
       {
        "id": "his201-ch13-01-definitions",
@@ -900,7 +900,7 @@
        "title": "HIS-201 Ch. 13 — 5 Q&A",
        "short": "5 Q&A",
        "order": 5,
-       "count": 22,
+       "count": 37,
        "file": "his201-ch13-05-qa.json"
       },
       {
@@ -2434,7 +2434,7 @@
    "title": "HIS-201 Ch. 12 — 5 Q&A",
    "short": "5 Q&A",
    "order": 5,
-   "count": 22,
+   "count": 34,
    "file": "his201-ch12-05-qa.json",
    "subject": "HIS-201",
    "subjectSlug": "his201",
@@ -2507,7 +2507,7 @@
    "title": "HIS-201 Ch. 13 — 5 Q&A",
    "short": "5 Q&A",
    "order": 5,
-   "count": 22,
+   "count": 37,
    "file": "his201-ch13-05-qa.json",
    "subject": "HIS-201",
    "subjectSlug": "his201",

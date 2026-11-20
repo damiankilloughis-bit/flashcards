@@ -5,7 +5,7 @@
  "topic": "Chapter 13: The Old South, 1820-1860",
  "short": "5 Q&A",
  "order": 5,
- "count": 22,
+ "count": 37,
  "cards": [
   {
    "id": "c0",
@@ -116,6 +116,81 @@
    "id": "c21",
    "term": "Was the Old South only a land of elegant planters and obedient slaves?",
    "def": "No: the book opens with many \"real Souths\"—rice grandees, cotton men, industrial slaves, runaways, and yeomen—and stresses that most slaveowners owned only a few slaves, while the majority of southern whites were nonslaveowning yeoman farmers."
+  },
+  {
+   "id": "c22",
+   "term": "What produced high white illiteracy in the South?",
+   "def": "About 20 percent of native-born white southerners were illiterate, compared with 3 percent in the middle states and 0.4 percent in New England, because as a rural society the South showed far less interest in education, southern colleges were inferior, public secondary schools were virtually nonexistent, and wealthy planters who used tutors or private academies generally opposed a state-supported school system. (pp. 296–297)"
+  },
+  {
+   "id": "c23",
+   "term": "In sheer numbers, who was the backbone of southern society?",
+   "def": "In terms of numbers, yeoman farm families were the backbone of southern society: they accounted for more than half the southern white population, owned no slaves, and most farmed their own land. (p. 302)"
+  },
+  {
+   "id": "c24",
+   "term": "Was the Old South's rural economy more stable but less profitable than the North's?",
+   "def": "No: the book calls the Old South dynamic, expanding, and booming, and after the depression of 1839–1843 the southern economy grew faster than the North's, even though per capita income stayed lower and wealth was less evenly distributed than in northern agricultural areas. (pp. 295–296)"
+  },
+  {
+   "id": "c25",
+   "term": "How did slave revolts in Latin America differ from those in the United States?",
+   "def": "In Latin America, slave revolts were frequent and sometimes involved hundreds or thousands of people in pitched battles, but in the United States they were rare. (pp. 305–306)"
+  },
+  {
+   "id": "c26",
+   "term": "Why was open slave rebellion less common in the United States than in Latin America?",
+   "def": "Unlike much of Latin America, whites outnumbered blacks in most of the American South, the government was much more powerful, most slaves were native-born, and family life was much stronger, so slaves recognized the odds against them and many potential leaders became fugitives instead. (p. 306)"
+  },
+  {
+   "id": "c27",
+   "term": "What shocked an upper-class woman once she became a plantation mistress?",
+   "def": "In her youth a genteel lady enjoyed some leisure, but once married she was often shocked by a burdensome round of managerial and service duties—nursing the sick, making clothing, tending the garden, overseeing food preparation, and supervising domestic servants—so the ideal of a life of ease was hard to fulfill. (pp. 301–302)"
+  },
+  {
+   "id": "c28",
+   "term": "Why did white southerners defend slavery more aggressively from the early 1830s?",
+   "def": "The book dates a turning point to the early 1830s, when the South felt increasingly under attack after Garrison's Liberator and Nat Turner's 1831 revolt, while the economy became more dependent on slave-produced staples; it does not list a perceived decline in southern influence in national politics as one of those reasons. (p. 310)"
+  },
+  {
+   "id": "c29",
+   "term": "Did Nat Turner rebel despite relatively humane treatment by his master?",
+   "def": "Yes: Turner was given unusual privileges by his master, whom he described as a kind and trusting man, and he had seemed a model slave, yet he still led the 1831 revolt. (p. 306)"
+  },
+  {
+   "id": "c30",
+   "term": "After 1831, which restriction is not on the book's list for free Black southerners?",
+   "def": "The tightened laws forbade them to enter a different state, required freedom papers, limited assembly, imposed a curfew, often required a work bond and license, and barred voting, officeholding, and testimony against whites, but the book does not say they were forbidden to purchase their own enslaved family members; in 1830 about 3,600 free Blacks owned slaves, commonly wives or children they could not legally emancipate. (pp. 309–310)"
+  },
+  {
+   "id": "c31",
+   "term": "What was the most important function of religion for slaves?",
+   "def": "Religion stood at the center of slave culture: most slaves sought a Christianity of their own, and spirituals became one of the few ways they could openly express, in Christian language, their yearning for freedom. (pp. 308–309)"
+  },
+  {
+   "id": "c32",
+   "term": "How did many slaves resist besides open revolt?",
+   "def": "Besides rare rebellions, many slaves resisted by abusing their masters' property—mishandling animals, breaking tools and machinery, misplacing items, and working carelessly—as well as by running away, feigning illness, and, most commonly, theft; the chapter does not compare this resistance to industrial workers or mention Marx. (p. 306)"
+  },
+  {
+   "id": "c33",
+   "term": "What, according to the book, was not true of the abolitionist movement?",
+   "def": "Women played an active role, drawing on church and benevolent-society experience, and Garrison was the foremost early journalist of immediatism; the book does not say Black abolitionists demanded an immediate end only in the North and a thirty-year delay in the South, and it is not true that women played no active role. (pp. 285–288)"
+  },
+  {
+   "id": "c34",
+   "term": "How did the northern and southern economies compare after the depression of 1839–1843?",
+   "def": "The southern economy grew faster than the North's, but per capita income in the South remained below that of the free states, and wealth was not as evenly distributed in the plantation South as in northern agricultural areas. (p. 295)"
+  },
+  {
+   "id": "c35",
+   "term": "Why did manufacturing lag in the South?",
+   "def": "Some southern propagandists urged industrial investment, but as long as high profits from cotton continued, those advocates made little headway, so the region produced only 9 percent of the nation's manufactured goods. (p. 296)"
+  },
+  {
+   "id": "c36",
+   "term": "Where did most free Black southerners live, and were they mostly urban?",
+   "def": "More than 85 percent lived in the Upper South, and they were much more urban than southern whites or slaves, yet most free Black southerners still lived in rural areas; they were also disproportionately female and much more likely to be of mixed ancestry. (p. 309)"
   }
  ]
 }

@@ -5,7 +5,7 @@
  "topic": "Chapter 12: Afire with Faith, 1820-1850",
  "short": "5 Q&A",
  "order": 5,
- "count": 22,
+ "count": 34,
  "cards": [
   {
    "id": "c0",
@@ -116,6 +116,66 @@
    "id": "c21",
    "term": "What was Uncle Tom's Cabin, and who wrote it?",
    "def": "It was the most successful piece of antislavery literature in the nation's history, written in the 1850s by Harriet Beecher Stowe, a daughter of Lyman Beecher who, unlike her father, treated slavery as an unjust social institution that had to be abolished."
+  },
+  {
+   "id": "c22",
+   "term": "A leading figure in the early women's movement",
+   "def": "Elizabeth Cady Stanton, with Lucretia Mott, launched the women's rights movement at Seneca Falls in 1848; Dorothea Dix, a frequent distractor, was a Unitarian reformer who led in creating asylums for the mentally ill, not the women's movement. (pp. 280, 287–288)"
+  },
+  {
+   "id": "c23",
+   "term": "What was NOT true of the new middle-class family?",
+   "def": "It was not larger: elite and middle-class homes became havens of moral virtue and a woman's domain, and after 1820 they were reshaped into specialized regions of privacy, service, and socializing, but family size got smaller as couples delayed marriage and used birth control. (pp. 276–278)"
+  },
+  {
+   "id": "c24",
+   "term": "How did evangelical activists influence American culture in the 1820s and 1830s?",
+   "def": "The book says their activism had already significantly affected drinking habits, ideals of women and the family, and Protestant attitudes toward a growing Catholic population, and that zealous evangelicals did a great deal more than teach Sunday school at home and dispatch missionaries abroad. (p. 275)"
+  },
+  {
+   "id": "c25",
+   "term": "What point does the Chapter 12 introduction make with the story of Lyman Beecher and his offspring?",
+   "def": "Titled \"The Beechers and the Kingdom of God,\" the introduction shows zealous evangelical Protestants seeking to hasten Christ's kingdom on earth through diverse reform strategies: Beecher aimed to bring \"the kingdom of Christ to the nation and the world\" and believed the millennium might begin in the United States, while his children and the Benevolent Empire used varied means, from missions and temperance to attacks on slavery and women's legal subordination. (pp. 269–271)"
+  },
+  {
+   "id": "c26",
+   "term": "Which writers does the book associate with the American Renaissance, and who is clearly outside it?",
+   "def": "The chapter links the American Renaissance to Transcendentalists and writers such as Emerson, Thoreau, Whitman, Hawthorne, and Melville, and it places Margaret Fuller in the Transcendentalist Club, while Charles Dickens is a British novelist whose installments Americans awaited from England; the chapter never mentions Edgar Allan Poe. (pp. 281–282, 290)"
+  },
+  {
+   "id": "c27",
+   "term": "What did Robert Owen teach as the way to reform society?",
+   "def": "Owen taught that a just society would hold property in common and share work equally, and that this benign environment would foster tolerant, rational human beings capable of self-government. (p. 283)"
+  },
+  {
+   "id": "c28",
+   "term": "Finney's revivals: deliverance available to all who were converted",
+   "def": "Finney rejected the Calvinist doctrine that men and women were predestined to salvation or damnation and instead endorsed free will, preaching that all men and women who wanted to could be saved once they underwent conversion, thundering \"Do it!\" to the anxious. (pp. 271–272)"
+  },
+  {
+   "id": "c29",
+   "term": "Religious revivalism in the antebellum period: order and improvement",
+   "def": "Revivalism both helped people seek social order and self-discipline in a fast-changing competitive market economy and expressed a desire for social and moral improvement, from Beecher's hope of stability amid panic and Finney's call to bring on the millennium to the Benevolent Empire's reforms. (pp. 269, 272–275)"
+  },
+  {
+   "id": "c30",
+   "term": "Where Catholic immigrants to the United States primarily came from",
+   "def": "By 1820 French Canadian Catholic emigrants were filtering into New England, followed by a new wave from the British Isles and German-speaking countries; the chapter does not list the Middle East as a source. (p. 278)"
+  },
+  {
+   "id": "c31",
+   "term": "Why did secular utopian and socialist communities form?",
+   "def": "Some secular thinkers, including Robert Owen, believed competition, inequality, and acquisitiveness were corrupting American society and wanted to defend workers from the ravages of industrialization by building model communities. (pp. 282–283)"
+  },
+  {
+   "id": "c32",
+   "term": "Frederick Douglass as a fugitive slave and abolitionist",
+   "def": "Frederick Douglass escaped from slavery in Maryland, became an eloquent critic of its evils and the most prominent Black abolitionist, and was initially a follower of William Lloyd Garrison before breaking with him and starting his own newspaper in Rochester. (p. 286)"
+  },
+  {
+   "id": "c33",
+   "term": "William Lloyd Garrison's essential conviction about slavery",
+   "def": "Garrison's essential conviction was that slavery was a sin: he demanded that Southerners be convinced by moral suasion to \"renounce slavery as a sin,\" and abolitionists treated it as a moral, not an economic, question, \"a sin, always, everywhere, and only, sin.\" (pp. 285–286)"
   }
  ]
 }

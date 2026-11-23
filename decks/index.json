@@ -687,8 +687,23 @@
   {
    "name": "HIS-201",
    "slug": "his201",
-   "count": 1964,
+   "count": 2009,
    "topics": [
+    {
+     "name": "Ch 10-13 Quiz Review",
+     "slug": "ch-10-13-quiz-review",
+     "count": 45,
+     "decks": [
+      {
+       "id": "his201-ch10-13-quiz-review",
+       "title": "HIS-201 Ch 10-13 Quiz Review",
+       "short": "Quiz Review",
+       "order": 1,
+       "count": 45,
+       "file": "his201-ch10-13-quiz-review.json"
+      }
+     ]
+    },
     {
      "name": "Chapter 10: The Opening of America, 1815-1850",
      "slug": "chapter-10",
@@ -2233,6 +2248,18 @@
    "subjectSlug": "eng205",
    "topic": "Sixteenth Century Reading Quiz",
    "topicSlug": "sixteenth-century"
+  },
+  {
+   "id": "his201-ch10-13-quiz-review",
+   "title": "HIS-201 Ch 10-13 Quiz Review",
+   "short": "Quiz Review",
+   "order": 1,
+   "count": 45,
+   "file": "his201-ch10-13-quiz-review.json",
+   "subject": "HIS-201",
+   "subjectSlug": "his201",
+   "topic": "Ch 10-13 Quiz Review",
+   "topicSlug": "ch-10-13-quiz-review"
   },
   {
    "id": "his201-ch10-01-definitions",
